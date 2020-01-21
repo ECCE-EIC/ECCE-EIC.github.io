@@ -1,18 +1,18 @@
-repository: sPHENIX-Test/sPHENIX-Test.github.io
+repository: EIC-Detector/EIC-Detector.github.io
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: sPHENIX Software Documentation
+topnav_title: Fun4All-EIC Software Documentation
 # this appears on the top navigation bar next to the home button
 
-site_title: sPHENIX Software Documentation
+site_title: Fun4All-EIC Software Documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: sPHENIX Collaboration
+company_name: EIC User Group
 # this appears in the footer
 
-github_editme_path: sPHENIX-Collaboration/sPHENIX-Collaboration.github.io/blob/master/
+github_editme_path: EIC-Detector/EIC-Detector.github.io/blob/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
@@ -33,9 +33,9 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: sPHENIX Software
+feedback_subject_line: Fun4All-EIC Software
 
-feedback_email: jhuang@bnl.gov
+feedback_email: pinkenbu@bnl.gov
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -106,7 +106,7 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "sPHENIX Software for simulation, reconstruciton and anaylsis of sPHENIX data."
+description: "Fun4All-EIC Software for simulation, reconstruciton and anaylsis of an EIC experiment."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
