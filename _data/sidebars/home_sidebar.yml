@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: sPHENIX Software Documentation
+  product: Fun4All-EIC Software Documentation
   version: 1.0
   folders:
   - title: Getting started
@@ -15,7 +15,7 @@ entries:
       output: web
       type: frontmatter
 
-  - title: Using sPHENIX software
+  - title: Using Fun4All-EIC software
     output: web
     type: frontmatter
     folderitems:
