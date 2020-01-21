@@ -1,15 +1,15 @@
 ---
-title: "Welcome to sPHENIX Software Documentation"
+title: "Welcome to Fun4All-EIC Software Documentation"
 keywords: homepage
 tags: [getting_started, home]
 permalink: index.html
-summary: Landing page for sPHENIX software documentation
+summary: Landing page for Fun4All-EIC software documentation
 ---
 
 
 # Welcome
 
-This is the software documentation for [sPHENIX collaboration](https://www.sphenix.bnl.gov/). 
+This is the software documentation for `Fun4All-EI`C simulation and reconstruction software framework. 
 
 [![Build Status](https://web.racf.bnl.gov/jenkins-sphenix/buildStatus/icon?job=sPHENIX/sPHENIX_CoreSoftware_MasterBranch)](https://web.racf.bnl.gov/jenkins-sphenix/job/sPHENIX/job/sPHENIX_CoreSoftware_MasterBranch/)
 [![Doxygen](https://img.shields.io/badge/code%20reference-Doxygen-green.svg)](https://www.phenix.bnl.gov/WWW/sPHENIX/doxygen/html/)
