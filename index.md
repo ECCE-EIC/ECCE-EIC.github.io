@@ -9,7 +9,7 @@ summary: Landing page for Fun4All-EIC software documentation
 
 # Welcome
 
-This is the software documentation for `Fun4All-EI`C simulation and reconstruction software framework. 
+This is the software documentation for `Fun4All-EIC` simulation and reconstruction software framework. 
 
 [![Build Status](https://web.racf.bnl.gov/jenkins-sphenix/buildStatus/icon?job=sPHENIX/sPHENIX_CoreSoftware_MasterBranch)](https://web.racf.bnl.gov/jenkins-sphenix/job/sPHENIX/job/sPHENIX_CoreSoftware_MasterBranch/)
 [![Doxygen](https://img.shields.io/badge/code%20reference-Doxygen-green.svg)](https://www.phenix.bnl.gov/WWW/sPHENIX/doxygen/html/)
