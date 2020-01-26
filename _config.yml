@@ -106,7 +106,7 @@ sidebars:
 - product2_sidebar
 - other
 
-description: "Fun4All-EIC Software for simulation, reconstruciton and anaylsis of an EIC experiment."
+description: "Fun4All-EIC Software for simulation, reconstruction and anaylsis of an EIC experiment."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
