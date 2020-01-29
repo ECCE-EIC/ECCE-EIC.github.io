@@ -20,11 +20,9 @@ This is the software documentation for `Fun4All-EIC` simulation and reconstructi
 [![Last Commit](https://img.shields.io/github/last-commit/sPHENIX-Collaboration/coresoftware.svg)](https://github.com/sPHENIX-Collaboration/coresoftware/commits/master)
 [![Download size](https://img.shields.io/github/languages/code-size/sPHENIX-Collaboration/coresoftware.svg)](https://github.com/sPHENIX-Collaboration/coresoftware/archive/master.zip)
 
-Code from the `master` branch is pulled and build each night (nightly-build) 
-and it becomes [part of the default software environment on RCF](https://wiki.bnl.gov/sPHENIX/index.php/Setup#.28At_each_login.29_Run_sPHENIX_login_shell). 
-Weekly snapshot of the build is also available as ANA-builds. 
+This website is under construction. 
 
-Due to its importance, update of this repository require going through a review via [the "Pull Request" process](https://wiki.bnl.gov/sPHENIX/index.php/GitHub_Coresoftware_Update_Procedures). New pull requests will be automatically checked with the [sPHENIX Jenkins continuous integration](https://web.racf.bnl.gov/jenkins-sphenix/). At the end of the check, a report will be posted back to the corresponding pull request thread. 
+Nonetheless, welcome to check out [the source code reference via Doxygen](./doxygen/). 
 
 
 {% include links.html %}
