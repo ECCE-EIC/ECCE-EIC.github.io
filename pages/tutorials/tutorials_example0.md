@@ -1,6 +1,6 @@
 ---
 title: Example 0
-keywords: tutorial, example
+keywords: [tutorial, example]
 summary: "Jaroslav's Luminosity Monitor"
 sidebar: tutorial_sidebar
 permalink: tutorials_example0.html
