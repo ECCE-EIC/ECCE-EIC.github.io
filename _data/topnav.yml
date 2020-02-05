@@ -12,17 +12,11 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Documentation
-      folderitems:
-        - title: Getting started
-          url: /index.html
-        - title: Getting started
-          url: /index.html
-        - title: Getting started
-          url: /index.html
     - title: Resources
       folderitems:
         - title: Doxygen code reference
           url: /doxygen
+        - title: Containers
+          external_url: https://github.com/EIC-Detector/Singularity
         - title: Tutorials
           url: /tutorials_landing_page.html
