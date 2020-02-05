@@ -1,6 +1,6 @@
 ---
 title: Example 3
-keywords: tutorial, example
+keywords: [tutorial, example]
 summary: "Adding Detectors to Existing Setups"
 sidebar: tutorial_sidebar
 permalink: tutorials_example3.html
@@ -27,3 +27,5 @@ root.exe
 PHG4Reco *g4 = DisplayOn();
 g4->ApplyCommand("/vis/viewer/panTo 0 100 cm")
 ```
+
+{% include links.html %}
