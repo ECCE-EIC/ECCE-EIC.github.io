@@ -1,6 +1,6 @@
 ---
 title: Example 2a
-keywords: tutorial, example
+keywords: [tutorial, example]
 summary: "Fast Momentum Resolution Estimate during Design Stage - Analysis"
 sidebar: tutorial_sidebar
 permalink: tutorials_example2a.html
@@ -29,3 +29,5 @@ tracks->Draw("sqrt(px*px+py*py)/sqrt(gpx*gpx+gpy*gpy)","sqrt(px*px+py*py)/sqrt(g
 tracks->Draw("dca2d");
 tracks->Draw("dca2d","dca2d<0.1");
 ```
+
+{% include links.html %}
