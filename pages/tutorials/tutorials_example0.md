@@ -1,7 +1,7 @@
 ---
 title: Example Luminosity Monitor
 keywords: [tutorial, example]
-tags: tutorial
+tags: [tutorial]
 summary: "Jaroslav's Luminosity Monitor"
 sidebar: tutorial_sidebar
 permalink: tutorials_example0.html
