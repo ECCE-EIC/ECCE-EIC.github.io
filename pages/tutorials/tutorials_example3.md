@@ -1,6 +1,7 @@
 ---
 title: Example 3
 keywords: [tutorial, example]
+tags: tutorial
 summary: "Adding Detectors to Existing Setups"
 sidebar: tutorial_sidebar
 permalink: tutorials_example3.html
@@ -11,7 +12,7 @@ Go to your tutorial root directory
 
 ## shell commands
 
-```console
+```
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.sh -n
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/setup_local.sh $HOME/myinstall
 git clone https://github.com/sPHENIX-Collaboration/macros
