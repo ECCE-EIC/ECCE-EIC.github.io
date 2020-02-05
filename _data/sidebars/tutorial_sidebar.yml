@@ -18,6 +18,26 @@ entries:
       url: /tutorials_example1.html
       output: web, pdf
 
+    - title: Example 1a
+      url: /tutorials_example1a.html
+      output: web, pdf
+
+    - title: Example 1b
+      url: /tutorials_example1b.html
+      output: web, pdf
+
+    - title: Example 2
+      url: /tutorials_example2.html
+      output: web, pdf
+
+    - title: Example 2a
+      url: /tutorials_example2a.html
+      output: web, pdf
+
+    - title: Example 3
+      url: /tutorials_example3.html
+      output: web, pdf
+
   - title: Resources
     output: web
     type: frontmatter
