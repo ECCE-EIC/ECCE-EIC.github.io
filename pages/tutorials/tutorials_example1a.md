@@ -1,7 +1,7 @@
 ---
 title: Example 1a
 keywords: [tutorial, example]
-tags: tutorial
+tags: [tutorial]
 summary: "Geometry Verification with a Geantino Scan"
 sidebar: tutorial_sidebar
 permalink: tutorials_example1a.html
