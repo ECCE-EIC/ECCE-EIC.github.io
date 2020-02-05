@@ -1,7 +1,7 @@
 ---
 title: Example 3
 keywords: [tutorial, example]
-tags: tutorial
+tags: [tutorial]
 summary: "Adding Detectors to Existing Setups"
 sidebar: tutorial_sidebar
 permalink: tutorials_example3.html
