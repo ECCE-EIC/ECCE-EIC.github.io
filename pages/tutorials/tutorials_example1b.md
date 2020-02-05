@@ -1,6 +1,7 @@
 ---
 title: Example 1b
 keywords: [tutorial, example]
+tags: tutorial
 summary: "Saving and Reading a Chain Snapshot"
 sidebar: tutorial_sidebar
 permalink: tutorials_example1b.html
@@ -11,7 +12,7 @@ Continue with [Example 1](/tutorials_example1.html), and stay in `g4exampledetec
 
 ## shell commands
 
-```console
+```
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.sh -n
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/setup_local.sh $HOME/myinstall
 root.exe
@@ -37,7 +38,7 @@ root.exe
 
 ## shell commands
 
-```console
+```
 root.exe HitsFromDst.root
 ```
 ## `root` command 
