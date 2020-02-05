@@ -1,6 +1,6 @@
 ---
 title: Example 2
-keywords: tutorial, example
+keywords: [tutorial, example]
 summary: "Fast Momentum Resolution Estimate during Design Stage"
 sidebar: tutorial_sidebar
 permalink: tutorials_example2.html
@@ -35,3 +35,5 @@ PHG4Reco *g4 = QTGui();
 `x-kill` the `Geant4` window and `.q` root when you get the prompt back
 
 
+
+{% include links.html %}
