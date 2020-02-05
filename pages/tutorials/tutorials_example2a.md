@@ -1,6 +1,7 @@
 ---
 title: Example 2a
 keywords: [tutorial, example]
+tags: tutorial
 summary: "Fast Momentum Resolution Estimate during Design Stage - Analysis"
 sidebar: tutorial_sidebar
 permalink: tutorials_example2a.html
@@ -11,13 +12,13 @@ Continue with [Example 2](/tutorials_example2.html), and stay in its working dir
 
 ## shell commands
 
-```console
+```
 root.exe -q -b Fun4All_G4_Momentum.C\(1000\)
 ```
 
 ## shell commands
 
-```console
+```
 root.exe FastTrackingEval.root
 ```
 
