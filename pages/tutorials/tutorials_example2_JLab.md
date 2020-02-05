@@ -1,6 +1,7 @@
 ---
 title: Example 2a
 keywords: [tutorial, example]
+tags: tutorial
 summary: "Out of box on JLab iFarm: Fast Momentum Resolution Estimate during Design Stage"
 sidebar: tutorial_sidebar
 permalink: tutorials_example2_JLab.html
@@ -30,7 +31,7 @@ source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.s
 
 ## Check out tutorials in container
 
-```console
+```
 # Singularity rhic_sl7_ext:~>
 git clone https://github.com/sPHENIX-Collaboration/tutorials
 cd tutorials/Momentum
