@@ -34,6 +34,6 @@ entries:
     output: web
     folderitems:
     
-    - title: Gettting started
-      url: /tag_getting_started.html
+    - title: Tutorials
+      url: /tag_tutorial.html
       output: web
