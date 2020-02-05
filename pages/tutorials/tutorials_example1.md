@@ -1,6 +1,6 @@
 ---
 title: Example 1
-keywords: tutorial, example
+keywords: [tutorial, example]
 summary: "A simple Detector with Hardcoded Geometry"
 sidebar: tutorial_sidebar
 permalink: tutorials_example1.html
@@ -38,3 +38,5 @@ PHG4Reco *g4 = QTGui();
 x-kill the Geant4 window and .q root when you get the prompt back
 
 
+
+{% include links.html %}
