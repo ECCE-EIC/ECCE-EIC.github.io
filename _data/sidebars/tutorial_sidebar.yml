@@ -1,0 +1,46 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Sidebar
+  product: Tutorials
+  version: 1.0
+  folders:
+
+  - title: Examples
+    output: web, pdf
+    folderitems:
+    - title: Sample 1
+      url: /p1_sample1.html
+      output: web, pdf
+
+    - title: Sample 2
+      url: /p1_sample2.html
+      output: web, pdf
+
+    - title: Sample 3
+      url: /p1_sample3.html
+      output: web, pdf
+
+  - title: Resources
+    output: web
+    type: frontmatter
+    folderitems:
+    
+    - title: Container
+      external_url: /https://github.com/EIC-Detector/Singularity
+      output: web
+      type: frontmatter
+      
+    - title: Doxygen software reference
+      url: /doxygen
+      output: web
+      type: frontmatter
+
+  - title: Tag archives
+    output: web
+    folderitems:
+    
+    - title: Gettting started
+      url: /tag_getting_started.html
+      output: web
