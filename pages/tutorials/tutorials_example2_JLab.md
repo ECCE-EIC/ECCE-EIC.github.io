@@ -58,4 +58,6 @@ tracks->Draw("dca2d");
 tracks->Draw("dca2d","dca2d<0.1");
 ```
 
+![screenshot](/images/tutorials_example2_JLab.png)
+
 {% include links.html %}
