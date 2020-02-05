@@ -22,11 +22,15 @@ This is the software documentation for `Fun4All-EIC` simulation and reconstructi
 
 # Get started
 
-This software runs on all types of accounts for [BNL SDCC/RCAF comtputing center](https://www.racf.bnl.gov/). For offsite and mobile computing, [a container and CVMFS release are prepared](https://github.com/EIC-Detector/Singularity) to ensure binary consistent result. Welcome to try the [Tutorial of the software](/tutorials_landing_page.html). 
+This software runs on all types of accounts for [BNL SDCC/RCAF comtputing center](https://www.racf.bnl.gov/). For offsite and mobile computing, [a container and CVMFS release are prepared](https://github.com/EIC-Detector/Singularity) to ensure binary consistent result. An example use is at [JLab iFarm clusters](/tutorials_example2_JLab.html).
 
-For further code reference, please visit [the source code reference via Doxygen](/doxygen/). 
+# [Tutorial](/tutorials_landing_page.html)
+
+For tutorials, please start with [the tutorial landing page](/tutorials_landing_page.html)
 
 # Documentation
+
+For code reference, please visit [the source code reference via Doxygen](/doxygen/). 
 
 Further documentation is under construction. 
 
