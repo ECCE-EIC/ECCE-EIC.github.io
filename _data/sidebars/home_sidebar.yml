@@ -21,7 +21,7 @@ entries:
     folderitems:
     
     - title: Container
-      external_url: /https://github.com/EIC-Detector/Singularity
+      external_url: https://github.com/EIC-Detector/Singularity
       output: web
       type: frontmatter
       
