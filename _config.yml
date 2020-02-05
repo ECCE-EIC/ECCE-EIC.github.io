@@ -101,9 +101,7 @@ defaults:
 
 sidebars:
 - home_sidebar
-- mydoc_sidebar
-- product1_sidebar
-- product2_sidebar
+- tutorial_sidebar
 - other
 
 description: "Fun4All-EIC Software for simulation, reconstruction and anaylsis of an EIC experiment."
