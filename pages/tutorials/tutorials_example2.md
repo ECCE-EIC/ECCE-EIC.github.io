@@ -1,6 +1,7 @@
 ---
 title: Example 2
 keywords: [tutorial, example]
+tags: tutorial
 summary: "Fast Momentum Resolution Estimate during Design Stage"
 sidebar: tutorial_sidebar
 permalink: tutorials_example2.html
@@ -11,7 +12,7 @@ Go to your tutorial root directory
 
 ## shell commands
 
-```console
+```
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.sh -n
 git clone https://github.com/sPHENIX-Collaboration/tutorials
 cd tutorials/Momentum
