@@ -1,6 +1,7 @@
 ---
 title: Example Luminosity Monitor
 keywords: [tutorial, example]
+tags: tutorial
 summary: "Jaroslav's Luminosity Monitor"
 sidebar: tutorial_sidebar
 permalink: tutorials_example0.html
@@ -9,7 +10,7 @@ folder: tutorials
 
 ## shell commands
 
-```console
+```
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.sh -n
 git clone https://github.com/EIC-Detector/Fun4All-lmon
 cd Fun4All-lmon/source
