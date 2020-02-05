@@ -1,7 +1,7 @@
 ---
 title: Example 2a
 keywords: [tutorial, example]
-tags: tutorial
+tags: [tutorial]
 summary: "Out of box on JLab iFarm: Fast Momentum Resolution Estimate during Design Stage"
 sidebar: tutorial_sidebar
 permalink: tutorials_example2_JLab.html
@@ -59,6 +59,6 @@ tracks->Draw("dca2d");
 tracks->Draw("dca2d","dca2d<0.1");
 ```
 
-![screenshot](/images/tutorials_example2_JLab.png)
+{% include image.html file="tutorials_example2_JLab.png" caption="Essential options for SVG with Illustrator" %}
 
 {% include links.html %}
