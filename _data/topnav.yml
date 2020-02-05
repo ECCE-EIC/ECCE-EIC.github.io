@@ -6,7 +6,7 @@ topnav:
     - title: GitHub
       external_url: https://github.com/EIC-Detector/
     - title: Tutorials
-      url: /tutorials
+      url: /tutorials_landing_page.html
 
 #Topnav dropdowns
 topnav_dropdowns:
