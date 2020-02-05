@@ -52,7 +52,7 @@ entries:
       url: /tutorials_example2_JLab.html
       output: web, pdf
 
-  - title: Adding Detectors
+  - title: Full EIC Detectors
     output: web, pdf
     folderitems:    
     
