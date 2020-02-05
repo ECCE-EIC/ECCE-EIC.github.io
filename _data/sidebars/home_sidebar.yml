@@ -5,41 +5,26 @@ entries:
   product: Fun4All-EIC Software Documentation
   version: 1.0
   folders:
-  - title: Getting started
+  - title: Tutorials
     output: web
     type: frontmatter
     folderitems:
     
-    - title: topic1
-      url: /index.html
+    - title: Landing page
+      url: /tutorials_landing_page.html
       output: web
       type: frontmatter
 
-  - title: Using Fun4All-EIC software
-    output: web
-    type: frontmatter
-    folderitems:
-    
-    - title: topic1
-      url: /index.html
-      output: web
-      type: frontmatter
-      
-  - title: CoreSoftware development
-    output: web
-    type: frontmatter
-    folderitems:
-    
-    - title: topic1
-      url: /index.html
-      output: web
-      type: frontmatter
-      
   - title: Resources
     output: web
     type: frontmatter
     folderitems:
     
+    - title: Container
+      external_url: /https://github.com/EIC-Detector/Singularity
+      output: web
+      type: frontmatter
+      
     - title: Doxygen software reference
       url: /doxygen
       output: web
