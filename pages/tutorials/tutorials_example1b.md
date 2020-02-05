@@ -1,7 +1,7 @@
 ---
 title: Example 1b
 keywords: [tutorial, example]
-tags: tutorial
+tags: [tutorial]
 summary: "Saving and Reading a Chain Snapshot"
 sidebar: tutorial_sidebar
 permalink: tutorials_example1b.html
