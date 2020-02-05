@@ -1,7 +1,7 @@
 ---
 title: Example 2
 keywords: [tutorial, example]
-tags: tutorial
+tags: [tutorial]
 summary: "Fast Momentum Resolution Estimate during Design Stage"
 sidebar: tutorial_sidebar
 permalink: tutorials_example2.html
