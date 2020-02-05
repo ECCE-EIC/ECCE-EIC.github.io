@@ -1,7 +1,7 @@
 ---
 title: Example 1
 keywords: [tutorial, example]
-tags: tutorial
+tags: [tutorial]
 summary: "A simple Detector with Hardcoded Geometry"
 sidebar: tutorial_sidebar
 permalink: tutorials_example1.html
