@@ -4,11 +4,9 @@ topnav:
 - title: Topnav
   items:
     - title: GitHub
-      external_url: https://github.com/sPHENIX-Collaboration/
-    - title: sPHENIX
-      external_url: https://www.sphenix.bnl.gov/
-    - title: News
-      url: /news
+      external_url: https://github.com/EIC-Detector/
+    - title: Tutorials
+      url: /tutorials
 
 #Topnav dropdowns
 topnav_dropdowns:
@@ -26,5 +24,5 @@ topnav_dropdowns:
       folderitems:
         - title: Doxygen code reference
           url: /doxygen
-        - title: git
-          url: /git.html
+        - title: Tutorials
+          url: /tutorials_landing_page.html
