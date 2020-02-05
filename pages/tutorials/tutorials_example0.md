@@ -1,5 +1,5 @@
 ---
-title: Example 0
+title: Example Luminosity Monitor
 keywords: [tutorial, example]
 summary: "Jaroslav's Luminosity Monitor"
 sidebar: tutorial_sidebar
