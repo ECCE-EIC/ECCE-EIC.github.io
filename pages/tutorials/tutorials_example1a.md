@@ -1,6 +1,6 @@
 ---
 title: Example 1a
-keywords: tutorial, example
+keywords: [tutorial, example]
 summary: "Geometry Verification with a Geantino Scan"
 sidebar: tutorial_sidebar
 permalink: tutorials_example1a.html
@@ -36,3 +36,5 @@ hitntup->Draw("x1:y1:z1");
 hitntup->SetMarkerColor(2);
 hitntup->Draw("x0:y0:z0","","same");
 ```
+
+{% include links.html %}
