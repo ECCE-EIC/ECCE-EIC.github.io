@@ -10,6 +10,8 @@ folder: tutorials
 This example is the same as [Example 2a](/tutorials_example2a.html), 
 but given specifically for running on [JLab ifarm computer clusters](https://scicomp.jlab.org/). 
 
+*Note the loading could be slow (few minutes) at the first execution of the day as CVMFS sync and buffer the daily builds.*
+
 ## Login into JLab ifarm and start Fun4All-EIC container
 
 ```
@@ -26,11 +28,20 @@ export LANG=C
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.sh -n
 ```
 
+## Check out tutorials in container
+
+```console
+# Singularity rhic_sl7_ext:~>
+git clone https://github.com/sPHENIX-Collaboration/tutorials
+cd tutorials/Momentum
+```
+
 ## Run the simulation in batch mode in [Example 2a](/tutorials_example2a.html)
 
 ```
 root.exe -q -b Fun4All_G4_Momentum.C\(1000\)
 ```
+It takes about few minutes to complete this macro, that includes 1000 electrons in the central tracker simulated in `Geant4`, track fitting in `GenFit2` and truth association analysis. 
 
 ## shell commands
 
