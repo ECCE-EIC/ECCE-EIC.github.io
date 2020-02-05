@@ -11,16 +11,16 @@ entries:
     output: web, pdf
     folderitems:
     
-    - title: Landing page
+    - title: Landing Page
       url: /tutorials_landing_page.html
       output: web, pdf
       
-    - title: Tutorial pages
+    - title: Tutorial Pages
       url: /tag_tutorial.html
       output: web, pdf
       
       
-  - title: Simple detector sim.
+  - title: Simple Detector Sim.
     output: web, pdf
     folderitems:
     
@@ -36,7 +36,7 @@ entries:
       url: /tutorials_example1b.html
       output: web, pdf
         
-  - title: Tracking sim and reco
+  - title: Tracking Sim and Reco
     output: web, pdf
     folderitems:    
     
@@ -74,7 +74,7 @@ entries:
       output: web
       type: frontmatter
       
-    - title: Doxygen software reference
+    - title: Doxygen Software Reference
       url: /doxygen
       output: web
       type: frontmatter
