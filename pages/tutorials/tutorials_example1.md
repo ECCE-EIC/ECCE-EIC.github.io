@@ -1,6 +1,7 @@
 ---
 title: Example 1
 keywords: [tutorial, example]
+tags: tutorial
 summary: "A simple Detector with Hardcoded Geometry"
 sidebar: tutorial_sidebar
 permalink: tutorials_example1.html
@@ -9,7 +10,7 @@ folder: tutorials
 
 ## shell commands
 
-```console
+```
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.sh -n
 git clone https://github.com/EIC-Detector/g4exampledetector
 cd g4exampledetector/simple/source
