@@ -59,6 +59,6 @@ tracks->Draw("dca2d");
 tracks->Draw("dca2d","dca2d<0.1");
 ```
 
-{% include image.html file="tutorials_example2_JLab.png" caption="Essential options for SVG with Illustrator" %}
+{% include image.html file="tutorials_example2_JLab.png" caption="Screenshot running above command via Windows10 Linux Subsystem" %}
 
 {% include links.html %}
