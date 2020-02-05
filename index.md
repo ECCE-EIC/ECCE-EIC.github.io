@@ -20,9 +20,14 @@ This is the software documentation for `Fun4All-EIC` simulation and reconstructi
 [![Last Commit](https://img.shields.io/github/last-commit/sPHENIX-Collaboration/coresoftware.svg)](https://github.com/sPHENIX-Collaboration/coresoftware/commits/master)
 [![Download size](https://img.shields.io/github/languages/code-size/sPHENIX-Collaboration/coresoftware.svg)](https://github.com/sPHENIX-Collaboration/coresoftware/archive/master.zip)
 
-This website is under construction. 
+# Get started
 
-Nonetheless, welcome to check out [the source code reference via Doxygen](./doxygen/). 
+This software runs on all types of accounts for [BNL SDCC/RCAF comtputing center](https://www.racf.bnl.gov/). For offsite and mobile computing, [a container and CVMFS release are prepared](https://github.com/EIC-Detector/Singularity) to ensure binary consistent result. Welcome to try the [Tutorial of the software](/tutorials_landing_page.html). 
 
+For further code reference, please visit [the source code reference via Doxygen](/doxygen/). 
+
+# Documentation
+
+Further documentation is under construction. 
 
 {% include links.html %}
