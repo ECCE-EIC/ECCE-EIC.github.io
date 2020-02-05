@@ -1,6 +1,6 @@
 ---
 title: Example 1b
-keywords: tutorial, example
+keywords: [tutorial, example]
 summary: "Saving and Reading a Chain Snapshot"
 sidebar: tutorial_sidebar
 permalink: tutorials_example1b.html
@@ -49,3 +49,4 @@ hitntup->Draw("x0:y0:z0","","same");
 ```
 
 
+{% include links.html %}
