@@ -7,10 +7,6 @@ entries:
   version: 1.0
   folders:
 
-  - title: Landing page
-    url: /tutorials_landing_page.html
-    output: web, pdf
-    
   - title: Examples
     output: web, pdf
     folderitems:
