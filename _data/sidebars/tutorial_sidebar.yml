@@ -52,11 +52,3 @@ entries:
       url: /doxygen
       output: web
       type: frontmatter
-
-  - title: Tag archives
-    output: web
-    folderitems:
-    
-    - title: Gettting started
-      url: /tag_getting_started.html
-      output: web
