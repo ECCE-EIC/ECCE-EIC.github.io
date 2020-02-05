@@ -7,6 +7,19 @@ entries:
   version: 1.0
   folders:
 
+  - title: Tutorial Pages
+    output: web, pdf
+    folderitems:
+    
+    - title: Landing page
+      url: /tutorials_landing_page.html
+      output: web, pdf
+      
+    - title: Tutorial pages
+      url: /tag_tutorial.html
+      output: web, pdf
+      
+      
   - title: Simple detector sim.
     output: web, pdf
     folderitems:
