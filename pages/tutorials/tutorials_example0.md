@@ -16,7 +16,7 @@ git clone https://github.com/EIC-Detector/Fun4All-lmon
 cd Fun4All-lmon/source
 mkdir build
 cd build
-../autogen.sh -prefix=$HOME/myinstall
+../autogen.sh --prefix=$HOME/myinstall
 make install
 source $OPT_SPHENIX/bin/setup_local.sh $HOME/myinstall
 cd ../../macros
