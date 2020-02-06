@@ -16,7 +16,7 @@ git clone https://github.com/EIC-Detector/g4exampledetector
 cd g4exampledetector/simple/source
 mkdir build
 cd build
-../autogen.sh -prefix=$HOME/myinstall
+../autogen.sh --prefix=$HOME/myinstall
 make install
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/setup_local.sh $HOME/myinstall
 cd ../../macros
