@@ -18,7 +18,7 @@ mkdir build
 cd build
 ../autogen.sh --prefix=$HOME/myinstall
 make install
-source $OPT_SPHENIX/bin/setup_local.sh $HOME/myinstall
+source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/setup_local.sh $HOME/myinstall
 cd ../../macros
 root.exe
 ```
