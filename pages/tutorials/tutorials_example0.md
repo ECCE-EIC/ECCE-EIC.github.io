@@ -10,13 +10,13 @@ folder: tutorials
 
 ## shell commands
 
+```
 If you are using <span style="color: blue;">**bash**</span> as your shell, you need to source the <span style="color: blue;">**.sh**</span> scripts, if you have <span style="color: red;">**tcsh** or **csh**</span> as shell you need to source the <span style="color: red;">**.csh**</span> scripts. If you are not sure, use
 
 echo $SHELL
 
 which will tell you which is your shell (<span style="color: blue;">**/bin/bash**</span>, <span style="color: red;">**/bin/csh**</span>, <span style="color: red;">**/bin/tcsh**</span>)
 
-```
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.sh -n
 git clone https://github.com/EIC-Detector/Fun4All-lmon
 cd Fun4All-lmon/source
