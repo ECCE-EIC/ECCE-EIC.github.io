@@ -17,14 +17,16 @@ echo $SHELL
 
 which will tell you which is your shell (<span style="color: blue;">**/bin/bash**</span>, <span style="color: red;">**/bin/csh**</span>, <span style="color: red;">**/bin/tcsh**</span>)
 
-source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.sh -n
+<span style="color: blue;">**for bash use:**</span> source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.sh -n
+<span style="color: red;">**for tcsh use:**</span> source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.csh -n
 git clone https://github.com/EIC-Detector/Fun4All-lmon
 cd Fun4All-lmon/source
 mkdir build
 cd build
 ../autogen.sh --prefix=$HOME/myinstall
 make install
-source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/setup_local.sh $HOME/myinstall
+<span style="color: blue;">**for bash use:**</span> source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/setup_local.sh $HOME/myinstall
+<span style="color: red;">**for tcsh use:**</span> source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/setup_local.sh $HOME/myinstall
 cd ../../macros
 root.exe
 ```
