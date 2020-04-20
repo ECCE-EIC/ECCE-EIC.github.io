@@ -26,7 +26,7 @@ ssh ifarm1802
 module load /apps/modulefiles/singularity/3.4.0
 singularity shell -B /cvmfs:/cvmfs /cvmfs/eic.opensciencegrid.org/singularity/rhic_sl7_ext
 export LANG=C
-source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.sh -n
+source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/fun4all/core/bin/eic_setup.sh -n
 ```
 
 ## Check out tutorials in container
