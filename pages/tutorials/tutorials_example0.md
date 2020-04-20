@@ -18,7 +18,7 @@ which will tell you which is your shell (<span style="color: blue;">**/bin/bash*
 
 
 
-    source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.sh -n
+    \<font color=blue\>for bash use: \</font\> source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/sphenix/core/bin/eic_setup.sh -n
     git clone https://github.com/EIC-Detector/Fun4All-lmon
     cd Fun4All-lmon/source
     mkdir build
