@@ -10,7 +10,7 @@ folder: tutorials
 
 ## shell commands
 
-If you are using <span style="color: blue;">**bash**</span> as your shell, you need to source the <span style="color: blue;">**.sh**</span> scripts, if you have <span style="color: red;">**tcsh** or **csh**</span> as shell you need to source the <span style="color: red;">**.csh**</span> scripts. If you are not sure, use
+If you are using <span style="color: blue;">**bash**</span> as your shell, you need to source the <span style="color: blue;">**.sh**</span> scripts, if you have <span style="color: red;">**tcsh**</span> or <span style="color: red;">**csh**</span> as shell you need to source the <span style="color: red;">**.csh**</span> scripts. If you are not sure, use
 
 echo $SHELL
 
