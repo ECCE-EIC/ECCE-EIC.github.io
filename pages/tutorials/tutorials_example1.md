@@ -13,7 +13,7 @@ folder: tutorials
 ```
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/fun4all/core/bin/eic_setup.sh -n
 git clone https://github.com/eic/fun4all_g4exampledetector
-cd g4exampledetector/simple/source
+cd fun4all_g4exampledetector/simple/source
 mkdir build
 cd build
 ../autogen.sh --prefix=$HOME/myinstall
