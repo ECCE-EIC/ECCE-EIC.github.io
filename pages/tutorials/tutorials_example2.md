@@ -15,7 +15,7 @@ Go to your tutorial root directory
 ```
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/fun4all/core/bin/eic_setup.sh -n
 git clone https://github.com/eic/fun4all_tutorials
-cd tutorials/Momentum
+cd fun4all_tutorials/Momentum
 root.exe
 ```
 
