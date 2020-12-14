@@ -15,8 +15,8 @@ Go to your tutorial root directory
 ```
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/fun4all/core/bin/eic_setup.sh -n
 source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/fun4all/core/bin/setup_local.sh $HOME/myinstall
-git clone https://github.com/sPHENIX-Collaboration/macros
-cd macros/macros/g4simulations
+git clone https://github.com/eic/fun4all_macros
+cd macros/detectors/EICDetector
 root.exe
 ```
 
