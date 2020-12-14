@@ -8,7 +8,7 @@ permalink: tutorials_example1b.html
 folder: tutorials
 ---
 
-Continue with [Example 1](/tutorials_example1.html), and stay in `g4exampledetector/simple/macros` directory
+Continue with [Example 1](/tutorials_example1.html), and stay in `fun4all_g4exampledetector/simple/macros` directory
 
 ## shell commands
 
