@@ -62,7 +62,7 @@ Follow a recent tutorial on simulation.
 You are all set to start using ECCE software! If you have question, please feel free to send your question or suggestions here:
 * Search for any software pieces on ECCE software via the [doxygen reference site](https://ecce-eic.github.io/doxygen/)
 * Ask question on [ECCE software MatterMost chat](https://chat.sdcc.bnl.gov/eic/channels/fun4all-eccep)
-* Directly emailing the simulation ([Jin Huang](mailto:jhuang@bnl.gov) and [Cameron Dean](mailto:jhuang@bnl.gov)) and [computing](https://www.ecce-eic.org/members) teams
+* Directly emailing the simulation ([Jin Huang](mailto:jhuang@bnl.gov) and [Cameron Dean](mailto:cdean@bnl.gov)) and [computing](https://www.ecce-eic.org/members) teams
 
 
 {% include links.html %}
