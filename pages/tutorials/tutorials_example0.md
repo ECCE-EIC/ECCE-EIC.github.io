@@ -18,16 +18,16 @@ which will tell you which is your shell (<span style="color: blue;">**/bin/bash*
 
 
 
-    for bash use: source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/fun4all/core/bin/eic_setup.sh -n
-    for tcsh use: source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/fun4all/core/bin/eic_setup.csh -n
+    for bash use: source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_setup.sh -n
+    for tcsh use: source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_setup.csh -n
     git clone https://github.com/eic/Fun4All-lmon
     cd Fun4All-lmon/source
     mkdir build
     cd build
     ../autogen.sh --prefix=$HOME/myinstall
     make install
-    for bash use: source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/fun4all/core/bin/setup_local.sh $HOME/myinstall
-    for tcsh use: source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/fun4all/core/bin/setup_local.csh $HOME/myinstall
+    for bash use: source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/setup_local.sh $HOME/myinstall
+    for tcsh use: source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/setup_local.csh $HOME/myinstall
     cd ../../macros
     root.exe
 
