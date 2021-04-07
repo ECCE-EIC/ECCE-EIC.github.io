@@ -14,8 +14,8 @@ Go to your tutorial root directory
 
 ```
 source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_setup.sh -n
-git clone https://github.com/eic/fun4all_tutorials
-cd fun4all_tutorials/Momentum
+git clone https://github.com/ECCE-EIC/tutorials
+cd tutorials/Momentum
 root.exe
 ```
 
