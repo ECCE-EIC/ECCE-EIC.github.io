@@ -7,8 +7,6 @@ topnav:
       external_url: https://www.ecce-eic.org/
     - title: GitHub
       external_url: https://github.com/ECCE-EIC/
-    - title: Tutorials
-      url: /tutorials_landing_page.html
 
 #Topnav dropdowns
 topnav_dropdowns:
