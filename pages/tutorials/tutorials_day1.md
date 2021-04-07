@@ -43,10 +43,10 @@ Get started wtih using the software builds. That includes three options:
 
 # Get started wtih ECCE software
 
-* Follow a recent tutorial on simulation.
-#* 10-min tutorials for [the default macro](https://github.com/ECCE-EIC/macros) 
-#* Check out the [tutorials](/tutorials_landing_page.html).
-#* [Mar-2020 software workshop](https://indico.bnl.gov/event/11112/) - the most recent software workshop with video recording.
+Follow a recent tutorial on simulation.
+* 10-min tutorials for [the default macro](https://github.com/ECCE-EIC/macros) 
+* Check out the [tutorials](/tutorials_landing_page.html).
+* [Mar-2020 software workshop](https://indico.bnl.gov/event/11112/) - the most recent software workshop with video recording.
 
 
 # I still have questions, what shall I do?
