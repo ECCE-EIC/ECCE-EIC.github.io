@@ -1,24 +1,24 @@
-repository: EIC-Detector/EIC-Detector.github.io
+repository: ECCE-EIC/ECCE-EIC.github.io
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
-topnav_title: Fun4All-EIC Software Documentation
+topnav_title: ECCE @ EIC Software Documentation
 # this appears on the top navigation bar next to the home button
 
-site_title: Fun4All-EIC Software Documentation
+site_title: ECCE @ EIC Software Documentation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: EIC User Group
+company_name: ECCE
 # this appears in the footer
 
-github_editme_path: EIC-Detector/EIC-Detector.github.io/blob/master/
+github_editme_path: ECCE-EIC/ECCE-EIC.github.io/blob/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
 # if you're using GitLab, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
-google_analytics: UA-155388685-1
+google_analytics: G-E7MBD4E75H
 # if you have google-analytics ID, put it in. if not, edit this value to blank.
 
 host: 127.0.0.1
@@ -33,7 +33,7 @@ exclude:
   - vendor
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: Fun4All-EIC Software
+feedback_subject_line: ECCE @ EIC Software
 
 feedback_email: pinkenbu@bnl.gov
 # used as a contact email for the Feedback link in the top navigation bar
@@ -104,7 +104,7 @@ sidebars:
 - tutorial_sidebar
 - other
 
-description: "Fun4All-EIC Software for simulation, reconstruction and anaylsis of an EIC experiment."
+description: "ECCE @ EIC Software for simulation, reconstruction and anaylsis of an EIC experiment."
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
