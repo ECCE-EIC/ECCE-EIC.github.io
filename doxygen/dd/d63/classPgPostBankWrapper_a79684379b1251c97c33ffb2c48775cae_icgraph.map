@@ -1,5 +1,0 @@
-<map id="PgPostBankWrapper::setDescription" name="PgPostBankWrapper::setDescription">
-<area shape="rect" id="node2" href="$d1/ddf/classPgPostBankManager.html#a8dc78945c2e4141942fc773f5689e939" title="PgPostBankManager::\lcreateBank" alt="" coords="221,5,388,49"/>
-<area shape="rect" id="node3" href="$d1/ddf/classPgPostBankManager.html#a8daf7b29a007e4c6c8d0ff08fe6d2c2a" title="PgPostBankManager::\lfetchBank" alt="" coords="221,73,388,117"/>
-<area shape="rect" id="node4" href="$d9/d72/classPgPostCalBankIterator.html#a6a089ea9504cdb13e9c0f16e29937d8b" title="PgPostCalBankIterator\l::next" alt="" coords="219,141,391,185"/>
-</map>

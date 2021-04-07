@@ -1,8 +1,0 @@
-<map id="PHG4StepStatusDecode::GetStepStatus" name="PHG4StepStatusDecode::GetStepStatus">
-<area shape="rect" id="node2" href="$dc/d04/classPHG4TpcSteppingAction.html#a68420823833d0cacfbcd8e9244423846" title="stepping action" alt="" coords="259,5,445,49"/>
-<area shape="rect" id="node3" href="$d4/d8c/classPHG4PSTOFSteppingAction.html#af2e0928ffd36be66c0a5ef24e415cb98" title="stepping action" alt="" coords="250,73,454,117"/>
-<area shape="rect" id="node4" href="$da/d58/classPHG4CylinderSteppingAction.html#a617bc1e8c57c83679e482a27a7d5a8b5" title="stepping action" alt="" coords="243,141,461,185"/>
-<area shape="rect" id="node5" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#ad7ba45f4ea4cc63a592c2ed49895307c" title="stepping action" alt="" coords="237,209,467,253"/>
-<area shape="rect" id="node6" href="$df/dec/classPHG4InnerHcalSteppingAction.html#a4b758852f1c33aeefd33e7348ed1773c" title="stepping action" alt="" coords="239,277,465,321"/>
-<area shape="rect" id="node7" href="$d1/da2/classPHG4BlockSteppingAction.html#ae7baa1eb4f42a8a23888709986dd6881" title="stepping action" alt="" coords="253,345,451,389"/>
-</map>

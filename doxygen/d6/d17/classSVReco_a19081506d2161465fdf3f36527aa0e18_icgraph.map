@@ -1,6 +1,0 @@
-<map id="SVReco::InitEvent" name="SVReco::InitEvent">
-<area shape="rect" id="node2" href="$df/d9b/classRecoConversionEval.html#ab5e60cc47b4b3d33f9fdb4a83c2ff775" title="RecoConversionEval\l::doNodePointers" alt="" coords="205,5,363,49"/>
-<area shape="rect" id="node4" href="$d2/d6d/classVtxTest.html#ad1a3b9d5e730a3ba75f13a084e21bee5" title="VtxTest::process_event" alt="" coords="195,73,373,101"/>
-<area shape="rect" id="node5" href="$d9/d3a/classTruthConversionEval.html#a9a67c8171296f35dd157daf89108d3fd" title="TruthConversionEval\l::process_event" alt="" coords="203,125,365,169"/>
-<area shape="rect" id="node3" href="$df/d9b/classRecoConversionEval.html#a54bb2ea55f01b0d0dc8752fbee1bc237" title="RecoConversionEval\l::process_event" alt="" coords="421,5,580,49"/>
-</map>

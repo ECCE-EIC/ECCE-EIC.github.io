@@ -1,9 +1,0 @@
-<map id="CellularAutomaton_v1::kappa_to_pt" name="CellularAutomaton_v1::kappa_to_pt">
-<area shape="rect" id="node2" href="$de/d3e/classCellularAutomaton__v1.html#a05968c13f25eb599a20e2ee1739a6ac3" title="CellularAutomaton_v1\l::process_single_track" alt="" coords="224,40,395,84"/>
-<area shape="rect" id="node3" href="$de/d3e/classCellularAutomaton__v1.html#abba811ee26c85306636e0c974a48750f" title="CellularAutomaton_v1\l::process_tracks" alt="" coords="443,40,613,84"/>
-<area shape="rect" id="node4" href="$de/d3e/classCellularAutomaton__v1.html#ab3d2fc2a826021645f4ea5822b2efd5c" title="CellularAutomaton_v1::run" alt="" coords="661,48,864,76"/>
-<area shape="rect" id="node5" href="$d2/d8f/classPHInitZVertexing.html#a3c179fcf07400123b50e318038b33460" title="PHInitZVertexing::cellular\l_automaton_zvtx_init" alt="" coords="912,5,1107,49"/>
-<area shape="rect" id="node7" href="$d1/d97/classPHPatternReco.html#a55efbe3839721014299b211e1c64d4e4" title="PHPatternReco::cellular\l_automaton_zvtx_init" alt="" coords="919,73,1099,117"/>
-<area shape="rect" id="node6" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="1155,13,1349,41"/>
-<area shape="rect" id="node8" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="1161,73,1343,117"/>
-</map>

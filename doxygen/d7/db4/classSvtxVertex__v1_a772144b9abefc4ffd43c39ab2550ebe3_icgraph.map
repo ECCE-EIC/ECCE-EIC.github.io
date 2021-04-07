@@ -1,8 +1,0 @@
-<map id="SvtxVertex_v1::set_chisq" name="SvtxVertex_v1::set_chisq">
-<area shape="rect" id="node2" href="$d2/d8f/classPHInitZVertexing.html#a8be961e889654346a4d4435896e5d0e0" title="PHInitZVertexing::export\l_output" alt="" coords="203,5,391,49"/>
-<area shape="rect" id="node4" href="$d1/d97/classPHPatternReco.html#a6549c8bd552acd725fc0e611560c53c7" title="PHPatternReco::export\l_output" alt="" coords="211,73,384,117"/>
-<area shape="rect" id="node6" href="$d8/dd4/classPHHoughSeeding.html#a61550a59cd3a34af03c43572e28274cb" title="code to translate back to the SVTX universe" alt="" coords="201,141,393,185"/>
-<area shape="rect" id="node3" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="443,13,638,41"/>
-<area shape="rect" id="node5" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="450,73,631,117"/>
-<area shape="rect" id="node7" href="$d8/dd4/classPHHoughSeeding.html#a8b2c7b85b2bcbe054e071dd6ff624f7d" title="PHHoughSeeding::Process" alt="" coords="441,149,640,177"/>
-</map>

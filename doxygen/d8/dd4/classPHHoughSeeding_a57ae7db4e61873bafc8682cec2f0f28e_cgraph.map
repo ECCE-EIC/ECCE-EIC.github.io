@@ -1,6 +1,0 @@
-<map id="PHHoughSeeding::CleanupTracksByHitPattern" name="PHHoughSeeding::CleanupTracksByHitPattern">
-<area shape="rect" id="node2" href="$da/d87/classSimpleHit3D.html#a6fca396cd480492078c4e640b2410973" title="SimpleHit3D::get_id" alt="" coords="335,5,491,33"/>
-<area shape="rect" id="node3" href="$da/d17/classHelixHough.html#ab143be65f3fd79f37bf4c5a1cda8bf02" title="HelixHough::getKalmanStates" alt="" coords="300,57,525,85"/>
-<area shape="rect" id="node4" href="$da/d87/classSimpleHit3D.html#a35948d57f0a780ab0d48d810ff566d64" title="SimpleHit3D::set_id" alt="" coords="335,109,490,137"/>
-<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="325,161,501,189"/>
-</map>

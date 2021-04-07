@@ -1,6 +1,0 @@
-<map id="SvtxTrack_v1::get_x" name="SvtxTrack_v1::get_x">
-<area shape="rect" id="node2" href="$d0/d71/classPHG4TrackFastSimEval.html#a52a746bdc6e84dc7886b5bae0b608e68" title="PHG4TrackFastSimEval\l::fill_track_tree" alt="" coords="209,5,384,49"/>
-<area shape="rect" id="node4" href="$db/de4/classSvtxTrack__v1.html#ac5f9b1c4fb88a0b812f9b4fb6d9cfc36" title="SvtxTrack_v1::identify" alt="" coords="212,73,381,101"/>
-<area shape="rect" id="node5" href="$d9/da8/classSvtxTrack__FastSim.html#a7bf95d2a70fbc94952b20d5ce7906f37" title="SvtxTrack_FastSim::\lidentify" alt="" coords="220,125,373,169"/>
-<area shape="rect" id="node3" href="$d0/d71/classPHG4TrackFastSimEval.html#ab0136bd1d81150679effd3e148c3cfc4" title="PHG4TrackFastSimEval\l::process_event" alt="" coords="432,5,607,49"/>
-</map>

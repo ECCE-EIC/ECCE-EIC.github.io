@@ -1,9 +1,0 @@
-<map id="SvtxTrackEval::all_tracks_from" name="SvtxTrackEval::all_tracks_from">
-<area shape="rect" id="node2" href="$d7/d8b/classSvtxTrackMap.html#a8c16bb47fdace6d5516d1803ffe54706" title="SvtxTrackMap::begin" alt="" coords="474,5,635,33"/>
-<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a6d8dace95bd6d93aa08d66c5e2c3ad85" title="SvtxTrack::begin_cluster_keys" alt="" coords="443,59,667,87"/>
-<area shape="rect" id="node4" href="$df/dad/classSvtxTrackEval.html#a2ace59e00e4bb990464585c9a4f34a74" title="SvtxTrackEval::create\l_cache_track_from_cluster" alt="" coords="193,157,395,201"/>
-<area shape="rect" id="node5" href="$df/dad/classSvtxTrackEval.html#a2cad33eb7f2cc23aa534f06ef5b591e5" title="SvtxTrackEval::has\l_node_pointers" alt="" coords="481,112,629,156"/>
-<area shape="rect" id="node6" href="$d7/d8b/classSvtxTrackMap.html#a1c7ae993700819b7d0a8e3f3d74fa99c" title="SvtxTrackMap::end" alt="" coords="480,183,629,211"/>
-<area shape="rect" id="node7" href="$d2/db8/classSvtxTrack.html#ac0e8c2214fa9f988c00a561ed22aa085" title="SvtxTrack::end_cluster_keys" alt="" coords="449,240,660,268"/>
-<area shape="rect" id="node8" href="$d0/d34/tracks_8C.html#ac926d763061c5568ecb5f5e062e9c778" title="tracks" alt="" coords="523,304,586,332"/>
-</map>

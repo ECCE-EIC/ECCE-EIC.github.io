@@ -1,7 +1,0 @@
-<map id="PHG4CylinderGeom::get_zmax" name="PHG4CylinderGeom::get_zmax">
-<area shape="rect" id="node2" href="$d0/da4/classPHG4SpacalDetector.html#acde5479ab63b50fea1713c8a92b5a3b2" title="PHG4SpacalDetector\l::Construct_AzimuthalSeg" alt="" coords="283,40,477,84"/>
-<area shape="rect" id="node6" href="$d5/dd0/classPHG4CylinderCellReco.html#ada869396a39d11561fcbb85572446310" title="module initialization" alt="" coords="294,108,466,152"/>
-<area shape="rect" id="node3" href="$d0/da4/classPHG4SpacalDetector.html#ac94e5116eddbcc2f1b5eb348b5450e38" title="PHG4SpacalDetector\l::ConstructMe" alt="" coords="525,40,688,84"/>
-<area shape="rect" id="node4" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a9bbee7264b7117bfe8476d28de70909f" title="PHG4FullProjSpacalDetector\l::ConstructMe" alt="" coords="736,5,947,49"/>
-<area shape="rect" id="node5" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a99847a0a4cb3a1eb74d90d073aaec0f0" title="PHG4FullProjTiltedSpacal\lDetector::ConstructMe" alt="" coords="747,73,936,117"/>
-</map>

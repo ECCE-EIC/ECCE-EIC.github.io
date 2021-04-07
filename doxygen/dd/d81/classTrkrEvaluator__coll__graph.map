@@ -1,9 +1,0 @@
-<map id="TrkrEvaluator" name="TrkrEvaluator">
-<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="513,315,614,343"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="511,207,615,235"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="409,99,499,127"/>
-<area shape="rect" id="node6" href="$d0/d5e/classPHTimer.html" title="PHTimer" alt="" coords="257,207,336,235"/>
-<area shape="rect" id="node5" title="STL class." alt="" coords="383,5,525,49"/>
-<area shape="rect" id="node7" href="$dc/d23/structPHTimer_1_1time__struct.html" title="used to store high precision time using two integers" alt="" coords="5,99,169,127"/>
-<area shape="rect" id="node8" href="$d2/db1/classPHTimer_1_1Frequency.html" title="internal frequency read from cpu information file" alt="" coords="194,99,351,127"/>
-</map>

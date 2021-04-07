@@ -1,5 +1,0 @@
-<map id="RawCluster::get_towermap" name="RawCluster::get_towermap">
-<area shape="rect" id="node2" href="$d4/d3f/classTrackProjectionTools.html#a460d6bd38ea3b204bbb6b8a3ed7c18a3" title="TrackProjectionTools\l::FindClosestTrack" alt="" coords="270,5,429,49"/>
-<area shape="rect" id="node3" href="$d2/d46/classRawClusterBuilderGraph.html#a8b8678d16130835761627d0c1fc6ebf9" title="RawClusterBuilderGraph\l::process_event" alt="" coords="256,73,443,117"/>
-<area shape="rect" id="node4" href="$dd/d9c/classRawClusterBuilderFwd.html#a3b88c548143030fceb38c3dfe726eda0" title="RawClusterBuilderFwd\l::process_event" alt="" coords="263,141,435,185"/>
-</map>

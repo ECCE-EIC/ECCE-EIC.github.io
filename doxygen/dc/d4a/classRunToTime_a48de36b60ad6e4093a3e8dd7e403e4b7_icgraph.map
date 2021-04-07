@@ -1,5 +1,0 @@
-<map id="RunToTime::instance" name="RunToTime::instance">
-<area shape="rect" id="node2" href="$d1/ddf/classPgPostBankManager.html#a2dc91e018456e949abf198c6f98cf76c" title="PgPostBankManager::\lcreateBank" alt="" coords="215,5,381,49"/>
-<area shape="rect" id="node3" href="$d1/ddf/classPgPostBankManager.html#aa7171ae0ea2d05a6b9adaff1562a2636" title="PgPostBankManager::\lfetchBank" alt="" coords="215,73,381,117"/>
-<area shape="rect" id="node4" href="$d1/ddf/classPgPostBankManager.html#aa57b47540ae71ceb49ff562bdda355ae" title="PgPostBankManager::\lfetchClosestBank" alt="" coords="215,141,381,185"/>
-</map>

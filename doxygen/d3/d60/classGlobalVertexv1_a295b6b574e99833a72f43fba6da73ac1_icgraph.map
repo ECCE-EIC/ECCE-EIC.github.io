@@ -1,9 +1,0 @@
-<map id="GlobalVertexv1::covar_index" name="GlobalVertexv1::covar_index">
-<area shape="rect" id="node2" href="$d3/d60/classGlobalVertexv1.html#a63b851550fb7f9fc341b7ad7ef5447bd" title="GlobalVertexv1::get\l_error" alt="" coords="225,41,381,85"/>
-<area shape="rect" id="node5" href="$d3/d60/classGlobalVertexv1.html#ae50e49e6958e52d15acf747525d0cd60" title="GlobalVertexv1::set\l_error" alt="" coords="226,109,381,153"/>
-<area shape="rect" id="node3" href="$d3/d60/classGlobalVertexv1.html#ac1961dd71aafcbc663b4e4b42f61bcb2" title="GlobalVertexv1::identify" alt="" coords="455,5,640,33"/>
-<area shape="rect" id="node4" href="$d3/d60/classGlobalVertexv1.html#aa22e0ae0d899d628c3d66fc67b1af138" title="isValid returns non zero if object contains vailid data" alt="" coords="459,57,636,85"/>
-<area shape="rect" id="node6" href="$d3/d60/classGlobalVertexv1.html#ad5595274dd07b5aa2ea18eb9cf250acb" title="GlobalVertexv1::GlobalVertexv1" alt="" coords="429,117,665,145"/>
-<area shape="rect" id="node7" href="$d3/d60/classGlobalVertexv1.html#a9bbeb05285992e46d72775aafa87b8eb" title="Virtual copy constructor." alt="" coords="713,91,905,119"/>
-<area shape="rect" id="node8" href="$d3/d60/classGlobalVertexv1.html#a5c99d9c4a7de7837ad4015cf851f46cf" title="Clear Event." alt="" coords="723,143,895,171"/>
-</map>

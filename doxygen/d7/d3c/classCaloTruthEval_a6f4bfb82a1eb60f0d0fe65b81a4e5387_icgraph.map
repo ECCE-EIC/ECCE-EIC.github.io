@@ -1,8 +1,0 @@
-<map id="CaloTruthEval::get_caloid" name="CaloTruthEval::get_caloid">
-<area shape="rect" id="node2" href="$dd/d59/classCaloEvaluator.html#a5298ee9646d361a4960fc0e20f83c880" title="dump the evaluator information into ntuple for external analysis" alt="" coords="200,5,388,49"/>
-<area shape="rect" id="node4" href="$db/d10/classCaloEvalStack.html#a48040ead07899c88e23981e1cebed3bd" title="CaloEvalStack::get\l_caloid" alt="" coords="219,73,369,117"/>
-<area shape="rect" id="node5" href="$da/d7e/classCaloRawClusterEval.html#a59740ae0ece69fc61ea3581f88e59f6a" title="get the hash id for this calorimeter volume" alt="" coords="217,141,371,185"/>
-<area shape="rect" id="node6" href="$de/d0b/classCaloRawTowerEval.html#ab5f0c0498c9c60f1c6f57545d61bf608" title="get the hash id for this calorimeter volume" alt="" coords="205,209,383,253"/>
-<area shape="rect" id="node7" href="$d7/d3c/classCaloTruthEval.html#aa63bfd50d5ead2b598e13442220de852" title="what was the electron/hadron radio of energy deposits inside the calo colume?" alt="" coords="221,277,367,321"/>
-<area shape="rect" id="node3" href="$dd/d59/classCaloEvaluator.html#a936967e98c89ec58e7851b0661b838c0" title="CaloEvaluator::process\l_event" alt="" coords="436,5,612,49"/>
-</map>

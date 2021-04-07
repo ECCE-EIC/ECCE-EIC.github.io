@@ -1,8 +1,0 @@
-<map id="DumpRawTowerGeomContainer::process_Node" name="DumpRawTowerGeomContainer::process_Node">
-<area shape="rect" id="node2" href="$df/d49/classRawTowerGeomContainer.html#a9340968583d423ee6e757342509ccc4e" title="RawTowerGeomContainer\l::get_calorimeter_id" alt="" coords="289,5,485,49"/>
-<area shape="rect" id="node3" href="$df/d49/classRawTowerGeomContainer.html#aa4760aaea7732adb0d97afe2f25a71bf" title="return all tower geometries" alt="" coords="289,73,485,117"/>
-<area shape="rect" id="node4" href="$d1/d3e/classPHDataNode.html#a1f3b856fd3ce165047be8aa97f4ab9f3" title="PHDataNode::getData" alt="" coords="303,141,472,169"/>
-<area shape="rect" id="node5" href="$d0/d1f/classEventiterator.html#aca55e3fae164615c2986bb1181aa0c54" title="Eventiterator::identify" alt="" coords="303,193,472,221"/>
-<area shape="rect" id="node6" href="$df/d49/classRawTowerGeomContainer.html#a9e83fb84894ee8f82a87c6bfc457ef1d" title="RawTowerGeomContainer\l::identify" alt="" coords="289,245,485,289"/>
-<area shape="rect" id="node7" href="$df/d49/classRawTowerGeomContainer.html#a751838b0bbb020197d7cc73aa9c245a8" title="RawTowerGeomContainer\l::size" alt="" coords="289,313,485,357"/>
-</map>

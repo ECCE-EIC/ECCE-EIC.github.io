@@ -1,7 +1,0 @@
-<map id="TrkrEvaluator::Init" name="TrkrEvaluator::Init">
-<area shape="rect" id="node2" href="$d0/d5e/classPHTimer.html#adce6f9a85834e59bd154b9c624ee4e41" title="stops the counter" alt="" coords="196,40,312,68"/>
-<area shape="rect" id="node3" href="$d0/d5e/classPHTimer.html#a976738876ad978116fdc4549a3765685" title="retrieve elapsed value since last restart (in ms)" alt="" coords="360,65,500,93"/>
-<area shape="rect" id="node4" href="$d0/d5e/classPHTimer.html#aa92e3fe4a0a1799f39743eda9ef9d497" title="gets time from cpu clock counts" alt="" coords="565,5,715,49"/>
-<area shape="rect" id="node5" href="$d0/d5e/classPHTimer.html#aa75ff2c27aba40e7ef0a934f9a3355c2" title="returns difference between to time" alt="" coords="548,73,732,101"/>
-<area shape="rect" id="node6" href="$d2/db1/classPHTimer_1_1Frequency.html#a023a2d706df9a8bd303810a9ed017f61" title="period accessor" alt="" coords="780,65,937,109"/>
-</map>

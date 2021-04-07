@@ -1,7 +1,0 @@
-<map id="DumpPHG4HitContainer::process_Node" name="DumpPHG4HitContainer::process_Node">
-<area shape="rect" id="node2" href="$d3/d9e/classPHG4Hit.html#a68bf050da73e1a551dc6c6dfed28197d" title="PHG4Hit::get_property_info" alt="" coords="239,5,444,33"/>
-<area shape="rect" id="node3" href="$d1/d3e/classPHDataNode.html#a1f3b856fd3ce165047be8aa97f4ab9f3" title="PHDataNode::getData" alt="" coords="257,57,426,85"/>
-<area shape="rect" id="node4" href="$d4/d30/classPHG4HitContainer.html#aec01041c4b9347f93832704e142b2439" title="return all hits matching a given detid" alt="" coords="241,109,442,137"/>
-<area shape="rect" id="node5" href="$d4/d30/classPHG4HitContainer.html#a5ee07eeac3932a731c29050d17cf8e15" title="PHG4HitContainer::num\l_layers" alt="" coords="250,161,433,205"/>
-<area shape="rect" id="node6" href="$d4/d30/classPHG4HitContainer.html#a516cd69a4ce8570252cd9bd7dafcc35a" title="PHG4HitContainer::size" alt="" coords="252,229,431,257"/>
-</map>

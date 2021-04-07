@@ -1,9 +1,0 @@
-<map id="PHG4TpcPadPlaneReadout::populate_rectangular_phibins" name="PHG4TpcPadPlaneReadout::populate_rectangular_phibins">
-<area shape="rect" id="node2" href="$d9/d85/classPHG4CylinderCellGeom.html#ae568e0233c2bf19b774496bc8133bec7" title="PHG4CylinderCellGeom\l::get_phibin" alt="" coords="255,5,435,49"/>
-<area shape="rect" id="node5" href="$d9/d85/classPHG4CylinderCellGeom.html#a4999cf2fcefaae861e8ddc7c489af731" title="PHG4CylinderCellGeom\l::get_phibins" alt="" coords="255,73,435,117"/>
-<area shape="rect" id="node6" href="$d9/d85/classPHG4CylinderCellGeom.html#a619e05f0264243126360ac83b80f1d89" title="PHG4CylinderCellGeom\l::get_phicenter" alt="" coords="255,141,435,185"/>
-<area shape="rect" id="node7" href="$d9/d85/classPHG4CylinderCellGeom.html#a10a58a3eed1d5566cebd3b19583d78bb" title="PHG4CylinderCellGeom\l::get_phistep" alt="" coords="255,209,435,253"/>
-<area shape="rect" id="node8" href="$d9/d85/classPHG4CylinderCellGeom.html#a108104cde65d2ca503e306251188e615" title="PHG4CylinderCellGeom\l::get_radius" alt="" coords="255,277,435,321"/>
-<area shape="rect" id="node3" href="$d9/d85/classPHG4CylinderCellGeom.html#ab28e6403197b245275ba3613cd56ba6c" title="PHG4CylinderCellGeom\l::check_binning_method_phi" alt="" coords="483,108,696,152"/>
-<area shape="rect" id="node4" href="$d9/d85/classPHG4CylinderCellGeom.html#a8e9118667d576868ba0bd5e6a6686efd" title="PHG4CylinderCellGeom\l::methodname" alt="" coords="744,108,924,152"/>
-</map>

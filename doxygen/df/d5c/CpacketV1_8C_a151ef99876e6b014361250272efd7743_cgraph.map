@@ -1,5 +1,0 @@
-<map id="validPacketV1Hdr" name="validPacketV1Hdr">
-<area shape="rect" id="node2" href="$de/d93/Cpacket_8h.html#a00a03758ac2620086eda111809151cfd" title="getPacketHdrLength" alt="" coords="195,5,352,33"/>
-<area shape="rect" id="node3" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="214,57,333,85"/>
-<area shape="rect" id="node4" href="$d0/db6/formatError_8C.html#ac8d103b555b652dc530dea2a2459b519" title="setPacketSuccess" alt="" coords="203,109,343,137"/>
-</map>

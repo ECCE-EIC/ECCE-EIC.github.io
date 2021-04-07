@@ -1,6 +1,0 @@
-<map id="loop_tree" name="loop_tree">
-<area shape="rect" id="node2" href="$d7/d96/classProto3ShowerCalib_1_1Eval__Run.html#ae3131737a8cb56e9e60bc30989864c53" title="Proto3ShowerCalib::\lEval_Run::getbeammom" alt="" coords="139,5,326,49"/>
-<area shape="rect" id="node3" href="$d8/d3d/classProto3ShowerCalib_1_1Eval__Cluster.html#a3bfea4ac128c2deee9040a09420d907f" title="Proto3ShowerCalib::\lEval_Cluster::getfmodeta" alt="" coords="137,73,328,117"/>
-<area shape="rect" id="node4" href="$d8/d3d/classProto3ShowerCalib_1_1Eval__Cluster.html#a5fa44dbdf2e712f02e21d367bffacbf6" title="Proto3ShowerCalib::\lEval_Cluster::getfmodphi" alt="" coords="137,141,328,185"/>
-<area shape="rect" id="node5" href="$d8/d3d/classProto3ShowerCalib_1_1Eval__Cluster.html#a904be93b294eba8bdb3ba2894cbc4be8" title="Proto3ShowerCalib::\lEval_Cluster::getsumE" alt="" coords="147,209,319,253"/>
-</map>

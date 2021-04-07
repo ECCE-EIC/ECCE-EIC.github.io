@@ -1,7 +1,0 @@
-<map id="PHG4SpacalPrototypeDetector::Construct_LightGuide" name="PHG4SpacalPrototypeDetector::Construct_LightGuide">
-<area shape="rect" id="node2" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="359,5,427,33"/>
-<area shape="rect" id="node3" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="298,57,487,85"/>
-<area shape="rect" id="node4" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a5358f1346cb509e6e2d83c7fccaab99a" title="PHG4CylinderGeom_Spacalv2\l::is_azimuthal_seg_visible" alt="" coords="281,109,504,153"/>
-<area shape="rect" id="node5" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#aa1af17d41825f680fbaef00d27282005" title="PHG4CylinderGeom_Spacalv1\l::is_virualize_fiber" alt="" coords="281,177,504,221"/>
-<area shape="rect" id="node6" href="$df/d02/classPHG4Utils.html#a1a7cdb2daef50974eb7306274407b086" title="PHG4Utils::SetColour" alt="" coords="311,245,475,273"/>
-</map>

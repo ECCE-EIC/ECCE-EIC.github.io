@@ -1,8 +1,0 @@
-<map id="PHG4TpcSubsystem::Print" name="PHG4TpcSubsystem::Print">
-<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html#a6ce8e425ac50e6f13d44075bd6843dcf" title="PHG4DetectorSubsystem\l::GetParams" alt="" coords="252,5,444,49"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="271,73,425,101"/>
-<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#a86d5b7d8808528ad2d4389a081f7c657" title="PHParameters::Print" alt="" coords="269,125,427,153"/>
-<area shape="rect" id="node5" href="$df/d3f/classPHG4SteppingAction.html#ab450bfc504b60661c2d6b925d7b6f028" title="PHG4SteppingAction\l::Print" alt="" coords="267,177,429,221"/>
-<area shape="rect" id="node6" href="$d3/de7/classPHG4Detector.html#af9888bf83e4c764d01d31674cfe00da7" title="PHG4Detector::Print" alt="" coords="269,245,427,273"/>
-<area shape="rect" id="node7" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="492,245,681,273"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="TowerBackground::get_UE" name="TowerBackground::get_UE">
-<area shape="rect" id="node2" href="$d7/d13/classSubtractTowers.html#aedd08ed4cf426a16877bb266cbcc8189" title="SubtractTowers::process\l_event" alt="" coords="261,5,447,49"/>
-<area shape="rect" id="node3" href="$da/dda/classSubtractTowersCS.html#ab15f45c558239c3cf38797472457e361" title="SubtractTowersCS::process\l_event" alt="" coords="252,73,456,117"/>
-<area shape="rect" id="node4" href="$d3/d26/classCopyAndSubtractJets.html#aa7469769625a7718d5d28b57faf8b663" title="CopyAndSubtractJets\l::process_event" alt="" coords="272,141,436,185"/>
-</map>

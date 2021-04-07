@@ -1,6 +1,0 @@
-<map id="BEmcRec::CopyVector" name="BEmcRec::CopyVector">
-<area shape="rect" id="node2" href="$df/d23/classBEmcRec.html#af59db807403cf4ff940f4cd4297f83fd" title="BEmcRec::FindClusters" alt="" coords="224,81,400,109"/>
-<area shape="rect" id="node3" href="$d8/d5d/classRawClusterBuilderTemplate.html#a0c7c1981bbe39c660bff36304525272f" title="RawClusterBuilderTemplate\l::process_event" alt="" coords="448,5,655,49"/>
-<area shape="rect" id="node4" href="$dd/d75/classRawClusterBuilderTemplateEEMC.html#aa136844c4c61b778c808a8dc110b9041" title="RawClusterBuilderTemplate\lEEMC::process_event" alt="" coords="448,73,655,117"/>
-<area shape="rect" id="node5" href="$d8/d80/classRawClusterBuilderTemplateFEMC.html#a66594d22c29c0ee5c439121e816cf218" title="RawClusterBuilderTemplate\lFEMC::process_event" alt="" coords="448,141,655,185"/>
-</map>

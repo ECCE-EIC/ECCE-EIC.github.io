@@ -1,5 +1,0 @@
-<map id="PHG4SpacalPrototypeDetector::Construct_Fibers_SameLengthFiberPerTower" name="PHG4SpacalPrototypeDetector::Construct_Fibers_SameLengthFiberPerTower">
-<area shape="rect" id="node2" href="$db/dc2/classPHG4SpacalPrototypeDetector.html#afdab9ce7ec2aa157af0fe75bdbcdc93d" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="320,13,548,57"/>
-<area shape="rect" id="node3" href="$db/dc2/classPHG4SpacalPrototypeDetector.html#acc645e26fbb90c42a8e1b96cc468bb1e" title="PHG4SpacalPrototypeDetector\l::Construct_AzimuthalSeg" alt="" coords="596,13,824,57"/>
-<area shape="rect" id="node4" href="$db/dc2/classPHG4SpacalPrototypeDetector.html#aea582a01978e516e9a623421dc3c1e2c" title="PHG4SpacalPrototypeDetector\l::ConstructMe" alt="" coords="872,13,1100,57"/>
-</map>

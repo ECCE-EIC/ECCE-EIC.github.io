@@ -1,7 +1,0 @@
-<map id="Fun4AllServer::registerOutputManager" name="Fun4AllServer::registerOutputManager">
-<area shape="rect" id="node2" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="307,21,460,49"/>
-<area shape="rect" id="node3" href="$da/d29/classFun4AllServer.html#a596005b9bc46ff6f5167378423248271" title="Fun4AllServer::UpdateEvent\lSelector" alt="" coords="277,73,489,117"/>
-<area shape="rect" id="node6" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="539,141,715,169"/>
-<area shape="rect" id="node4" href="$d8/d77/classFun4AllOutputManager.html#a330fe561bb5a02a9f6dc08395686321c" title="retrieves pointer to vector of event selector module ids" alt="" coords="537,5,716,49"/>
-<area shape="rect" id="node5" href="$d8/d77/classFun4AllOutputManager.html#a2a601e70ddadeb2f8400956ba1a514e6" title="retrieves pointer to vector of event selector module names" alt="" coords="537,73,716,117"/>
-</map>

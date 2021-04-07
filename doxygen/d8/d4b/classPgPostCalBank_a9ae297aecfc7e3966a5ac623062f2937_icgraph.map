@@ -1,7 +1,0 @@
-<map id="PgPostCalBank::getDescription" name="PgPostCalBank::getDescription">
-<area shape="rect" id="node2" href="$d1/d28/classPgPostBankBackupStorage.html#afa1a547e80e6ea4a3c822cfb568a0ded" title="record bankwapper to obj_header and obj_classname" alt="" coords="283,40,485,84"/>
-<area shape="rect" id="node3" href="$da/daa/classPgPostBankBackupManager.html#ac991d944f76ee913f18491df3ca45dba" title="PgPostBankBackupManager\l::SQLResultSet2BackupStorage" alt="" coords="533,40,765,84"/>
-<area shape="rect" id="node4" href="$da/daa/classPgPostBankBackupManager.html#a48e85fa7beea90b4d7f828c59b5e5676" title="Database &#45;&gt; TFile for all all records satisifying record_selection." alt="" coords="813,5,1023,49"/>
-<area shape="rect" id="node5" href="$da/daa/classPgPostBankBackupManager.html#a34f458a7ca1eb1053ac850d99c44adf6" title="PgPostBankBackupManager\l::fetchBank" alt="" coords="813,73,1023,117"/>
-<area shape="rect" id="node6" href="$da/daa/classPgPostBankBackupManager.html#a4d8b9019e125378da20dd0542dc614be" title="Database &#45;&gt; TFile for official operation use." alt="" coords="1071,73,1280,117"/>
-</map>

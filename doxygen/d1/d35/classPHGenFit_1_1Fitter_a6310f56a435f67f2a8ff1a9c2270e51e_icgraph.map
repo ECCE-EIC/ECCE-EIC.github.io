@@ -1,9 +1,0 @@
-<map id="PHGenFit::Fitter::getEventDisplay" name="PHGenFit::Fitter::getEventDisplay">
-<area shape="rect" id="node2" href="$d2/d9a/classTpcPrototypeGenFitTrkFinder.html#a022c7784b9b8533499ba45dff1b09cd7" title="End, write and close files." alt="" coords="249,5,500,33"/>
-<area shape="rect" id="node3" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a1df8f5a66617de654240c7aafb327529" title="End, write and close files." alt="" coords="253,57,496,85"/>
-<area shape="rect" id="node4" href="$d0/d22/classPHGenFitTrkProp.html#ab11c2e61a1b78278fa4af7cf624c2538" title="Main function." alt="" coords="254,109,495,137"/>
-<area shape="rect" id="node6" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="271,161,479,205"/>
-<area shape="rect" id="node7" href="$de/d25/classPHGenFitTrkFitter.html#a2e088a68ab24c5b89b902205f877f9d6" title="Process Event, called for each event." alt="" coords="302,229,447,273"/>
-<area shape="rect" id="node8" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8861dffacdf05e47efc97b65adbafe32" title="Process Event, called for each event." alt="" coords="270,297,479,341"/>
-<area shape="rect" id="node5" href="$d0/d22/classPHGenFitTrkProp.html#a31e50e42d62a2bf32763652b39dc95b8" title="PHGenFitTrkProp::Process" alt="" coords="548,109,740,137"/>
-</map>

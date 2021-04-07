@@ -1,7 +1,0 @@
-<map id="PHG4ProjCrystalCalorimeterDetector::FillSpecialUnit" name="PHG4ProjCrystalCalorimeterDetector::FillSpecialUnit">
-<area shape="rect" id="node2" href="$d6/d9e/classPHG4CrystalCalorimeterDisplayAction.html#a858b3a05db015fe4274a08500bfdff85" title="PHG4CrystalCalorimeterDisplay\lAction::AddVolume" alt="" coords="286,5,521,49"/>
-<area shape="rect" id="node3" href="$dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a3692e2ee8370287f42a3ced998692da0" title="PHG4ProjCrystalCalorimeter\lDetector::GetCarbonFiberAdjustments" alt="" coords="264,73,543,117"/>
-<area shape="rect" id="node4" href="$dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#ac60bfa251a2972f5029578f8c9c12376" title="PHG4ProjCrystalCalorimeter\lDetector::GetCarbonFiberSpacing" alt="" coords="279,141,527,185"/>
-<area shape="rect" id="node5" href="$dd/d60/classPHG4ProjCrystalCalorimeterDetector.html#a13eb32599dcef63a5fc808a43e010ae5" title="PHG4ProjCrystalCalorimeter\lDetector::GetCrystalSize" alt="" coords="298,209,509,253"/>
-<area shape="rect" id="node6" href="$d1/deb/classPHG4CrystalCalorimeterDetector.html#a03407598e50f0dc8ab56fc056ba1a69e" title="PHG4CrystalCalorimeterDetector\l::GetDisplayAction" alt="" coords="281,277,525,321"/>
-</map>

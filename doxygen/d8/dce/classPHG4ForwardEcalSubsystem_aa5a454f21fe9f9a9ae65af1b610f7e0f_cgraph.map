@@ -1,6 +1,0 @@
-<map id="PHG4ForwardEcalSubsystem::SetTowerMappingFile" name="PHG4ForwardEcalSubsystem::SetTowerMappingFile">
-<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html#a11b830e8da778008313a7102cc37c5c2" title="PHG4DetectorSubsystem\l::get_string_param" alt="" coords="269,5,461,49"/>
-<area shape="rect" id="node4" href="$df/d02/classPHG4Utils.html#a83252c046ea2f418a37725120b076ca9" title="PHG4Utils::md5sum" alt="" coords="287,73,443,101"/>
-<area shape="rect" id="node5" href="$d5/d29/classPHG4DetectorSubsystem.html#a82c122f8a80f34dc4ffba6675ce60c75" title="PHG4DetectorSubsystem\l::set_string_param" alt="" coords="269,125,461,169"/>
-<area shape="rect" id="node3" href="$dd/dae/classPHParameters.html#ab1c503fe2e3136bdd3e5a75bc55ead13" title="PHParameters::get_string\l_param" alt="" coords="509,5,701,49"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="SvtxTruthEval::get_innermost_truth_hit" name="SvtxTruthEval::get_innermost_truth_hit">
-<area shape="rect" id="node2" href="$d4/de4/classSvtxTruthEval.html#aadade59ba8c67eb108524b42ef8bda8a" title="SvtxTruthEval::all\l_truth_hits" alt="" coords="216,5,355,49"/>
-<area shape="rect" id="node4" href="$d4/de4/classSvtxTruthEval.html#ae7550493b6ee8785fdbae87a4d893f8b" title="SvtxTruthEval::has\l_node_pointers" alt="" coords="430,65,577,109"/>
-<area shape="rect" id="node5" href="$d3/d9e/classPHG4Hit.html#a69cc7aee827e3da7cf86e87418f9211b" title="PHG4Hit::get_x" alt="" coords="223,125,347,153"/>
-<area shape="rect" id="node6" href="$d3/d9e/classPHG4Hit.html#a17de3a9c9dc84ce4a50fc89082689d55" title="PHG4Hit::get_y" alt="" coords="223,177,347,205"/>
-<area shape="rect" id="node3" href="$d4/d30/classPHG4HitContainer.html#aec01041c4b9347f93832704e142b2439" title="return all hits matching a given detid" alt="" coords="403,13,604,41"/>
-</map>

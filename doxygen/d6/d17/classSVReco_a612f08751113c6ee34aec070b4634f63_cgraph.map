@@ -1,7 +1,0 @@
-<map id="SVReco::GFRVVtxToSvtxVertex" name="SVReco::GFRVVtxToSvtxVertex">
-<area shape="rect" id="node2" href="$d2/d6d/classSvtxVertex.html#a4f9e50d534d3575ad11e738fcdd723d0" title="SvtxVertex::insert\l_track" alt="" coords="301,5,443,49"/>
-<area shape="rect" id="node3" href="$d2/d6d/classSvtxVertex.html#a140a4c7e82ba91f00345dd1affec1555" title="SvtxVertex::set_chisq" alt="" coords="289,73,455,101"/>
-<area shape="rect" id="node4" href="$d2/d6d/classSvtxVertex.html#ada56ff6d35509d42161b32b83e253374" title="SvtxVertex::set_error" alt="" coords="290,125,454,153"/>
-<area shape="rect" id="node5" href="$d2/d6d/classSvtxVertex.html#a8f1c442a85a9fae9ae002b75a3ba2dee" title="SvtxVertex::set_ndof" alt="" coords="291,177,453,205"/>
-<area shape="rect" id="node6" href="$d2/d6d/classSvtxVertex.html#a56c16b5dc66f871585e5ed0bc5d59957" title="SvtxVertex::set_position" alt="" coords="280,229,464,257"/>
-</map>

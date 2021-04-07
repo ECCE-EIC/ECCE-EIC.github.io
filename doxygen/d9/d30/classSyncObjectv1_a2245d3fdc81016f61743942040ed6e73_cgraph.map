@@ -1,9 +1,0 @@
-<map id="SyncObjectv1::SyncObjectv1" name="SyncObjectv1::SyncObjectv1">
-<area shape="rect" id="node2" href="$de/dbb/classSyncObject.html#ad679d42aac1a409a94d2e535766dcebd" title="set Event Counter" alt="" coords="281,5,481,33"/>
-<area shape="rect" id="node3" href="$d9/d30/classSyncObjectv1.html#a137e19479315bfa9dd7f24bc7636bb22" title="get Event Counter" alt="" coords="272,57,489,85"/>
-<area shape="rect" id="node4" href="$de/dbb/classSyncObject.html#aa650d97c0d3ace8ae7945f54224228ef" title="set Event Number" alt="" coords="281,109,481,137"/>
-<area shape="rect" id="node5" href="$d9/d30/classSyncObjectv1.html#aa26c49bf535e4170ceea4ee4c8c3feed" title="get Event Number" alt="" coords="272,161,489,189"/>
-<area shape="rect" id="node6" href="$de/dbb/classSyncObject.html#af1188def459d0ff933d71e37c7afc0c5" title="set Run Number" alt="" coords="287,213,475,241"/>
-<area shape="rect" id="node7" href="$d9/d30/classSyncObjectv1.html#a5858900d58b529169eaa196ce6a13bbb" title="get Run Number" alt="" coords="279,265,483,293"/>
-<area shape="rect" id="node8" href="$de/dbb/classSyncObject.html#ada7f465c7f21b1fb563cc9ab5534dbdb" title="get Segment Number" alt="" coords="269,317,492,345"/>
-</map>

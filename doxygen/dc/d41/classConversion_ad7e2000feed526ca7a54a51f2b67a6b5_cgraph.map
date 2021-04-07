@@ -1,6 +1,0 @@
-<map id="Conversion::setPrimaryPhoton" name="Conversion::setPrimaryPhoton">
-<area shape="rect" id="node2" href="$de/dc9/classPHG4Particle.html#a057540307b3af50a74b4d40d7edd8dfb" title="PHG4Particle::get_primary_id" alt="" coords="279,5,496,33"/>
-<area shape="rect" id="node3" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="288,57,487,85"/>
-<area shape="rect" id="node4" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="295,109,480,153"/>
-<area shape="rect" id="node5" href="$dc/d41/classConversion.html#ab7610711ee13abfab6ef1c29e0e8176c" title="sets the photon" alt="" coords="302,177,473,205"/>
-</map>

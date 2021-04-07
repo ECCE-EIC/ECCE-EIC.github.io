@@ -1,6 +1,0 @@
-<map id="PHG4BlockCellReco::SetDefaultParameters" name="PHG4BlockCellReco::SetDefaultParameters">
-<area shape="rect" id="node2" href="$da/d11/classPHParameterContainerInterface.html#a304d76924bdc742b6f68fd4bede1bde4" title="PHParameterContainerInterface\l::set_default_double_param" alt="" coords="223,73,457,117"/>
-<area shape="rect" id="node3" href="$dd/dae/classPHParameters.html#a5dc8e713d09897d2654015b008364d18" title="PHParameters::exist\l_double_param" alt="" coords="526,5,685,49"/>
-<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="505,73,705,117"/>
-<area shape="rect" id="node5" href="$dd/dae/classPHParameters.html#a75005aa44390e1eb574603b0b230152b" title="PHParameters::set_double\l_param" alt="" coords="506,141,705,185"/>
-</map>

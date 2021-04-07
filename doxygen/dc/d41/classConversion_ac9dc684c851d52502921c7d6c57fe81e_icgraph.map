@@ -1,6 +1,0 @@
-<map id="Conversion::getRecoTrack" name="Conversion::getRecoTrack">
-<area shape="rect" id="node2" href="$dc/d41/classConversion.html#ae7364438f1e0494458af1ae6826deaaf" title="print the info relating to photon reconstruction" alt="" coords="251,13,493,41"/>
-<area shape="rect" id="node3" href="$d9/d3a/classTruthConversionEval.html#a30309a3143d74dac7ff1f62cf275a5ac" title="TruthConversionEval\l::recordConversion" alt="" coords="541,5,703,49"/>
-<area shape="rect" id="node4" href="$d9/d3a/classTruthConversionEval.html#a802d15f00a153397546daabb7dbabbd2" title="TruthConversionEval\l::numUnique" alt="" coords="751,5,912,49"/>
-<area shape="rect" id="node5" href="$d9/d3a/classTruthConversionEval.html#a9a67c8171296f35dd157daf89108d3fd" title="TruthConversionEval\l::process_event" alt="" coords="960,5,1121,49"/>
-</map>

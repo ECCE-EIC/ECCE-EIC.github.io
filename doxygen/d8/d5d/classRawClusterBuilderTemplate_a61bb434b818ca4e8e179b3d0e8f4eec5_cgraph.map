@@ -1,6 +1,0 @@
-<map id="RawClusterBuilderTemplate::RawClusterBuilderTemplate" name="RawClusterBuilderTemplate::RawClusterBuilderTemplate">
-<area shape="rect" id="node2" href="$df/d23/classBEmcRec.html#a27ecd3919ca2994c5798cd2931caad6e" title="BEmcRec::SetGeometry" alt="" coords="288,5,471,33"/>
-<area shape="rect" id="node3" href="$df/d23/classBEmcRec.html#aa4fa596a4c2667defdd97427b28f4204" title="BEmcRec::SetTowerThreshold" alt="" coords="269,57,489,85"/>
-<area shape="rect" id="node5" href="$df/d23/classBEmcRec.html#a09f11970d755b76d15caa376808f5471" title="BEmcRec::SetVertex" alt="" coords="300,109,459,137"/>
-<area shape="rect" id="node4" href="$d9/d04/classEmcCluster.html#ad6e791cf8567c2030abc1aa646e04d0a" title="EmcCluster::max" alt="" coords="537,57,673,85"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="RawClusterv1::get_phi" name="RawClusterv1::get_phi">
-<area shape="rect" id="node2" href="$d6/dc7/group__getters.html#ga079bd431c3b353df1f06ea5e7c66dc16" title="access Cartesian coordinate system" alt="" coords="225,75,385,103"/>
-<area shape="rect" id="node3" href="$d0/d73/classRawClusterv1.html#af611c374548d110f58ff0bcfcc465a70" title="RawClusterv1::identify" alt="" coords="449,23,623,51"/>
-<area shape="rect" id="node5" href="$d6/dc7/group__getters.html#ga2e5d549df1137f172ed31e69d4d5df35" title="RawClusterv1::get_y" alt="" coords="225,23,385,51"/>
-<area shape="rect" id="node4" href="$d6/dc7/group__getters.html#ga4d874d367f5c76ca57d917c242238173" title="cluster position in 3D" alt="" coords="433,75,639,103"/>
-</map>

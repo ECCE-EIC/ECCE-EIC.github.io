@@ -1,9 +1,0 @@
-<map id="PgPostBankWrapper" name="PgPostBankWrapper">
-<area shape="rect" id="node2" href="$d8/d4b/classPgPostCalBank.html" title="PgPostCalBank" alt="" coords="65,290,188,318"/>
-<area shape="rect" id="node3" href="$da/d4f/classPdbCalBank.html" title="PdbCalBank" alt="" coords="75,168,178,196"/>
-<area shape="rect" id="node4" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="194,83,278,111"/>
-<area shape="rect" id="node6" href="$da/dc2/classPHTimeStamp.html" title="PHTimeStamp" alt="" coords="177,228,295,256"/>
-<area shape="rect" id="node9" href="$dc/d80/classPdbBankID.html" title="PdbBankID" alt="" coords="315,228,410,256"/>
-<area shape="rect" id="node7" title="STL class." alt="" coords="453,290,542,318"/>
-<area shape="rect" id="node8" title="STL class." alt="" coords="426,160,569,204"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="SvtxClusterEval::do_caching" name="SvtxClusterEval::do_caching">
-<area shape="rect" id="node2" href="$df/dad/classSvtxTrackEval.html#a5b34f2af4a535e96d9268e7678a79a70" title="SvtxTrackEval::do_caching" alt="" coords="207,13,407,41"/>
-<area shape="rect" id="node3" href="$d4/d21/classSvtxVertexEval.html#a9fa433b0d29578a6edc8cf660549a58f" title="SvtxVertexEval::do\l_caching" alt="" coords="455,5,604,49"/>
-<area shape="rect" id="node4" href="$d3/ded/classSvtxEvalStack.html#ac4299102a8c9a61d5c017ab6cbd7be7c" title="SvtxEvalStack::do_caching" alt="" coords="652,13,855,41"/>
-<area shape="rect" id="node5" href="$d3/d22/classJetTruthEval.html#a962bc362620fe783ef4a42c68bde441e" title="activate or deactivate the memory caching inside the evaluation module" alt="" coords="903,13,1091,41"/>
-<area shape="rect" id="node6" href="$dd/d75/classJetRecoEval.html#ad5be585298d29ebe5c659d7e79227362" title="activate or deactivate the memory caching inside the evaluation module" alt="" coords="1139,13,1325,41"/>
-<area shape="rect" id="node7" href="$dd/df3/classJetEvalStack.html#acf99c6db6673c099155d61af06ca46f8" title="JetEvalStack::do_caching" alt="" coords="1373,13,1564,41"/>
-</map>

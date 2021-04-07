@@ -1,7 +1,0 @@
-<map id="coresoftware/blob/master/simulation/g4simulation/g4eval/CaloEvalStack.cc" name="coresoftware/blob/master/simulation/g4simulation/g4eval/CaloEvalStack.cc">
-<area shape="rect" id="node2" href="$dc/da9/CaloEvalStack_8h.html" title="CaloEvalStack.h" alt="" coords="397,113,526,141"/>
-<area shape="rect" id="node3" href="$d8/dc0/CaloRawClusterEval_8h.html" title="CaloRawClusterEval.h" alt="" coords="98,189,266,217"/>
-<area shape="rect" id="node5" href="$d0/d8a/CaloTruthEval_8h.html" title="CaloTruthEval.h" alt="" coords="221,341,348,369"/>
-<area shape="rect" id="node4" href="$d0/d0b/CaloRawTowerEval_8h.html" title="CaloRawTowerEval.h" alt="" coords="102,265,262,293"/>
-<area shape="rect" id="node6" href="$d8/d89/BaseTruthEval_8h.html" title="BaseTruthEval.h" alt="" coords="220,417,349,445"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="PHG4CylinderDetector::ConstructMe" name="PHG4CylinderDetector::ConstructMe">
-<area shape="rect" id="node2" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="249,5,449,49"/>
-<area shape="rect" id="node3" href="$dd/dae/classPHParameters.html#ab1c503fe2e3136bdd3e5a75bc55ead13" title="PHParameters::get_string\l_param" alt="" coords="253,73,445,117"/>
-<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#a5f7650922e846c686ed03252a4735653" title="PHG4Detector::GetMySubsystem" alt="" coords="227,141,471,169"/>
-<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="254,193,443,221"/>
-<area shape="rect" id="node6" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="238,245,459,273"/>
-<area shape="rect" id="node7" href="$db/df7/classPHG4Subsystem.html#a9fe882e6e1b1adb71ea3eff5e5eab5fe" title="PHG4Subsystem::SetLogical\lVolume" alt="" coords="243,297,454,341"/>
-<area shape="rect" id="node8" href="$d0/d7b/classPHG4CylinderDisplayAction.html#a8dc997af8fe347299df9bf42da093f8c" title="PHG4CylinderDisplayAction\l::SetMyVolume" alt="" coords="245,365,452,409"/>
-</map>

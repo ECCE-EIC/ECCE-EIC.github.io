@@ -1,8 +1,0 @@
-<map id="PgPostBankBackupStorage" name="PgPostBankBackupStorage">
-<area shape="rect" id="node3" href="$db/d56/classPgPostBankBackupStorage_1_1BankHeader.html" title="PgPostBankBackupStorage\l::BankHeader" alt="" coords="197,300,399,344"/>
-<area shape="rect" id="node6" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="101,91,185,119"/>
-<area shape="rect" id="node5" href="$da/dc2/classPHTimeStamp.html" title="PHTimeStamp" alt="" coords="173,176,290,204"/>
-<area shape="rect" id="node9" href="$da/d4f/classPdbCalBank.html" title="PdbCalBank" alt="" coords="84,238,187,266"/>
-<area shape="rect" id="node7" title="STL class." alt="" coords="359,176,448,204"/>
-<area shape="rect" id="node8" title="STL class." alt="" coords="332,83,475,127"/>
-</map>

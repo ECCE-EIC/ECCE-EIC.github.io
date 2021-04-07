@@ -1,9 +1,0 @@
-<map id="PHRawOManager::write" name="PHRawOManager::write">
-<area shape="rect" id="node2" href="$de/dc8/classoBuffer.html#a16ae57cae6a4b690475a41d2cdb0dd1c" title="oBuffer::nextEvent" alt="" coords="253,57,403,85"/>
-<area shape="rect" id="node7" href="$d5/dca/classPHCompositeNode.html#a774f54eea4fcb26e8b98f537efc1c6d9" title="PHCompositeNode::write" alt="" coords="233,109,423,137"/>
-<area shape="rect" id="node3" href="$de/dc8/classoBuffer.html#a20807b66941831cf3aacf5c42b38d8f8" title="oBuffer::prepare_next" alt="" coords="471,5,640,33"/>
-<area shape="rect" id="node4" href="$de/dc8/classoBuffer.html#a1ea4e9f4322874047c2d8c749ee62df5" title="oBuffer::writeout" alt="" coords="487,57,623,85"/>
-<area shape="rect" id="node5" href="$de/dc8/classoBuffer.html#a0c22585dd84cfc620cb6e8071f2143a4" title="oBuffer::addEoB" alt="" coords="688,32,819,60"/>
-<area shape="rect" id="node6" href="$d7/d2d/make__fmod__calibrations_8C.html#aac759501cf6c7895a70eecbef0226ae1" title="write" alt="" coords="726,84,781,112"/>
-<area shape="rect" id="node8" href="$dc/d82/classPHNode.html#a82ef8bef92f7d2cc470bccb042ab57cc" title="PHNode::write" alt="" coords="497,109,614,137"/>
-</map>

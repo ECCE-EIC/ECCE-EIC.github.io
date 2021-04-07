@@ -1,8 +1,0 @@
-<map id="TrkrHit::setAdc" name="TrkrHit::setAdc">
-<area shape="rect" id="node2" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="175,5,373,49"/>
-<area shape="rect" id="node4" href="$dd/da0/classPHG4InttDigitizer.html#a1abd54009150500d799f667169b0b35a" title="PHG4InttDigitizer::\lDigitizeLadderCells" alt="" coords="198,73,350,117"/>
-<area shape="rect" id="node6" href="$d5/d21/classPHG4MvtxDigitizer.html#a0d6851617a0a95e6cfab450d5e8534b2" title="PHG4MvtxDigitizer::\lDigitizeMvtxLadderCells" alt="" coords="182,141,366,185"/>
-<area shape="rect" id="node3" href="$d1/dc5/classPHG4TpcDigitizer.html#a3a1281c04ddb169c704cc2c03a327e04" title="event processing" alt="" coords="421,5,621,49"/>
-<area shape="rect" id="node5" href="$dd/da0/classPHG4InttDigitizer.html#abc313958b3d486e1974e8c1313763094" title="event processing" alt="" coords="449,73,594,117"/>
-<area shape="rect" id="node7" href="$d5/d21/classPHG4MvtxDigitizer.html#a44e5c36ab4feebccbeffbfca87e7e35c" title="event processing" alt="" coords="443,141,599,185"/>
-</map>

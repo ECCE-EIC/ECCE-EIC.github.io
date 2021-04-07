@@ -1,7 +1,0 @@
-<map id="pmonstate::clearOpened" name="pmonstate::clearOpened">
-<area shape="rect" id="node2" href="$d8/d7e/pmonitor_8h.html#a01a6dd34fa639fc5ad5a05b22407a658" title="pclose" alt="" coords="243,32,308,60"/>
-<area shape="rect" id="node3" href="$d1/d7e/pmonitor_8cc.html#ae73df4d6b3d5f6ed0dcae190b14c7b6c" title="pprocess" alt="" coords="356,5,439,33"/>
-<area shape="rect" id="node6" href="$d8/d7e/pmonitor_8h.html#ad2ad6ffec0bd896f405629be241333ef" title="prun" alt="" coords="371,57,423,85"/>
-<area shape="rect" id="node4" href="$d8/d7e/pmonitor_8h.html#a7d00edef8d4a1e9c715afb4e1cfe614b" title="pstart" alt="" coords="487,5,548,33"/>
-<area shape="rect" id="node5" href="$d8/d7e/pmonitor_8h.html#a9ff8d5246b0e11ec9794323332ce5a2a" title="pstart" alt="" coords="596,5,657,33"/>
-</map>

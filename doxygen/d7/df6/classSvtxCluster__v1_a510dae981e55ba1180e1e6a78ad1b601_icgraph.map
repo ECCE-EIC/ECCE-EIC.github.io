@@ -1,7 +1,0 @@
-<map id="SvtxCluster_v1::get_error" name="SvtxCluster_v1::get_error">
-<area shape="rect" id="node2" href="$d7/df6/classSvtxCluster__v1.html#a274b28599355d7f7c33094166efd0867" title="SvtxCluster_v1::get\l_rphi_error" alt="" coords="222,5,377,49"/>
-<area shape="rect" id="node4" href="$d7/df6/classSvtxCluster__v1.html#afab6cc2793086cd627e0f39e8198568d" title="SvtxCluster_v1::get\l_z_error" alt="" coords="222,73,377,117"/>
-<area shape="rect" id="node5" href="$d7/df6/classSvtxCluster__v1.html#a7475f0365f5b04797f5e50ee0347f7d2" title="SvtxCluster_v1::identify" alt="" coords="208,141,391,169"/>
-<area shape="rect" id="node6" href="$d7/df6/classSvtxCluster__v1.html#a5c2914a72e0094fb35860ae201e282db" title="isValid returns non zero if object contains vailid data" alt="" coords="212,193,387,221"/>
-<area shape="rect" id="node3" href="$d7/df6/classSvtxCluster__v1.html#af2d7553a3c47492456acb944f2df9126" title="SvtxCluster_v1::get\l_phi_error" alt="" coords="439,5,593,49"/>
-</map>

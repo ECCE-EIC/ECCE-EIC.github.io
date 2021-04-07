@@ -1,4 +1,0 @@
-<map id="CaloRawClusterEval::do_caching" name="CaloRawClusterEval::do_caching">
-<area shape="rect" id="node2" href="$de/d0b/classCaloRawTowerEval.html#a29dc75d15db0e554032b23efdf228afc" title="activate or deactivate the memory caching inside the evaluation module" alt="" coords="208,5,381,49"/>
-<area shape="rect" id="node3" href="$d7/d3c/classCaloTruthEval.html#ab95034a1099359ee65dba12aa6ad2ea2" title="activate or deactivate the memory caching inside the evaluation module" alt="" coords="429,13,628,41"/>
-</map>

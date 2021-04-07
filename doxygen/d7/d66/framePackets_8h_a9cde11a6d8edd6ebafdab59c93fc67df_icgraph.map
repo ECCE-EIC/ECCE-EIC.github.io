@@ -1,8 +1,0 @@
-<map id="findFramePacketId" name="findFramePacketId">
-<area shape="rect" id="node2" href="$d7/d8a/classX__Event.html#a1a9c25781f0ebfac34b14fbe8a6f7bae" title="X_Event::change_id" alt="" coords="215,5,369,33"/>
-<area shape="rect" id="node4" href="$d5/dcf/classA__Event.html#ad967a958e3bd34166d5cb71387ae6a82" title="A_Event::getFrameEntry" alt="" coords="199,57,385,85"/>
-<area shape="rect" id="node5" href="$d5/dcf/classA__Event.html#a1fe5c46bc5cbdedf5b812637e31c50d6" title="A_Event::listError" alt="" coords="222,109,362,137"/>
-<area shape="rect" id="node6" href="$d5/dcf/classA__Event.html#a74892ea7b8de386cc8301e31bcf47c36" title="A_Event::listFrame" alt="" coords="218,161,366,189"/>
-<area shape="rect" id="node7" href="$d5/dcf/classA__Event.html#a0ef6a3ed87450ff2c45e778cd9a6ff31" title="A_Event::listHistory" alt="" coords="215,213,369,241"/>
-<area shape="rect" id="node3" href="$d1/db5/changeid_8cc.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="433,5,488,33"/>
-</map>

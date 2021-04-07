@@ -1,9 +1,0 @@
-<map id="coresoftware/blob/master/offline/packages/jetbackground" name="coresoftware/blob/master/offline/packages/jetbackground">
-<area shape="rect" id="node1" href="dir_d71b44511a32717989be36b4f894b627.html" title="jetbackground" alt="" coords="27,53,147,101"/>
-<area shape="rect" id="node2" href="dir_f98e1c9080b4906ecba77a4dd5fc7fe9.html" title="framework" alt="" coords="38,245,133,293"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000228_000202.html" title="51" alt="" coords="75,217,92,233"/>
-<area shape="rect" id="node3" href="dir_9a1d80cb35ae1ea11132a6c860cee4ae.html" title="simulation" alt="" coords="82,149,174,197"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000228_000248.html" title="12" alt="" coords="109,121,127,137"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000248_000202.html" title="740" alt="" coords="99,224,124,240"/>
-<area shape="rect" id="clust1" href="dir_9a772a1c220e8d6862d681d8ed0f3e46.html" title="packages" alt="" coords="16,16,157,112"/>
-</map>

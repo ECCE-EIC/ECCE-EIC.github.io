@@ -1,6 +1,0 @@
-<map id="Conversion::getRefitRecoTlvs" name="Conversion::getRefitRecoTlvs">
-<area shape="rect" id="node2" href="$dc/d41/classConversion.html#ab241fb0ec49026453496dd7011659231" title="Uses the _refit_phgf_tracks to set recoPhoton. Will delete any existing recoPhoton." alt="" coords="272,5,464,49"/>
-<area shape="rect" id="node3" href="$d9/d3a/classTruthConversionEval.html#a30309a3143d74dac7ff1f62cf275a5ac" title="TruthConversionEval\l::recordConversion" alt="" coords="512,5,673,49"/>
-<area shape="rect" id="node4" href="$d9/d3a/classTruthConversionEval.html#a802d15f00a153397546daabb7dbabbd2" title="TruthConversionEval\l::numUnique" alt="" coords="721,5,883,49"/>
-<area shape="rect" id="node5" href="$d9/d3a/classTruthConversionEval.html#a9a67c8171296f35dd157daf89108d3fd" title="TruthConversionEval\l::process_event" alt="" coords="931,5,1092,49"/>
-</map>

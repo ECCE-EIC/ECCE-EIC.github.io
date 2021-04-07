@@ -1,6 +1,0 @@
-<map id="CaloEvalStack::get_caloid" name="CaloEvalStack::get_caloid">
-<area shape="rect" id="node2" href="$d7/d3c/classCaloTruthEval.html#a6f4bfb82a1eb60f0d0fe65b81a4e5387" title="get the hash id for this calorimeter volume" alt="" coords="204,5,351,49"/>
-<area shape="rect" id="node3" href="$db/d10/classCaloEvalStack.html#a3999fddea3e98fcd1841ec10b6fc4354" title="CaloEvalStack::get\l_truth_eval" alt="" coords="203,73,352,117"/>
-<area shape="rect" id="node4" href="$da/d7e/classCaloRawClusterEval.html#a6d036ff7a8fd5db626d47ef43d3b9675" title="get a copy of the lower level truth eval and its memory cache" alt="" coords="400,73,555,117"/>
-<area shape="rect" id="node5" href="$de/d0b/classCaloRawTowerEval.html#a1b8eced040f811052e763a4dd70a5938" title="get a copy of the lower level truth eval and its memory cache" alt="" coords="603,73,781,117"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="G4SnglTree::process_event" name="G4SnglTree::process_event">
-<area shape="rect" id="node2" href="$da/d6c/classPHG4TruthInfoContainer.html#a2817b4438bb80cacb28f457975342cf2" title="PHG4TruthInfoContainer\l::GetPrimaryParticleRange" alt="" coords="213,5,412,49"/>
-<area shape="rect" id="node3" href="$df/d79/classG4SnglTree.html#a77da9ff312468fc78f76947e1d9ca44f" title="hit processing method" alt="" coords="221,73,405,101"/>
-<area shape="rect" id="node4" href="$d4/d30/classPHG4HitContainer.html#aec01041c4b9347f93832704e142b2439" title="return all hits matching a given detid" alt="" coords="460,73,661,101"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Conversion::trackDLayer" name="Conversion::trackDLayer">
-<area shape="rect" id="node2" href="$d2/db8/classSvtxTrack.html#a6d8dace95bd6d93aa08d66c5e2c3ad85" title="SvtxTrack::begin_cluster_keys" alt="" coords="241,5,465,33"/>
-<area shape="rect" id="node3" href="$d0/d2c/classTrkrClusterContainer.html#a2b2eea90672ac17f6439c932d2a144ad" title="TrkrClusterContainer\l::findCluster" alt="" coords="272,57,435,101"/>
-<area shape="rect" id="node4" href="$d6/dfa/classTrkrCluster.html#ab18c56f7c1aa174203dcf8fbf0141279" title="TrkrCluster::getClusKey" alt="" coords="263,125,443,153"/>
-<area shape="rect" id="node5" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="279,177,427,205"/>
-</map>

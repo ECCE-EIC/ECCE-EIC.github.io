@@ -1,5 +1,0 @@
-<map id="PHG4Cell::get_g4hits" name="PHG4Cell::get_g4hits">
-<area shape="rect" id="node2" href="$de/d0b/classCaloRawTowerEval.html#ac47d08a77fcfab78124cf54006fdccd0" title="what truth hits contributed energy to this tower?" alt="" coords="217,36,389,80"/>
-<area shape="rect" id="node3" href="$da/d7e/classCaloRawClusterEval.html#a6dca3e2823bfaf5a27c13c0c40c1ad82" title="what truth hits contributed energy to this tower?" alt="" coords="437,5,592,49"/>
-<area shape="rect" id="node4" href="$dd/d75/classJetRecoEval.html#a83e004c6c55ecf277a13a046d90790a3" title="which truth hits contributed to this reconstructed jet?" alt="" coords="640,44,837,72"/>
-</map>

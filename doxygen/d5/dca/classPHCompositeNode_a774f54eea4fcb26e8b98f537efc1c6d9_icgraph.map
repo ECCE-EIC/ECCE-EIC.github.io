@@ -1,9 +1,0 @@
-<map id="PHCompositeNode::write" name="PHCompositeNode::write">
-<area shape="rect" id="node2" href="$d7/d4d/classPHNodeIOManager.html#a050f87b27c5906ac82619993b701b386" title="PHNodeIOManager::write" alt="" coords="243,112,433,140"/>
-<area shape="rect" id="node6" href="$df/d36/classPHRawOManager.html#a9037f750da5d4b9c5d43b7af18f56eb7" title="PHRawOManager::write" alt="" coords="248,201,428,229"/>
-<area shape="rect" id="node3" href="$da/daa/classFun4AllDstOutputManager.html#aa4b5b519c6db1540d03007c8c21436fc" title="write starting from given node" alt="" coords="483,5,683,49"/>
-<area shape="rect" id="node4" href="$da/daa/classFun4AllDstOutputManager.html#ac839ec7d93dd52ca363c8307fa88cb94" title="write specified node" alt="" coords="483,73,683,117"/>
-<area shape="rect" id="node5" href="$d9/dde/classPHIODataNode.html#a85de85728a52af6aac318b64179ffd2f" title="PHIODataNode::write" alt="" coords="501,141,665,169"/>
-<area shape="rect" id="node7" href="$d6/dc8/classFun4AllPrdfOutputManager.html#a6aaed7e9b0b32a481661fde72ff44fa2" title="event write method (startNode argument is ignored. prdfNode is always used)" alt="" coords="481,193,685,237"/>
-<area shape="rect" id="node8" href="$df/d2e/classPHRawDataNode.html#a5c93914d29abd9d21917e116fe10aff7" title="PHRawDataNode::write" alt="" coords="495,261,672,289"/>
-</map>

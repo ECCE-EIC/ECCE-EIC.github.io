@@ -1,5 +1,0 @@
-<map id="PHG4ConeDetector::SuperDetector" name="PHG4ConeDetector::SuperDetector">
-<area shape="rect" id="node2" href="$d8/d6e/classPHG4ConeSubsystem.html#ad28af91002a876e0061806c3c73e4cd1" title="init" alt="" coords="312,5,511,33"/>
-<area shape="rect" id="node3" href="$d4/d7a/classPHG4ConeSteppingAction.html#a6b0a3fdd0b218a02c7156c1dda8d96cd" title="reimplemented from base class" alt="" coords="313,57,509,101"/>
-<area shape="rect" id="node4" href="$d8/d6e/classPHG4ConeSubsystem.html#a759342e76dd9ab1f444ca07515c16384" title="event processing" alt="" coords="559,57,735,101"/>
-</map>

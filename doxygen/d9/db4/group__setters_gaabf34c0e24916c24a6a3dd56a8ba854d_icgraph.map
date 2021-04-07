@@ -1,8 +1,0 @@
-<map id="RawCluster::set_ecore" name="RawCluster::set_ecore">
-<area shape="rect" id="node2" href="$d7/dce/classTreeMaker.html#ae86d85abb37a69817ded01d7a8f2f7db" title="TreeMaker::CopyAndMakeClusters" alt="" coords="224,13,476,41"/>
-<area shape="rect" id="node4" href="$df/d75/classRawClusterPositionCorrection.html#ad0cf55d8f80f6c102f54b15ab521d389" title="RawClusterPositionCorrection\l::process_event" alt="" coords="241,65,459,109"/>
-<area shape="rect" id="node5" href="$dd/d75/classRawClusterBuilderTemplateEEMC.html#aa136844c4c61b778c808a8dc110b9041" title="RawClusterBuilderTemplate\lEEMC::process_event" alt="" coords="247,133,453,177"/>
-<area shape="rect" id="node6" href="$d8/d80/classRawClusterBuilderTemplateFEMC.html#a66594d22c29c0ee5c439121e816cf218" title="RawClusterBuilderTemplate\lFEMC::process_event" alt="" coords="247,201,453,245"/>
-<area shape="rect" id="node7" href="$d8/d5d/classRawClusterBuilderTemplate.html#a0c7c1981bbe39c660bff36304525272f" title="RawClusterBuilderTemplate\l::process_event" alt="" coords="247,269,453,313"/>
-<area shape="rect" id="node3" href="$d7/dce/classTreeMaker.html#a89a6f3a23de784d5f8d86ae91956aa69" title="TreeMaker::process\l_event" alt="" coords="524,5,676,49"/>
-</map>

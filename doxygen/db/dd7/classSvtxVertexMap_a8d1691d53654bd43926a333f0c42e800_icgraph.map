@@ -1,9 +1,0 @@
-<map id="SvtxVertexMap::get" name="SvtxVertexMap::get">
-<area shape="rect" id="node2" href="$d9/d3a/classTruthConversionEval.html#a16b7455a41ab0c78a249abf9c9bd8a30" title="TruthConversionEval\l::get_primary_vertex" alt="" coords="233,5,395,49"/>
-<area shape="rect" id="node3" href="$d0/d22/classPHGenFitTrkProp.html#a31e50e42d62a2bf32763652b39dc95b8" title="PHGenFitTrkProp::Process" alt="" coords="218,73,410,101"/>
-<area shape="rect" id="node4" href="$d1/d04/classBDiJetModule.html#a8f01ada101f7e91cf05e12bbf420d192" title="BDiJetModule::process\l_event" alt="" coords="228,125,400,169"/>
-<area shape="rect" id="node5" href="$de/d25/classPHGenFitTrkFitter.html#a2e088a68ab24c5b89b902205f877f9d6" title="Process Event, called for each event." alt="" coords="241,193,387,237"/>
-<area shape="rect" id="node6" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8861dffacdf05e47efc97b65adbafe32" title="Process Event, called for each event." alt="" coords="209,261,419,305"/>
-<area shape="rect" id="node7" href="$d8/dd4/classPHHoughSeeding.html#a1904449fa2b17c24a1a1eeb1f8bc9be1" title="code to seed vertex from initial tracking using a broad search window" alt="" coords="208,329,420,357"/>
-<area shape="rect" id="node8" href="$d8/dd4/classPHHoughSeeding.html#a8b2c7b85b2bcbe054e071dd6ff624f7d" title="PHHoughSeeding::Process" alt="" coords="468,329,667,357"/>
-</map>

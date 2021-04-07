@@ -1,6 +1,0 @@
-<map id="PHG4SpacalDetector::get_geom" name="PHG4SpacalDetector::get_geom">
-<area shape="rect" id="node2" href="$de/dea/classPHG4SpacalSteppingAction.html#a7b0a6cccddba630d23345aeb7f5289c0" title="PHG4SpacalSteppingAction\l::get_zmax" alt="" coords="216,5,423,49"/>
-<area shape="rect" id="node3" href="$de/dea/classPHG4SpacalSteppingAction.html#a1c2df9729591e53ff47876e8e9359375" title="stepping action" alt="" coords="471,65,677,109"/>
-<area shape="rect" id="node4" href="$de/dea/classPHG4SpacalSteppingAction.html#a582170294475822a6d6eda0641df4212" title="PHG4SpacalSteppingAction\l::get_zmin" alt="" coords="216,125,423,169"/>
-<area shape="rect" id="node5" href="$d6/dca/classPHG4SpacalSubsystem.html#a90194add98a02adc7715f79919371211" title="init" alt="" coords="230,193,409,237"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="PHParametersContainer::SaveToNodeTree" name="PHParametersContainer::SaveToNodeTree">
-<area shape="rect" id="node2" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html#a9c1bbc352e506b9b598fcd4d34ea279e" title="PHG4DetectorGroupSubsystem\l::InitRun" alt="" coords="237,5,470,49"/>
-<area shape="rect" id="node3" href="$da/d11/classPHParameterContainerInterface.html#aca8df1df6b4d8744ae9abaeec7bca577" title="PHParameterContainerInterface\l::SaveToNodeTree" alt="" coords="236,73,471,117"/>
-<area shape="rect" id="node4" href="$df/d5e/classPHG4BlockCellReco.html#aa62bbe31407e5e4c80f541dbd5c18aa4" title="module initialization" alt="" coords="524,39,685,83"/>
-<area shape="rect" id="node5" href="$d5/dd0/classPHG4CylinderCellReco.html#ada869396a39d11561fcbb85572446310" title="module initialization" alt="" coords="519,107,691,151"/>
-</map>

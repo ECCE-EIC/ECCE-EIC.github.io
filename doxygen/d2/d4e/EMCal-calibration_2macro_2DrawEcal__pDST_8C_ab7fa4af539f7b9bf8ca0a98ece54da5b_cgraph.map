@@ -1,6 +1,0 @@
-<map id="DrawEcal_pDST" name="DrawEcal_pDST">
-<area shape="rect" id="node2" href="$d8/d79/Prototype2_2EMCal_2macros_2SetOKStyle_8C.html#a35318d2178324047bb14989874dbc9b6" title="SetOKStyle" alt="" coords="223,5,320,33"/>
-<area shape="rect" id="node3" href="$d4/da1/EMCal-analysis_2macro_2DrawEcal__pDST_8C.html#a07f0d102ce62ee21f96af549ccd9b7c7" title="TrackProjection_Checks" alt="" coords="181,57,361,85"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="409,57,513,85"/>
-<area shape="rect" id="node5" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="561,57,640,85"/>
-</map>

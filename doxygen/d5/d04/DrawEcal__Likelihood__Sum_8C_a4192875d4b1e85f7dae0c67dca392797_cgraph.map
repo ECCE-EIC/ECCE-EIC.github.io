@@ -1,6 +1,0 @@
-<map id="RejectionCurve_PiProtonPos" name="RejectionCurve_PiProtonPos">
-<area shape="rect" id="node2" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#ad7eecc5744c14e250ed6bf2506e15435" title="ExtractRejCurve" alt="" coords="261,5,391,33"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="274,57,378,85"/>
-<area shape="rect" id="node3" href="$d9/d9e/evDisplay_8C.html#a4e8c1369ad3f4b66e1057a8bf987b94b" title="signal" alt="" coords="447,5,509,33"/>
-<area shape="rect" id="node5" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="439,57,517,85"/>
-</map>

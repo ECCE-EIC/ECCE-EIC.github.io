@@ -1,9 +1,0 @@
-<map id="PHParameters::ReadFromFile" name="PHParameters::ReadFromFile">
-<area shape="rect" id="node2" href="$d1/d8d/macros_2blob_2master_2macros_2g4simulations_2G4__CEmc__Spacal_8C.html#a494d0a819d301d395ff322741e9543e0" title="CEMC_Clusters" alt="" coords="307,5,429,33"/>
-<area shape="rect" id="node3" href="$d1/d8d/macros_2blob_2master_2macros_2g4simulations_2G4__CEmc__Spacal_8C.html#a46a52c955e8d2078c58d4d7db471cc43" title="CEMC_Towers" alt="" coords="311,57,425,85"/>
-<area shape="rect" id="node4" href="$d5/d60/prototype_2blob_2master_2macros_2prototype2_2Fun4All__TestBeam_8C.html#abaf0345d7bac400cc60171d17dda1278" title="Fun4All_TestBeam" alt="" coords="296,109,440,137"/>
-<area shape="rect" id="node5" href="$d3/dba/classRawTowerDeadMapLoader.html#a0352293d0fc27e48fecf34f52ad13d12" title="RawTowerDeadMapLoader\l::InitRun" alt="" coords="268,161,468,205"/>
-<area shape="rect" id="node6" href="$d2/d07/classPHG4InttDeadMapLoader.html#aae7d68eee7de4b31af5b0cf22f10b028" title="PHG4InttDeadMapLoader\l::InitRun" alt="" coords="272,229,464,273"/>
-<area shape="rect" id="node7" href="$d5/d29/classPHG4DetectorSubsystem.html#a6f07e624d8f4ca680f792b0fd0a93190" title="PHG4DetectorSubsystem\l::ReadParamsFromFile" alt="" coords="272,297,464,341"/>
-<area shape="rect" id="node8" href="$d5/d29/classPHG4DetectorSubsystem.html#a3c2ac5dc436f84e09140b6e2a1be8ff9" title="PHG4DetectorSubsystem\l::InitRun" alt="" coords="516,297,708,341"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="JetHepMCLoader::getHistoManager" name="JetHepMCLoader::getHistoManager">
-<area shape="rect" id="node2" href="$da/d29/classFun4AllServer.html#af5885837658eb26f98dbc697b58747a7" title="Fun4AllServer::getHistoManager" alt="" coords="252,5,493,33"/>
-<area shape="rect" id="node4" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="282,57,463,85"/>
-<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="553,145,706,173"/>
-<area shape="rect" id="node6" href="$da/d29/classFun4AllServer.html#a377f113767f24ce6413e678752ed7f53" title="Fun4AllServer::registerHisto\lManager" alt="" coords="267,109,478,153"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="541,89,717,117"/>
-</map>

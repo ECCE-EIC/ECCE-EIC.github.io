@@ -1,7 +1,0 @@
-<map id="PHGenFit::Measurement::getMeasurement" name="PHGenFit::Measurement::getMeasurement">
-<area shape="rect" id="node2" href="$d7/dd5/classPHGenFit_1_1Track.html#a88666b0914fa412f3c139c6acb07a55b" title="Add measurement." alt="" coords="239,5,493,33"/>
-<area shape="rect" id="node3" href="$de/d25/classPHGenFitTrkFitter.html#ac5276a4b02f10308d87ae16dac18d765" title="PHGenFitTrkFitter::\lReFitTrack" alt="" coords="293,57,439,101"/>
-<area shape="rect" id="node5" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8322a858cfb89cab60e4a04e7f82745b" title="TpcPrototypeGenFitTrkFitter\l::ReFitTrack" alt="" coords="261,125,471,169"/>
-<area shape="rect" id="node4" href="$de/d25/classPHGenFitTrkFitter.html#a2e088a68ab24c5b89b902205f877f9d6" title="Process Event, called for each event." alt="" coords="573,57,719,101"/>
-<area shape="rect" id="node6" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8861dffacdf05e47efc97b65adbafe32" title="Process Event, called for each event." alt="" coords="541,125,751,169"/>
-</map>

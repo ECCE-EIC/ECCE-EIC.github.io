@@ -1,8 +1,0 @@
-<map id="PHG4ForwardHcalDetector::ConstructMe" name="PHG4ForwardHcalDetector::ConstructMe">
-<area shape="rect" id="node2" href="$d5/d6b/classPHG4ForwardHcalDisplayAction.html#a16d0bda05f718846d77b21469846522b" title="PHG4ForwardHcalDisplayAction\l::AddVolume" alt="" coords="515,13,749,57"/>
-<area shape="rect" id="node3" href="$d9/d50/classPHG4ForwardHcalDetector.html#aecc0b0e93fa263ec209542788a36009f" title="PHG4ForwardHcalDetector\l::ConstructTower" alt="" coords="260,43,461,87"/>
-<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="537,141,727,169"/>
-<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="521,239,743,267"/>
-<area shape="rect" id="node6" href="$d9/d50/classPHG4ForwardHcalDetector.html#ac30f8638b61c34837e38f1cd9af6f39d" title="PHG4ForwardHcalDetector\l::ParseParametersFromTable" alt="" coords="255,163,467,207"/>
-<area shape="rect" id="node7" href="$d9/d50/classPHG4ForwardHcalDetector.html#a9dd81373cdc47fc164202c00364492ff" title="PHG4ForwardHcalDetector\l::PlaceTower" alt="" coords="260,231,461,275"/>
-</map>

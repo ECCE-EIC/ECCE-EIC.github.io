@@ -1,8 +1,0 @@
-<map id="HelixHoughBin::get_neighbors_global_bin" name="HelixHoughBin::get_neighbors_global_bin">
-<area shape="rect" id="node2" href="$d2/d8f/classPHInitZVertexing.html#a412ae0d20c96e3caf14e1e908818a0bf" title="PHInitZVertexing::prune_xy" alt="" coords="225,5,432,33"/>
-<area shape="rect" id="node4" href="$d1/d97/classPHPatternReco.html#aa00d0b2fe173683c74768f192665dfe6" title="PHPatternReco::prune_xy" alt="" coords="233,109,425,137"/>
-<area shape="rect" id="node6" href="$d1/d97/classPHPatternReco.html#a176bfef91a98a5bbfdfeba918dd913af" title="PHPatternReco::prune_z" alt="" coords="237,161,420,189"/>
-<area shape="rect" id="node7" href="$d2/d8f/classPHInitZVertexing.html#a08a21d406d640d5f9281f37b67817cb9" title="PHInitZVertexing::prune_z" alt="" coords="230,57,427,85"/>
-<area shape="rect" id="node3" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="480,43,675,71"/>
-<area shape="rect" id="node5" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="487,116,668,160"/>
-</map>

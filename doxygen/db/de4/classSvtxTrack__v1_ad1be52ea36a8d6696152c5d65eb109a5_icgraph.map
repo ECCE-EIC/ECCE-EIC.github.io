@@ -1,5 +1,0 @@
-<map id="SvtxTrack_v1::get_p" name="SvtxTrack_v1::get_p">
-<area shape="rect" id="node2" href="$db/db5/classDISKinematicsReco.html#ad801f1794841d3657aa4c0b2da334743" title="DISKinematicsReco::\lInsertCandidateFromCluster" alt="" coords="209,5,420,49"/>
-<area shape="rect" id="node3" href="$db/db5/classDISKinematicsReco.html#a4ea9fa36ccd955fd7cdfa7e7eaf1e534" title="DISKinematicsReco::\lCollectEmCandidatesFromCluster" alt="" coords="468,5,715,49"/>
-<area shape="rect" id="node4" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="763,5,923,49"/>
-</map>

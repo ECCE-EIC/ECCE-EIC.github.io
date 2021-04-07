@@ -1,7 +1,0 @@
-<map id="TrackProjectorPlaneECAL::set_detector" name="TrackProjectorPlaneECAL::set_detector">
-<area shape="rect" id="node2" href="$da/d73/classExclusiveReco.html#a48d900fd8ad00d0b252204dcbb941bc7" title="ExclusiveReco::AddInvariant\lMassInformation" alt="" coords="243,5,456,49"/>
-<area shape="rect" id="node4" href="$db/db5/classDISKinematicsReco.html#ad801f1794841d3657aa4c0b2da334743" title="DISKinematicsReco::\lInsertCandidateFromCluster" alt="" coords="244,73,455,117"/>
-<area shape="rect" id="node3" href="$da/d73/classExclusiveReco.html#a026079694f2af119464bf5955c27a01c" title="ExclusiveReco::process\l_event" alt="" coords="538,5,717,49"/>
-<area shape="rect" id="node5" href="$db/db5/classDISKinematicsReco.html#a4ea9fa36ccd955fd7cdfa7e7eaf1e534" title="DISKinematicsReco::\lCollectEmCandidatesFromCluster" alt="" coords="504,73,751,117"/>
-<area shape="rect" id="node6" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="799,73,959,117"/>
-</map>

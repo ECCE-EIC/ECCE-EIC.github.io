@@ -1,5 +1,0 @@
-<map id="SoftLeptonTaggingTruth::flag" name="SoftLeptonTaggingTruth::flag">
-<area shape="rect" id="node2" href="$d0/dc8/classSoftLeptonTaggingTruth.html#ad13ed8517e5263712a1b3974cad31a9a" title="SoftLeptonTaggingTruth\l::Init" alt="" coords="233,5,413,49"/>
-<area shape="rect" id="node3" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a9b475dcc43f1803b5e9b56814d0b5042" title="SoftLeptonTaggingTruth\l::InitRun" alt="" coords="233,73,413,117"/>
-<area shape="rect" id="node4" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a152a3015fe9e7c089637c981a45787fe" title="SoftLeptonTaggingTruth\l::process_event" alt="" coords="233,141,413,185"/>
-</map>

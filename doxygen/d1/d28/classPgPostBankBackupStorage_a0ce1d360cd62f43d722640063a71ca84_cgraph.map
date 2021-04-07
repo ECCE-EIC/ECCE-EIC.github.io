@@ -1,5 +1,0 @@
-<map id="PgPostBankBackupStorage::isValid" name="PgPostBankBackupStorage::isValid">
-<area shape="rect" id="node2" href="$db/d56/classPgPostBankBackupStorage_1_1BankHeader.html#ab95f4ceea5bb4386cf8cd8aaae7ff48a" title="PgPostBankBackupStorage\l::BankHeader::getBankID" alt="" coords="264,5,467,49"/>
-<area shape="rect" id="node3" href="$db/d56/classPgPostBankBackupStorage_1_1BankHeader.html#a3e1c14e09e6d6158055ad2347169038a" title="PgPostBankBackupStorage\l::BankHeader::getRId" alt="" coords="264,73,467,117"/>
-<area shape="rect" id="node4" href="$db/d56/classPgPostBankBackupStorage_1_1BankHeader.html#a4bc18660fad5dcf5d7907c63052efed4" title="PgPostBankBackupStorage\l::BankHeader::getTableName" alt="" coords="256,141,475,185"/>
-</map>

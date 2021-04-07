@@ -1,6 +1,0 @@
-<map id="PHFieldConfigv1::identify" name="PHFieldConfigv1::identify">
-<area shape="rect" id="node2" href="$d9/d8c/classPHFieldConfig.html#a4586212355d0920215c53aace6f87f1c" title="PHFieldConfig::get\l_field_config_description" alt="" coords="244,5,432,49"/>
-<area shape="rect" id="node3" href="$d2/db5/classPHFieldConfigv1.html#a2d5acaeb729d6ee4e4cf6b40528f9730" title="PHFieldConfigv1::get\l_filename" alt="" coords="257,73,419,117"/>
-<area shape="rect" id="node4" href="$d2/db5/classPHFieldConfigv1.html#aa47836a497244786ae1f3021799a5862" title="PHFieldConfigv1::get\l_magfield_rescale" alt="" coords="257,141,419,185"/>
-<area shape="rect" id="node5" href="$d2/db5/classPHFieldConfigv1.html#a50a8221b145e13b44c690a66b09b0b69" title="isValid returns non zero if object contains vailid data" alt="" coords="246,209,430,237"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="PHG4SpacalPrototype4Detector::Construct_Fiber" name="PHG4SpacalPrototype4Detector::Construct_Fiber">
-<area shape="rect" id="node2" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#acd2b685156c18c4f10136f6cd87a167f" title="Fully projective spacal with 2D tapered modules. To speed up construction, same&#45;length fiber is used ..." alt="" coords="289,5,556,65"/>
-<area shape="rect" id="node3" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#a1e97508c5325d68d3164cf8076e3eef6" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="604,13,840,57"/>
-<area shape="rect" id="node4" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#a89b6e3c050233502c4d15065661fa5b8" title="PHG4SpacalPrototype4Detector\l::Construct_AzimuthalSeg" alt="" coords="888,13,1124,57"/>
-<area shape="rect" id="node5" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#aed2a21ff80c7f387832f684e8ee7ee16" title="PHG4SpacalPrototype4Detector\l::ConstructMe" alt="" coords="1172,13,1408,57"/>
-</map>

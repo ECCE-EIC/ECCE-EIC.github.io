@@ -1,8 +1,0 @@
-<map id="PHInitZVertexing::shift_coordinate_system" name="PHInitZVertexing::shift_coordinate_system">
-<area shape="rect" id="node2" href="$da/d87/classSimpleHit3D.html#a7f9d236c9f34d7b37abdf76cbcdcc325" title="SimpleHit3D::get_x" alt="" coords="227,5,379,33"/>
-<area shape="rect" id="node3" href="$da/d87/classSimpleHit3D.html#a004f4dc96baa6789bb599036471d1e0d" title="SimpleHit3D::get_y" alt="" coords="227,57,379,85"/>
-<area shape="rect" id="node4" href="$da/d87/classSimpleHit3D.html#a32bb6a50aea56d16a2b81b4e5c02ffc0" title="SimpleHit3D::get_z" alt="" coords="227,109,378,137"/>
-<area shape="rect" id="node5" href="$da/d87/classSimpleHit3D.html#a98fa97a2342d92664c8d209abcb203a0" title="SimpleHit3D::set_x" alt="" coords="227,161,378,189"/>
-<area shape="rect" id="node6" href="$da/d87/classSimpleHit3D.html#a2a84d48f124328807104d2777b096e76" title="SimpleHit3D::set_y" alt="" coords="227,213,378,241"/>
-<area shape="rect" id="node7" href="$da/d87/classSimpleHit3D.html#aa81b4fd05eb07529e4576b82a2887f4c" title="SimpleHit3D::set_z" alt="" coords="228,265,377,293"/>
-</map>

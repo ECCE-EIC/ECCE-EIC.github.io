@@ -1,6 +1,0 @@
-<map id="PHG4CrystalCalorimeterDetector::ConstructTower" name="PHG4CrystalCalorimeterDetector::ConstructTower">
-<area shape="rect" id="node2" href="$d6/d9e/classPHG4CrystalCalorimeterDisplayAction.html#a858b3a05db015fe4274a08500bfdff85" title="PHG4CrystalCalorimeterDisplay\lAction::AddVolume" alt="" coords="302,5,537,49"/>
-<area shape="rect" id="node3" href="$d1/deb/classPHG4CrystalCalorimeterDetector.html#a03407598e50f0dc8ab56fc056ba1a69e" title="PHG4CrystalCalorimeterDetector\l::GetDisplayAction" alt="" coords="297,73,541,117"/>
-<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="309,141,530,169"/>
-<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="325,193,514,221"/>
-</map>

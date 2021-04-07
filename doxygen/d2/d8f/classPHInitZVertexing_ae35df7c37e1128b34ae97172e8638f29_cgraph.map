@@ -1,9 +1,0 @@
-<map id="PHInitZVertexing::find_track_candidates_xy" name="PHInitZVertexing::find_track_candidates_xy">
-<area shape="rect" id="node2" href="$d9/d4d/classHelixHoughBin.html#a49c3219a2d689a69350ffb97a2415d7d" title="HelixHoughBin::get\l_count" alt="" coords="234,5,387,49"/>
-<area shape="rect" id="node3" href="$d9/d4d/classHelixHoughBin.html#ad00373d15efa2722a03e6cc76e2032bc" title="HelixHoughBin::get\l_d_bin" alt="" coords="234,73,387,117"/>
-<area shape="rect" id="node4" href="$d9/d4d/classHelixHoughBin.html#a1e33921bcde6321f5442879646059df1" title="HelixHoughBin::get\l_dzdl_bin" alt="" coords="234,141,387,185"/>
-<area shape="rect" id="node5" href="$d9/d4d/classHelixHoughBin.html#adcef82dc7ce2efa75672607c22755a91" title="HelixHoughBin::get\l_kappa_bin" alt="" coords="234,209,387,253"/>
-<area shape="rect" id="node6" href="$d9/d4d/classHelixHoughBin.html#ae259c6ef080bcfb57881c9a8bd1082c9" title="HelixHoughBin::get\l_phi_bin" alt="" coords="234,277,387,321"/>
-<area shape="rect" id="node7" href="$d9/d4d/classHelixHoughBin.html#ad8678a01fc4850ea4dd5a91ffb629097" title="HelixHoughBin::get\l_z0_bin" alt="" coords="234,345,387,389"/>
-<area shape="rect" id="node8" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="223,413,399,441"/>
-</map>

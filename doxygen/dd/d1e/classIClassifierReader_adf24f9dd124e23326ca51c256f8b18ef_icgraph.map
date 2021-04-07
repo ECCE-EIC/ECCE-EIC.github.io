@@ -1,6 +1,0 @@
-<map id="IClassifierReader::IsStatusClean" name="IClassifierReader::IsStatusClean">
-<area shape="rect" id="node2" href="$d3/d2e/classReadLD.html#aed8859d784ab2a23dd16a2554210087d" title="ReadLD::GetMvaValue" alt="" coords="227,5,397,33"/>
-<area shape="rect" id="node3" href="$d9/ddb/classReadFisher.html#a403ae0f326dea81cbf2587c9bf3bd6b2" title="ReadFisher::GetMvaValue" alt="" coords="215,57,409,85"/>
-<area shape="rect" id="node4" href="$d5/db5/classReadLikelihoodD.html#aa76f58dd9f4f43cbca19a6a8a12a0d93" title="ReadLikelihoodD::GetMvaValue" alt="" coords="196,109,428,137"/>
-<area shape="rect" id="node5" href="$d7/d7d/classReadCuts.html#a09a7ec20b241f9781560a8797fef349c" title="ReadCuts::GetMvaValue" alt="" coords="220,161,404,189"/>
-</map>

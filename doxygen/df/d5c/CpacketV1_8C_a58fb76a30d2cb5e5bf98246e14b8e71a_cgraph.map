@@ -1,8 +1,0 @@
-<map id="makePacketV1Hdr" name="makePacketV1Hdr">
-<area shape="rect" id="node2" href="$dc/d93/Cpacket_8C.html#adaa17307ec8663889e159343ad080c33" title="setPacketEndianism" alt="" coords="199,7,355,35"/>
-<area shape="rect" id="node5" href="$de/d93/Cpacket_8h.html#a59a4c0cd1a20f7bbd842c7fd031e5da5" title="setPacketHdrLength" alt="" coords="405,57,561,85"/>
-<area shape="rect" id="node6" href="$de/d93/Cpacket_8h.html#abc09c73ad6bf5d8c9f75e3191dc44750" title="setPacketHdrVersion" alt="" coords="403,109,563,137"/>
-<area shape="rect" id="node7" href="$de/d93/Cpacket_8h.html#a0d85b55cb88b9ae0a85efb7d3fbb25bb" title="setPacketLength" alt="" coords="211,161,343,189"/>
-<area shape="rect" id="node3" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="403,5,564,33"/>
-<area shape="rect" id="node4" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="612,84,731,112"/>
-</map>

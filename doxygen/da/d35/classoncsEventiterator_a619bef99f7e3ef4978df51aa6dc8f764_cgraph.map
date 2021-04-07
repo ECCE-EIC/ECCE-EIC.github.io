@@ -1,6 +1,0 @@
-<map id="oncsEventiterator::getNextEvent" name="oncsEventiterator::getNextEvent">
-<area shape="rect" id="node2" href="$da/d79/classoncsBuffer.html#a77066b060f5989c17b0d325fdbd6c6f9" title="oncsBuffer::getEvent" alt="" coords="203,5,367,33"/>
-<area shape="rect" id="node4" href="$da/d35/classoncsEventiterator.html#a1b6f10b1829c89ede385cd660c1eb9fb" title="oncsEventiterator::\lread_next_buffer" alt="" coords="210,57,359,101"/>
-<area shape="rect" id="node3" href="$d5/da5/classEvent.html#a4d541637983b2bbb8fc19aaae736b126" title="Event::getEvtLength" alt="" coords="415,5,573,33"/>
-<area shape="rect" id="node5" href="$da/d79/classoncsBuffer.html#a6063c1e2b8917a3a47a9079e476a1ab7" title="oncsBuffer::i4swap" alt="" coords="419,65,569,93"/>
-</map>

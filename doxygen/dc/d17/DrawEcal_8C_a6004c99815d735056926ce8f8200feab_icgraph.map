@@ -1,9 +1,0 @@
-<map id="DrawCluster_AnaP" name="DrawCluster_AnaP">
-<area shape="rect" id="node2" href="$dc/d17/DrawEcal_8C.html#a6d8675559726c98566df80995e8709cb" title="DrawCluster_Linearality" alt="" coords="199,5,380,33"/>
-<area shape="rect" id="node3" href="$dc/d17/DrawEcal_8C.html#a2242b1f583b55d029e323e2fc94e10b8" title="DrawCluster_Res" alt="" coords="222,57,357,85"/>
-<area shape="rect" id="node4" href="$dc/d17/DrawEcal_8C.html#a6c111008951e2b139a24c7fc736b7096" title="DrawCluster_Res_2Fit" alt="" coords="206,109,373,137"/>
-<area shape="rect" id="node5" href="$dc/d17/DrawEcal_8C.html#ae42f43722953e01a097c045f7ac28ec3" title="DrawCluster_Res_2Fit\l_1DSpacalNoSVX" alt="" coords="206,161,373,205"/>
-<area shape="rect" id="node6" href="$dc/d17/DrawEcal_8C.html#a4e044e355d2e37a056492b616689b507" title="DrawCluster_Res_2Fit\l_1DSpacalNoSVX_Eta3" alt="" coords="201,229,377,273"/>
-<area shape="rect" id="node7" href="$dc/d17/DrawEcal_8C.html#a0b165c6aff910165400179b3bf34ddf1" title="DrawCluster_Res_2Fit\l_2DSpacalNoSVX" alt="" coords="206,297,373,341"/>
-<area shape="rect" id="node8" href="$dc/d17/DrawEcal_8C.html#a083327b21417b8b855bca63b32fa6dce" title="DrawCluster_Res_2Fit\l_Electron_NoSVX" alt="" coords="206,365,373,409"/>
-</map>

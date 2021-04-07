@@ -1,7 +1,0 @@
-<map id="PHG4Prototype3InnerHcalDetector::ConstructScintillatorBoxHiEta" name="PHG4Prototype3InnerHcalDetector::ConstructScintillatorBoxHiEta">
-<area shape="rect" id="node2" href="$d7/d98/classPHG4Prototype3InnerHcalDetector.html#abf97651e97b4115e6e35113fd361ad09" title="PHG4Prototype3InnerHcalDetector\l::ConstructScintiTile10" alt="" coords="309,5,565,49"/>
-<area shape="rect" id="node3" href="$d7/d98/classPHG4Prototype3InnerHcalDetector.html#ae9a99dafbd3fad8423e752f8642eff3a" title="PHG4Prototype3InnerHcalDetector\l::ConstructScintiTile11" alt="" coords="309,73,565,117"/>
-<area shape="rect" id="node4" href="$d7/d98/classPHG4Prototype3InnerHcalDetector.html#a9da1368b8d649c0dbe8e7e886c238098" title="PHG4Prototype3InnerHcalDetector\l::ConstructScintiTile12" alt="" coords="309,141,565,185"/>
-<area shape="rect" id="node5" href="$d7/d98/classPHG4Prototype3InnerHcalDetector.html#a9b56e0f2ffee714187c848c6c28cd9b8" title="PHG4Prototype3InnerHcalDetector\l::ConstructScintiTile9" alt="" coords="309,209,565,253"/>
-<area shape="rect" id="node6" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="327,277,548,305"/>
-</map>

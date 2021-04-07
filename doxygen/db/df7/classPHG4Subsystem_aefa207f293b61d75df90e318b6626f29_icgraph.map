@@ -1,4 +1,0 @@
-<map id="PHG4Subsystem::GetLogicalVolume" name="PHG4Subsystem::GetLogicalVolume">
-<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html#ab6b6eba8cf9c56ed03ad852326f0a5bb" title="construct method" alt="" coords="267,13,459,41"/>
-<area shape="rect" id="node3" href="$d1/d13/classPHG4PhenixDetector.html#a7ced94537389e83dbea5c2024ec617c5" title="this is called by geant to actually construct all detectors" alt="" coords="507,5,669,49"/>
-</map>

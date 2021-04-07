@@ -1,6 +1,0 @@
-<map id="PHG4CellDefs::SizeBinning::genkey" name="PHG4CellDefs::SizeBinning::genkey">
-<area shape="rect" id="node2" href="$d6/ddf/classPHG4CylinderCellContainer.html#a3ef325a3f7e2fa5b17677c758dee3f2c" title="PHG4CylinderCellContainer\l::AddCylinderCell" alt="" coords="256,5,463,49"/>
-<area shape="rect" id="node3" href="$db/d1c/classPHG4TpcPadPlaneSimple.html#aa3a99959cef017400747cf9c999deeef" title="PHG4TpcPadPlaneSimple\l::MapToPadPlane" alt="" coords="264,73,455,117"/>
-<area shape="rect" id="node4" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a56fe08cc093dc800b38ec28a7e971bf3" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="259,141,460,185"/>
-<area shape="rect" id="node5" href="$d5/dd0/classPHG4CylinderCellReco.html#acd9297cbac172c726c8da55f875a824a" title="event processing" alt="" coords="273,209,445,253"/>
-</map>

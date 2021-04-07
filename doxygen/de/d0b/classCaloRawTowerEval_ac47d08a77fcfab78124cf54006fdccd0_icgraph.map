@@ -1,4 +1,0 @@
-<map id="CaloRawTowerEval::all_truth_hits" name="CaloRawTowerEval::all_truth_hits">
-<area shape="rect" id="node2" href="$da/d7e/classCaloRawClusterEval.html#a6dca3e2823bfaf5a27c13c0c40c1ad82" title="what truth hits contributed energy to this tower?" alt="" coords="225,5,380,49"/>
-<area shape="rect" id="node3" href="$dd/d75/classJetRecoEval.html#a83e004c6c55ecf277a13a046d90790a3" title="which truth hits contributed to this reconstructed jet?" alt="" coords="428,44,625,72"/>
-</map>

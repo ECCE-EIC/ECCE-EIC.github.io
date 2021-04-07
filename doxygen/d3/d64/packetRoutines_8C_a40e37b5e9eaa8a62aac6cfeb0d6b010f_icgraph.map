@@ -1,6 +1,0 @@
-<map id="storePacketHits" name="storePacketHits">
-<area shape="rect" id="node2" href="$da/d59/classoEvent.html#a5e0a819b25ded38741cc78c0b84c47e1" title="oEvent::addUnstructPacketData" alt="" coords="179,5,413,33"/>
-<area shape="rect" id="node5" href="$df/d06/fakeFrame_8C.html#a747f31be4098f000504011767116e41c" title="fakeFrame" alt="" coords="250,57,342,85"/>
-<area shape="rect" id="node3" href="$de/dc8/classoBuffer.html#ac574c2c3e93c114ac6934e45fa7f9b7f" title="oBuffer::addUnstructPacketData" alt="" coords="461,5,699,33"/>
-<area shape="rect" id="node4" href="$df/d36/classPHRawOManager.html#aa67d8808f730acc0b88554b5ce09e3bc" title="PHRawOManager::write" alt="" coords="747,5,927,33"/>
-</map>

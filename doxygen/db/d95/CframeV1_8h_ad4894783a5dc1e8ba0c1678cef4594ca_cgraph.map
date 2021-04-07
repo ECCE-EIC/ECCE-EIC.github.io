@@ -1,7 +1,0 @@
-<map id="findFrameErrorStartV1" name="findFrameErrorStartV1">
-<area shape="rect" id="node2" href="$db/d95/CframeV1_8h.html#ae9c2c60084c8cf24f3a18cac08452196" title="getFrameErrorLengthV1" alt="" coords="225,5,407,33"/>
-<area shape="rect" id="node3" href="$dd/d35/Cframe_8h.html#a33030fea4beb4b49416b60d68f9d32db" title="getFrameLength" alt="" coords="469,57,599,85"/>
-<area shape="rect" id="node5" href="$d1/dce/Cframe_8C.html#a2016b24107fe3130e0e1124fe30e2729" title="getFramePadding" alt="" coords="247,109,385,137"/>
-<area shape="rect" id="node4" href="$d0/db6/formatError_8C.html#a5e3e311e06d8c0240b4e42af658900fb" title="setFrameError" alt="" coords="661,84,779,112"/>
-<area shape="rect" id="node6" href="$dd/d35/Cframe_8h.html#a9865ee8e25f33106f015f2167da9571b" title="getFrameHdrVersion" alt="" coords="455,109,613,137"/>
-</map>

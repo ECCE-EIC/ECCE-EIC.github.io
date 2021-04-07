@@ -1,9 +1,0 @@
-<map id="Packet_cdevir::decode" name="Packet_cdevir::decode">
-<area shape="rect" id="node2" href="$dc/d93/Cpacket_8C.html#ac5193834fcf576bc46dcee466b3ae95f" title="findPacketDataStart" alt="" coords="239,57,395,85"/>
-<area shape="rect" id="node8" href="$de/dce/classPacket__A.html#ae6a3e5c6a06bad8a8bdc8f4b68d4be3a" title="Packet_A::fix_endianess" alt="" coords="225,109,408,137"/>
-<area shape="rect" id="node3" href="$dc/d93/Cpacket_8C.html#a29c44c21a6a00aa380a5fccd255f689c" title="getPacketDataDescrLength" alt="" coords="456,5,660,33"/>
-<area shape="rect" id="node6" href="$de/d93/Cpacket_8h.html#a00a03758ac2620086eda111809151cfd" title="getPacketHdrLength" alt="" coords="479,57,637,85"/>
-<area shape="rect" id="node7" href="$dc/d93/Cpacket_8C.html#af873472780d17d2304cb7d9ea6cb5cbb" title="validPacketHdr" alt="" coords="497,109,619,137"/>
-<area shape="rect" id="node4" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="708,57,869,85"/>
-<area shape="rect" id="node5" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="917,57,1036,85"/>
-</map>

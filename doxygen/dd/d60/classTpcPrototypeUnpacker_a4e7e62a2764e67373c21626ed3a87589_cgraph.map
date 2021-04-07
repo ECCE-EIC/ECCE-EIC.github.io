@@ -1,9 +1,0 @@
-<map id="TpcPrototypeUnpacker::InitField" name="TpcPrototypeUnpacker::InitField">
-<area shape="rect" id="node2" href="$df/d4d/classPHFieldUtility.html#a3afdd4e878d02b30b6f2c396e52b8e48" title="Get transient PHField from DST nodes. If not found, make a new one based on default_config." alt="" coords="231,75,404,119"/>
-<area shape="rect" id="node8" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="229,143,405,171"/>
-<area shape="rect" id="node3" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="453,31,641,59"/>
-<area shape="rect" id="node6" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="457,83,638,111"/>
-<area shape="rect" id="node7" href="$da/d29/classFun4AllServer.html#abcaf6825367e5db292ff795237bdcf62" title="Fun4AllServer::topNode" alt="" coords="457,135,638,163"/>
-<area shape="rect" id="node4" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="689,5,835,33"/>
-<area shape="rect" id="node5" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="693,57,831,85"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="Conversion::dist" name="Conversion::dist">
-<area shape="rect" id="node2" href="$d2/db8/classSvtxTrack.html#a6d8dace95bd6d93aa08d66c5e2c3ad85" title="SvtxTrack::begin_cluster_keys" alt="" coords="185,5,409,33"/>
-<area shape="rect" id="node3" href="$d0/d2c/classTrkrClusterContainer.html#a2b2eea90672ac17f6439c932d2a144ad" title="TrkrClusterContainer\l::findCluster" alt="" coords="216,57,379,101"/>
-<area shape="rect" id="node4" href="$d6/dfa/classTrkrCluster.html#a7be7cdba7b854678e0519288b8021b2a" title="TrkrCluster::getX" alt="" coords="229,125,365,153"/>
-<area shape="rect" id="node5" href="$d6/dfa/classTrkrCluster.html#a526ac89c45b903df8890bd8b4d476e5c" title="TrkrCluster::getY" alt="" coords="230,177,365,205"/>
-<area shape="rect" id="node6" href="$d6/dfa/classTrkrCluster.html#a7d92784527cb537e382ffa0460e0f728" title="TrkrCluster::getZ" alt="" coords="229,229,365,257"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="SvtxHit_v1::identify" name="SvtxHit_v1::identify">
-<area shape="rect" id="node2" href="$d4/ddb/classSvtxHit__v1.html#acd8a3d1a0069889240cf56aea183b2f6" title="SvtxHit_v1::get_adc" alt="" coords="212,5,368,33"/>
-<area shape="rect" id="node3" href="$d4/ddb/classSvtxHit__v1.html#a885955ffc36c47a195fa3783aa9a4177" title="SvtxHit_v1::get_cellid" alt="" coords="207,57,373,85"/>
-<area shape="rect" id="node4" href="$d4/ddb/classSvtxHit__v1.html#a6b42f90e122b7d2bd33acb0768ac6ed3" title="SvtxHit_v1::get_e" alt="" coords="220,109,360,137"/>
-<area shape="rect" id="node5" href="$d4/ddb/classSvtxHit__v1.html#a2f7dc481689b9c996c6fc2867f66345f" title="SvtxHit_v1::get_id" alt="" coords="218,161,362,189"/>
-<area shape="rect" id="node6" href="$d4/ddb/classSvtxHit__v1.html#ae6e20de92f458ced7a2d276810ca2865" title="SvtxHit_v1::get_layer" alt="" coords="207,213,373,241"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="CylinderGeom_Mvtx::get_NZ" name="CylinderGeom_Mvtx::get_NZ">
-<area shape="rect" id="node2" href="$df/d9b/classCylinderGeom__Mvtx.html#a57c4360f58914dd88fabd4b3001e49b8" title="CylinderGeom_Mvtx::\lget_local_coords_from_pixel" alt="" coords="219,5,429,49"/>
-<area shape="rect" id="node5" href="$de/d4d/classPHG4MvtxHitReco.html#afae36034dbc6416433dbbd401e71f26b" title="event processing" alt="" coords="483,65,687,109"/>
-<area shape="rect" id="node6" href="$df/d9b/classCylinderGeom__Mvtx.html#ac4abb4cdffed9d08997a74e5bda7d1f9" title="CylinderGeom_Mvtx::\lget_pixel_from_local\l_coords" alt="" coords="241,125,407,185"/>
-<area shape="rect" id="node3" href="$dc/d12/classMvtxClusterizer.html#a1aa96e33d67d25815d5b5812566cc5b7" title="MvtxClusterizer::ClusterMvtx" alt="" coords="477,13,693,41"/>
-<area shape="rect" id="node4" href="$dc/d12/classMvtxClusterizer.html#a2b88d21ed3595b07eb7f807003ec2843" title="event processing" alt="" coords="741,5,928,49"/>
-</map>

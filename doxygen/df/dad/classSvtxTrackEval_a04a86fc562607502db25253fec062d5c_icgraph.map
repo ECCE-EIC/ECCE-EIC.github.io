@@ -1,9 +1,0 @@
-<map id="SvtxTrackEval::get_errors" name="SvtxTrackEval::get_errors">
-<area shape="rect" id="node2" href="$d4/d21/classSvtxVertexEval.html#a1ebeddcda2f0bb759bf1727ee293f86c" title="SvtxVertexEval::get\l_errors" alt="" coords="200,76,355,120"/>
-<area shape="rect" id="node3" href="$d3/ded/classSvtxEvalStack.html#a37bdeee478ac7874effc425509510932" title="SvtxEvalStack::get\l_errors" alt="" coords="403,76,552,120"/>
-<area shape="rect" id="node4" href="$d8/d98/classpsTOFTimezeroEval.html#a571a58d07484b35542326f91da787f2d" title="Called at the end of all processing." alt="" coords="611,5,799,33"/>
-<area shape="rect" id="node5" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a7737db3a0946e2b5c2e2b69aff0e8cac" title="Called at the end of all processing." alt="" coords="600,57,809,85"/>
-<area shape="rect" id="node6" href="$d6/d11/classSvtxEvaluator.html#a9354537c4108d828d631cef96526fc9f" title="Called at the end of all processing." alt="" coords="630,109,779,137"/>
-<area shape="rect" id="node7" href="$d3/d22/classJetTruthEval.html#a427a42d935036e7f3ca9176f93f7acf5" title="get a count of the errors discovered thus far" alt="" coords="615,161,795,189"/>
-<area shape="rect" id="node8" href="$dd/d75/classJetRecoEval.html#a148db6601c00c183ff9d499f672b7562" title="get a count of the errors discovered thus far" alt="" coords="857,161,1036,189"/>
-</map>

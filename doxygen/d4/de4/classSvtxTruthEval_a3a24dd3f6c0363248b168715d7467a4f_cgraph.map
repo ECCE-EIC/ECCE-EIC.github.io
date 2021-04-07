@@ -1,9 +1,0 @@
-<map id="SvtxTruthEval::all_truth_hits" name="SvtxTruthEval::all_truth_hits">
-<area shape="rect" id="node2" href="$d4/d30/classPHG4HitContainer.html#aec01041c4b9347f93832704e142b2439" title="return all hits matching a given detid" alt="" coords="192,5,393,33"/>
-<area shape="rect" id="node3" href="$d4/de4/classSvtxTruthEval.html#ae7550493b6ee8785fdbae87a4d893f8b" title="SvtxTruthEval::has\l_node_pointers" alt="" coords="219,57,366,101"/>
-<area shape="rect" id="node4" href="$d4/de4/classSvtxTruthEval.html#ae02589debf7ffa219d6b8aff732d5f2f" title="SvtxTruthEval::is_g4hit\l_from_particle" alt="" coords="205,125,381,169"/>
-<area shape="rect" id="node5" href="$dc/d23/classBaseTruthEval.html#ac0e4471cf9a8a877339f46ba903d0c14" title="was this truth hit left by this particle?" alt="" coords="441,125,621,169"/>
-<area shape="rect" id="node6" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="669,81,868,109"/>
-<area shape="rect" id="node7" href="$d3/d9e/classPHG4Hit.html#ac19cdd97dbd9b8154b8012ec0de01f76" title="PHG4Hit::get_trkid" alt="" coords="695,133,842,161"/>
-<area shape="rect" id="node8" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="675,185,863,229"/>
-</map>

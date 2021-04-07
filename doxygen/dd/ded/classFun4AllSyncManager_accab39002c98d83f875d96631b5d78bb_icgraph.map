@@ -1,5 +1,0 @@
-<map id="Fun4AllSyncManager::CurrentRun" name="Fun4AllSyncManager::CurrentRun">
-<area shape="rect" id="node2" href="$db/d1f/classFun4AllOscarInputManager.html#a6fbe420ea4972e895f4061bb94ab9d77" title="Fun4AllOscarInputManager\l::fileopen" alt="" coords="224,5,429,49"/>
-<area shape="rect" id="node3" href="$d6/d6f/classFun4AllHepMCInputManager.html#aaf891596a876957d656c23ea03b39f1a" title="Fun4AllHepMCInputManager\l::fileopen" alt="" coords="219,73,434,117"/>
-<area shape="rect" id="node4" href="$df/d43/classFun4AllDummyInputManager.html#a3863cb07576f56e8e514ae272b322679" title="Fun4AllDummyInputManager\l::setSyncManager" alt="" coords="217,141,436,185"/>
-</map>

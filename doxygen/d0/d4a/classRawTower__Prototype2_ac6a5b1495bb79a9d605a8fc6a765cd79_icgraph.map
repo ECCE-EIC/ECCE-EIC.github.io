@@ -1,5 +1,0 @@
-<map id="RawTower_Prototype2::set_energy" name="RawTower_Prototype2::set_energy">
-<area shape="rect" id="node2" href="$df/df6/classGenericUnpackPRDF.html#a07303369cac3bff2085515d464dbb147" title="GenericUnpackPRDF::\lprocess_event" alt="" coords="237,5,403,49"/>
-<area shape="rect" id="node3" href="$da/d36/classCaloCalibration.html#af83bb94aa1707e4f0a2a8cf8f170a218" title="CaloCalibration::process\l_event" alt="" coords="227,73,413,117"/>
-<area shape="rect" id="node4" href="$db/d5f/classCaloUnpackPRDF.html#adbb270280eedd426c4d6f085f36e1ebc" title="CaloUnpackPRDF::process\l_event" alt="" coords="221,141,419,185"/>
-</map>

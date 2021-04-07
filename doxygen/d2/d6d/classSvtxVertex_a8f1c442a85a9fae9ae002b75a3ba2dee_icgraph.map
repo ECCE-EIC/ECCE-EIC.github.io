@@ -1,5 +1,0 @@
-<map id="SvtxVertex::set_ndof" name="SvtxVertex::set_ndof">
-<area shape="rect" id="node2" href="$d6/d17/classSVReco.html#a612f08751113c6ee34aec070b4634f63" title="SVReco::GFRVVtxToSvtxVertex" alt="" coords="216,5,443,33"/>
-<area shape="rect" id="node3" href="$dc/d41/classConversion.html#a2349b2e5589c919110092cc6eda31392" title="Conversion::PHG4VtxPoint\lToSvtxVertex" alt="" coords="229,57,429,101"/>
-<area shape="rect" id="node4" href="$dc/d41/classConversion.html#a232908ec95e6d7b3bfd8883d19885971" title="Uses the truth vertex and SVReco to improve the fit of reco1 and reco2. Uses." alt="" coords="491,65,723,93"/>
-</map>

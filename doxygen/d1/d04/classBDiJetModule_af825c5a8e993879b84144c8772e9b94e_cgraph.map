@@ -1,9 +1,0 @@
-<map id="BDiJetModule::FillVertexMap" name="BDiJetModule::FillVertexMap">
-<area shape="rect" id="node2" href="$db/dd7/classSvtxVertexMap.html#a65e7d8369010442e979db996dab6d3f7" title="SvtxVertexMap::begin" alt="" coords="268,5,437,33"/>
-<area shape="rect" id="node3" href="$db/dd7/classSvtxVertexMap.html#adfc0da95a91d44a58eb1d48fd10841a6" title="SvtxVertexMap::end" alt="" coords="274,57,431,85"/>
-<area shape="rect" id="node4" href="$d2/d6d/classSvtxVertex.html#a100758a84d82009a10de89721db160c6" title="SvtxVertex::get_error" alt="" coords="270,109,435,137"/>
-<area shape="rect" id="node5" href="$d2/d6d/classSvtxVertex.html#a233c6da9e4f023ee15b8d1298cde9ac3" title="SvtxVertex::get_x" alt="" coords="283,161,423,189"/>
-<area shape="rect" id="node6" href="$d2/d6d/classSvtxVertex.html#a2b5eda5e1b6f143c4963c63b249a432c" title="SvtxVertex::get_y" alt="" coords="283,213,423,241"/>
-<area shape="rect" id="node7" href="$d2/d6d/classSvtxVertex.html#acd46c82a2b067db8482f53280197239f" title="SvtxVertex::get_z" alt="" coords="283,265,422,293"/>
-<area shape="rect" id="node8" href="$d2/d6d/classSvtxVertex.html#a030ba465f57960fb04b4752ed3a3edf8" title="SvtxVertex::size_tracks" alt="" coords="264,317,441,345"/>
-</map>

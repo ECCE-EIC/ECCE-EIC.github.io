@@ -1,7 +1,0 @@
-<map id="PHInitZVertexing::set_nbins" name="PHInitZVertexing::set_nbins">
-<area shape="rect" id="node2" href="$d3/d0a/classHelixHoughSpace.html#aa63070d7c23e23c04f082ae73dac7d1b" title="HelixHoughSpace::get\l_n_d_bins" alt="" coords="219,5,392,49"/>
-<area shape="rect" id="node3" href="$d3/d0a/classHelixHoughSpace.html#a23043bffadab63037d568c7dde828f23" title="HelixHoughSpace::get\l_n_dzdl_bins" alt="" coords="219,73,392,117"/>
-<area shape="rect" id="node4" href="$d3/d0a/classHelixHoughSpace.html#a1582eab9546806cf97cd2598554bfa20" title="HelixHoughSpace::get\l_n_kappa_bins" alt="" coords="219,141,392,185"/>
-<area shape="rect" id="node5" href="$d3/d0a/classHelixHoughSpace.html#ac44a69f6dad12f3f04d436585e70a447" title="HelixHoughSpace::get\l_n_phi_bins" alt="" coords="219,209,392,253"/>
-<area shape="rect" id="node6" href="$d3/d0a/classHelixHoughSpace.html#a165f877513788cf7f2346f2d4459bdff" title="HelixHoughSpace::get\l_n_z0_bins" alt="" coords="219,277,392,321"/>
-</map>

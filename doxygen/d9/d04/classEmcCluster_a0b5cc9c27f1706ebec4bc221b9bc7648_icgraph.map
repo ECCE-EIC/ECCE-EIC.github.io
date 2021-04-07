@@ -1,6 +1,0 @@
-<map id="EmcCluster::GetMaxTower" name="EmcCluster::GetMaxTower">
-<area shape="rect" id="node2" href="$d9/d04/classEmcCluster.html#a4c0369936f9d43d79119951ebee2a31a" title="EmcCluster::GetDeadMap" alt="" coords="252,5,447,33"/>
-<area shape="rect" id="node3" href="$d9/d04/classEmcCluster.html#a10a6f5cc7f8216e64f49291951a968db" title="Returns the number of dead channels around MaxTower." alt="" coords="261,57,437,85"/>
-<area shape="rect" id="node4" href="$d9/d04/classEmcCluster.html#af8f3dec8bedbb38c4bb499e3e04e0114" title="Splits the EmcCluster onto peakarea&#39;s; also returns peak tower array corresponding to peakarea array..." alt="" coords="264,109,435,137"/>
-<area shape="rect" id="node5" href="$d9/d04/classEmcCluster.html#af00bb7a6d38a2ec6c936ad28f9b2ffd4" title="EmcCluster::GetWarnMap" alt="" coords="252,161,447,189"/>
-</map>

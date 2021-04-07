@@ -1,6 +1,0 @@
-<map id="PHG4MvtxDetector::ConstructMvtx_Layer" name="PHG4MvtxDetector::ConstructMvtx_Layer">
-<area shape="rect" id="node2" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="354,5,422,33"/>
-<area shape="rect" id="node3" href="$d4/dc1/classPHG4MvtxDetector.html#a89d95130b6cfd5c97851a38e4a2a06ed" title="PHG4MvtxDetector::get\l_phistep" alt="" coords="297,57,479,101"/>
-<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="277,125,499,153"/>
-<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="293,177,483,205"/>
-</map>

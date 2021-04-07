@@ -1,5 +1,0 @@
-<map id="EmcCluster::GetCorrPos" name="EmcCluster::GetCorrPos">
-<area shape="rect" id="node2" href="$d9/d04/classEmcCluster.html#a65c8d3ba72c1ae919d26e1e63dcd4ee3" title="Returns the errors for the reconstructed energy and position." alt="" coords="259,5,430,33"/>
-<area shape="rect" id="node3" href="$d9/d04/classEmcCluster.html#a0b58e2ffe50ef779a1a1077b2f440087" title="Returns the EmcCluster position in PHENIX global coord system." alt="" coords="246,57,443,85"/>
-<area shape="rect" id="node4" href="$d9/d04/classEmcCluster.html#ae53411ba897ecc95197fd7166b3be252" title="Returns the EmcModule corresponding to the reconstructed impact tower." alt="" coords="236,109,453,137"/>
-</map>

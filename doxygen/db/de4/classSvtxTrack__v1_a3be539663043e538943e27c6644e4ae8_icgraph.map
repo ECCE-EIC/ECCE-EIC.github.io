@@ -1,5 +1,0 @@
-<map id="SvtxTrack_v1::size_states" name="SvtxTrack_v1::size_states">
-<area shape="rect" id="node2" href="$d6/da6/classTrackProjectorPlaneECAL.html#ab054ef5689be6c5af015a641a7364c7a" title="TrackProjectorPlaneECAL\l::project_track" alt="" coords="199,40,388,84"/>
-<area shape="rect" id="node3" href="$d6/da6/classTrackProjectorPlaneECAL.html#ae142a1e2e265735f1c6e28733cf4b8a2" title="TrackProjectorPlaneECAL\l::get_projected_position" alt="" coords="445,5,635,49"/>
-<area shape="rect" id="node4" href="$d6/da6/classTrackProjectorPlaneECAL.html#a4bd8c49642974b12bdd6fdde0afcbb5f" title="TrackProjectorPlaneECAL\l::get_projected_momentum" alt="" coords="436,73,644,117"/>
-</map>

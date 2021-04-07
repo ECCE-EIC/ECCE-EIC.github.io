@@ -1,8 +1,0 @@
-<map id="BEmcRec::CorrectPosition" name="BEmcRec::CorrectPosition">
-<area shape="rect" id="node2" href="$d9/d04/classEmcCluster.html#a19a164509ee9d6148a5a0b605544e528" title="Substitutes a number of functions above (to save CPU time)" alt="" coords="258,5,421,33"/>
-<area shape="rect" id="node3" href="$db/deb/classEmcPeakarea.html#a7667b69d5df543200537b7efbdeb9a42" title="Substitutes a number of functions above (to save CPU time)" alt="" coords="251,57,428,85"/>
-<area shape="rect" id="node4" href="$d9/d04/classEmcCluster.html#a3d0d2d3ed6e633cc4358c95885fe389d" title="Returns the EmcCluster corrected position in Sector (SM) frame." alt="" coords="248,109,431,137"/>
-<area shape="rect" id="node5" href="$d9/d04/classEmcCluster.html#a0b58e2ffe50ef779a1a1077b2f440087" title="Returns the EmcCluster position in PHENIX global coord system." alt="" coords="489,57,686,85"/>
-<area shape="rect" id="node6" href="$d9/d04/classEmcCluster.html#ae53411ba897ecc95197fd7166b3be252" title="Returns the EmcModule corresponding to the reconstructed impact tower." alt="" coords="479,109,696,137"/>
-<area shape="rect" id="node7" href="$d9/d04/classEmcCluster.html#a65c8d3ba72c1ae919d26e1e63dcd4ee3" title="Returns the errors for the reconstructed energy and position." alt="" coords="502,161,673,189"/>
-</map>

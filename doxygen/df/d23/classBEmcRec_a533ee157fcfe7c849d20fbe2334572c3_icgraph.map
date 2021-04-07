@@ -1,6 +1,0 @@
-<map id="BEmcRec::SectorToGlobalErr" name="BEmcRec::SectorToGlobalErr">
-<area shape="rect" id="node2" href="$df/d23/classBEmcRec.html#ab035a071de5fbe7514f05cff814ae219" title="BEmcRec::CalculateErrors" alt="" coords="268,57,464,85"/>
-<area shape="rect" id="node3" href="$d9/d04/classEmcCluster.html#a19a164509ee9d6148a5a0b605544e528" title="Substitutes a number of functions above (to save CPU time)" alt="" coords="519,5,682,33"/>
-<area shape="rect" id="node4" href="$db/deb/classEmcPeakarea.html#a7667b69d5df543200537b7efbdeb9a42" title="Substitutes a number of functions above (to save CPU time)" alt="" coords="512,57,689,85"/>
-<area shape="rect" id="node5" href="$d9/d04/classEmcCluster.html#a65c8d3ba72c1ae919d26e1e63dcd4ee3" title="Returns the errors for the reconstructed energy and position." alt="" coords="515,109,686,137"/>
-</map>

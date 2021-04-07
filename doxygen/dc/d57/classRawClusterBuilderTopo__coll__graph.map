@@ -1,9 +1,0 @@
-<map id="RawClusterBuilderTopo" name="RawClusterBuilderTopo">
-<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="991,53,1092,81"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="612,53,716,81"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="327,45,417,73"/>
-<area shape="rect" id="node5" title="STL class." alt="" coords="131,37,273,81"/>
-<area shape="rect" id="node7" href="$d6/d12/classRawClusterContainer.html" title="RawClusterContainer" alt="" coords="959,173,1123,201"/>
-<area shape="rect" id="node8" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="160,126,244,154"/>
-<area shape="rect" id="node11" href="$d2/d4e/classRawCluster.html" title="RawCluster" alt="" coords="323,173,421,201"/>
-</map>

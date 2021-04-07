@@ -1,9 +1,0 @@
-<map id="PHG4BlockDetector::ConstructMe" name="PHG4BlockDetector::ConstructMe">
-<area shape="rect" id="node2" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="237,5,437,49"/>
-<area shape="rect" id="node3" href="$dd/dae/classPHParameters.html#ab1c503fe2e3136bdd3e5a75bc55ead13" title="PHParameters::get_string\l_param" alt="" coords="241,73,433,117"/>
-<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#a5f7650922e846c686ed03252a4735653" title="PHG4Detector::GetMySubsystem" alt="" coords="215,141,459,169"/>
-<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="242,193,431,221"/>
-<area shape="rect" id="node6" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="226,245,447,273"/>
-<area shape="rect" id="node7" href="$db/df7/classPHG4Subsystem.html#a9fe882e6e1b1adb71ea3eff5e5eab5fe" title="PHG4Subsystem::SetLogical\lVolume" alt="" coords="231,297,442,341"/>
-<area shape="rect" id="node8" href="$d7/dae/classPHG4BlockDisplayAction.html#a364a243144b585d38fbef845c5bdee3b" title="PHG4BlockDisplayAction\l::SetMyVolume" alt="" coords="243,365,430,409"/>
-</map>

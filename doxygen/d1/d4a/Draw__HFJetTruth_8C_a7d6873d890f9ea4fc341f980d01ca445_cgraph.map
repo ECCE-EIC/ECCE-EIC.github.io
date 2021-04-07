@@ -1,7 +1,0 @@
-<map id="CrossSection2RAA" name="CrossSection2RAA">
-<area shape="rect" id="node2" href="$d1/d4a/Draw__HFJetTruth_8C.html#aa3a867691ddddb130694c0610a27a484" title="CrossSection2RelUncert" alt="" coords="217,5,401,33"/>
-<area shape="rect" id="node3" href="$d1/d4a/Draw__HFJetTruth_8C.html#a481cb0034180b3d3b1262d3f0b3a5a90" title="GetRAA" alt="" coords="272,57,345,85"/>
-<area shape="rect" id="node4" href="$d1/d4a/Draw__HFJetTruth_8C.html#a5767095442dd602adc310109b4187737" title="pQCDModel_HuangKangVitev" alt="" coords="199,109,419,137"/>
-<area shape="rect" id="node5" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="257,161,361,189"/>
-<area shape="rect" id="node6" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="467,161,545,189"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="PHG4CylinderGeomContainer::GetFirstLayerGeom" name="PHG4CylinderGeomContainer::GetFirstLayerGeom">
-<area shape="rect" id="node2" href="$dc/d20/classPHG4FullProjSpacalCellReco.html#a37f9ab5678a82c0a886af63ebd1d5f85" title="module initialization" alt="" coords="279,5,489,49"/>
-<area shape="rect" id="node3" href="$dc/d20/classPHG4FullProjSpacalCellReco.html#a8578e30ba539e33b658fe1b92fc83f71" title="event processing" alt="" coords="279,73,489,117"/>
-<area shape="rect" id="node4" href="$db/d4b/classEMCalAna.html#ab478dd11f24604db6fece30078120c73" title="EMCalAna::process_event_SF" alt="" coords="275,141,493,169"/>
-<area shape="rect" id="node5" href="$db/d4b/classEMCalAna.html#a3b829b80df0fd8625130f3d9c11f5d3d" title="EMCalAna::process_event" alt="" coords="541,141,737,169"/>
-</map>

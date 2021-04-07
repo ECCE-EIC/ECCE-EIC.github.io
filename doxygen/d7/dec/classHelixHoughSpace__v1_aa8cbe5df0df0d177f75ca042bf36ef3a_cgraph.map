@@ -1,7 +1,0 @@
-<map id="HelixHoughSpace_v1::get_bin" name="HelixHoughSpace_v1::get_bin">
-<area shape="rect" id="node2" href="$d7/dec/classHelixHoughSpace__v1.html#a0fd9cec9462d161d9bf6157872950a16" title="HelixHoughSpace_v1\l::get_n_d_bins" alt="" coords="217,5,381,49"/>
-<area shape="rect" id="node3" href="$d7/dec/classHelixHoughSpace__v1.html#a0273be3b60ea0e5905b393f8344a2c9e" title="HelixHoughSpace_v1\l::get_n_dzdl_bins" alt="" coords="217,73,381,117"/>
-<area shape="rect" id="node4" href="$d7/dec/classHelixHoughSpace__v1.html#acd991f40ee50d7c956b5921a9ed567fd" title="HelixHoughSpace_v1\l::get_n_kappa_bins" alt="" coords="217,141,381,185"/>
-<area shape="rect" id="node5" href="$d7/dec/classHelixHoughSpace__v1.html#ad11e0d4ec14bd002f2f9731d2d3900ae" title="HelixHoughSpace_v1\l::get_n_phi_bins" alt="" coords="217,209,381,253"/>
-<area shape="rect" id="node6" href="$d7/dec/classHelixHoughSpace__v1.html#aed3312aed61fa508ed7c72491473eee9" title="HelixHoughSpace_v1\l::get_n_z0_bins" alt="" coords="217,277,381,321"/>
-</map>

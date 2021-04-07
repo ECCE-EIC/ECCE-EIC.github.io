@@ -1,6 +1,0 @@
-<map id="getUnstructPacketWordSize" name="getUnstructPacketWordSize">
-<area shape="rect" id="node2" href="$dc/d93/Cpacket_8C.html#acfa2f79342c6237bb5cf63e53d27c75a" title="findPacketDataDescr" alt="" coords="279,5,442,33"/>
-<area shape="rect" id="node5" href="$d3/d7c/dataBlock_8h.html#ae98e73bbd437d1711adb413b1e4894a0" title="getUnstructDescrWordSize" alt="" coords="260,57,461,85"/>
-<area shape="rect" id="node3" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="509,5,671,33"/>
-<area shape="rect" id="node4" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="719,5,837,33"/>
-</map>

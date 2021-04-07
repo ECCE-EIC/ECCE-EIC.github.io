@@ -1,5 +1,0 @@
-<map id="PHG4DetectorGroupSubsystem::CheckOverlap" name="PHG4DetectorGroupSubsystem::CheckOverlap">
-<area shape="rect" id="node2" href="$d9/dbf/classPHG4MvtxSubsystem.html#a189efac53cac8a58715d177c664d74c9" title="InitRunSubsystem." alt="" coords="287,5,462,49"/>
-<area shape="rect" id="node3" href="$d6/d09/classPHG4InttSubsystem.html#a1d0b24d27f8bf30d0141354a567b6996" title="init" alt="" coords="293,73,457,117"/>
-<area shape="rect" id="node4" href="$dd/d21/classPHG4PSTOFSubsystem.html#a487e12c6abedca9fabf406aaeab10011" title="PHG4PSTOFSubsystem\l::InitRunSubsystem" alt="" coords="287,141,463,185"/>
-</map>

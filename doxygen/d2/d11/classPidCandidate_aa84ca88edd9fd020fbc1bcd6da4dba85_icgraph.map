@@ -1,6 +1,0 @@
-<map id="PidCandidate::get_property_float" name="PidCandidate::get_property_float">
-<area shape="rect" id="node2" href="$d6/d40/classLeptoquarksReco.html#aa25ee00bebeb936c0f50d05a2be265b5" title="LeptoquarksReco::AddGlobal\lEventInformation" alt="" coords="262,5,478,49"/>
-<area shape="rect" id="node4" href="$db/db5/classDISKinematicsReco.html#a3987bf11dd3067347d7168084cef5855" title="DISKinematicsReco::\lAddReconstructedKinematics" alt="" coords="260,73,480,117"/>
-<area shape="rect" id="node3" href="$d6/d40/classLeptoquarksReco.html#aa5b8ff9665c7a78246bd4f1194d66d1b" title="LeptoquarksReco::process\l_event" alt="" coords="528,5,727,49"/>
-<area shape="rect" id="node5" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="547,73,707,117"/>
-</map>

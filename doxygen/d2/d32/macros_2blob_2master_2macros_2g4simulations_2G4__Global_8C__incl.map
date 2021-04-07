@@ -1,9 +1,0 @@
-<map id="macros/blob/master/macros/g4simulations/G4_Global.C" name="macros/blob/master/macros/g4simulations/G4_Global.C">
-<area shape="rect" id="node2" href="$dc/da2/Fun4AllServer_8h.html" title="fun4all/Fun4AllServer.h" alt="" coords="381,121,559,149"/>
-<area shape="rect" id="node15" href="$db/d46/GlobalVertexReco_8h.html" title="reconstruct the best possible vertexes by combining results from multiple detectors" alt="" coords="715,121,932,149"/>
-<area shape="rect" id="node17" href="$df/d88/GlobalVertexFastSimReco_8h.html" title="simple truth vertex smearing algorithm" alt="" coords="959,113,1159,157"/>
-<area shape="rect" id="node3" href="$d2/de7/Fun4AllBase_8h.html" title="Fun4AllBase.h" alt="" coords="540,281,656,309"/>
-<area shape="rect" id="node6" href="$d0/d59/Fun4AllHistoManager_8h.html" title="Fun4AllHistoManager.h" alt="" coords="558,205,734,233"/>
-<area shape="rect" id="node8" href="$dc/d26/PHTimer_8h.html" title="high precision timer" alt="" coords="249,205,381,233"/>
-<area shape="rect" id="node16" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="859,205,1025,233"/>
-</map>

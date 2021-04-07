@@ -1,8 +1,0 @@
-<map id="HelixKalmanFilter::calculateMSCovariance" name="HelixKalmanFilter::calculateMSCovariance">
-<area shape="rect" id="node2" href="$d0/d51/classHelixKalmanFilter.html#a3d03dbbae54f45d3f9a56efa721cfe73" title="HelixKalmanFilter::\lcalculate_dAdAp" alt="" coords="263,5,411,49"/>
-<area shape="rect" id="node4" href="$d0/d51/classHelixKalmanFilter.html#a01a8b0133fee7cc81a908e711d060d6b" title="HelixKalmanFilter::\lcalculate_dApdp" alt="" coords="263,73,411,117"/>
-<area shape="rect" id="node5" href="$d0/d51/classHelixKalmanFilter.html#a2a002b6c182fdd32323246900b873425" title="HelixKalmanFilter::\lcalculate_dbdt" alt="" coords="263,141,411,185"/>
-<area shape="rect" id="node6" href="$d0/d51/classHelixKalmanFilter.html#aa095552a99dab135c8ef27aa78cb98ee" title="HelixKalmanFilter::\lcalculate_dpdb" alt="" coords="263,209,411,253"/>
-<area shape="rect" id="node7" href="$d0/d51/classHelixKalmanFilter.html#abe68d3bcf07b132fb462481511188f37" title="HelixKalmanFilter::\lcalculateScatteringVariance" alt="" coords="232,277,443,321"/>
-<area shape="rect" id="node3" href="$df/d46/HelixKalmanFilter_8cc.html#ab74daa0c9784c63e060bfb98cc06fbf5" title="sign" alt="" coords="491,13,540,41"/>
-</map>

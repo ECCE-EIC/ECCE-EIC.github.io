@@ -1,8 +1,0 @@
-<map id="PHPatternReco::build_triplets_to_SimpleTrack3D" name="PHPatternReco::build_triplets_to_SimpleTrack3D">
-<area shape="rect" id="node2" href="$da/d87/classSimpleHit3D.html#a6fca396cd480492078c4e640b2410973" title="SimpleHit3D::get_id" alt="" coords="269,5,425,33"/>
-<area shape="rect" id="node3" href="$da/d87/classSimpleHit3D.html#aee4615586ba114d652ae2f53a329af8b" title="SimpleHit3D::get_layer" alt="" coords="257,57,436,85"/>
-<area shape="rect" id="node4" href="$da/d87/classSimpleHit3D.html#a7f9d236c9f34d7b37abdf76cbcdcc325" title="SimpleHit3D::get_x" alt="" coords="271,109,423,137"/>
-<area shape="rect" id="node5" href="$da/d87/classSimpleHit3D.html#a004f4dc96baa6789bb599036471d1e0d" title="SimpleHit3D::get_y" alt="" coords="271,161,423,189"/>
-<area shape="rect" id="node6" href="$da/d87/classSimpleHit3D.html#a32bb6a50aea56d16a2b81b4e5c02ffc0" title="SimpleHit3D::get_z" alt="" coords="271,213,422,241"/>
-<area shape="rect" id="node7" href="$d1/d97/classPHPatternReco.html#a02241ad56aa9039570276d65e89835bf" title="PHPatternReco::shift\l_phi_range" alt="" coords="267,265,426,309"/>
-</map>

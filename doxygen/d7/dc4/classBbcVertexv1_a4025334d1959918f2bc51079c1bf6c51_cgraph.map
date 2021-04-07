@@ -1,7 +1,0 @@
-<map id="BbcVertexv1::identify" name="BbcVertexv1::identify">
-<area shape="rect" id="node2" href="$d7/dc4/classBbcVertexv1.html#afcab041ebfbecf255866fc0a9801a9bd" title="BbcVertexv1::get_id" alt="" coords="231,5,387,33"/>
-<area shape="rect" id="node3" href="$d7/dc4/classBbcVertexv1.html#a5d4a99f96b54d8d417047cb23e2c7978" title="BbcVertexv1::get_t" alt="" coords="233,57,384,85"/>
-<area shape="rect" id="node4" href="$d7/dc4/classBbcVertexv1.html#a19e7d290046f1ed17770804625d1d865" title="BbcVertexv1::get_t_err" alt="" coords="221,109,397,137"/>
-<area shape="rect" id="node5" href="$d7/dc4/classBbcVertexv1.html#a05bd780d60c0a1bff4bf406907a278a1" title="BbcVertexv1::get_z" alt="" coords="233,161,385,189"/>
-<area shape="rect" id="node6" href="$d7/dc4/classBbcVertexv1.html#a2ed7025861b0a9a3e9159f253794e2d4" title="BbcVertexv1::get_z_err" alt="" coords="220,213,397,241"/>
-</map>

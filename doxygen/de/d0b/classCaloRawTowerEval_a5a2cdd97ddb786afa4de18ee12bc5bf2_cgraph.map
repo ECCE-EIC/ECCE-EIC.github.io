@@ -1,6 +1,0 @@
-<map id="CaloRawTowerEval::all_truth_primary_showers" name="CaloRawTowerEval::all_truth_primary_showers">
-<area shape="rect" id="node2" href="$d9/dd8/classRawTower.html#a3d7d0da776368ede00a0a12b38402134" title="RawTower::get_g4showers" alt="" coords="237,5,436,33"/>
-<area shape="rect" id="node3" href="$da/d6c/classPHG4TruthInfoContainer.html#ac2b8c9572ce03927e90d3714be1bf643" title="PHG4TruthInfoContainer\l::GetShower" alt="" coords="244,57,429,101"/>
-<area shape="rect" id="node4" href="$de/d0b/classCaloRawTowerEval.html#a90bd4095586faf2ef722a6baf8c79691" title="has the eval initialized correctly for reduced sim DST nodes?" alt="" coords="243,125,431,169"/>
-<area shape="rect" id="node5" href="$de/d0b/classCaloRawTowerEval.html#a1b8eced040f811052e763a4dd70a5938" title="get a copy of the lower level truth eval and its memory cache" alt="" coords="484,125,663,169"/>
-</map>

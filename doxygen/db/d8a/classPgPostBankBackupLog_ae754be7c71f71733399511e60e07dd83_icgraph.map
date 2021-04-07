@@ -1,6 +1,0 @@
-<map id="PgPostBankBackupLog::Init" name="PgPostBankBackupLog::Init">
-<area shape="rect" id="node2" href="$da/daa/classPgPostBankBackupManager.html#a0a04a1d872f424730592d5b01a9952be" title="PgPostBankBackupManager\l::CleanTable" alt="" coords="481,5,691,49"/>
-<area shape="rect" id="node3" href="$da/daa/classPgPostBankBackupManager.html#a18ed2396d35c26be07a7bdea3baa9e93" title="dump databse to text" alt="" coords="481,76,691,120"/>
-<area shape="rect" id="node4" href="$da/daa/classPgPostBankBackupManager.html#a48e85fa7beea90b4d7f828c59b5e5676" title="Database &#45;&gt; TFile for all all records satisifying record_selection." alt="" coords="481,148,691,192"/>
-<area shape="rect" id="node5" href="$db/d8a/classPgPostBankBackupLog.html#ac860e75f4dc2cd60c721653c9d8ee839" title="enter one log entry" alt="" coords="227,63,433,91"/>
-</map>

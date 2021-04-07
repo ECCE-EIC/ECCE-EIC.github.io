@@ -1,8 +1,0 @@
-<map id="PHG4Hit::set_local_z" name="PHG4Hit::set_local_z">
-<area shape="rect" id="node2" href="$df/d3f/classPHG4SteppingAction.html#aea99a3121d5ff333ed1a6e7cfd7a0645" title="Extract local coordinate of the hit and save to PHG4Hit." alt="" coords="213,141,388,185"/>
-<area shape="rect" id="node3" href="$de/dea/classPHG4SpacalSteppingAction.html#a1c2df9729591e53ff47876e8e9359375" title="stepping action" alt="" coords="451,5,658,49"/>
-<area shape="rect" id="node4" href="$d4/d7a/classPHG4InttSteppingAction.html#acec226c7e487b48b0477e47f18560552" title="stepping action. This defines processing of a single step in a given volume" alt="" coords="463,73,647,117"/>
-<area shape="rect" id="node5" href="$d1/d77/classPHG4MvtxSteppingAction.html#ac3767340e8508dc30b0eea8bc3620c15" title="stepping action" alt="" coords="458,141,651,185"/>
-<area shape="rect" id="node6" href="$db/d11/classPHG4SpacalPrototype4SteppingAction.html#ad31965a9a92c56e22b26dc74d8f8be0b" title="stepping action" alt="" coords="436,209,673,253"/>
-<area shape="rect" id="node7" href="$dd/d86/classPHG4SpacalPrototypeSteppingAction.html#aee932fbbae6fb057c99f6a774104b859" title="stepping action" alt="" coords="441,277,669,321"/>
-</map>

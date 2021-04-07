@@ -1,6 +1,0 @@
-<map id="PHG4SteppingAction::SetLightCorrection" name="PHG4SteppingAction::SetLightCorrection">
-<area shape="rect" id="node2" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#aa6e9989b9675b231c24ce3856d4e6d26" title="PHG4OuterHcalSteppingAction\l::Init" alt="" coords="276,5,505,49"/>
-<area shape="rect" id="node3" href="$db/dfa/classPHG4HcalSubsystem.html#a27f70189465a985f453fe4106f795d6d" title="init" alt="" coords="305,73,476,117"/>
-<area shape="rect" id="node4" href="$df/dec/classPHG4InnerHcalSteppingAction.html#ac748c23ea36f9960db7e790cb884358c" title="constructor" alt="" coords="273,141,508,185"/>
-<area shape="rect" id="node5" href="$d2/dbb/classPHG4Prototype3InnerHcalSteppingAction.html#a0ac133e6f12fa267d6df158f205f60fa" title="constructor" alt="" coords="215,209,567,253"/>
-</map>

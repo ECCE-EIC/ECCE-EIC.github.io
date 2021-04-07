@@ -1,7 +1,0 @@
-<map id="RawCluster::addTower" name="RawCluster::addTower">
-<area shape="rect" id="node2" href="$d2/d46/classRawClusterBuilderGraph.html#a8b8678d16130835761627d0c1fc6ebf9" title="RawClusterBuilderGraph\l::process_event" alt="" coords="234,5,421,49"/>
-<area shape="rect" id="node3" href="$dd/d75/classRawClusterBuilderTemplateEEMC.html#aa136844c4c61b778c808a8dc110b9041" title="RawClusterBuilderTemplate\lEEMC::process_event" alt="" coords="224,73,431,117"/>
-<area shape="rect" id="node4" href="$dd/d9c/classRawClusterBuilderFwd.html#a3b88c548143030fceb38c3dfe726eda0" title="RawClusterBuilderFwd\l::process_event" alt="" coords="241,141,413,185"/>
-<area shape="rect" id="node5" href="$d8/d80/classRawClusterBuilderTemplateFEMC.html#a66594d22c29c0ee5c439121e816cf218" title="RawClusterBuilderTemplate\lFEMC::process_event" alt="" coords="224,209,431,253"/>
-<area shape="rect" id="node6" href="$d8/d5d/classRawClusterBuilderTemplate.html#a0c7c1981bbe39c660bff36304525272f" title="RawClusterBuilderTemplate\l::process_event" alt="" coords="224,277,431,321"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="Conversion::approachDistance" name="Conversion::approachDistance">
-<area shape="rect" id="node2" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="281,5,423,33"/>
-<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="281,57,423,85"/>
-<area shape="rect" id="node4" href="$d2/db8/classSvtxTrack.html#a826b1ab6d05d45e5148c4645befe4def" title="SvtxTrack::get_pz" alt="" coords="282,109,422,137"/>
-<area shape="rect" id="node5" href="$d2/db8/classSvtxTrack.html#af2317becf2120fcad5cefaa61a01407e" title="SvtxTrack::get_x" alt="" coords="286,161,418,189"/>
-<area shape="rect" id="node6" href="$d2/db8/classSvtxTrack.html#ac4bf3bd4ecaeff1ca06c48942a8b9236" title="SvtxTrack::get_y" alt="" coords="286,213,418,241"/>
-<area shape="rect" id="node7" href="$d2/db8/classSvtxTrack.html#aaaa435dd9d41dbe836f0608712ca12db" title="SvtxTrack::get_z" alt="" coords="287,265,417,293"/>
-</map>

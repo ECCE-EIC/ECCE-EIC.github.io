@@ -1,7 +1,0 @@
-<map id="RawClusterBuilderTemplate::Cell2Abs" name="RawClusterBuilderTemplate::Cell2Abs">
-<area shape="rect" id="node2" href="$d0/d25/group__cylindrical__calorimeter.html#ga3d283957eb2f3bc0b27e3217d37b8dfb" title="RawTowerGeomContainer\l::get_etabins" alt="" coords="260,5,456,49"/>
-<area shape="rect" id="node3" href="$d0/d25/group__cylindrical__calorimeter.html#gaa9140242d594e93aab92b1092a167a58" title="RawTowerGeomContainer\l::get_etacenter" alt="" coords="260,73,456,117"/>
-<area shape="rect" id="node4" href="$d0/d25/group__cylindrical__calorimeter.html#gab9c3a0fa996fffad8aa107d62d5b26b6" title="RawTowerGeomContainer\l::get_phibins" alt="" coords="260,141,456,185"/>
-<area shape="rect" id="node5" href="$d0/d25/group__cylindrical__calorimeter.html#ga034c36ddaadba3382c053d0ecb0af185" title="RawTowerGeomContainer\l::get_phicenter" alt="" coords="260,209,456,253"/>
-<area shape="rect" id="node6" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="329,277,387,305"/>
-</map>

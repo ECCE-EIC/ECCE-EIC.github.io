@@ -1,7 +1,0 @@
-<map id="PHG4DetectorSubsystem::UseCalibFiles" name="PHG4DetectorSubsystem::UseCalibFiles">
-<area shape="rect" id="node2" href="$d1/d8d/macros_2blob_2master_2macros_2g4simulations_2G4__CEmc__Spacal_8C.html#a034d8a445c397fdcb3c0be0b80d91cfb" title="2D full projective SPACAL" alt="" coords="245,5,441,33"/>
-<area shape="rect" id="node4" href="$dc/d8e/Fun4All__G4__Prototype2_8C.html#a6b8f092c4f51be2938dd09c810ba6226" title="Fun4All_G4_Prototype2" alt="" coords="255,57,432,85"/>
-<area shape="rect" id="node5" href="$d7/d40/Fun4All__G4__Prototype3_8C.html#a1201361263017b08a070777a0b90b27c" title="Fun4All_G4_Prototype3" alt="" coords="255,109,432,137"/>
-<area shape="rect" id="node6" href="$d4/d58/Fun4All__G4__Prototype4_8C.html#acac517f0728af658cbf99c7c9687c908" title="Fun4All_G4_Prototype4" alt="" coords="255,161,432,189"/>
-<area shape="rect" id="node3" href="$d1/d8d/macros_2blob_2master_2macros_2g4simulations_2G4__CEmc__Spacal_8C.html#a643b7748ae63dfed5f748e4707bbf1d3" title="EMCal main setup macro." alt="" coords="489,5,549,33"/>
-</map>

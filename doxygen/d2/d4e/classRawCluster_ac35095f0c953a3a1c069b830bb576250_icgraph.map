@@ -1,6 +1,0 @@
-<map id="RawCluster::CloneMe" name="RawCluster::CloneMe">
-<area shape="rect" id="node2" href="$df/d75/classRawClusterPositionCorrection.html#ad0cf55d8f80f6c102f54b15ab521d389" title="RawClusterPositionCorrection\l::process_event" alt="" coords="217,5,436,49"/>
-<area shape="rect" id="node3" href="$d9/d3a/classTruthConversionEval.html#a30309a3143d74dac7ff1f62cf275a5ac" title="TruthConversionEval\l::recordConversion" alt="" coords="246,73,407,117"/>
-<area shape="rect" id="node4" href="$d9/d3a/classTruthConversionEval.html#a802d15f00a153397546daabb7dbabbd2" title="TruthConversionEval\l::numUnique" alt="" coords="484,73,645,117"/>
-<area shape="rect" id="node5" href="$d9/d3a/classTruthConversionEval.html#a9a67c8171296f35dd157daf89108d3fd" title="TruthConversionEval\l::process_event" alt="" coords="693,73,855,117"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="SvtxCluster::get_rphi_error" name="SvtxCluster::get_rphi_error">
-<area shape="rect" id="node2" href="$d8/d98/classpsTOFTimezeroEval.html#ae9fd1570652089bed4ec7eb81009b318" title="dump the evaluator information into ntuple for external analysis" alt="" coords="235,5,397,49"/>
-<area shape="rect" id="node4" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a0fd261422264aedc22d0506ef5e897c4" title="dump the evaluator information into ntuple for external analysis" alt="" coords="229,73,403,117"/>
-<area shape="rect" id="node6" href="$d1/d04/classBDiJetModule.html#aa2f3d100a0f4b8a1b5836d9436e071e8" title="Initialize the TTree." alt="" coords="216,141,416,185"/>
-<area shape="rect" id="node3" href="$d8/d98/classpsTOFTimezeroEval.html#a2e98730e1beaa91c36947c0fe671fdd2" title="psTOFTimezeroEval::\lprocess_event" alt="" coords="470,5,633,49"/>
-<area shape="rect" id="node5" href="$d2/d85/classSvtxEvaluatorHaiwang.html#ab63ca0cc53b56dad65b89d9b18220bce" title="SvtxEvaluatorHaiwang\l::process_event" alt="" coords="464,73,639,117"/>
-<area shape="rect" id="node7" href="$d1/d04/classBDiJetModule.html#a8f01ada101f7e91cf05e12bbf420d192" title="BDiJetModule::process\l_event" alt="" coords="465,141,637,185"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Conversion::hasSilicon" name="Conversion::hasSilicon">
-<area shape="rect" id="node2" href="$d2/db8/classSvtxTrack.html#a57a5fabb0eb43ac5c181f2052fcd02ce" title="SvtxTrack::begin_clusters" alt="" coords="228,5,421,33"/>
-<area shape="rect" id="node3" href="$d9/dc2/classSvtxClusterMap.html#a8da48ee7f9a489ea179d0e8a2283a080" title="SvtxClusterMap::get" alt="" coords="245,57,404,85"/>
-<area shape="rect" id="node4" href="$df/d0b/classSvtxCluster.html#a4ee4458606d0ed29be81010ec83239d1" title="SvtxCluster::get_layer" alt="" coords="239,109,410,137"/>
-<area shape="rect" id="node5" href="$dc/d41/classConversion.html#ac24ed5367463ba9de80adc6bcf7886fe" title="Conversion::recoCount" alt="" coords="237,161,413,189"/>
-</map>

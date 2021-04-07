@@ -1,8 +1,0 @@
-<map id="TrkrHit::getAdc" name="TrkrHit::getAdc">
-<area shape="rect" id="node2" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="176,5,375,49"/>
-<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="181,73,369,117"/>
-<area shape="rect" id="node6" href="$d7/ddb/classPHG4TpcElectronDrift.html#a92dfae090d091df16bfde8d0318bfe8f" title="PHG4TpcElectronDrift\l::process_event" alt="" coords="191,141,359,185"/>
-<area shape="rect" id="node7" href="$da/d35/classDumpTrkrHitSetContainer.html#ae41c8e5d93695049077e3fd2b5a0cb60" title="DumpTrkrHitSetContainer\l::process_Node" alt="" coords="178,209,373,253"/>
-<area shape="rect" id="node3" href="$d1/dc5/classPHG4TpcDigitizer.html#a3a1281c04ddb169c704cc2c03a327e04" title="event processing" alt="" coords="423,5,623,49"/>
-<area shape="rect" id="node5" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="435,73,611,117"/>
-</map>

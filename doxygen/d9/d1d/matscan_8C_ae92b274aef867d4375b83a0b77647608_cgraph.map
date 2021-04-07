@@ -1,8 +1,0 @@
-<map id="set_thetascan" name="set_thetascan">
-<area shape="rect" id="node2" href="$d9/d1d/matscan_8C.html#a683a75fb48b41836b84f87b8e03749d2" title="set_phibins" alt="" coords="177,5,275,33"/>
-<area shape="rect" id="node3" href="$d9/d1d/matscan_8C.html#a72f854a42b78df4a1acdb7adfea33a83" title="set_phimin" alt="" coords="179,57,273,85"/>
-<area shape="rect" id="node4" href="$d9/d1d/matscan_8C.html#ab2c3b5d8fffbcda789c27f82bb2e27a2" title="set_phispan" alt="" coords="175,109,277,137"/>
-<area shape="rect" id="node5" href="$d9/d1d/matscan_8C.html#a0c5a4d80e9072c9d85b2b88cf5b7dd00" title="set_thetabins" alt="" coords="170,161,282,189"/>
-<area shape="rect" id="node6" href="$d9/d1d/matscan_8C.html#a81ed542e848bd148bf69a39fa7870f86" title="set_thetamin" alt="" coords="171,213,281,241"/>
-<area shape="rect" id="node7" href="$d9/d1d/matscan_8C.html#a03248b356147cb3d337e7fd8e2e656fc" title="set_thetaspan" alt="" coords="168,265,284,293"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="PHG4ForwardEcalDetector::ConstructTowerType2" name="PHG4ForwardEcalDetector::ConstructTowerType2">
-<area shape="rect" id="node2" href="$de/d3a/classPHG4ForwardEcalDisplayAction.html#aa4751c478f1cd54e122ef12a9e42b9a7" title="PHG4ForwardEcalDisplayAction\l::AddVolume" alt="" coords="253,5,487,49"/>
-<area shape="rect" id="node3" href="$d8/d23/classPHG4ForwardEcalDetector.html#aed358171be49edad4381ed33d86a0b54" title="PHG4ForwardEcalDetector\l::GetDisplayAction" alt="" coords="270,73,470,117"/>
-<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="259,141,481,169"/>
-<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="275,193,465,221"/>
-</map>

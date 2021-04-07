@@ -1,6 +1,0 @@
-<map id="getUnstructPacketDataPadding" name="getUnstructPacketDataPadding">
-<area shape="rect" id="node2" href="$dc/d93/Cpacket_8C.html#acfa2f79342c6237bb5cf63e53d27c75a" title="findPacketDataDescr" alt="" coords="315,5,478,33"/>
-<area shape="rect" id="node5" href="$d3/d7c/dataBlock_8h.html#ab4fe1964af09ca6459ee21b495acd148" title="getUnstructDescrDataPadding" alt="" coords="284,57,509,85"/>
-<area shape="rect" id="node3" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="557,5,719,33"/>
-<area shape="rect" id="node4" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="767,5,885,33"/>
-</map>

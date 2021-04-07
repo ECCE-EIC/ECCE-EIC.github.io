@@ -1,8 +1,0 @@
-<map id="AnaMvtxTestBeam2019::End" name="AnaMvtxTestBeam2019::End">
-<area shape="rect" id="node2" href="$dc/df6/200pp__pythia8__CTEQ6L__7GeV__ALL_8cfg__eneg__DSTReader_8root__Draw__HFJetTruth__CrossSection2RAA_8C.html#ac5741edfd477362a8a413aa18db80bf4" title="cd" alt="" coords="329,5,368,33"/>
-<area shape="rect" id="node3" href="$d3/d2b/classPHTFileServer.html#ac4e4f66af63e11c709628712c43c5dc9" title="change to directory of TFile matching filename" alt="" coords="279,57,418,85"/>
-<area shape="rect" id="node4" href="$d3/d2b/classPHTFileServer.html#a97e4129d0cae6dbf8545e729dcb10982" title="close all TFiles" alt="" coords="269,109,428,137"/>
-<area shape="rect" id="node5" href="$d3/d2b/classPHTFileServer.html#a5a3ed7a2a70cc2e38dbe1cb33afe9c2f" title="return reference to class singleton" alt="" coords="275,161,422,189"/>
-<area shape="rect" id="node6" href="$d3/d2b/classPHTFileServer.html#aaae99c6748eb17d5f8d7df375bc6d615" title="open a SafeTFile. If filename is not found in the map, create a new TFile and append to the map; incr..." alt="" coords="270,213,427,241"/>
-<area shape="rect" id="node7" href="$d3/d2b/classPHTFileServer.html#a081621118101b14bf7eba52e5f8ed3a5" title="if TFile is found in map and counter is 0, close the TFile, decrement counter otherwise" alt="" coords="270,265,427,293"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4EventActionClearZeroEdep.h" name="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4EventActionClearZeroEdep.h">
-<area shape="rect" id="node2" href="$d9/d7c/PHG4CEmcTestBeamSubsystem_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4CEmcTestBeamSubsystem.cc" alt="" coords="5,137,353,197"/>
-<area shape="rect" id="node3" href="$d4/de9/PHG4ConeSubsystem_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4ConeSubsystem.cc" alt="" coords="378,137,655,197"/>
-<area shape="rect" id="node4" href="$d8/dfd/PHG4EventActionClearZeroEdep_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4EventActionClear\lZeroEdep.cc" alt="" coords="679,129,946,205"/>
-<area shape="rect" id="node5" href="$df/da5/PHG4FPbScSubsystem_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4FPbScSubsystem.cc" alt="" coords="971,137,1255,197"/>
-<area shape="rect" id="node6" href="$dc/d41/PHG4mRICHSubsystem_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4mRICHSubsystem.cc" alt="" coords="1279,137,1568,197"/>
-<area shape="rect" id="node7" href="$dc/df6/PHG4HcalPrototypeSubsystem_8cc.html" title="prototype/blob/master\l/simulation/g4simulation\l/g4caloprototype/PHG4HcalPrototype\lSubsystem.cc" alt="" coords="1593,129,1867,205"/>
-</map>

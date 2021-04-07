@@ -1,6 +1,0 @@
-<map id="CaloRawTowerEval::get_errors" name="CaloRawTowerEval::get_errors">
-<area shape="rect" id="node2" href="$da/d7e/classCaloRawClusterEval.html#ad54d2744ea7b111ab23a987657720107" title="get a count of the errors discovered thus far" alt="" coords="232,5,387,49"/>
-<area shape="rect" id="node3" href="$db/d10/classCaloEvalStack.html#acd9552e2da44d942125e80ed4c703883" title="CaloEvalStack::get\l_errors" alt="" coords="435,5,584,49"/>
-<area shape="rect" id="node4" href="$d3/d22/classJetTruthEval.html#a427a42d935036e7f3ca9176f93f7acf5" title="get a count of the errors discovered thus far" alt="" coords="632,13,812,41"/>
-<area shape="rect" id="node5" href="$dd/d75/classJetRecoEval.html#a148db6601c00c183ff9d499f672b7562" title="get a count of the errors discovered thus far" alt="" coords="860,13,1039,41"/>
-</map>

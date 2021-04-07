@@ -1,9 +1,0 @@
-<map id="Event::identify" name="Event::identify">
-<area shape="rect" id="node2" href="$d2/d56/ddump_8cc.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="245,5,299,33"/>
-<area shape="rect" id="node3" href="$d1/d7e/pmonitor_8cc.html#ae73df4d6b3d5f6ed0dcae190b14c7b6c" title="pprocess" alt="" coords="231,57,313,85"/>
-<area shape="rect" id="node6" href="$df/df6/classGenericUnpackPRDF.html#a07303369cac3bff2085515d464dbb147" title="GenericUnpackPRDF::\lprocess_event" alt="" coords="189,109,355,153"/>
-<area shape="rect" id="node7" href="$db/d5f/classCaloUnpackPRDF.html#adbb270280eedd426c4d6f085f36e1ebc" title="CaloUnpackPRDF::process\l_event" alt="" coords="173,177,371,221"/>
-<area shape="rect" id="node8" href="$d8/d7e/pmonitor_8h.html#ad2ad6ffec0bd896f405629be241333ef" title="prun" alt="" coords="246,245,298,273"/>
-<area shape="rect" id="node4" href="$d8/d7e/pmonitor_8h.html#a7d00edef8d4a1e9c715afb4e1cfe614b" title="pstart" alt="" coords="419,57,480,85"/>
-<area shape="rect" id="node5" href="$d8/d7e/pmonitor_8h.html#a9ff8d5246b0e11ec9794323332ce5a2a" title="pstart" alt="" coords="528,57,589,85"/>
-</map>

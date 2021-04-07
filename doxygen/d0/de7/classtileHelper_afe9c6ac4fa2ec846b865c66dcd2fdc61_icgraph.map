@@ -1,5 +1,0 @@
-<map id="tileHelper::fitTileSignal" name="tileHelper::fitTileSignal">
-<area shape="rect" id="node2" href="$d0/de7/classtileHelper.html#a4827d0ac2fc22938845406439bb2b7eb" title="tileHelper::tileDisplay" alt="" coords="228,5,395,33"/>
-<area shape="rect" id="node3" href="$d0/de7/classtileHelper.html#a88ebb838409567acb64302ab61731636" title="tileHelper::tileTiming" alt="" coords="230,57,393,85"/>
-<area shape="rect" id="node4" href="$d0/de7/classtileHelper.html#a9800ebae544d8f505cda101b952a896f" title="tileHelper::evLoop" alt="" coords="443,57,588,85"/>
-</map>

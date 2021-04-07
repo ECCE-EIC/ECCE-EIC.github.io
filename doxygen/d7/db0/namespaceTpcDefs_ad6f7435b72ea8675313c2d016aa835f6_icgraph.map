@@ -1,7 +1,0 @@
-<map id="TpcDefs::genHitKey" name="TpcDefs::genHitKey">
-<area shape="rect" id="node2" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="211,5,409,49"/>
-<area shape="rect" id="node4" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a336bd9c399b931212426976290988223" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="209,73,411,117"/>
-<area shape="rect" id="node5" href="$d6/d03/classTpcPrototypeClusterizer.html#ad790455b460f30f668670fcd15cc36fb" title="TpcPrototypeClusterizer\l::process_event" alt="" coords="217,141,403,185"/>
-<area shape="rect" id="node6" href="$de/d25/classTpcClusterizer.html#a8dd29d5451a29cd488440e096a9f53d1" title="TpcClusterizer::process\l_event" alt="" coords="220,209,400,253"/>
-<area shape="rect" id="node3" href="$d1/dc5/classPHG4TpcDigitizer.html#a3a1281c04ddb169c704cc2c03a327e04" title="event processing" alt="" coords="459,5,659,49"/>
-</map>

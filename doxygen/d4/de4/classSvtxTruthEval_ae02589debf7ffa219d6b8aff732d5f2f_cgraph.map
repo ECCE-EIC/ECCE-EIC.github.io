@@ -1,6 +1,0 @@
-<map id="SvtxTruthEval::is_g4hit_from_particle" name="SvtxTruthEval::is_g4hit_from_particle">
-<area shape="rect" id="node2" href="$dc/d23/classBaseTruthEval.html#ac0e4471cf9a8a877339f46ba903d0c14" title="was this truth hit left by this particle?" alt="" coords="229,49,409,93"/>
-<area shape="rect" id="node3" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="457,5,656,33"/>
-<area shape="rect" id="node4" href="$d3/d9e/classPHG4Hit.html#ac19cdd97dbd9b8154b8012ec0de01f76" title="PHG4Hit::get_trkid" alt="" coords="483,57,630,85"/>
-<area shape="rect" id="node5" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="463,109,651,153"/>
-</map>

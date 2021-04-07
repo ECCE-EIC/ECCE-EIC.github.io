@@ -1,9 +1,0 @@
-<map id="PHHepMCGenEventMap::begin" name="PHHepMCGenEventMap::begin">
-<area shape="rect" id="node2" href="$d6/d45/classEpFinderEval.html#af537855512c06847c1021dd83f015031" title="EpFinderEval::fill_tree" alt="" coords="258,21,426,49"/>
-<area shape="rect" id="node4" href="$d0/da9/classAnaTutorial.html#aecb38decbfa9a905f326b60e67f76ae6" title="AnaTutorial::getHEPMCTruth" alt="" coords="236,77,448,105"/>
-<area shape="rect" id="node6" href="$d5/d41/classPHHepMCGenEventMap.html#a2d9a24ca4cdb17fc4abdd4800acc809c" title="PHHepMCGenEventMap\l::operator=" alt="" coords="251,129,433,173"/>
-<area shape="rect" id="node7" href="$d5/d41/classPHHepMCGenEventMap.html#a9b7f66c379eed78ddaa6ac43292fd777" title="PHHepMCGenEventMap\l::PHHepMCGenEventMap" alt="" coords="246,197,438,241"/>
-<area shape="rect" id="node8" href="$dc/d65/classPhotonJet.html#a3f9d3ec941f851bc2246ceb0c5362c9f" title="PhotonJet::process\l_event" alt="" coords="269,265,415,309"/>
-<area shape="rect" id="node3" href="$d6/d45/classEpFinderEval.html#a2539c184425a5dceabf6a3be79b31e9a" title="EpFinderEval::process\l_event" alt="" coords="496,5,667,49"/>
-<area shape="rect" id="node5" href="$d0/da9/classAnaTutorial.html#a3b64c061aaffaf4a42631434fb7eb6f9" title="SubsysReco event processing method." alt="" coords="501,73,661,117"/>
-</map>

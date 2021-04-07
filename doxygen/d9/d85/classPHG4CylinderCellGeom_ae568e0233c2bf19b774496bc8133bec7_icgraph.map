@@ -1,6 +1,0 @@
-<map id="PHG4CylinderCellGeom::get_phibin" name="PHG4CylinderCellGeom::get_phibin">
-<area shape="rect" id="node2" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a8947e8dcf5c35c405459a6d14b83ec23" title="PHG4TpcPadPlaneReadout\l::populate_rectangular\l_phibins" alt="" coords="233,5,435,65"/>
-<area shape="rect" id="node4" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a7b580905412912ba96c9114aba69219e" title="PHG4TpcPadPlaneReadout\l::populate_zigzag_phibins" alt="" coords="233,89,435,133"/>
-<area shape="rect" id="node5" href="$d5/dd0/classPHG4CylinderCellReco.html#acd9297cbac172c726c8da55f875a824a" title="event processing" alt="" coords="248,157,420,201"/>
-<area shape="rect" id="node3" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a56fe08cc093dc800b38ec28a7e971bf3" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="483,52,684,96"/>
-</map>

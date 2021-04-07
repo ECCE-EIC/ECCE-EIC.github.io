@@ -1,9 +1,0 @@
-<map id="PHG4HitContainer::size" name="PHG4HitContainer::size">
-<area shape="rect" id="node2" href="$d4/d30/classPHG4HitContainer.html#ad10aef419dacb46c625d72afe0aded86" title="PHG4HitContainer::identify" alt="" coords="236,13,440,41"/>
-<area shape="rect" id="node4" href="$df/d26/classProto4SampleFrac.html#a0233b792645a661433b6874cfd589e96" title="Standard function called at each event." alt="" coords="236,65,440,109"/>
-<area shape="rect" id="node5" href="$d4/dc9/classPHG4DSTReader.html#aa32c5027cd9c3e4d667a0e84d7243412" title="event processing method" alt="" coords="241,133,435,177"/>
-<area shape="rect" id="node6" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a5b70cca03633b9708a6aea0b57e21272" title="QAG4SimulationCalorimeter\l::process_event_G4Hit" alt="" coords="232,201,444,245"/>
-<area shape="rect" id="node8" href="$de/dbe/classDumpPHG4HitContainer.html#a0a80f6d20b63c934a0d23c50eb540291" title="DumpPHG4HitContainer\l::process_Node" alt="" coords="245,269,431,313"/>
-<area shape="rect" id="node3" href="$d8/de2/classPHG4HitReadBack.html#a58eaf1ee74dca25622fbf07343b600e4" title="PHG4HitReadBack::process\l_event" alt="" coords="495,5,701,49"/>
-<area shape="rect" id="node7" href="$d9/d7b/classQAG4SimulationCalorimeter.html#aa3467829c4182ba4e09f74fd8198cb28" title="QAG4SimulationCalorimeter\l::process_event" alt="" coords="492,201,704,245"/>
-</map>

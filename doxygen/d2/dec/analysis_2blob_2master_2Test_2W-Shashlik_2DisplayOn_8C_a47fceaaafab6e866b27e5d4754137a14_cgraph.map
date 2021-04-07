@@ -1,7 +1,0 @@
-<map id="DisplayOn" name="DisplayOn">
-<area shape="rect" id="node2" href="$d0/d78/classPHG4Reco.html#a83fd9e9472f94d9a29be65df65e400ef" title="interface to G4 cmd interpreter" alt="" coords="153,5,361,33"/>
-<area shape="rect" id="node4" href="$da/d29/classFun4AllServer.html#ac6d47a2b3bc98933a03fd63bb75d624a" title="Fun4AllServer::getSubsysReco" alt="" coords="144,57,371,85"/>
-<area shape="rect" id="node6" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="167,109,348,137"/>
-<area shape="rect" id="node3" href="$d0/d78/classPHG4Reco.html#ad0f5beaf012e51404b712277818c6b36" title="PHG4Reco::InitUImanager" alt="" coords="419,5,616,33"/>
-<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="429,57,605,85"/>
-</map>

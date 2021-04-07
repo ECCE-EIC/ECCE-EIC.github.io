@@ -1,8 +1,0 @@
-<map id="CaloTruthEval::all_truth_hits" name="CaloTruthEval::all_truth_hits">
-<area shape="rect" id="node2" href="$db/d88/classPHG4Shower.html#af6a5f93e51b188b2c513899145a58c4a" title="PHG4Shower::end_g4hit_id" alt="" coords="192,5,396,33"/>
-<area shape="rect" id="node3" href="$db/d88/classPHG4Shower.html#a98e77e279df4d13e32a264e56a6515a4" title="PHG4Shower::find_g4hit_id" alt="" coords="192,57,396,85"/>
-<area shape="rect" id="node4" href="$d4/d30/classPHG4HitContainer.html#a62c24ef9c00bd714f597939598a87041" title="PHG4HitContainer::findHit" alt="" coords="195,109,393,137"/>
-<area shape="rect" id="node5" href="$d7/d3c/classCaloTruthEval.html#a0800a3435e313f45f7d54a05c7263baf" title="has the eval initialized correctly for full sim DST nodes?" alt="" coords="217,161,371,205"/>
-<area shape="rect" id="node6" href="$dc/d23/classBaseTruthEval.html#a722677b3dde86c733aa0f7a9a0fb2749" title="BaseTruthEval::has\l_full_node_pointers" alt="" coords="444,161,597,205"/>
-<area shape="rect" id="node7" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="645,161,833,205"/>
-</map>

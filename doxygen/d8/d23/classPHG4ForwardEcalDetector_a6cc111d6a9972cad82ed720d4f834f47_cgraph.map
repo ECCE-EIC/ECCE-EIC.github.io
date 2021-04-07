@@ -1,8 +1,0 @@
-<map id="PHG4ForwardEcalDetector::ConstructTower" name="PHG4ForwardEcalDetector::ConstructTower">
-<area shape="rect" id="node2" href="$de/d3a/classPHG4ForwardEcalDisplayAction.html#aa4751c478f1cd54e122ef12a9e42b9a7" title="PHG4ForwardEcalDisplayAction\l::AddVolume" alt="" coords="521,6,755,50"/>
-<area shape="rect" id="node3" href="$d8/d23/classPHG4ForwardEcalDetector.html#ab30085a41972a3f9848aedb5b616e3b7" title="PHG4ForwardEcalDetector\l::ConstructTowerType2" alt="" coords="263,63,463,107"/>
-<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="543,74,733,102"/>
-<area shape="rect" id="node5" href="$d8/d23/classPHG4ForwardEcalDetector.html#aed358171be49edad4381ed33d86a0b54" title="PHG4ForwardEcalDetector\l::GetDisplayAction" alt="" coords="538,130,738,174"/>
-<area shape="rect" id="node6" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="527,198,749,226"/>
-<area shape="rect" id="node7" href="$d8/d23/classPHG4ForwardEcalDetector.html#ae9d3240ec78fdb47144bb824897d19f5" title="PHG4ForwardEcalDetector\l::ConstructTowerType3_4_5_6" alt="" coords="253,131,473,175"/>
-</map>

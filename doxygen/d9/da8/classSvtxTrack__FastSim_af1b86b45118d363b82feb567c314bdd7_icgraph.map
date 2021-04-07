@@ -1,8 +1,0 @@
-<map id="SvtxTrack_FastSim::get_truth_track_id" name="SvtxTrack_FastSim::get_truth_track_id">
-<area shape="rect" id="node2" href="$d0/d71/classPHG4TrackFastSimEval.html#a52a746bdc6e84dc7886b5bae0b608e68" title="PHG4TrackFastSimEval\l::fill_track_tree" alt="" coords="215,5,390,49"/>
-<area shape="rect" id="node4" href="$d6/dab/classFastTrackingEval.html#ad48789b2016d4db8b323a1f4767553d7" title="FastTrackingEval::fill_tree" alt="" coords="207,141,399,169"/>
-<area shape="rect" id="node6" href="$d0/d71/classPHG4TrackFastSimEval.html#abb5af30ed95d2dc6212aca004f92016d" title="PHG4TrackFastSimEval\l::fill_vertex_tree" alt="" coords="215,73,390,117"/>
-<area shape="rect" id="node7" href="$d9/da8/classSvtxTrack__FastSim.html#a7bf95d2a70fbc94952b20d5ce7906f37" title="SvtxTrack_FastSim::\lidentify" alt="" coords="226,193,379,237"/>
-<area shape="rect" id="node3" href="$d0/d71/classPHG4TrackFastSimEval.html#ab0136bd1d81150679effd3e148c3cfc4" title="PHG4TrackFastSimEval\l::process_event" alt="" coords="457,36,631,80"/>
-<area shape="rect" id="node5" href="$d6/dab/classFastTrackingEval.html#abd960faa580a65cecfe212d902cde7c1" title="FastTrackingEval::process\l_event" alt="" coords="447,133,641,177"/>
-</map>

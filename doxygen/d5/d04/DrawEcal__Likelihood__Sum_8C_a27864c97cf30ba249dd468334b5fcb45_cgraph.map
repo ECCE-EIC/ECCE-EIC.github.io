@@ -1,9 +1,0 @@
-<map id="RejectionCurve_ppSummary" name="RejectionCurve_ppSummary">
-<area shape="rect" id="node2" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#ad7eecc5744c14e250ed6bf2506e15435" title="ExtractRejCurve" alt="" coords="267,5,396,33"/>
-<area shape="rect" id="node4" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#a43132b41a5a3fdb6afcbe1de0f3e6720" title="GetHPiRatio" alt="" coords="281,57,382,85"/>
-<area shape="rect" id="node5" href="$d5/d04/DrawEcal__Likelihood__Sum_8C.html#a4bc60acad36c0ee790115bc55c619904" title="MergeRejCurve" alt="" coords="269,109,393,137"/>
-<area shape="rect" id="node6" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="279,161,383,189"/>
-<area shape="rect" id="node8" href="$da/de5/ThicknessScan_8m.html#a22c04a3138df1f2792847f9adef38e7b" title="text" alt="" coords="307,213,355,241"/>
-<area shape="rect" id="node3" href="$d9/d9e/evDisplay_8C.html#a4e8c1369ad3f4b66e1057a8bf987b94b" title="signal" alt="" coords="453,5,514,33"/>
-<area shape="rect" id="node7" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="444,161,523,189"/>
-</map>

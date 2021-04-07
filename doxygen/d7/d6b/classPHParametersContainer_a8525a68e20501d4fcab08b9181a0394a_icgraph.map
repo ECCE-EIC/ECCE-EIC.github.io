@@ -1,6 +1,0 @@
-<map id="PHParametersContainer::Print" name="PHParametersContainer::Print">
-<area shape="rect" id="node2" href="$d7/ddb/classPHG4TpcElectronDrift.html#a14a3483e3de7a9a5cb6a4434cba1835c" title="PHG4TpcElectronDrift\l::InitRun" alt="" coords="240,5,408,49"/>
-<area shape="rect" id="node3" href="$d9/dbf/classPHG4MvtxSubsystem.html#a189efac53cac8a58715d177c664d74c9" title="InitRunSubsystem." alt="" coords="237,73,411,117"/>
-<area shape="rect" id="node4" href="$d6/d09/classPHG4InttSubsystem.html#a00e13bc9199d51a30caa5f87a5f2acec" title="PHG4InttSubsystem::\lPrint" alt="" coords="242,141,406,185"/>
-<area shape="rect" id="node5" href="$dd/d21/classPHG4PSTOFSubsystem.html#aa50757e48e954742172c8a1aa92e4c29" title="Print info (from SubsysReco)" alt="" coords="236,209,412,253"/>
-</map>

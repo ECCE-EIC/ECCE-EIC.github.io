@@ -1,7 +1,0 @@
-<map id="Plot_SVTX_Efficiency" name="Plot_SVTX_Efficiency">
-<area shape="rect" id="node2" href="$d2/d2c/LivePlot-Energy-EMC_8C.html#a54c0e7ebd0f1cc22a5ca8fbda9dbd671" title="load_tree" alt="" coords="237,5,321,33"/>
-<area shape="rect" id="node3" href="$df/df7/DrawTrackingEval_8C.html#aba84c83b5b681abe1f21aca5e6686df2" title="ntp_gtrack" alt="" coords="233,57,326,85"/>
-<area shape="rect" id="node4" href="$d1/d95/sPhenixStyle_8C.html#a40c9ca7bea26e6a08182ceb8298869e7" title="sPHENIX Style, based on a style file from ATLAS by Peter Steinberg" alt="" coords="215,109,344,137"/>
-<area shape="rect" id="node6" href="$d2/d2c/LivePlot-Energy-EMC_8C.html#ab1cc1a3ff560049e22576031c7c2345b" title="strdup" alt="" coords="247,161,312,189"/>
-<area shape="rect" id="node5" href="$d1/d95/sPhenixStyle_8C.html#a2b14fe9277832cb4dbdc473f44df99b4" title="sPhenixStyle" alt="" coords="392,109,500,137"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Event::getPacketList" name="Event::getPacketList">
-<area shape="rect" id="node2" href="$d2/d56/ddump_8cc.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="276,5,331,33"/>
-<area shape="rect" id="node3" href="$dc/dab/classFun4AllEventOutStream.html#ac3f5579ceba1f3acdf722be550d6f374" title="Fun4AllEventOutStream\l::WriteEvent" alt="" coords="212,57,395,101"/>
-<area shape="rect" id="node4" href="$d2/d4a/classFun4AllEventOutputManager.html#a07d37e34714c5e9cc5dab9c2898ad8a4" title="write starting from given node" alt="" coords="443,57,660,101"/>
-</map>

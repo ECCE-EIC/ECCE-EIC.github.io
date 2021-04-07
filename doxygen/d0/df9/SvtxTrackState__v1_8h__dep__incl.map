@@ -1,9 +1,0 @@
-<map id="coresoftware/blob/master/offline/packages/trackbase_historic/SvtxTrackState_v1.h" name="coresoftware/blob/master/offline/packages/trackbase_historic/SvtxTrackState_v1.h">
-<area shape="rect" id="node2" href="$d4/d05/SvtxTrack__v1_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackbase\l_historic/SvtxTrack_v1.cc" alt="" coords="5,113,215,173"/>
-<area shape="rect" id="node3" href="$da/dc8/SvtxTrackState__v1_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackbase\l_historic/SvtxTrackState_v1.cc" alt="" coords="239,113,466,173"/>
-<area shape="rect" id="node4" href="$d0/d52/PHGenFitTrkFitter_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackreco\l/PHGenFitTrkFitter.cc" alt="" coords="490,113,695,173"/>
-<area shape="rect" id="node5" href="$df/dca/PHG4TrackFastSim_8cc.html" title="Kalman Filter based on smeared truth PHG4Hit." alt="" coords="720,113,996,173"/>
-<area shape="rect" id="node6" href="$d6/deb/TrackProjectorPlaneECAL_8cc.html" title="analysis/blob/master\l/EICAnalysis/TrackProjector\lPlaneECAL.cc" alt="" coords="1021,113,1226,173"/>
-<area shape="rect" id="node7" href="$de/d7a/SVReco_8C.html" title="analysis/blob/master\l/PhotonConversion/truthconversion\l/SVReco.C" alt="" coords="1250,113,1511,173"/>
-<area shape="rect" id="node8" href="$d0/d1a/TpcPrototypeGenFitTrkFitter_8cc.html" title="prototype/blob/master\l/offline/packages/tpc2019\l/TpcPrototypeGenFitTrkFitter.cc" alt="" coords="1536,113,1767,173"/>
-</map>

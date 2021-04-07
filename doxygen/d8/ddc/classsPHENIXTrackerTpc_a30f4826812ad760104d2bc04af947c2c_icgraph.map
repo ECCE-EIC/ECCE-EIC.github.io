@@ -1,9 +1,0 @@
-<map id="sPHENIXTrackerTpc::fitTrack" name="sPHENIXTrackerTpc::fitTrack">
-<area shape="rect" id="node2" href="$d8/ddc/classsPHENIXTrackerTpc.html#ae61cc40acaf1edc2887d17d342d15a20" title="sPHENIXTrackerTpc::\lfinalize" alt="" coords="212,5,371,49"/>
-<area shape="rect" id="node3" href="$d8/ddc/classsPHENIXTrackerTpc.html#a6399d8c23c7ee62c60d3046e9fddf2ed" title="sPHENIXTrackerTpc::\lfindTracksBySegments" alt="" coords="419,56,593,100"/>
-<area shape="rect" id="node5" href="$df/d64/sPHENIXTrackerTpc_8cpp.html#a82dbde3b420605dfa78267fdb786812c" title="fit_all" alt="" coords="641,124,699,152"/>
-<area shape="rect" id="node7" href="$df/d64/sPHENIXTrackerTpc_8cpp.html#ac214f30ac1733ffd454d314bcf302b68" title="fit_all_update" alt="" coords="450,176,562,204"/>
-<area shape="rect" id="node8" href="$df/d64/sPHENIXTrackerTpc_8cpp.html#ac54eb20254715073b98342aa07f05f55" title="remove_bad_hits" alt="" coords="223,227,359,255"/>
-<area shape="rect" id="node4" href="$d8/ddc/classsPHENIXTrackerTpc.html#a03d04ab414ae2c90cffcf5c5d9cf39ad" title="sPHENIXTrackerTpc::\lfindTracks" alt="" coords="1047,87,1205,131"/>
-<area shape="rect" id="node6" href="$d8/ddc/classsPHENIXTrackerTpc.html#a71ff64599ec23d4003a74981ed9e2a50" title="sPHENIXTrackerTpc::\lfindTracksByCombinatorialKalman" alt="" coords="747,116,999,160"/>
-</map>

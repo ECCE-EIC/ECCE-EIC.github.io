@@ -1,9 +1,0 @@
-<map id="coresoftware/blob/master/offline/packages/intt/CylinderGeomIntt.h" name="coresoftware/blob/master/offline/packages/intt/CylinderGeomIntt.h">
-<area shape="rect" id="node2" href="$de/d89/CylinderGeomIntt_8cc.html" title="coresoftware/blob/master\l/offline/packages/intt\l/CylinderGeomIntt.cc" alt="" coords="5,113,200,173"/>
-<area shape="rect" id="node3" href="$d2/da5/InttClusterizer_8cc.html" title="coresoftware/blob/master\l/offline/packages/intt\l/InttClusterizer.cc" alt="" coords="224,113,419,173"/>
-<area shape="rect" id="node4" href="$d0/d52/PHGenFitTrkFitter_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackreco\l/PHGenFitTrkFitter.cc" alt="" coords="443,113,648,173"/>
-<area shape="rect" id="node5" href="$da/d80/PHGenFitTrkProp_8cc.html" title="coresoftware/blob/master\l/offline/packages/trackreco\l/PHGenFitTrkProp.cc" alt="" coords="672,113,877,173"/>
-<area shape="rect" id="node6" href="$d3/d3e/PHG4InttDetector_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4intt/PHG4InttDetector.cc" alt="" coords="901,113,1109,173"/>
-<area shape="rect" id="node7" href="$d3/da0/PHG4InttHitReco_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4intt/PHG4InttHitReco.cc" alt="" coords="1133,113,1336,173"/>
-<area shape="rect" id="node8" href="$de/d7a/SVReco_8C.html" title="analysis/blob/master\l/PhotonConversion/truthconversion\l/SVReco.C" alt="" coords="1360,113,1621,173"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="findPacketV1DebugStart" name="findPacketV1DebugStart">
-<area shape="rect" id="node2" href="$de/d93/Cpacket_8h.html#a240cdc0ca633222b7ca7dd8d85ebedd0" title="getPacketLength" alt="" coords="271,5,405,33"/>
-<area shape="rect" id="node3" href="$d6/dee/CpacketV1_8h.html#ac216e6fa802dd319054712799b39ff71" title="getPacketV1DebugLength" alt="" coords="240,57,436,85"/>
-<area shape="rect" id="node4" href="$d6/dee/CpacketV1_8h.html#abc38cac9b20b4aebc6f2cb40e6cf0af2" title="getPacketV1ErrorLength" alt="" coords="246,109,430,137"/>
-</map>

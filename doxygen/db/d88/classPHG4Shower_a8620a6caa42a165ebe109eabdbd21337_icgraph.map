@@ -1,8 +1,0 @@
-<map id="PHG4Shower::get_edep" name="PHG4Shower::get_edep">
-<area shape="rect" id="node2" href="$d7/d3c/classCaloTruthEval.html#a282bab9b4231f9160e7c2b012186558e" title="how much energy did this primary and its shower deposit in the calo volume?" alt="" coords="233,61,423,105"/>
-<area shape="rect" id="node6" href="$dd/d9d/classPHG4TruthEventAction.html#a44d3d244e86dfc0f12e1c418ecf018c0" title="PHG4TruthEventAction\l::PruneShowers" alt="" coords="241,129,415,173"/>
-<area shape="rect" id="node3" href="$dd/d59/classCaloEvaluator.html#a5298ee9646d361a4960fc0e20f83c880" title="dump the evaluator information into ntuple for external analysis" alt="" coords="491,5,679,49"/>
-<area shape="rect" id="node5" href="$dd/d59/classCaloEvaluator.html#ab7e09466d57c5b93274f09f61c0f321e" title="print out the ancestry information for detailed diagnosis" alt="" coords="471,73,699,101"/>
-<area shape="rect" id="node4" href="$dd/d59/classCaloEvaluator.html#a936967e98c89ec58e7851b0661b838c0" title="CaloEvaluator::process\l_event" alt="" coords="747,36,923,80"/>
-<area shape="rect" id="node7" href="$dd/d9d/classPHG4TruthEventAction.html#aadf84e52ab9bcf0b8fb892c626b53c27" title="PHG4TruthEventAction\l::EndOfEventAction" alt="" coords="498,129,671,173"/>
-</map>

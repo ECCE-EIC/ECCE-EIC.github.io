@@ -1,6 +1,0 @@
-<map id="PHG4DstCompressReco::SearchG4HitNodes" name="PHG4DstCompressReco::SearchG4HitNodes">
-<area shape="rect" id="node2" href="$d1/d3e/classPHDataNode.html#a1f3b856fd3ce165047be8aa97f4ab9f3" title="PHDataNode::getData" alt="" coords="233,5,403,33"/>
-<area shape="rect" id="node3" href="$d5/d07/classPHNodeIterator.html#a110a5b87a02a22deecae334f32387ffa" title="PHNodeIterator::ls" alt="" coords="246,57,390,85"/>
-<area shape="rect" id="node4" href="$d6/d86/classPHPointerList.html#a560c9339d74f28f604d07dcb10a2e0be" title="PHPointerList::clear" alt="" coords="459,31,613,59"/>
-<area shape="rect" id="node5" href="$d6/d86/classPHPointerList.html#ac2176735e9d046a034f1686fd2c477eb" title="PHPointerList::append" alt="" coords="451,83,621,111"/>
-</map>

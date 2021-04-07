@@ -1,8 +1,0 @@
-<map id="FitNewton::ChiSquareGradHessian::calcValGradHessian" name="FitNewton::ChiSquareGradHessian::calcValGradHessian">
-<area shape="rect" id="node2" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a2b98b1fc845541fe46246611497daa50" title="FitNewton::FunctionGradHessian\l::calcValGrad" alt="" coords="287,5,528,49"/>
-<area shape="rect" id="node4" href="$df/da1/classFitNewton_1_1ChiSquareGradHessian.html#a415ae5287349b788d8e8d49560b72cf9" title="FitNewton::ChiSquareGrad\lHessian::calcValGradHessianThread1" alt="" coords="271,125,544,169"/>
-<area shape="rect" id="node5" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a9ddf262fabef65326926ae595708901e" title="FitNewton::FunctionGradHessian\l::Clone" alt="" coords="592,85,833,129"/>
-<area shape="rect" id="node6" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a5561d8485787ff8c8c1fd4054c3bf453" title="FitNewton::FunctionGradHessian\l::setFixedPar" alt="" coords="592,164,833,208"/>
-<area shape="rect" id="node7" href="$d5/dcd/classSeamStress_1_1Pincushion.html#a16652db40dd3fe23a6fa1679bedf5a6c" title="SeamStress::Pincushion\l::sewStraight" alt="" coords="316,245,499,289"/>
-<area shape="rect" id="node3" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a8729f39d9e6aebf8487c3e7aee166712" title="FitNewton::FunctionGradHessian\l::calcValGradHessian" alt="" coords="592,12,833,56"/>
-</map>

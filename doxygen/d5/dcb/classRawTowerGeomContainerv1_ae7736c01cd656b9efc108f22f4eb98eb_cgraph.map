@@ -1,6 +1,0 @@
-<map id="RawTowerGeomContainerv1::add_tower_geometry" name="RawTowerGeomContainerv1::add_tower_geometry">
-<area shape="rect" id="node2" href="$da/d58/namespaceRawTowerDefs.html#afefd6e46416b49770fdbb506daa2f9ce" title="RawTowerDefs::decode\l_caloid" alt="" coords="281,5,458,49"/>
-<area shape="rect" id="node3" href="$d5/dcb/classRawTowerGeomContainerv1.html#aa27922506f8ef78885f443ccaa4bb895" title="RawTowerGeomContainerv1\l::get_calorimeter_id" alt="" coords="264,73,475,117"/>
-<area shape="rect" id="node4" href="$d8/dc4/classRawTowerGeom.html#abcfdfaf4c1f23b0bd5045ae2177c6bb4" title="RawTowerGeom::get_id" alt="" coords="280,141,459,169"/>
-<area shape="rect" id="node5" href="$d8/dc4/classRawTowerGeom.html#ac72e099084b8af946a20b299a623d731" title="RawTowerGeom::identify" alt="" coords="275,193,464,221"/>
-</map>

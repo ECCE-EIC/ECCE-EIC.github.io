@@ -1,8 +1,0 @@
-<map id="JetTruthEval::get_truth_jet" name="JetTruthEval::get_truth_jet">
-<area shape="rect" id="node2" href="$d7/d97/classJetMap.html#a0ed0a38d5cffc5f42774a634f2207d43" title="JetMap::begin" alt="" coords="287,5,402,33"/>
-<area shape="rect" id="node3" href="$d3/d69/group__clustered.html#ga0507794200ea2082a334b9857e41909e" title="Jet::begin_comp" alt="" coords="279,57,411,85"/>
-<area shape="rect" id="node4" href="$d7/d97/classJetMap.html#a21986721db13cb4cf361c1639aebcc1b" title="JetMap::end" alt="" coords="293,109,396,137"/>
-<area shape="rect" id="node5" href="$d3/d69/group__clustered.html#ga2c87beb325736c98531718964dc70a7a" title="Jet::end_comp" alt="" coords="285,161,404,189"/>
-<area shape="rect" id="node6" href="$d3/d22/classJetTruthEval.html#a70dac2d0c868c59d9b98bd37809bfb4e" title="get a copy of the lower level eval and its memory cache" alt="" coords="260,213,429,257"/>
-<area shape="rect" id="node7" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="252,281,437,325"/>
-</map>

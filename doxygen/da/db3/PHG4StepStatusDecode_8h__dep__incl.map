@@ -1,9 +1,0 @@
-<map id="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4StepStatusDecode.h" name="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4StepStatusDecode.h">
-<area shape="rect" id="node2" href="$d8/de3/PHG4BlockSteppingAction_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BlockSteppingAction.cc" alt="" coords="5,121,313,181"/>
-<area shape="rect" id="node3" href="$dc/d5d/PHG4CylinderSteppingAction_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4CylinderStepping\lAction.cc" alt="" coords="338,113,605,189"/>
-<area shape="rect" id="node4" href="$de/d72/PHG4InnerHcalSteppingAction_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4InnerHcalStepping\lAction.cc" alt="" coords="629,113,903,189"/>
-<area shape="rect" id="node5" href="$d0/d32/PHG4OuterHcalSteppingAction_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4OuterHcalStepping\lAction.cc" alt="" coords="927,113,1205,189"/>
-<area shape="rect" id="node6" href="$d7/d1d/PHG4PSTOFSteppingAction_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4PSTOFSteppingAction.cc" alt="" coords="1229,121,1543,181"/>
-<area shape="rect" id="node7" href="$d5/d0c/PHG4StepStatusDecode_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4StepStatusDecode.cc" alt="" coords="1567,121,1861,181"/>
-<area shape="rect" id="node8" href="$de/d9e/PHG4TpcSteppingAction_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4tpc/PHG4TpcSteppingAction.cc" alt="" coords="1885,121,2138,181"/>
-</map>

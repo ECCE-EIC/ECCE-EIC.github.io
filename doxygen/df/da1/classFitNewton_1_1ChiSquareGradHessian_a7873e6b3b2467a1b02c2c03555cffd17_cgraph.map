@@ -1,6 +1,0 @@
-<map id="FitNewton::ChiSquareGradHessian::calcValGradThread1" name="FitNewton::ChiSquareGradHessian::calcValGradThread1">
-<area shape="rect" id="node2" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a2b98b1fc845541fe46246611497daa50" title="FitNewton::FunctionGradHessian\l::calcValGrad" alt="" coords="273,5,515,49"/>
-<area shape="rect" id="node4" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a9ddf262fabef65326926ae595708901e" title="FitNewton::FunctionGradHessian\l::Clone" alt="" coords="273,73,515,117"/>
-<area shape="rect" id="node5" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a5561d8485787ff8c8c1fd4054c3bf453" title="FitNewton::FunctionGradHessian\l::setFixedPar" alt="" coords="273,141,515,185"/>
-<area shape="rect" id="node3" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a8729f39d9e6aebf8487c3e7aee166712" title="FitNewton::FunctionGradHessian\l::calcValGradHessian" alt="" coords="563,5,804,49"/>
-</map>

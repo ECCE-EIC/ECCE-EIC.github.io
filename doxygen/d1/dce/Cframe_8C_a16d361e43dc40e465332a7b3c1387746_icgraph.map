@@ -1,9 +1,0 @@
-<map id="getFrameErrorLength" name="getFrameErrorLength">
-<area shape="rect" id="node2" href="$d5/dcf/classA__Event.html#a4554c8ae0073fe89b28f731214e5e031" title="A_Event::dumpErrorBlock" alt="" coords="217,5,413,33"/>
-<area shape="rect" id="node3" href="$d5/dcf/classA__Event.html#a1fe5c46bc5cbdedf5b812637e31c50d6" title="A_Event::listError" alt="" coords="468,31,608,59"/>
-<area shape="rect" id="node4" href="$d5/dcf/classA__Event.html#adf4379bb84606326ee2852a9d5e72c5b" title="A_Event::dumpFrame" alt="" coords="232,109,399,137"/>
-<area shape="rect" id="node6" href="$d4/dea/formatIO_8h.html#af22b5a7ec0627c88037236f9cee8e366" title="dumpFrameHdr" alt="" coords="251,161,379,189"/>
-<area shape="rect" id="node5" href="$d5/dcf/classA__Event.html#a74892ea7b8de386cc8301e31bcf47c36" title="A_Event::listFrame" alt="" coords="464,109,612,137"/>
-<area shape="rect" id="node7" href="$d4/dea/formatIO_8h.html#a98bb3d441522e754c90db8e1e0a3559f" title="dumpFrame" alt="" coords="487,161,589,189"/>
-<area shape="rect" id="node8" href="$d4/dea/formatIO_8h.html#ac0beeb58d5bb799ada9cd7708519317b" title="dumpFramePackets" alt="" coords="461,213,615,241"/>
-</map>

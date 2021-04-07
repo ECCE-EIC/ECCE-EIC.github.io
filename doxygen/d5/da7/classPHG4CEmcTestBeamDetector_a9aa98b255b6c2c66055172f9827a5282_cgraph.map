@@ -1,6 +1,0 @@
-<map id="PHG4CEmcTestBeamDetector::ConstructMe" name="PHG4CEmcTestBeamDetector::ConstructMe">
-<area shape="rect" id="node2" href="$d5/da7/classPHG4CEmcTestBeamDetector.html#afb26c31b63578539e7182947515bd229" title="PHG4CEmcTestBeamDetector\l::CalculateGeometry" alt="" coords="275,5,496,49"/>
-<area shape="rect" id="node3" href="$d5/da7/classPHG4CEmcTestBeamDetector.html#a97c72fbc0fab1afc7878745fc9d1ccfd" title="PHG4CEmcTestBeamDetector\l::ConstructTowerVolume" alt="" coords="275,73,496,117"/>
-<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="813,81,1035,109"/>
-<area shape="rect" id="node5" href="$d5/da7/classPHG4CEmcTestBeamDetector.html#a17aabf73f4165246b6e227862041e535" title="PHG4CEmcTestBeamDetector\l::ConstructSandwichVolume" alt="" coords="544,73,765,117"/>
-</map>

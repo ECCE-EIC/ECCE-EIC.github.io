@@ -1,9 +1,0 @@
-<map id="G4CellNtuple::process_event" name="G4CellNtuple::process_event">
-<area shape="rect" id="node2" href="$d9/d85/classPHG4CylinderCellGeom.html#a1b95fc81c08ed3f7957271ce770073ae" title="PHG4CylinderCellGeom\l::get_etacenter" alt="" coords="257,5,437,49"/>
-<area shape="rect" id="node5" href="$d9/d85/classPHG4CylinderCellGeom.html#a619e05f0264243126360ac83b80f1d89" title="PHG4CylinderCellGeom\l::get_phicenter" alt="" coords="257,73,437,117"/>
-<area shape="rect" id="node7" href="$d6/ddf/classPHG4CylinderCellContainer.html#aedc0c2d662042c0bffe30257bb37c882" title="return all cylinderCells matching a given detid" alt="" coords="244,141,451,185"/>
-<area shape="rect" id="node8" href="$d2/ddb/classPHG4CylinderCellGeomContainer.html#aa667a12262dc298b8aec717e6096d09f" title="PHG4CylinderCellGeomContainer\l::GetLayerCellGeom" alt="" coords="224,209,471,253"/>
-<area shape="rect" id="node3" href="$d9/d85/classPHG4CylinderCellGeom.html#a995395a00854429f29a468669e3659c3" title="PHG4CylinderCellGeom\l::check_binning_method_eta" alt="" coords="519,5,732,49"/>
-<area shape="rect" id="node4" href="$d9/d85/classPHG4CylinderCellGeom.html#a8e9118667d576868ba0bd5e6a6686efd" title="PHG4CylinderCellGeom\l::methodname" alt="" coords="780,40,960,84"/>
-<area shape="rect" id="node6" href="$d9/d85/classPHG4CylinderCellGeom.html#ab28e6403197b245275ba3613cd56ba6c" title="PHG4CylinderCellGeom\l::check_binning_method_phi" alt="" coords="519,73,732,117"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="EMCalAna::get_HistoManager" name="EMCalAna::get_HistoManager">
-<area shape="rect" id="node2" href="$db/d4b/classEMCalAna.html#a9082f1891dc4967016d84bea32c49542" title="Called at the end of all processing." alt="" coords="322,5,446,33"/>
-<area shape="rect" id="node3" href="$db/d4b/classEMCalAna.html#a281a22c319ff2f5e7c7e327bf9a1c4f2" title="EMCalAna::Init_SF" alt="" coords="313,57,455,85"/>
-<area shape="rect" id="node5" href="$db/d4b/classEMCalAna.html#a50dacf6316394cf827c56d49459bfba1" title="EMCalAna::Init_Tower" alt="" coords="301,109,467,137"/>
-<area shape="rect" id="node6" href="$db/d4b/classEMCalAna.html#ab478dd11f24604db6fece30078120c73" title="EMCalAna::process_event_SF" alt="" coords="275,161,493,189"/>
-<area shape="rect" id="node8" href="$db/d4b/classEMCalAna.html#a2dc76e382cb983e3e7765aee0655572e" title="EMCalAna::process_event\l_Tower" alt="" coords="286,213,482,257"/>
-<area shape="rect" id="node4" href="$db/d4b/classEMCalAna.html#ab84401ffc179a3c0bca6ef399fa3bd20" title="EMCalAna::Init" alt="" coords="579,95,699,123"/>
-<area shape="rect" id="node7" href="$db/d4b/classEMCalAna.html#a3b829b80df0fd8625130f3d9c11f5d3d" title="EMCalAna::process_event" alt="" coords="541,176,737,204"/>
-</map>

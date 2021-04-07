@@ -1,7 +1,0 @@
-<map id="PHG4DetectorSubsystem::GetLayer" name="PHG4DetectorSubsystem::GetLayer">
-<area shape="rect" id="node2" href="$d5/de1/classPHG4BeamlineMagnetSubsystem.html#a54906b8bb44fe6534c169418891100c3" title="init runwise stuff" alt="" coords="245,5,493,49"/>
-<area shape="rect" id="node3" href="$df/d14/classPHG4BlockSubsystem.html#ac0d173351f388609274a5105753746c3" title="InitRunSubsystem." alt="" coords="285,73,454,117"/>
-<area shape="rect" id="node4" href="$db/dc5/classPHG4CylinderSubsystem.html#a034cd0c643ec03070dcaf5f3bae175e0" title="init runwise stuff" alt="" coords="275,141,464,185"/>
-<area shape="rect" id="node5" href="$d7/d58/classPHG4mRICHSubsystem.html#a228a3aef199e3b37118c6e199418468d" title="InitRunSubsystem." alt="" coords="280,209,459,253"/>
-<area shape="rect" id="node6" href="$d6/dca/classPHG4SpacalSubsystem.html#a90194add98a02adc7715f79919371211" title="init" alt="" coords="280,277,459,321"/>
-</map>

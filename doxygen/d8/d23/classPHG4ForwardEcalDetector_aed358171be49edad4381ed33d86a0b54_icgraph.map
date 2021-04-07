@@ -1,8 +1,0 @@
-<map id="PHG4ForwardEcalDetector::GetDisplayAction" name="PHG4ForwardEcalDetector::GetDisplayAction">
-<area shape="rect" id="node2" href="$d8/d19/classPHG4EICForwardEcalDetector.html#a2ca81703a5f558ef422037d6cd4c31ec" title="construct" alt="" coords="523,13,744,57"/>
-<area shape="rect" id="node3" href="$d8/d23/classPHG4ForwardEcalDetector.html#a3930ced4da0fa3fd0c39d302fe6a84e5" title="construct" alt="" coords="792,158,992,202"/>
-<area shape="rect" id="node4" href="$d8/d19/classPHG4EICForwardEcalDetector.html#ad6684ccc8649a6d5674ab59952d43b90" title="PHG4EICForwardEcalDetector\l::ConstructTower" alt="" coords="253,42,475,86"/>
-<area shape="rect" id="node5" href="$d8/d23/classPHG4ForwardEcalDetector.html#a6cc111d6a9972cad82ed720d4f834f47" title="PHG4ForwardEcalDetector\l::ConstructTower" alt="" coords="533,188,733,232"/>
-<area shape="rect" id="node6" href="$d8/d23/classPHG4ForwardEcalDetector.html#ab30085a41972a3f9848aedb5b616e3b7" title="PHG4ForwardEcalDetector\l::ConstructTowerType2" alt="" coords="264,213,464,257"/>
-<area shape="rect" id="node7" href="$d8/d23/classPHG4ForwardEcalDetector.html#ae9d3240ec78fdb47144bb824897d19f5" title="PHG4ForwardEcalDetector\l::ConstructTowerType3_4_5_6" alt="" coords="254,281,474,325"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="TrkrClusterv1::getPhiError" name="TrkrClusterv1::getPhiError">
-<area shape="rect" id="node2" href="$dc/d79/classTrkrClusterv1.html#a8ae321715dd3b0b57aa7c00b62c5652e" title="TrkrClusterv1::getRPhiError" alt="" coords="251,5,457,33"/>
-<area shape="rect" id="node3" href="$dc/d79/classTrkrClusterv1.html#ac2f1ea4e433ce59a446c91f1389810f3" title="TrkrClusterv1::getError" alt="" coords="505,5,681,33"/>
-<area shape="rect" id="node4" href="$dc/d79/classTrkrClusterv1.html#ae90d54dc6442524e2d53f793cdf273b2" title="TrkrClusterv1::covarIndex" alt="" coords="729,5,925,33"/>
-<area shape="rect" id="node5" href="$d4/da9/namespaceboost.html#a630945877437d477612e4419562161cc" title="boost::swap" alt="" coords="973,5,1076,33"/>
-<area shape="rect" id="node6" href="$d1/d96/classboost_1_1array.html#a342ef866ed696b18ce803b5c9aba4b2e" title="boost::array::swap" alt="" coords="1124,5,1271,33"/>
-</map>

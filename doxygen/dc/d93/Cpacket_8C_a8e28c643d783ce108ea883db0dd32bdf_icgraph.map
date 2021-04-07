@@ -1,8 +1,0 @@
-<map id="extendPacketDataBlock" name="extendPacketDataBlock">
-<area shape="rect" id="node2" href="$d2/d89/packetRoutines_8h.html#a51b2f78e3681264053d2f7daf5115adc" title="startUnstructDataWrite" alt="" coords="235,5,412,33"/>
-<area shape="rect" id="node3" href="$d2/d89/packetRoutines_8h.html#a4daa6b4f44a6f4e2a7f677e5b944ba7c" title="storePacketHits" alt="" coords="261,57,386,85"/>
-<area shape="rect" id="node4" href="$df/d06/fakeFrame_8C.html#a747f31be4098f000504011767116e41c" title="fakeFrame" alt="" coords="531,31,623,59"/>
-<area shape="rect" id="node5" href="$da/d59/classoEvent.html#a5e0a819b25ded38741cc78c0b84c47e1" title="oEvent::addUnstructPacketData" alt="" coords="460,83,695,111"/>
-<area shape="rect" id="node6" href="$de/dc8/classoBuffer.html#ac574c2c3e93c114ac6934e45fa7f9b7f" title="oBuffer::addUnstructPacketData" alt="" coords="743,83,980,111"/>
-<area shape="rect" id="node7" href="$df/d36/classPHRawOManager.html#aa67d8808f730acc0b88554b5ce09e3bc" title="PHRawOManager::write" alt="" coords="1028,83,1208,111"/>
-</map>

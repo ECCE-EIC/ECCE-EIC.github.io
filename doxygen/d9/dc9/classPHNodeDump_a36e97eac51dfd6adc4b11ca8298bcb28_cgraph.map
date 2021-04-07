@@ -1,9 +1,0 @@
-<map id="PHNodeDump::AddDumpObject" name="PHNodeDump::AddDumpObject">
-<area shape="rect" id="node2" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="349,5,486,33"/>
-<area shape="rect" id="node3" href="$db/d6a/classDumpObject.html#a07574c258acaa2a208ab0491218a381d" title="DumpObject::Init" alt="" coords="349,57,486,85"/>
-<area shape="rect" id="node5" href="$db/d6a/classDumpObject.html#a83c474c7e860a0108f390320fd16f181" title="DumpObject::NoOutput" alt="" coords="327,109,507,137"/>
-<area shape="rect" id="node6" href="$db/d6a/classDumpObject.html#acbe41f51134a667b165a7092e0e8c75e" title="DumpObject::SetOutDir" alt="" coords="327,161,508,189"/>
-<area shape="rect" id="node7" href="$db/d6a/classDumpObject.html#a3c103bb58967a7bce5cca8d34ed96805" title="DumpObject::SetParentNodeDump" alt="" coords="289,213,545,241"/>
-<area shape="rect" id="node8" href="$db/d6a/classDumpObject.html#a89a467bb96964b8d531c8fb31617a178" title="DumpObject::SetPrecision" alt="" coords="319,265,515,293"/>
-<area shape="rect" id="node4" href="$db/d6a/classDumpObject.html#a0d5f13403a8f61370f4c93c6d3290ba4" title="DumpObject::OpenOutFile" alt="" coords="593,57,791,85"/>
-</map>

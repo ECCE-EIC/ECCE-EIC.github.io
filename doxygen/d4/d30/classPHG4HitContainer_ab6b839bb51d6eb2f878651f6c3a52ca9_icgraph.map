@@ -1,8 +1,0 @@
-<map id="PHG4HitContainer::AddLayer" name="PHG4HitContainer::AddLayer">
-<area shape="rect" id="node2" href="$db/dfa/classPHG4HcalSubsystem.html#a27f70189465a985f453fe4106f795d6d" title="init" alt="" coords="311,5,482,49"/>
-<area shape="rect" id="node3" href="$dc/d99/classPHG4SpacalPrototype4Subsystem.html#a70833355abb8992188f66a2e670501f9" title="init" alt="" coords="271,73,523,117"/>
-<area shape="rect" id="node4" href="$d4/d00/classPHG4SpacalPrototypeSubsystem.html#ac8dfb85498d619e99885c19fd6cbc330" title="init" alt="" coords="275,141,518,185"/>
-<area shape="rect" id="node5" href="$df/d14/classPHG4BlockSubsystem.html#ac0d173351f388609274a5105753746c3" title="InitRunSubsystem." alt="" coords="312,209,481,253"/>
-<area shape="rect" id="node6" href="$db/dc5/classPHG4CylinderSubsystem.html#a034cd0c643ec03070dcaf5f3bae175e0" title="init runwise stuff" alt="" coords="302,277,491,321"/>
-<area shape="rect" id="node7" href="$d6/dca/classPHG4SpacalSubsystem.html#a90194add98a02adc7715f79919371211" title="init" alt="" coords="307,345,486,389"/>
-</map>

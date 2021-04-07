@@ -1,6 +1,0 @@
-<map id="RawCluster::identify" name="RawCluster::identify">
-<area shape="rect" id="node2" href="$d2/d46/classRawClusterBuilderGraph.html#a8b8678d16130835761627d0c1fc6ebf9" title="RawClusterBuilderGraph\l::process_event" alt="" coords="217,5,403,49"/>
-<area shape="rect" id="node3" href="$d5/d99/classRawClusterDeadAreaMask.html#a1cf054589efaa147cf82fe9f5d18c92a" title="RawClusterDeadAreaMask\l::process_event" alt="" coords="211,73,409,117"/>
-<area shape="rect" id="node4" href="$dd/d9c/classRawClusterBuilderFwd.html#a3b88c548143030fceb38c3dfe726eda0" title="RawClusterBuilderFwd\l::process_event" alt="" coords="224,141,396,185"/>
-<area shape="rect" id="node5" href="$de/dcb/classClusterIso.html#a6aa03ee56ec17554e0603b71e741dfbd" title="ClusterIso::process\l_event" alt="" coords="235,209,385,253"/>
-</map>

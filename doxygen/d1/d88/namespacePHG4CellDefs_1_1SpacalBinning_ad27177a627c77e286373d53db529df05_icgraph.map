@@ -1,7 +1,0 @@
-<map id="PHG4CellDefs::SpacalBinning::get_etabin" name="PHG4CellDefs::SpacalBinning::get_etabin">
-<area shape="rect" id="node2" href="$d7/d10/classRawTowerBuilder.html#ab0904fa048bbd1d45f4df5efad65b229" title="RawTowerBuilder::process\l_event" alt="" coords="280,5,477,49"/>
-<area shape="rect" id="node3" href="$dc/d20/classPHG4FullProjSpacalCellReco.html#a8578e30ba539e33b658fe1b92fc83f71" title="event processing" alt="" coords="273,73,484,117"/>
-<area shape="rect" id="node4" href="$dd/d0c/classCaloAna.html#ab4a75457a9b038f2373d43ee974721c4" title="CaloAna::process_g4cells" alt="" coords="282,141,475,169"/>
-<area shape="rect" id="node6" href="$d3/d0b/classDumpPHG4CellContainer.html#a03d218ddb510a07f1301dff310550601" title="DumpPHG4CellContainer\l::process_Node" alt="" coords="283,193,475,237"/>
-<area shape="rect" id="node5" href="$dd/d0c/classCaloAna.html#afe94c360c527e97289601b2ddd4fc131" title="event processing method" alt="" coords="532,141,716,169"/>
-</map>

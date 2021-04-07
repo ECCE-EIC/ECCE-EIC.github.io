@@ -1,9 +1,0 @@
-<map id="DrawTowerSum_Res_2Fit_1DSpacalNoSVX" name="DrawTowerSum_Res_2Fit_1DSpacalNoSVX">
-<area shape="rect" id="node2" href="$dc/d17/DrawEcal_8C.html#ae631f63c00eee1f4dbfa0ede52896688" title="DrawTowerSum_AnaP" alt="" coords="241,57,408,85"/>
-<area shape="rect" id="node7" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="273,109,377,137"/>
-<area shape="rect" id="node3" href="$dc/d17/DrawEcal_8C.html#a4577b659c137e6e5b5149121fbc92fab" title="DrawTowerSum_SingleE" alt="" coords="456,5,639,33"/>
-<area shape="rect" id="node6" href="$d7/d2d/make__fmod__calibrations_8C.html#a0dac611a7318ae96902d033b4b7b51f1" title="fit" alt="" coords="528,57,567,85"/>
-<area shape="rect" id="node4" href="$de/de0/matchedfilter_8C.html#a6547063fbcbf53a7fdffddbd2747b29f" title="rms" alt="" coords="687,5,733,33"/>
-<area shape="rect" id="node5" href="$da/d55/TPCRateLayered_8m.html#a7507ef556477c204b499f1e189d40796" title="sum" alt="" coords="781,5,832,33"/>
-<area shape="rect" id="node8" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="508,109,587,137"/>
-</map>

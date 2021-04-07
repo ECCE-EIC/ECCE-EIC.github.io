@@ -1,7 +1,0 @@
-<map id="FillCalHist" name="FillCalHist">
-<area shape="rect" id="node2" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="169,5,237,33"/>
-<area shape="rect" id="node3" href="$d6/dfd/classgroot.html#adb961f4ed3d85b8b66d81d8c2d10aa17" title="groot::instance" alt="" coords="141,57,264,85"/>
-<area shape="rect" id="node4" href="$d6/dfd/classgroot.html#af205da8d96d655fb6d86dd0065267092" title="groot::groot" alt="" coords="312,57,415,85"/>
-<area shape="rect" id="node5" href="$d9/d9e/evDisplay_8C.html#a493aff38bcceaba17aef8c5257ff963a" title="channel" alt="" coords="522,31,597,59"/>
-<area shape="rect" id="node6" href="$d0/dca/classAZigzag.html#a0c1b026a723d17ca9f1bff1c8250339d" title="AZigzag::ReadCalibration" alt="" coords="463,83,656,111"/>
-</map>

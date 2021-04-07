@@ -1,8 +1,0 @@
-<map id="d1mach" name="d1mach">
-<area shape="rect" id="node2" href="$d8/dcf/d1mach_8f.html#afc9fb70ab87786e37bc6e39c9514d8c6" title="i1mcry" alt="" coords="153,5,221,33"/>
-<area shape="rect" id="node3" href="$d0/d5e/classPHTimer.html#adce6f9a85834e59bd154b9c624ee4e41" title="stops the counter" alt="" coords="129,57,245,85"/>
-<area shape="rect" id="node4" href="$d0/d5e/classPHTimer.html#aa92e3fe4a0a1799f39743eda9ef9d497" title="gets time from cpu clock counts" alt="" coords="498,23,649,67"/>
-<area shape="rect" id="node5" href="$d0/d5e/classPHTimer.html#a976738876ad978116fdc4549a3765685" title="retrieve elapsed value since last restart (in ms)" alt="" coords="293,83,433,111"/>
-<area shape="rect" id="node6" href="$d0/d5e/classPHTimer.html#aa75ff2c27aba40e7ef0a934f9a3355c2" title="returns difference between to time" alt="" coords="481,91,665,119"/>
-<area shape="rect" id="node7" href="$d2/db1/classPHTimer_1_1Frequency.html#a023a2d706df9a8bd303810a9ed017f61" title="period accessor" alt="" coords="713,83,871,127"/>
-</map>

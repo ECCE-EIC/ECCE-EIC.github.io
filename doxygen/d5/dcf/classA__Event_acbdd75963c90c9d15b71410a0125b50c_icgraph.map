@@ -1,9 +1,0 @@
-<map id="A_Event::getEvtLength" name="A_Event::getEvtLength">
-<area shape="rect" id="node2" href="$d5/dcf/classA__Event.html#acca85a8f3e636641864acfc825d941b1" title="A_Event::convert" alt="" coords="239,5,377,33"/>
-<area shape="rect" id="node3" href="$d5/dcf/classA__Event.html#a2e512c28a455fdd3ca99e44fd6eb1c7f" title="A_Event::Copy" alt="" coords="247,57,369,85"/>
-<area shape="rect" id="node4" href="$d5/dcf/classA__Event.html#ac9fd33cb2b56a4f5e82ffa11e6a19602" title="A_Event::createMap" alt="" coords="229,109,387,137"/>
-<area shape="rect" id="node8" href="$d5/dcf/classA__Event.html#ae86408e48c2468a22a00ec5f457a7a7d" title="A_Event::getPacketList" alt="" coords="435,161,611,189"/>
-<area shape="rect" id="node5" href="$d5/dcf/classA__Event.html#a7da7d1210a427edf5904bd63134a3ae9" title="A_Event::existPacket" alt="" coords="441,5,604,33"/>
-<area shape="rect" id="node6" href="$d5/dcf/classA__Event.html#a90cd2e372e1cc36b8c1ec156055b3482" title="A_Event::getErrorCode" alt="" coords="435,57,611,85"/>
-<area shape="rect" id="node7" href="$d5/dcf/classA__Event.html#a601119d50cd05d8866dbc7d125fb5b06" title="A_Event::getPacket" alt="" coords="446,109,599,137"/>
-</map>

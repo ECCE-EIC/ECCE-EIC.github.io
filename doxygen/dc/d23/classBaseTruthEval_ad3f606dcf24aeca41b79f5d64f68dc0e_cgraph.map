@@ -1,5 +1,0 @@
-<map id="BaseTruthEval::get_vertex" name="BaseTruthEval::get_vertex">
-<area shape="rect" id="node2" href="$de/dc9/classPHG4Particle.html#a02ca717804f76c532efaf6d1cdebda3e" title="PHG4Particle::get_vtx_id" alt="" coords="203,5,390,33"/>
-<area shape="rect" id="node3" href="$da/d6c/classPHG4TruthInfoContainer.html#a5f3f30ff74c7397069c6f0041849b53c" title="PHG4TruthInfoContainer\l::GetVtx" alt="" coords="204,57,389,101"/>
-<area shape="rect" id="node4" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="203,125,391,169"/>
-</map>

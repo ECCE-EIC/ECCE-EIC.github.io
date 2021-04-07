@@ -1,9 +1,0 @@
-<map id="PHG4TruthSubsystem::process_event" name="PHG4TruthSubsystem::process_event">
-<area shape="rect" id="node2" href="$dd/d9d/classPHG4TruthEventAction.html#acae7f6ab30e8cb76590ad8d4aa332508" title="get relevant nodes from top node passed as argument" alt="" coords="230,24,403,68"/>
-<area shape="rect" id="node8" href="$db/d5c/classPHG4TruthTrackingAction.html#aeaf9e173dbed6427044fa8d74f26d81d" title="Set pointers to the i/o nodes." alt="" coords="221,92,412,136"/>
-<area shape="rect" id="node3" href="$dd/d9d/classPHG4TruthEventAction.html#a8140dbcb21650639a4d51d11cd23951b" title="PHG4TruthEventAction\l::SearchNode" alt="" coords="460,24,633,68"/>
-<area shape="rect" id="node4" href="$d1/d3e/classPHDataNode.html#a1f3b856fd3ce165047be8aa97f4ab9f3" title="PHDataNode::getData" alt="" coords="681,5,851,33"/>
-<area shape="rect" id="node5" href="$d5/d07/classPHNodeIterator.html#a110a5b87a02a22deecae334f32387ffa" title="PHNodeIterator::ls" alt="" coords="694,57,838,85"/>
-<area shape="rect" id="node6" href="$d6/d86/classPHPointerList.html#a560c9339d74f28f604d07dcb10a2e0be" title="PHPointerList::clear" alt="" coords="907,31,1061,59"/>
-<area shape="rect" id="node7" href="$d6/d86/classPHPointerList.html#ac2176735e9d046a034f1686fd2c477eb" title="PHPointerList::append" alt="" coords="899,83,1069,111"/>
-</map>

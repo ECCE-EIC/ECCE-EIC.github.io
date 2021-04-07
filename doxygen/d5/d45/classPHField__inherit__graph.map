@@ -1,6 +1,0 @@
-<map id="PHField" name="PHField">
-<area shape="rect" id="node2" href="$db/d49/classPHField2D.html" title="PHField2D" alt="" coords="5,81,96,109"/>
-<area shape="rect" id="node3" href="$d0/dc2/classPHField3DCartesian.html" title="untested code &#45; I don&#39;t know if this is being used, drop me a line (with the field) and I test this &#45;..." alt="" coords="121,81,274,109"/>
-<area shape="rect" id="node4" href="$d5/dc1/classPHField3DCylindrical.html" title="PHField3DCylindrical" alt="" coords="299,81,459,109"/>
-<area shape="rect" id="node5" href="$d3/dec/classPHFieldUniform.html" title="PHFieldUniform" alt="" coords="482,81,606,109"/>
-</map>

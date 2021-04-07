@@ -1,9 +1,0 @@
-<map id="SvtxVertex::get_id" name="SvtxVertex::get_id">
-<area shape="rect" id="node2" href="$d1/d97/classPHPatternReco.html#a6549c8bd552acd725fc0e611560c53c7" title="PHPatternReco::export\l_output" alt="" coords="225,5,398,49"/>
-<area shape="rect" id="node4" href="$d0/d71/classPHG4TrackFastSimEval.html#abb5af30ed95d2dc6212aca004f92016d" title="PHG4TrackFastSimEval\l::fill_vertex_tree" alt="" coords="224,73,399,117"/>
-<area shape="rect" id="node6" href="$dc/d78/classSvtxVertexMap__v1.html#abbc3ad5b1fcd88f9551437f924aa196d" title="SvtxVertexMap_v1::operator=" alt="" coords="199,141,423,169"/>
-<area shape="rect" id="node7" href="$d8/d13/classGlobalVertexReco.html#aa813cd24f5a1ac6d1d0d1aba2fa3bf92" title="GlobalVertexReco::process\l_event" alt="" coords="211,193,412,237"/>
-<area shape="rect" id="node8" href="$dc/d78/classSvtxVertexMap__v1.html#a8a805c798c286a025678694c4e078463" title="SvtxVertexMap_v1::SvtxVertex\lMap_v1" alt="" coords="197,261,425,305"/>
-<area shape="rect" id="node3" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="473,5,655,49"/>
-<area shape="rect" id="node5" href="$d0/d71/classPHG4TrackFastSimEval.html#ab0136bd1d81150679effd3e148c3cfc4" title="PHG4TrackFastSimEval\l::process_event" alt="" coords="477,73,651,117"/>
-</map>

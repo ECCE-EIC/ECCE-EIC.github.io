@@ -1,8 +1,0 @@
-<map id="SvtxTrack::get_truth_track_id" name="SvtxTrack::get_truth_track_id">
-<area shape="rect" id="node2" href="$d8/dea/classRICHEvaluator.html#a280833f330cf297f004d2f7608c22679" title="RICHEvaluator::calculate\l_true_emission_angle" alt="" coords="209,5,397,49"/>
-<area shape="rect" id="node4" href="$db/dca/classSetupDualRICHAnalyzer.html#a6f8341ea943dc11001af4c390296af36" title="SetupDualRICHAnalyzer\l::get_true_momentum" alt="" coords="211,73,395,117"/>
-<area shape="rect" id="node5" href="$dc/d11/classRICHParticleID.html#a6a405f148fafb5d7a36c60626507e5f7" title="RICHParticleID::process\l_event" alt="" coords="445,104,624,148"/>
-<area shape="rect" id="node6" href="$d5/da2/classPHTruthTrackSeeding.html#ab0ab67b0de3435bad2eeba92a482753c" title="PHTruthTrackSeeding\l::Process" alt="" coords="221,193,385,237"/>
-<area shape="rect" id="node7" href="$dd/d15/classFastPid__RICH.html#af5521ea2bcdd713bda3c110adcad8528" title="FastPid_RICH::process\l_event" alt="" coords="219,261,388,305"/>
-<area shape="rect" id="node3" href="$d8/dea/classRICHEvaluator.html#a6f910e41350cb9b89acc8029e5769762" title="RICHEvaluator::process\l_event" alt="" coords="445,21,624,65"/>
-</map>

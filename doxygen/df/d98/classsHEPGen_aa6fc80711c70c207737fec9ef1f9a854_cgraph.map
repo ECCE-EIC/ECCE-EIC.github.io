@@ -1,6 +1,0 @@
-<map id="sHEPGen::beam_vertex_parameters" name="sHEPGen::beam_vertex_parameters">
-<area shape="rect" id="node2" href="$df/d98/classsHEPGen.html#af6d8f6560431b402e4bc878ab0781d6f" title="set the mean value of the vertex distribution, use PHENIX units of cm, ns" alt="" coords="233,5,396,49"/>
-<area shape="rect" id="node4" href="$df/d98/classsHEPGen.html#a10d283464ea151a851b10ddb4abe7495" title="set the width of the vertex distribution function about the mean, use PHENIX units of cm..." alt="" coords="233,73,396,117"/>
-<area shape="rect" id="node3" href="$dd/d2a/classPHHepMCGenHelper.html#aad7308b0a8bbfcdc2106b5be191ec37e" title="set the mean value of the vertex distribution, use PHENIX units of cm, ns" alt="" coords="444,5,645,49"/>
-<area shape="rect" id="node5" href="$dd/d2a/classPHHepMCGenHelper.html#a4a9dfd6131b1e3bfb1428875a88a98ea" title="set the width of the vertex distribution function about the mean, use PHENIX units of cm..." alt="" coords="445,73,645,117"/>
-</map>

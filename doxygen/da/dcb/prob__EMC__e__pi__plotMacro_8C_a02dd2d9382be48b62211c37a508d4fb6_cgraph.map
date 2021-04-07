@@ -1,7 +1,0 @@
-<map id="prob_EMC_e_pi_plotMacro" name="prob_EMC_e_pi_plotMacro">
-<area shape="rect" id="node2" href="$d3/d09/jpsi__invariant__mass__plot__exclusiveReco_8C.html#a537b4492eab4c5c36221be8b797f39d9" title="fillHist" alt="" coords="281,5,347,33"/>
-<area shape="rect" id="node3" href="$da/dcb/prob__EMC__e__pi__plotMacro_8C.html#a5e71560188a1e4fbca63bb75ffaad2bc" title="histToPNG" alt="" coords="270,57,358,85"/>
-<area shape="rect" id="node4" href="$da/dcb/prob__EMC__e__pi__plotMacro_8C.html#a1b9fe5d594a7180b3e826c2005400855" title="loadTree" alt="" coords="275,109,353,137"/>
-<area shape="rect" id="node5" href="$d1/d95/sPhenixStyle_8C.html#a40c9ca7bea26e6a08182ceb8298869e7" title="sPHENIX Style, based on a style file from ATLAS by Peter Steinberg" alt="" coords="249,161,379,189"/>
-<area shape="rect" id="node6" href="$d1/d95/sPhenixStyle_8C.html#a2b14fe9277832cb4dbdc473f44df99b4" title="sPhenixStyle" alt="" coords="427,161,535,189"/>
-</map>

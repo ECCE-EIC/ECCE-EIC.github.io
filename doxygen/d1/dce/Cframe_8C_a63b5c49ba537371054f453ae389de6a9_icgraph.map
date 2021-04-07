@@ -1,9 +1,0 @@
-<map id="getFrameDataType" name="getFrameDataType">
-<area shape="rect" id="node2" href="$d5/dcf/classA__Event.html#adf4379bb84606326ee2852a9d5e72c5b" title="A_Event::dumpFrame" alt="" coords="212,12,379,40"/>
-<area shape="rect" id="node4" href="$d4/dea/formatIO_8h.html#af22b5a7ec0627c88037236f9cee8e366" title="dumpFrameHdr" alt="" coords="231,71,359,99"/>
-<area shape="rect" id="node7" href="$d5/dcf/classA__Event.html#adbe99ec3badbaa12d42ddd5a13982abe" title="A_Event::getFrameValue" alt="" coords="201,136,389,164"/>
-<area shape="rect" id="node3" href="$d5/dcf/classA__Event.html#a74892ea7b8de386cc8301e31bcf47c36" title="A_Event::listFrame" alt="" coords="457,5,605,33"/>
-<area shape="rect" id="node5" href="$d4/dea/formatIO_8h.html#a98bb3d441522e754c90db8e1e0a3559f" title="dumpFrame" alt="" coords="479,57,582,85"/>
-<area shape="rect" id="node6" href="$d4/dea/formatIO_8h.html#ac0beeb58d5bb799ada9cd7708519317b" title="dumpFramePackets" alt="" coords="454,109,607,137"/>
-<area shape="rect" id="node8" href="$d5/dcf/classA__Event.html#ad967a958e3bd34166d5cb71387ae6a82" title="A_Event::getFrameEntry" alt="" coords="437,161,624,189"/>
-</map>

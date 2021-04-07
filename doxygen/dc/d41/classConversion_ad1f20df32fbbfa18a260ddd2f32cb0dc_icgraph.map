@@ -1,6 +1,0 @@
-<map id="Conversion::setElectron" name="Conversion::setElectron">
-<area shape="rect" id="node2" href="$dc/d41/classConversion.html#a1229f82ebc9957529ec1f86b95a90e47" title="calls setElectron() then returns e1" alt="" coords="244,5,427,33"/>
-<area shape="rect" id="node3" href="$dc/d41/classConversion.html#afad9306dbdbd310a067a874ded064da6" title="calls setElectron() if true returns e2 else returns e1" alt="" coords="245,57,426,85"/>
-<area shape="rect" id="node4" href="$dc/d41/classConversion.html#a527465aa0e6f91e3b1f0b8f60b109f01" title="Conversion::setRecoTrack" alt="" coords="238,109,433,137"/>
-<area shape="rect" id="node5" href="$dc/d41/classConversion.html#aec0063d88168c2ad3daaa21225b7384e" title="Conversion::setRecoTracks" alt="" coords="235,161,436,189"/>
-</map>

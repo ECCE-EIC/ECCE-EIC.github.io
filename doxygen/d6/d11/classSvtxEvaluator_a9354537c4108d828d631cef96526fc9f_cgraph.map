@@ -1,7 +1,0 @@
-<map id="SvtxEvaluator::End" name="SvtxEvaluator::End">
-<area shape="rect" id="node2" href="$d3/ded/classSvtxEvalStack.html#a37bdeee478ac7874effc425509510932" title="SvtxEvalStack::get\l_errors" alt="" coords="216,5,365,49"/>
-<area shape="rect" id="node6" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="203,73,379,101"/>
-<area shape="rect" id="node3" href="$d4/d21/classSvtxVertexEval.html#a1ebeddcda2f0bb759bf1727ee293f86c" title="SvtxVertexEval::get\l_errors" alt="" coords="427,5,581,49"/>
-<area shape="rect" id="node4" href="$df/dad/classSvtxTrackEval.html#a04a86fc562607502db25253fec062d5c" title="SvtxTrackEval::get\l_errors" alt="" coords="629,5,776,49"/>
-<area shape="rect" id="node5" href="$d1/d1e/classSvtxClusterEval.html#af7bf2b207b96f7a108d33768da82896e" title="SvtxClusterEval::get\l_errors" alt="" coords="824,5,984,49"/>
-</map>

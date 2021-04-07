@@ -1,9 +1,0 @@
-<map id="PHG4mRICHDetector::mRichParameter::GetPolyPar" name="PHG4mRICHDetector::mRichParameter::GetPolyPar">
-<area shape="rect" id="node2" href="$d9/deb/classPHG4mRICHDetector.html#a4e59dabbc71ed6e753658469b3e13607" title="PHG4mRICHDetector::\lbuild_foamHolder" alt="" coords="269,36,440,80"/>
-<area shape="rect" id="node3" href="$d9/deb/classPHG4mRICHDetector.html#a4d8d5a1cb76f341715d82d7f645b570c" title="PHG4mRICHDetector::\lConstruct_a_mRICH" alt="" coords="488,96,659,140"/>
-<area shape="rect" id="node8" href="$d9/deb/classPHG4mRICHDetector.html#a20cf62072dfe2261698384ac5b0640e2" title="PHG4mRICHDetector::\lbuild_mirror" alt="" coords="269,156,440,200"/>
-<area shape="rect" id="node4" href="$d9/deb/classPHG4mRICHDetector.html#a35ee6aec7acdd85113502f6df8ba12df" title="PHG4mRICHDetector::\lbuild_mRICH_sector" alt="" coords="713,5,884,49"/>
-<area shape="rect" id="node5" href="$d9/deb/classPHG4mRICHDetector.html#a5a641b378eb4f6038fb2bec0a31c56e7" title="construct" alt="" coords="939,96,1109,140"/>
-<area shape="rect" id="node6" href="$d9/deb/classPHG4mRICHDetector.html#ab0bb6941540164272a03b3d7fa162899" title="PHG4mRICHDetector::\lbuild_mRICH_wall_eside" alt="" coords="707,125,891,169"/>
-<area shape="rect" id="node7" href="$d9/deb/classPHG4mRICHDetector.html#adf0136964c9906df910940410bfc2cb0" title="PHG4mRICHDetector::\lbuild_mRICH_wall_hside" alt="" coords="707,193,891,237"/>
-</map>

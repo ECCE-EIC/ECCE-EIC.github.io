@@ -1,7 +1,0 @@
-<map id="TreeMaker::UseFastJet" name="TreeMaker::UseFastJet">
-<area shape="rect" id="node2" href="$d6/dc7/group__getters.html#gaeb5c6c01b9f2f1d716e9ddaf89f64c91" title="total energy" alt="" coords="224,5,405,33"/>
-<area shape="rect" id="node3" href="$d6/dc7/group__getters.html#ga01beaccbc8f598673db35c68f5a73609" title="access to intrinsic cylindrical coordinate system" alt="" coords="237,57,392,85"/>
-<area shape="rect" id="node4" href="$d6/dc7/group__getters.html#gab5ab2d801513a8472802e826dc9d4ce9" title="RawCluster::get_r" alt="" coords="244,109,385,137"/>
-<area shape="rect" id="node5" href="$d6/dc7/group__getters.html#gaca033ff1fa8d250a0cbd0f0238252685" title="RawCluster::get_z" alt="" coords="244,161,385,189"/>
-<area shape="rect" id="node6" href="$d6/d12/classRawClusterContainer.html#ad46de2d53756226cbd310e45a2e475d0" title="return all clusters" alt="" coords="233,213,397,257"/>
-</map>

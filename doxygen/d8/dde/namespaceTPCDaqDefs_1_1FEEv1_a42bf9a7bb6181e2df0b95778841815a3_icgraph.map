@@ -1,6 +1,0 @@
-<map id="TPCDaqDefs::FEEv1::SampleFit_PowerLawDoubleExp" name="TPCDaqDefs::FEEv1::SampleFit_PowerLawDoubleExp">
-<area shape="rect" id="node2" href="$d5/dee/classTPCFEETestRecov1.html#a33bc082fff6a338e50742312a7bd3802" title="Clustering then prepare IOs." alt="" coords="288,16,515,44"/>
-<area shape="rect" id="node4" href="$dd/d60/classTpcPrototypeUnpacker.html#a3f531b94d26bba622c59c5b71ca4dd8e" title="Clustering then prepare IOs." alt="" coords="313,69,489,113"/>
-<area shape="rect" id="node3" href="$d5/dee/classTPCFEETestRecov1.html#ad90f272166874334ddecde7b4877f7a7" title="TPCFEETestRecov1::process\l_event" alt="" coords="563,5,773,49"/>
-<area shape="rect" id="node5" href="$dd/d60/classTpcPrototypeUnpacker.html#a3c458d1bda422672ff79946e5816f197" title="TpcPrototypeUnpacker\l::process_event" alt="" coords="580,73,756,117"/>
-</map>

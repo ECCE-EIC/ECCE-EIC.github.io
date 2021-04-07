@@ -1,5 +1,0 @@
-<map id="SvtxTruthEval::next_event" name="SvtxTruthEval::next_event">
-<area shape="rect" id="node2" href="$d4/de4/classSvtxTruthEval.html#a027d2889a0ab93f64dc56b4505a3073f" title="SvtxTruthEval::get\l_node_pointers" alt="" coords="212,5,359,49"/>
-<area shape="rect" id="node3" href="$dc/d23/classBaseTruthEval.html#a0a01e81c2ea74c0acaf3ade678ace806" title="reinitialize the eval for a new event" alt="" coords="207,73,364,117"/>
-<area shape="rect" id="node4" href="$dc/d23/classBaseTruthEval.html#ae6a31ce316ba54d165ff2742644314f8" title="BaseTruthEval::get\l_node_pointers" alt="" coords="412,73,561,117"/>
-</map>

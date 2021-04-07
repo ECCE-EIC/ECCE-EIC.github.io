@@ -1,9 +1,0 @@
-<map id="Jet::identify" name="Jet::identify">
-<area shape="rect" id="node2" href="$dc/d64/classHFJetTruthTrigger.html#a285f04a4990696900275fab25aa86106" title="HFJetTruthTrigger::\lprocess_event" alt="" coords="171,5,316,49"/>
-<area shape="rect" id="node3" href="$d5/d1f/classMyJetAnalysis.html#a309e9a46394353251b673514d6eb28ac" title="MyJetAnalysis::process\l_event" alt="" coords="156,73,331,117"/>
-<area shape="rect" id="node4" href="$d4/d28/classQAG4SimulationJet.html#ac2803dd2fafe7d6131f3311c9f1e4e27" title="QAG4SimulationJet::\lprocess_Spectrum" alt="" coords="165,141,322,185"/>
-<area shape="rect" id="node6" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a3989ff17a01ba304478d558b99c3214f" title="SoftLeptonTaggingTruth\l::process_Spectrum" alt="" coords="153,277,333,321"/>
-<area shape="rect" id="node8" href="$d4/d28/classQAG4SimulationJet.html#a3e5c5fe2e5e5cee7fca6173ef6e6bfa2" title="QAG4SimulationJet::\lprocess_TruthMatching" alt="" coords="155,209,331,253"/>
-<area shape="rect" id="node5" href="$d4/d28/classQAG4SimulationJet.html#a98c3c0fb4d213ada3475e8fb9895bc29" title="QAG4SimulationJet::\lprocess_event" alt="" coords="393,176,550,220"/>
-<area shape="rect" id="node7" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a152a3015fe9e7c089637c981a45787fe" title="SoftLeptonTaggingTruth\l::process_event" alt="" coords="381,277,561,321"/>
-</map>

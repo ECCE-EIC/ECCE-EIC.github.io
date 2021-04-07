@@ -1,7 +1,0 @@
-<map id="adjustFrameDataLength" name="adjustFrameDataLength">
-<area shape="rect" id="node2" href="$dd/d40/frameRoutines_8h.html#a4ec1ac4dacfce5444dbd6a99cb94c483" title="extendFrameData" alt="" coords="258,57,399,85"/>
-<area shape="rect" id="node5" href="$dd/d40/frameRoutines_8h.html#ab1f3af8b21f72ebc4fc1e2b10ed2af46" title="extendFrameDataNopad" alt="" coords="236,109,421,137"/>
-<area shape="rect" id="node3" href="$d7/d66/framePackets_8h.html#ad5edc1915cb2a006a479822de87792c7" title="appendEmptyFramePacket" alt="" coords="469,5,672,33"/>
-<area shape="rect" id="node4" href="$d8/d3b/frameRoutines_8C.html#ac2eb0bf5d4af90553c21985303f47ec4" title="storeFrameData" alt="" coords="507,57,635,85"/>
-<area shape="rect" id="node6" href="$df/d06/fakeFrame_8C.html#a747f31be4098f000504011767116e41c" title="fakeFrame" alt="" coords="525,109,617,137"/>
-</map>

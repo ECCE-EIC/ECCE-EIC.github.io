@@ -1,7 +1,0 @@
-<map id="EtaScan" name="EtaScan">
-<area shape="rect" id="node2" href="$d5/d51/DrawHadronShowers_8C.html#a84e15daec6faece69efa9a8c061a4725" title="GetResolution" alt="" coords="129,57,245,85"/>
-<area shape="rect" id="node5" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="295,109,399,137"/>
-<area shape="rect" id="node3" href="$d5/d51/DrawHadronShowers_8C.html#ac3f29226cb9dcf3fb4ab5aad51ad4afb" title="GetEvalHisto" alt="" coords="293,5,401,33"/>
-<area shape="rect" id="node4" href="$d5/d51/DrawHadronShowers_8C.html#afbe9b1a984a4764aaca150efeaa0fec9" title="GetQAHisto" alt="" coords="297,57,397,85"/>
-<area shape="rect" id="node6" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="449,109,528,137"/>
-</map>

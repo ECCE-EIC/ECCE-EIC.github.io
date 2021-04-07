@@ -1,5 +1,0 @@
-<map id="PgPostBankBackupStorage::BankHeader::getUserName" name="PgPostBankBackupStorage::BankHeader::getUserName">
-<area shape="rect" id="node2" href="$da/daa/classPgPostBankBackupManager.html#aef9c4fe8b1ac4f3cb7f77bd505b4cc18" title="PgPostBankBackupManager\l::commit" alt="" coords="519,5,728,49"/>
-<area shape="rect" id="node3" href="$da/daa/classPgPostBankBackupManager.html#a235748109f2b58dfa188d3c20d9fbe9a" title="TFile &#45;&gt; Database for official operation use." alt="" coords="519,87,728,131"/>
-<area shape="rect" id="node4" href="$d1/d28/classPgPostBankBackupStorage.html#aa8c695052f52af8277204903361746a1" title="use this storage object to recover the PdbCalBankWrapper" alt="" coords="268,52,471,96"/>
-</map>

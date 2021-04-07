@@ -1,6 +1,0 @@
-<map id="RawClusterv1::set_property" name="RawClusterv1::set_property">
-<area shape="rect" id="node2" href="$d9/db4/group__setters.html#gaed09f5bf03e16dce1b9ff9bd6652c02d" title="reduced chi2 for EM shower" alt="" coords="267,5,445,33"/>
-<area shape="rect" id="node3" href="$d9/db4/group__setters.html#ga2e56f4de20e8f51e0b403c1b513aba72" title="RawClusterv1::set_ecore" alt="" coords="263,57,449,85"/>
-<area shape="rect" id="node4" href="$d9/db4/group__setters.html#ga85cabffa59e36f4fb61436ae153c709a" title="isolation ET the radius and hueristic can be specified" alt="" coords="261,109,451,137"/>
-<area shape="rect" id="node5" href="$d9/db4/group__setters.html#gaf412b45bec4761adaecf1128e656bfe3" title="cluster template probability for EM shower" alt="" coords="265,161,447,189"/>
-</map>

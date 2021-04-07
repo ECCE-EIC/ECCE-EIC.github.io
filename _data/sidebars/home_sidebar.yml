@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Fun4All-EIC Software Documentation
+  product: ECCE @ EIC Software Documentation
   version: 1.0
   folders:
   - title: Tutorials
@@ -15,7 +15,7 @@ entries:
       output: web
       type: frontmatter
 
-    - title: Day1 Checklist
+    - title: Day-1 Checklist
       url: /tutorials_day1.html
       output: web
       type: frontmatter

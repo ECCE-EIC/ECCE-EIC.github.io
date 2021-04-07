@@ -1,6 +1,0 @@
-<map id="RawTower_Temperature::get_temperature_from_time" name="RawTower_Temperature::get_temperature_from_time">
-<area shape="rect" id="node2" href="$d5/dcb/classRawTower__Temperature.html#acb2f03991a234ee18cfe550f3c444cb9" title="RawTower_Temperature\l::get_nr_entries" alt="" coords="544,74,724,118"/>
-<area shape="rect" id="node3" href="$d5/dcb/classRawTower__Temperature.html#a3b76475c6c259dd244979d00a08e98d7" title="RawTower_Temperature\l::get_temperature_from_entry" alt="" coords="272,35,496,79"/>
-<area shape="rect" id="node4" href="$d5/dcb/classRawTower__Temperature.html#a15ca2a5f8cfecc129ce6cd0510c2358e" title="RawTower_Temperature\l::get_time_from_entry" alt="" coords="294,103,474,147"/>
-<area shape="rect" id="node5" href="$d5/dcb/classRawTower__Temperature.html#a5f82b905c2d8f9f3a8abd6d867bd79f2" title="isValid returns non zero if object contains vailid data" alt="" coords="294,171,474,215"/>
-</map>

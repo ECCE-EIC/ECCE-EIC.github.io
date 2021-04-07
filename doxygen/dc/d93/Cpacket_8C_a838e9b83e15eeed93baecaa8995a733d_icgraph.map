@@ -1,5 +1,0 @@
-<map id="getPacketStatus" name="getPacketStatus">
-<area shape="rect" id="node2" href="$d4/dea/formatIO_8h.html#af3f740bd3f3651b66edff5d740ef1110" title="dumpPacket" alt="" coords="213,5,318,33"/>
-<area shape="rect" id="node4" href="$de/dce/classPacket__A.html#a98bf8d904d3af271eb911ec54686dca3" title="Packet_A::fullIdentify" alt="" coords="184,57,347,85"/>
-<area shape="rect" id="node3" href="$d4/dea/formatIO_8h.html#ac0beeb58d5bb799ada9cd7708519317b" title="dumpFramePackets" alt="" coords="395,5,548,33"/>
-</map>

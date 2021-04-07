@@ -1,8 +1,0 @@
-<map id="PHG4SteppingAction::ValidCorrection" name="PHG4SteppingAction::ValidCorrection">
-<area shape="rect" id="node2" href="$df/d3f/classPHG4SteppingAction.html#a1d609cbf3e7bab8fbc5ff65ee4682f3e" title="PHG4SteppingAction\l::GetLightCorrection" alt="" coords="215,141,376,185"/>
-<area shape="rect" id="node4" href="$db/d97/classPHG4HcalSteppingAction.html#a3b7e2152d047bd72e38f36b695351fc7" title="stepping action" alt="" coords="457,5,648,49"/>
-<area shape="rect" id="node6" href="$d3/d77/classPHG4OuterHcalSteppingAction.html#ad7ba45f4ea4cc63a592c2ed49895307c" title="stepping action" alt="" coords="438,277,667,321"/>
-<area shape="rect" id="node3" href="$df/d3f/classPHG4SteppingAction.html#af2314dbf3258c461a5bb317471b0a771" title="PHG4SteppingAction\l::GetLightCorrection" alt="" coords="472,73,633,117"/>
-<area shape="rect" id="node5" href="$d2/dbb/classPHG4Prototype3InnerHcalSteppingAction.html#a84a3e05d3e1f69429077136f44721e71" title="stepping action" alt="" coords="424,141,681,185"/>
-<area shape="rect" id="node7" href="$df/dec/classPHG4InnerHcalSteppingAction.html#a4b758852f1c33aeefd33e7348ed1773c" title="stepping action" alt="" coords="440,209,665,253"/>
-</map>

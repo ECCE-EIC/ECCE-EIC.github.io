@@ -1,7 +1,0 @@
-<map id="PHG4TpcDetector::ConstructTpcCageVolume" name="PHG4TpcDetector::ConstructTpcCageVolume">
-<area shape="rect" id="node2" href="$d2/dc6/classPHG4TpcDisplayAction.html#a70be3fe912da4c622f0c3ec0e4914890" title="PHG4TpcDisplayAction\l::AddTpcInnerLayer" alt="" coords="293,5,467,49"/>
-<area shape="rect" id="node3" href="$d2/dc6/classPHG4TpcDisplayAction.html#a413e4a3f6f0ec047ef9358b5ad4056f2" title="PHG4TpcDisplayAction\l::AddTpcOuterLayer" alt="" coords="293,73,467,117"/>
-<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="280,141,480,185"/>
-<area shape="rect" id="node5" href="$dd/dae/classPHParameters.html#ab1c503fe2e3136bdd3e5a75bc55ead13" title="PHParameters::get_string\l_param" alt="" coords="284,209,476,253"/>
-<area shape="rect" id="node6" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="269,277,491,305"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="macros/blob/master/macros/g4simulations/G4_HcalOut_ref.C" name="macros/blob/master/macros/g4simulations/G4_HcalOut_ref.C">
-<area shape="rect" id="node2" href="$d2/dfe/macros_2blob_2master_2macros_2g4simulations_2G4Setup__EICDetector_8C.html" title="macros/blob/master\l/macros/g4simulations\l/G4Setup_EICDetector.C" alt="" coords="21,113,206,173"/>
-<area shape="rect" id="node4" href="$da/d21/macros_2blob_2master_2macros_2g4simulations_2G4Setup__fsPHENIX_8C.html" title="macros/blob/master\l/macros/g4simulations\l/G4Setup_fsPHENIX.C" alt="" coords="237,113,413,173"/>
-<area shape="rect" id="node6" href="$d0/d67/macros_2blob_2master_2macros_2g4simulations_2G4Setup__sPHENIX_8C.html" title="macros/blob/master\l/macros/g4simulations\l/G4Setup_sPHENIX.C" alt="" coords="444,113,620,173"/>
-<area shape="rect" id="node3" href="$da/d02/Fun4All__G4__EICDetector_8C.html" title="macros/blob/master\l/macros/g4simulations\l/Fun4All_G4_EICDetector.C" alt="" coords="5,221,208,281"/>
-<area shape="rect" id="node5" href="$d7/d9e/Fun4All__G4__fsPHENIX_8C.html" title="macros/blob/master\l/macros/g4simulations\l/Fun4All_G4_fsPHENIX.C" alt="" coords="233,221,418,281"/>
-<area shape="rect" id="node7" href="$d5/d2c/macros_2blob_2master_2macros_2g4simulations_2Fun4All__G4__sPHENIX_8C.html" title="macros/blob/master\l/macros/g4simulations\l/Fun4All_G4_sPHENIX.C" alt="" coords="442,221,622,281"/>
-<area shape="rect" id="node8" href="$de/da9/ReadClustersRunTracking_8C.html" title="macros/blob/master\l/macros/g4simulations\l/ReadClustersRunTracking.C" alt="" coords="646,221,858,281"/>
-</map>

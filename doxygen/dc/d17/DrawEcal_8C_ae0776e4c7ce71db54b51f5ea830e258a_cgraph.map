@@ -1,5 +1,0 @@
-<map id="DrawEnergyDensityXY" name="DrawEnergyDensityXY">
-<area shape="rect" id="node2" href="$dc/d17/DrawEcal_8C.html#a8c996aae4941fef0896b28c8ca9bd830" title="DrawTower_Load" alt="" coords="227,5,360,33"/>
-<area shape="rect" id="node3" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="241,57,345,85"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="408,57,487,85"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="plotQA_shape_HCAL" name="plotQA_shape_HCAL">
-<area shape="rect" id="node2" href="$d5/d07/plotQA__shape__HCAL_8C.html#a281c5f76b7248d00a2d91712078dd548" title="PlotLine" alt="" coords="212,84,287,112"/>
-<area shape="rect" id="node3" href="$db/d5d/test__style_8C.html#a928b2c720226f4d257466ac02a0a6cd5" title="Draw" alt="" coords="361,5,419,33"/>
-<area shape="rect" id="node4" href="$dc/df6/200pp__pythia8__CTEQ6L__7GeV__ALL_8cfg__eneg__DSTReader_8root__Draw__HFJetTruth__CrossSection2RAA_8C.html#afc1ceb905a1786932ecf7f92b2455b5b" title="SetLineColor" alt="" coords="336,57,444,85"/>
-<area shape="rect" id="node5" href="$dc/df6/200pp__pythia8__CTEQ6L__7GeV__ALL_8cfg__eneg__DSTReader_8root__Draw__HFJetTruth__CrossSection2RAA_8C.html#a40082e4517ba5e83809b2ef926ed3e8e" title="SetLineStyle" alt="" coords="337,109,443,137"/>
-<area shape="rect" id="node6" href="$dc/df6/200pp__pythia8__CTEQ6L__7GeV__ALL_8cfg__eneg__DSTReader_8root__Draw__HFJetTruth__CrossSection2RAA_8C.html#a76b759fab05fa0da9cc2eb784cec2818" title="SetLineWidth" alt="" coords="335,161,445,189"/>
-</map>

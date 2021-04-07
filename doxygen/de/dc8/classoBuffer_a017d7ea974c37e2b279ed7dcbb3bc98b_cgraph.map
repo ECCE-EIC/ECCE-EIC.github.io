@@ -1,9 +1,0 @@
-<map id="oBuffer::addEvent" name="oBuffer::addEvent">
-<area shape="rect" id="node2" href="$d5/da5/classEvent.html#a3a8043c33a54a23662e90b50cf80440f" title="Event::Copy" alt="" coords="233,5,337,33"/>
-<area shape="rect" id="node3" href="$d5/da5/classEvent.html#a4d541637983b2bbb8fc19aaae736b126" title="Event::getEvtLength" alt="" coords="205,57,364,85"/>
-<area shape="rect" id="node4" href="$d5/da5/classEvent.html#ac29bc493653870268773c6d08238e585" title="Event::getRunNumber" alt="" coords="199,109,371,137"/>
-<area shape="rect" id="node5" href="$de/dc8/classoBuffer.html#a20807b66941831cf3aacf5c42b38d8f8" title="oBuffer::prepare_next" alt="" coords="200,161,369,189"/>
-<area shape="rect" id="node6" href="$de/dc8/classoBuffer.html#a1ea4e9f4322874047c2d8c749ee62df5" title="oBuffer::writeout" alt="" coords="217,213,353,241"/>
-<area shape="rect" id="node7" href="$de/dc8/classoBuffer.html#a0c22585dd84cfc620cb6e8071f2143a4" title="oBuffer::addEoB" alt="" coords="419,187,549,215"/>
-<area shape="rect" id="node8" href="$d7/d2d/make__fmod__calibrations_8C.html#aac759501cf6c7895a70eecbef0226ae1" title="write" alt="" coords="457,239,511,267"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="SvtxClusterEval::next_event" name="SvtxClusterEval::next_event">
-<area shape="rect" id="node2" href="$d1/d1e/classSvtxClusterEval.html#ab52efb29db696d2e8e6e5cb2ecfc08bc" title="SvtxClusterEval::get\l_node_pointers" alt="" coords="232,13,392,57"/>
-<area shape="rect" id="node3" href="$d9/d62/classSvtxHitEval.html#a2b8bd81cd1feca366d3dec9b52f1658e" title="SvtxHitEval::next_event" alt="" coords="220,81,404,109"/>
-<area shape="rect" id="node4" href="$d4/de4/classSvtxTruthEval.html#ac13b62af4f46d9ba4e0e41f1c42e8770" title="SvtxTruthEval::next\l_event" alt="" coords="461,39,614,83"/>
-<area shape="rect" id="node8" href="$d9/d62/classSvtxHitEval.html#a94145a00b5fdabd642a2cac9e5ee127b" title="SvtxHitEval::get_node\l_pointers" alt="" coords="452,107,623,151"/>
-<area shape="rect" id="node5" href="$dc/d23/classBaseTruthEval.html#a0a01e81c2ea74c0acaf3ade678ace806" title="reinitialize the eval for a new event" alt="" coords="671,5,828,49"/>
-<area shape="rect" id="node7" href="$d4/de4/classSvtxTruthEval.html#a027d2889a0ab93f64dc56b4505a3073f" title="SvtxTruthEval::get\l_node_pointers" alt="" coords="676,73,823,117"/>
-<area shape="rect" id="node6" href="$dc/d23/classBaseTruthEval.html#ae6a31ce316ba54d165ff2742644314f8" title="BaseTruthEval::get\l_node_pointers" alt="" coords="876,5,1025,49"/>
-</map>

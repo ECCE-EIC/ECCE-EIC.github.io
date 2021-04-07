@@ -1,6 +1,0 @@
-<map id="PHG4Cell::identify" name="PHG4Cell::identify">
-<area shape="rect" id="node2" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a56fe08cc093dc800b38ec28a7e971bf3" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="197,5,399,49"/>
-<area shape="rect" id="node3" href="$d7/d10/classRawTowerBuilder.html#ab0904fa048bbd1d45f4df5efad65b229" title="RawTowerBuilder::process\l_event" alt="" coords="199,73,397,117"/>
-<area shape="rect" id="node4" href="$d1/dec/classHcalRawTowerBuilder.html#a419bcd185f821dfdefb481ebdbca3a31" title="HcalRawTowerBuilder\l::process_event" alt="" coords="215,141,381,185"/>
-<area shape="rect" id="node5" href="$dc/d86/classTPCIntegratedCharge.html#a81020cfbf5f20cf2696026c8ecf2953d" title="TPCIntegratedCharge\l::process_event" alt="" coords="215,209,381,253"/>
-</map>

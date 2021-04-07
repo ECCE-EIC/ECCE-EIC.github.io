@@ -1,7 +1,0 @@
-<map id="HelixHoughSpace::get_dzdl_bin_size" name="HelixHoughSpace::get_dzdl_bin_size">
-<area shape="rect" id="node2" href="$dc/d74/classHelixHoughBin__v1.html#a18a8ab518f538a323a7ee27acb185f6b" title="HelixHoughBin_v1::get\l_dzdl_center" alt="" coords="231,5,409,49"/>
-<area shape="rect" id="node3" href="$d1/d97/classPHPatternReco.html#a82990cbb5fd69f6527ed7723873ac6dc" title="PHPatternReco::vote_z" alt="" coords="233,73,407,101"/>
-<area shape="rect" id="node5" href="$d2/d8f/classPHInitZVertexing.html#a1b4c64990e2cdd0350b8e05a08dda0a1" title="PHInitZVertexing::vote_z" alt="" coords="227,127,413,155"/>
-<area shape="rect" id="node4" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="468,63,649,107"/>
-<area shape="rect" id="node6" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="461,131,656,159"/>
-</map>

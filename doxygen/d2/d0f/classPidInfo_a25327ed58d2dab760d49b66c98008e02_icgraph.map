@@ -1,5 +1,0 @@
-<map id="PidInfo::get_track_id" name="PidInfo::get_track_id">
-<area shape="rect" id="node2" href="$dc/d4f/classPidInfoContainer.html#aea3e41bc30716ff18a1ae65503c19e4b" title="PidInfoContainer::AddPidInfo" alt="" coords="211,48,424,76"/>
-<area shape="rect" id="node3" href="$dd/d15/classFastPid__RICH.html#af5521ea2bcdd713bda3c110adcad8528" title="FastPid_RICH::process\l_event" alt="" coords="477,5,646,49"/>
-<area shape="rect" id="node4" href="$dc/d11/classRICHParticleID.html#a6a405f148fafb5d7a36c60626507e5f7" title="RICHParticleID::process\l_event" alt="" coords="472,73,651,117"/>
-</map>

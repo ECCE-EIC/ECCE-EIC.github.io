@@ -1,8 +1,0 @@
-<map id="RawTower::get_g4cells" name="RawTower::get_g4cells">
-<area shape="rect" id="node2" href="$de/d0b/classCaloRawTowerEval.html#ac47d08a77fcfab78124cf54006fdccd0" title="what truth hits contributed energy to this tower?" alt="" coords="248,35,420,79"/>
-<area shape="rect" id="node5" href="$df/d0d/classRawTowerCombiner.html#a5b3d03413a030f6f0082b8e3cafc3b04" title="RawTowerCombiner::process\l_event" alt="" coords="227,103,441,147"/>
-<area shape="rect" id="node6" href="$d1/d2e/classDumpRawTowerContainer.html#a9629228eaea3c76679c0134b3b635c9d" title="DumpRawTowerContainer\l::process_Node" alt="" coords="236,171,432,215"/>
-<area shape="rect" id="node7" href="$db/d3c/classRawTowerv1.html#a450f55e9eed23f7663ab7e51eef42a0c" title="RawTowerv1::RawTowerv1" alt="" coords="235,239,433,267"/>
-<area shape="rect" id="node3" href="$da/d7e/classCaloRawClusterEval.html#a6dca3e2823bfaf5a27c13c0c40c1ad82" title="what truth hits contributed energy to this tower?" alt="" coords="489,5,644,49"/>
-<area shape="rect" id="node4" href="$dd/d75/classJetRecoEval.html#a83e004c6c55ecf277a13a046d90790a3" title="which truth hits contributed to this reconstructed jet?" alt="" coords="692,44,889,72"/>
-</map>

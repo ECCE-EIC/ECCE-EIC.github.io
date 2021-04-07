@@ -1,6 +1,0 @@
-<map id="SvtxTrackState::get_name" name="SvtxTrackState::get_name">
-<area shape="rect" id="node2" href="$d4/d3f/classTrackProjectionTools.html#a460d6bd38ea3b204bbb6b8a3ed7c18a3" title="TrackProjectionTools\l::FindClosestTrack" alt="" coords="277,5,435,49"/>
-<area shape="rect" id="node3" href="$db/db5/classDISKinematicsReco.html#ad801f1794841d3657aa4c0b2da334743" title="DISKinematicsReco::\lInsertCandidateFromCluster" alt="" coords="251,73,461,117"/>
-<area shape="rect" id="node4" href="$db/db5/classDISKinematicsReco.html#a4ea9fa36ccd955fd7cdfa7e7eaf1e534" title="DISKinematicsReco::\lCollectEmCandidatesFromCluster" alt="" coords="509,73,756,117"/>
-<area shape="rect" id="node5" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="804,73,964,117"/>
-</map>

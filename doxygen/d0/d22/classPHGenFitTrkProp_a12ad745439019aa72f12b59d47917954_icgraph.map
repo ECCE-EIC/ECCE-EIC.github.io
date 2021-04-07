@@ -1,7 +1,0 @@
-<map id="PHGenFitTrkProp::encode_cluster_index" name="PHGenFitTrkProp::encode_cluster_index">
-<area shape="rect" id="node2" href="$d0/d22/classPHGenFitTrkProp.html#a67bd83fe6ec05c737ab96b4486df2ecc" title="KalmanTrkProp Call." alt="" coords="505,5,719,49"/>
-<area shape="rect" id="node5" href="$d0/d22/classPHGenFitTrkProp.html#a4fbbbeaab88ee33c094c082302ee4372" title="TrackPropPatRec Call." alt="" coords="244,69,457,113"/>
-<area shape="rect" id="node3" href="$d0/d22/classPHGenFitTrkProp.html#ab11c2e61a1b78278fa4af7cf624c2538" title="Main function." alt="" coords="767,48,1008,76"/>
-<area shape="rect" id="node4" href="$d0/d22/classPHGenFitTrkProp.html#a31e50e42d62a2bf32763652b39dc95b8" title="PHGenFitTrkProp::Process" alt="" coords="1056,48,1248,76"/>
-<area shape="rect" id="node6" href="$d0/d22/classPHGenFitTrkProp.html#a8de33eaa04103e00006e98f15ba808a0" title="PHGenFitTrkProp::TrackProp\lPatRec" alt="" coords="509,73,715,117"/>
-</map>

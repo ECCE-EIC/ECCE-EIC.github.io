@@ -1,8 +1,0 @@
-<map id="Conversion::setRecoPhoton" name="Conversion::setRecoPhoton">
-<area shape="rect" id="node2" href="$dc/d41/classConversion.html#a731d468d90a72f7605b563c0a1a782b3" title="Conversion::getRecoPhoton" alt="" coords="259,47,467,75"/>
-<area shape="rect" id="node7" href="$dc/d41/classConversion.html#aec0063d88168c2ad3daaa21225b7384e" title="Conversion::setRecoTracks" alt="" coords="262,99,463,127"/>
-<area shape="rect" id="node3" href="$d9/d3a/classTruthConversionEval.html#a67e322163113e6ef65c9661d0fc80487" title="fills the member fields for all the background trees" alt="" coords="724,5,921,49"/>
-<area shape="rect" id="node5" href="$d9/d3a/classTruthConversionEval.html#a30309a3143d74dac7ff1f62cf275a5ac" title="TruthConversionEval\l::recordConversion" alt="" coords="515,69,676,113"/>
-<area shape="rect" id="node4" href="$d9/d3a/classTruthConversionEval.html#a9a67c8171296f35dd157daf89108d3fd" title="TruthConversionEval\l::process_event" alt="" coords="969,40,1131,84"/>
-<area shape="rect" id="node6" href="$d9/d3a/classTruthConversionEval.html#a802d15f00a153397546daabb7dbabbd2" title="TruthConversionEval\l::numUnique" alt="" coords="742,73,903,117"/>
-</map>

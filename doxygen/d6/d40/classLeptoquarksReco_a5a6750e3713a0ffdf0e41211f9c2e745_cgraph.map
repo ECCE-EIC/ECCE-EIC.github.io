@@ -1,8 +1,0 @@
-<map id="LeptoquarksReco::AddJetStructureInformation" name="LeptoquarksReco::AddJetStructureInformation">
-<area shape="rect" id="node2" href="$d6/d40/classLeptoquarksReco.html#a89de0a9954bf7cb931279af840d3fec1" title="LeptoquarksReco::Calculate\lDeltaR" alt="" coords="305,5,515,49"/>
-<area shape="rect" id="node3" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="323,73,497,101"/>
-<area shape="rect" id="node4" href="$d8/dc4/classRawTowerGeom.html#aed31c4e7b05d1f434c0cdc26fe438d46" title="RawTowerGeom::get_eta" alt="" coords="316,125,504,153"/>
-<area shape="rect" id="node5" href="$d8/dc4/classRawTowerGeom.html#a39490c6ecb489ef5a99cf26a8f25ecfc" title="RawTowerGeom::get_phi" alt="" coords="317,177,503,205"/>
-<area shape="rect" id="node6" href="$de/de0/matchedfilter_8C.html#a6547063fbcbf53a7fdffddbd2747b29f" title="rms" alt="" coords="387,229,433,257"/>
-<area shape="rect" id="node7" href="$da/d55/TPCRateLayered_8m.html#a7507ef556477c204b499f1e189d40796" title="sum" alt="" coords="563,229,613,257"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="Packet_A::dumpErrorBlock" name="Packet_A::dumpErrorBlock">
-<area shape="rect" id="node2" href="$dc/d93/Cpacket_8C.html#a3970996174c793baa8c237e196374b21" title="findPacketErrorStart" alt="" coords="495,5,652,33"/>
-<area shape="rect" id="node5" href="$de/dce/classPacket__A.html#a44c94677e083861a4c86ee3574733642" title="Packet_A::getErrorLength" alt="" coords="252,57,443,85"/>
-<area shape="rect" id="node7" href="$de/dce/classPacket__A.html#ab2a413f04c8e1cb18e896dc73fe008a3" title="Packet_A::getLength" alt="" coords="269,109,426,137"/>
-<area shape="rect" id="node3" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="704,32,865,60"/>
-<area shape="rect" id="node4" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="913,32,1032,60"/>
-<area shape="rect" id="node6" href="$dc/d93/Cpacket_8C.html#a11e79342ca70e2fbeec1e018ed81ec26" title="getPacketErrorLength" alt="" coords="491,57,656,85"/>
-<area shape="rect" id="node8" href="$de/d93/Cpacket_8h.html#a240cdc0ca633222b7ca7dd8d85ebedd0" title="getPacketLength" alt="" coords="507,109,640,137"/>
-</map>

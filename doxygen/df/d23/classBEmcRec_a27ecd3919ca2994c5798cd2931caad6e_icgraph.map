@@ -1,9 +1,0 @@
-<map id="BEmcRec::SetGeometry" name="BEmcRec::SetGeometry">
-<area shape="rect" id="node2" href="$dd/d75/classRawClusterBuilderTemplateEEMC.html#ab378520416a18903ff3c1eac2d53f78f" title="RawClusterBuilderTemplate\lEEMC::InitRun" alt="" coords="279,5,485,49"/>
-<area shape="rect" id="node3" href="$d8/d80/classRawClusterBuilderTemplateFEMC.html#ac0387936af8379f4d7df68e77e28b015" title="RawClusterBuilderTemplate\lFEMC::InitRun" alt="" coords="279,73,485,117"/>
-<area shape="rect" id="node4" href="$d8/d5d/classRawClusterBuilderTemplate.html#a0c7c1981bbe39c660bff36304525272f" title="RawClusterBuilderTemplate\l::process_event" alt="" coords="279,141,485,185"/>
-<area shape="rect" id="node5" href="$d8/d5d/classRawClusterBuilderTemplate.html#a61bb434b818ca4e8e179b3d0e8f4eec5" title="RawClusterBuilderTemplate\l::RawClusterBuilderTemplate" alt="" coords="274,209,490,253"/>
-<area shape="rect" id="node6" href="$dd/d75/classRawClusterBuilderTemplateEEMC.html#af84dbadc9a5dfd005e4b5074858abf35" title="RawClusterBuilderTemplate\lEEMC::RawClusterBuilderTemplateEEMC" alt="" coords="236,277,528,321"/>
-<area shape="rect" id="node7" href="$d8/d80/classRawClusterBuilderTemplateFEMC.html#a5d4c84382703dfcf4ee78deba3f493dd" title="RawClusterBuilderTemplate\lFEMC::RawClusterBuilderTemplateFEMC" alt="" coords="237,345,527,389"/>
-<area shape="rect" id="node8" href="$df/d23/classBEmcRec.html#a0fdda6411bc21ffcd7d18bdfc18a7ab9" title="BEmcRec::SetConf" alt="" coords="309,413,455,441"/>
-</map>

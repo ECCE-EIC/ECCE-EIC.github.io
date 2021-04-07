@@ -1,7 +1,0 @@
-<map id="PHG4Reco::ApplyDisplayAction" name="PHG4Reco::ApplyDisplayAction">
-<area shape="rect" id="node2" href="$d2/d44/classPHG4DisplayAction.html#ae5a73a6f7552ed4daada4f046aad7ff4" title="ApplyDisplayAction method." alt="" coords="313,5,471,49"/>
-<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html#ae9083807625357202b80ee32e74b0bdb" title="return pointer to this subsystem display setting" alt="" coords="284,73,500,117"/>
-<area shape="rect" id="node4" href="$d1/d13/classPHG4PhenixDetector.html#a08f9f09748e767ac536249ac56995fd2" title="PHG4PhenixDetector\l::GetPhysicalVolume" alt="" coords="311,141,473,185"/>
-<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="315,209,469,237"/>
-<area shape="rect" id="node6" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="304,261,480,289"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="makeUnstructDataDescr" name="makeUnstructDataDescr">
-<area shape="rect" id="node2" href="$d3/d7c/dataBlock_8h.html#a28cb0c6fe257a765c312e9094bb2908c" title="makeUnstructPacketDataDescr" alt="" coords="240,32,471,60"/>
-<area shape="rect" id="node3" href="$d3/d64/packetRoutines_8C.html#ab9302c7bcce9292bcd3d03ef1c0643d0" title="setPacketUnstructured" alt="" coords="519,5,692,33"/>
-<area shape="rect" id="node4" href="$d2/d89/packetRoutines_8h.html#abe0c0e4605177b617049357d05ca74ca" title="makeUnstructPacket" alt="" coords="525,57,685,85"/>
-<area shape="rect" id="node5" href="$df/d06/fakeFrame_8C.html#a747f31be4098f000504011767116e41c" title="fakeFrame" alt="" coords="811,31,903,59"/>
-<area shape="rect" id="node6" href="$da/d59/classoEvent.html#a5e0a819b25ded38741cc78c0b84c47e1" title="oEvent::addUnstructPacketData" alt="" coords="740,83,975,111"/>
-<area shape="rect" id="node7" href="$de/dc8/classoBuffer.html#ac574c2c3e93c114ac6934e45fa7f9b7f" title="oBuffer::addUnstructPacketData" alt="" coords="1023,83,1260,111"/>
-<area shape="rect" id="node8" href="$df/d36/classPHRawOManager.html#aa67d8808f730acc0b88554b5ce09e3bc" title="PHRawOManager::write" alt="" coords="1308,83,1488,111"/>
-</map>

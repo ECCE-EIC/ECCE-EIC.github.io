@@ -1,6 +1,0 @@
-<map id="PHG4DetectorGroupSubsystem::GetDetIds" name="PHG4DetectorGroupSubsystem::GetDetIds">
-<area shape="rect" id="node2" href="$d9/dbf/classPHG4MvtxSubsystem.html#a189efac53cac8a58715d177c664d74c9" title="InitRunSubsystem." alt="" coords="287,5,461,49"/>
-<area shape="rect" id="node3" href="$d6/d09/classPHG4InttSubsystem.html#a1d0b24d27f8bf30d0141354a567b6996" title="init" alt="" coords="292,73,456,117"/>
-<area shape="rect" id="node4" href="$d9/dbf/classPHG4MvtxSubsystem.html#aa6e20b37940178b02854a9d157b9ab85" title="PHG4MvtxSubsystem::\lSetDefaultParameters" alt="" coords="287,141,461,185"/>
-<area shape="rect" id="node5" href="$d6/d09/classPHG4InttSubsystem.html#a9dcbde012a1ac43f80f1c7e5ef2e8c18" title="PHG4InttSubsystem::\lSetDefaultParameters" alt="" coords="289,209,459,253"/>
-</map>

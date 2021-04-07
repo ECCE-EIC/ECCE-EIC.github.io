@@ -1,9 +1,0 @@
-<map id="likelihood_topology" name="likelihood_topology">
-<area shape="rect" id="node2" href="$d0/dfd/LeptoquarksReco_8C.html#a467a500e4ba5f45bb6dbee757902fcdf" title="Average" alt="" coords="382,5,461,33"/>
-<area shape="rect" id="node4" href="$dc/d08/likelihood_8C.html#abecd230db65041e9ba280d6479562b36" title="likelihood" alt="" coords="205,65,291,93"/>
-<area shape="rect" id="node8" href="$d9/d9e/evDisplay_8C.html#ac7bcb6cd8ca3e800a39f7f0063d61044" title="nevents" alt="" coords="210,117,286,145"/>
-<area shape="rect" id="node3" href="$da/d55/TPCRateLayered_8m.html#a7507ef556477c204b499f1e189d40796" title="sum" alt="" coords="552,5,603,33"/>
-<area shape="rect" id="node5" href="$d5/d6c/namespacetau__commons.html#ae0fc3726564dfa2735ca0db9d81db129" title="tau_commons::select\l_accept_jet" alt="" coords="339,57,504,101"/>
-<area shape="rect" id="node6" href="$d5/d6c/namespacetau__commons.html#a83c9481c26e50fbd60e7157500b49b70" title="tau_commons::select\l_true_tau" alt="" coords="339,125,504,169"/>
-<area shape="rect" id="node7" href="$d5/d6c/namespacetau__commons.html#abd2caf7800c2d4913e93e3599494b999" title="tau_commons::select\l_true_uds" alt="" coords="339,193,504,237"/>
-</map>

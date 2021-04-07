@@ -1,9 +1,0 @@
-<map id="strptime" name="strptime">
-<area shape="rect" id="node2" href="$d7/db7/strptime_8cc.html#ab489254a1c0f328db862a6ddfab00c46" title="match_string" alt="" coords="170,5,279,33"/>
-<area shape="rect" id="node3" href="$d7/db7/strptime_8cc.html#ad3fdc3714f7f71a6a818bb83a9da0e23" title="set_week_number_mon" alt="" coords="135,57,315,85"/>
-<area shape="rect" id="node6" href="$d7/db7/strptime_8cc.html#a64b5c3809f7d84aa620de180e0702885" title="set_week_number_mon4" alt="" coords="131,161,319,189"/>
-<area shape="rect" id="node8" href="$d7/db7/strptime_8cc.html#a85e29cedcb1cc40fede87c80525a7370" title="set_week_number_sun" alt="" coords="138,109,311,137"/>
-<area shape="rect" id="node4" href="$d7/db7/strptime_8cc.html#afb9f4ca6cdc21552f1147569e1ef3705" title="first_day" alt="" coords="367,109,447,137"/>
-<area shape="rect" id="node5" href="$d7/db7/strptime_8cc.html#aad852927826adf854e0a78d8792436ce" title="is_leap_year" alt="" coords="495,109,600,137"/>
-<area shape="rect" id="node7" href="$db/d30/TPCRateData_8m.html#a2ae3b94a32881ed5840bebb9dd7954d2" title="if" alt="" coords="387,161,426,189"/>
-</map>

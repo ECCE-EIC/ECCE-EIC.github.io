@@ -1,8 +1,0 @@
-<map id="CaloRawClusterEval::best_cluster_from" name="CaloRawClusterEval::best_cluster_from">
-<area shape="rect" id="node2" href="$da/d7e/classCaloRawClusterEval.html#a88fec8e70a64c5cb4986bcc4ad519470" title="which cluster did this primary truth particle contribute the most energy to?" alt="" coords="249,5,403,49"/>
-<area shape="rect" id="node3" href="$dd/d59/classCaloEvaluator.html#a5298ee9646d361a4960fc0e20f83c880" title="dump the evaluator information into ntuple for external analysis" alt="" coords="232,73,420,117"/>
-<area shape="rect" id="node5" href="$d7/ded/classSTACalorimeterCharacterization.html#aebaae010ab7828d310691192de7d16fe" title="STACalorimeterCharacterization\l::process_event" alt="" coords="208,141,444,185"/>
-<area shape="rect" id="node6" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a208fd8c361982115126f11b88541e071" title="QAG4SimulationCalorimeter\l::process_event_Cluster" alt="" coords="220,209,432,253"/>
-<area shape="rect" id="node4" href="$dd/d59/classCaloEvaluator.html#a936967e98c89ec58e7851b0661b838c0" title="CaloEvaluator::process\l_event" alt="" coords="510,73,686,117"/>
-<area shape="rect" id="node7" href="$d9/d7b/classQAG4SimulationCalorimeter.html#aa3467829c4182ba4e09f74fd8198cb28" title="QAG4SimulationCalorimeter\l::process_event" alt="" coords="492,209,704,253"/>
-</map>

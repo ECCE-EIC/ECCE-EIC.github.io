@@ -1,9 +1,0 @@
-<map id="SvtxCluster::get_z_size" name="SvtxCluster::get_z_size">
-<area shape="rect" id="node2" href="$db/d2f/classAnaSvtxTracksForGenFit.html#ae9fd110fddce0552a676dc9d6a253691" title="AnaSvtxTracksForGenFit\l::fill_tree" alt="" coords="229,5,416,49"/>
-<area shape="rect" id="node4" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a0fd261422264aedc22d0506ef5e897c4" title="dump the evaluator information into ntuple for external analysis" alt="" coords="235,73,410,117"/>
-<area shape="rect" id="node6" href="$d8/d98/classpsTOFTimezeroEval.html#ae9fd1570652089bed4ec7eb81009b318" title="dump the evaluator information into ntuple for external analysis" alt="" coords="241,141,404,185"/>
-<area shape="rect" id="node8" href="$dd/dd5/classAnaMvtxTelescopeHits.html#a6ffa7ef5cbd7e7842f1d504c8caaecf9" title="AnaMvtxTelescopeHits\l::process_event" alt="" coords="235,209,410,253"/>
-<area shape="rect" id="node3" href="$db/d2f/classAnaSvtxTracksForGenFit.html#a6f277cfc1d441b018fccacf6fb882dd0" title="AnaSvtxTracksForGenFit\l::process_event" alt="" coords="464,5,651,49"/>
-<area shape="rect" id="node5" href="$d2/d85/classSvtxEvaluatorHaiwang.html#ab63ca0cc53b56dad65b89d9b18220bce" title="SvtxEvaluatorHaiwang\l::process_event" alt="" coords="470,73,645,117"/>
-<area shape="rect" id="node7" href="$d8/d98/classpsTOFTimezeroEval.html#a2e98730e1beaa91c36947c0fe671fdd2" title="psTOFTimezeroEval::\lprocess_event" alt="" coords="476,141,639,185"/>
-</map>

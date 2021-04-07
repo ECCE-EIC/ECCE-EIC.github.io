@@ -1,9 +1,0 @@
-<map id="CellularAutomaton_v1" name="CellularAutomaton_v1">
-<area shape="rect" id="node2" href="$d8/d33/classCellularAutomaton.html" title="CellularAutomaton" alt="" coords="1044,5,1191,33"/>
-<area shape="rect" id="node3" href="$d3/d0a/classHelixHoughSpace.html" title="HelixHoughSpace" alt="" coords="1047,57,1188,85"/>
-<area shape="rect" id="node4" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="678,33,762,61"/>
-<area shape="rect" id="node7" href="$d8/d73/classSimpleTrack3D.html" title="SimpleTrack3D" alt="" coords="659,161,781,189"/>
-<area shape="rect" id="node9" href="$da/d87/classSimpleHit3D.html" title="SimpleHit3D" alt="" coords="5,104,112,132"/>
-<area shape="rect" id="node14" href="$dc/d5e/classHelixKalmanState.html" title="HelixKalmanState" alt="" coords="649,405,791,433"/>
-<area shape="rect" id="node15" href="$d0/d51/classHelixKalmanFilter.html" title="HelixKalmanFilter" alt="" coords="1047,579,1187,607"/>
-</map>

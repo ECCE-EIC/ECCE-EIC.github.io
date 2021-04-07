@@ -1,9 +1,0 @@
-<map id="spmcalib" name="spmcalib">
-<area shape="rect" id="node2" href="$dc/df6/200pp__pythia8__CTEQ6L__7GeV__ALL_8cfg__eneg__DSTReader_8root__Draw__HFJetTruth__CrossSection2RAA_8C.html#ac5741edfd477362a8a413aa18db80bf4" title="cd" alt="" coords="164,5,203,33"/>
-<area shape="rect" id="node3" href="$db/d5d/test__style_8C.html#a928b2c720226f4d257466ac02a0a6cd5" title="Draw" alt="" coords="155,57,212,85"/>
-<area shape="rect" id="node4" href="$d7/d2d/make__fmod__calibrations_8C.html#a0dac611a7318ae96902d033b4b7b51f1" title="fit" alt="" coords="293,109,331,137"/>
-<area shape="rect" id="node5" href="$dc/d3f/fitter_8C.html#a8a9d835fccf964dc3e8ed3aac9fbfd8c" title="peaks" alt="" coords="153,161,214,189"/>
-<area shape="rect" id="node7" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="283,213,341,241"/>
-<area shape="rect" id="node8" href="$d8/d4b/peeks_8C.html#aa5f2d70a5510c3e7fc8f58aa473f1cf8" title="sipmpeaks" alt="" coords="136,265,231,293"/>
-<area shape="rect" id="node6" href="$dc/d3f/fitter_8C.html#a33c80f395208143427667294863547a2" title="fpeaks" alt="" coords="279,161,345,189"/>
-</map>

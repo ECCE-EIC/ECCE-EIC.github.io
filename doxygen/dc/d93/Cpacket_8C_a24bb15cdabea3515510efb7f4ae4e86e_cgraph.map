@@ -1,8 +1,0 @@
-<map id="removePacketPadding" name="removePacketPadding">
-<area shape="rect" id="node2" href="$de/d93/Cpacket_8h.html#a240cdc0ca633222b7ca7dd8d85ebedd0" title="getPacketLength" alt="" coords="228,5,361,33"/>
-<area shape="rect" id="node3" href="$dc/d93/Cpacket_8C.html#a024b7049459174719307733aa5de7274" title="getPacketPadding" alt="" coords="224,57,365,85"/>
-<area shape="rect" id="node5" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="623,161,741,189"/>
-<area shape="rect" id="node6" href="$de/d93/Cpacket_8h.html#a0d85b55cb88b9ae0a85efb7d3fbb25bb" title="setPacketLength" alt="" coords="428,213,560,241"/>
-<area shape="rect" id="node7" href="$dc/d93/Cpacket_8C.html#afffcf4d66bcb1bbbbf381f66ce033c63" title="setPacketPadding" alt="" coords="225,109,364,137"/>
-<area shape="rect" id="node4" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="413,109,575,137"/>
-</map>

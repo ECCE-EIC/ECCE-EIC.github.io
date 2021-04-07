@@ -1,8 +1,0 @@
-<map id="PHG4CylinderGeomv1::ImportParameters" name="PHG4CylinderGeomv1::ImportParameters">
-<area shape="rect" id="node2" href="$dd/dae/classPHParameters.html#a5dc8e713d09897d2654015b008364d18" title="PHParameters::exist\l_double_param" alt="" coords="249,5,408,49"/>
-<area shape="rect" id="node3" href="$dd/dae/classPHParameters.html#adda37970cd2dffb257d6884e59c8d069" title="PHParameters::exist\l_int_param" alt="" coords="249,73,408,117"/>
-<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="229,141,429,185"/>
-<area shape="rect" id="node5" href="$dd/dae/classPHParameters.html#a0241ca27a369ab4865ac3d79620ac27c" title="PHParameters::get_int\l_param" alt="" coords="243,209,415,253"/>
-<area shape="rect" id="node6" href="$dc/d30/classPHG4CylinderGeom.html#a14a3fe96cb31751568d492a2d30293d8" title="load parameters from PHParameters, which interface to Database/XML/ROOT files" alt="" coords="224,277,433,321"/>
-<area shape="rect" id="node7" href="$dc/d49/HelixHough__allButKappaRange__sse_8cpp.html#a665e8f3e2226dd39be9c0e4f06dd1eaf" title="return" alt="" coords="481,285,543,313"/>
-</map>

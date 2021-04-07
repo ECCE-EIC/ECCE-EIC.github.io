@@ -1,8 +1,0 @@
-<map id="RawTowerGeomContainer::set_etabins" name="RawTowerGeomContainer::set_etabins">
-<area shape="rect" id="node2" href="$d7/d10/classRawTowerBuilder.html#a01f91227474fd72e2e630a577973b67b" title="RawTowerBuilder::CreateNodes" alt="" coords="249,5,481,33"/>
-<area shape="rect" id="node4" href="$df/d0d/classRawTowerCombiner.html#a9dbc0b9dfed20dcd3a9a5f6dcf53636d" title="RawTowerCombiner::Create\lNodes" alt="" coords="262,57,469,101"/>
-<area shape="rect" id="node6" href="$d6/d1b/classPrototype2RawTowerBuilder.html#ac5d83bd0e9b8325c27dba83fc67b1111" title="Prototype2RawTowerBuilder\l::InitRun" alt="" coords="260,125,471,169"/>
-<area shape="rect" id="node7" href="$d1/dec/classHcalRawTowerBuilder.html#a7905b60d52f4f69f900e45859a894533" title="HcalRawTowerBuilder\l::InitRun" alt="" coords="282,193,449,237"/>
-<area shape="rect" id="node3" href="$d7/d10/classRawTowerBuilder.html#a4b0df4f724072bb2c3f2e59e44ef134c" title="RawTowerBuilder::InitRun" alt="" coords="538,5,730,33"/>
-<area shape="rect" id="node5" href="$df/d0d/classRawTowerCombiner.html#a7c200854ab6656841ce516da52eb7639" title="RawTowerCombiner::InitRun" alt="" coords="529,65,739,93"/>
-</map>

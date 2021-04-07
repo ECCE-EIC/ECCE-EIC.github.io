@@ -1,5 +1,0 @@
-<map id="DISKinematicsReco::AddTruthEventInformation" name="DISKinematicsReco::AddTruthEventInformation">
-<area shape="rect" id="node2" href="$d5/d41/classPHHepMCGenEventMap.html#aeee51cbc5dbbd18af41e66c03e955319" title="fetch event" alt="" coords="258,5,473,33"/>
-<area shape="rect" id="node3" href="$d7/d7b/classPHHepMCGenEvent.html#a086a77104ec225e191885f9db7538521" title="PHHepMCGenEvent::getEvent" alt="" coords="253,57,477,85"/>
-<area shape="rect" id="node4" href="$d5/d41/classPHHepMCGenEventMap.html#a9808332ce5629be39dc62c9c3d50a0e2" title="PHHepMCGenEventMap\l::identify" alt="" coords="274,109,457,153"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="G4Init" name="G4Init">
-<area shape="rect" id="node2" href="$d8/d4c/G4__CEmc__EIC_8C.html#a97abcefc9a3a83700563dd8ef3b25d54" title="graph clusterizer, RawClusterBuilderGraph" alt="" coords="131,5,214,33"/>
-<area shape="rect" id="node3" href="$d7/dc0/G4__HcalIn__EIC_8C.html#ab54054a28d550a2d1534627070f7c049" title="graph clusterizer, RawClusterBuilderGraph" alt="" coords="117,57,228,85"/>
-<area shape="rect" id="node4" href="$de/d3d/macros_2blob_2master_2macros_2g4simulations_2G4__HcalOut__ref_8C.html#aa4f657f76b2e441fa33af7d5e1926ad0" title="graph clusterizer, RawClusterBuilderGraph" alt="" coords="116,109,229,137"/>
-<area shape="rect" id="node5" href="$de/d2c/macros_2blob_2master_2macros_2g4simulations_2G4__Magnet_8C.html#ab95d53454cdb41649376f8f9ff2a6291" title="MagnetInit" alt="" coords="125,161,220,189"/>
-<area shape="rect" id="node6" href="$df/d97/macros_2blob_2master_2macros_2g4simulations_2G4__Pipe_8C.html#a2dbcf1a6263e72567cbc73a2cfb2bb60" title="PipeInit" alt="" coords="137,213,209,241"/>
-<area shape="rect" id="node7" href="$db/dd8/macros_2blob_2master_2macros_2g4simulations_2G4__PSTOF_8C.html#aa40df92aaa3d3ff7b73d124ef4426b68" title="PSTOFInit" alt="" coords="129,265,216,293"/>
-<area shape="rect" id="node8" href="$d5/d17/G4__Svtx__maps__ladders_09intt__ladders_09tpc__KalmanPatRec__EIC_8C.html#a2b4f41de14e7162fc43627d7f7f40d58" title="SvtxInit" alt="" coords="136,317,209,345"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Edep_Checks" name="Edep_Checks">
-<area shape="rect" id="node2" href="$d4/da1/EMCal-analysis_2macro_2DrawEcal__pDST_8C.html#a8e9e0f18cc548c1d574fce53066552d2" title="MakeRadiusCut" alt="" coords="164,5,291,33"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="374,57,478,85"/>
-<area shape="rect" id="node3" href="$dc/d17/DrawEcal_8C.html#a75150d6c085fcce71b306c1300fa6e39" title="Distribution2Efficiency" alt="" coords="339,5,513,33"/>
-<area shape="rect" id="node5" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="561,57,640,85"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="TrkrClusterv1::setAdc" name="TrkrClusterv1::setAdc">
-<area shape="rect" id="node2" href="$dd/d60/classTpcPrototypeUnpacker.html#a018feffce2f4cf203fb9efc95d3c701a" title="TpcPrototypeUnpacker\l::exportDSTCluster" alt="" coords="220,5,396,49"/>
-<area shape="rect" id="node3" href="$dd/d60/classTpcPrototypeUnpacker.html#a3f531b94d26bba622c59c5b71ca4dd8e" title="Clustering then prepare IOs." alt="" coords="444,5,620,49"/>
-<area shape="rect" id="node4" href="$dd/d60/classTpcPrototypeUnpacker.html#a3c458d1bda422672ff79946e5816f197" title="TpcPrototypeUnpacker\l::process_event" alt="" coords="668,5,844,49"/>
-</map>

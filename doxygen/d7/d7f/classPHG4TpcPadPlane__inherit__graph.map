@@ -1,7 +1,0 @@
-<map id="PHG4TpcPadPlane" name="PHG4TpcPadPlane">
-<area shape="rect" id="node5" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html" title="PHG4TpcPadPlaneReadout" alt="" coords="5,233,207,261"/>
-<area shape="rect" id="node6" href="$db/d1c/classPHG4TpcPadPlaneSimple.html" title="PHG4TpcPadPlaneSimple" alt="" coords="231,233,421,261"/>
-<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="85,81,186,109"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="83,5,187,33"/>
-<area shape="rect" id="node4" href="$d4/d31/classPHParameterInterface.html" title="PHParameterInterface" alt="" coords="211,81,380,109"/>
-</map>

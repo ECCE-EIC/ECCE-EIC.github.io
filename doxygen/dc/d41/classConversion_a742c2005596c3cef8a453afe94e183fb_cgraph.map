@@ -1,6 +1,0 @@
-<map id="Conversion::getSecondaryVertex" name="Conversion::getSecondaryVertex">
-<area shape="rect" id="node2" href="$d6/d17/classSVReco.html#aa7be1346727f584c539cf568a7d36999" title="SVReco::findSecondaryVertex" alt="" coords="253,35,475,63"/>
-<area shape="rect" id="node5" href="$dc/d41/classConversion.html#ac24ed5367463ba9de80adc6bcf7886fe" title="Conversion::recoCount" alt="" coords="276,87,452,115"/>
-<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a5f934a41fd25eaa343dd267112b4537d" title="SvtxTrack::get_id" alt="" coords="556,5,692,33"/>
-<area shape="rect" id="node4" href="$d7/dd5/classPHGenFit_1_1Track.html#a8cc267bf5a0014b5ba7e057a3b45ba3e" title="PHGenFit::Track::getGenFit\lTrack" alt="" coords="523,57,725,101"/>
-</map>

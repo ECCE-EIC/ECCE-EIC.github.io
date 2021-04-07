@@ -1,6 +1,0 @@
-<map id="TrkrHitSetContainer::findOrAddHitSet" name="TrkrHitSetContainer::findOrAddHitSet">
-<area shape="rect" id="node2" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a336bd9c399b931212426976290988223" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="211,5,412,49"/>
-<area shape="rect" id="node3" href="$de/d4d/classPHG4MvtxHitReco.html#afae36034dbc6416433dbbd401e71f26b" title="event processing" alt="" coords="209,73,413,117"/>
-<area shape="rect" id="node4" href="$dd/deb/classPHG4InttHitReco.html#aeae720fd9e71be360c52c2e58bea5bb5" title="event processing" alt="" coords="214,141,409,185"/>
-<area shape="rect" id="node5" href="$d7/ddb/classPHG4TpcElectronDrift.html#a92dfae090d091df16bfde8d0318bfe8f" title="PHG4TpcElectronDrift\l::process_event" alt="" coords="227,209,395,253"/>
-</map>

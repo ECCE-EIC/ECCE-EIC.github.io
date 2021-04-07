@@ -1,8 +1,0 @@
-<map id="DumpJetMap::process_Node" name="DumpJetMap::process_Node">
-<area shape="rect" id="node2" href="$d7/d97/classJetMap.html#a0ed0a38d5cffc5f42774a634f2207d43" title="JetMap::begin" alt="" coords="291,5,406,33"/>
-<area shape="rect" id="node3" href="$d7/d97/classJetMap.html#a21986721db13cb4cf361c1639aebcc1b" title="JetMap::end" alt="" coords="297,57,400,85"/>
-<area shape="rect" id="node4" href="$d7/d97/classJetMap.html#a8dec6aac22827da7602d280db439bf83" title="JetMap::get_algo" alt="" coords="281,109,416,137"/>
-<area shape="rect" id="node5" href="$d7/d97/classJetMap.html#aef3749b22a88bee46b129a2f946ccf11" title="JetMap::get_par" alt="" coords="284,161,413,189"/>
-<area shape="rect" id="node6" href="$d1/d3e/classPHDataNode.html#a1f3b856fd3ce165047be8aa97f4ab9f3" title="PHDataNode::getData" alt="" coords="264,213,433,241"/>
-<area shape="rect" id="node7" href="$d7/d97/classJetMap.html#a517ad9a98c7a0de34b2746c589eb74b9" title="JetMap::size" alt="" coords="297,265,401,293"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="PHG4CellDefs::ScintillatorSlatBinning::get_row" name="PHG4CellDefs::ScintillatorSlatBinning::get_row">
-<area shape="rect" id="node2" href="$d1/dec/classHcalRawTowerBuilder.html#a419bcd185f821dfdefb481ebdbca3a31" title="HcalRawTowerBuilder\l::process_event" alt="" coords="263,5,429,49"/>
-<area shape="rect" id="node3" href="$d2/d8d/classHCalib.html#a58b1fcdbd43660b5effff0ebc557f8c3" title="HCalib::process_event" alt="" coords="260,73,432,101"/>
-<area shape="rect" id="node4" href="$dd/d0c/classCaloAna.html#ab4a75457a9b038f2373d43ee974721c4" title="CaloAna::process_g4cells" alt="" coords="249,125,443,153"/>
-<area shape="rect" id="node6" href="$d3/d0b/classDumpPHG4CellContainer.html#a03d218ddb510a07f1301dff310550601" title="DumpPHG4CellContainer\l::process_Node" alt="" coords="250,177,442,221"/>
-<area shape="rect" id="node5" href="$dd/d0c/classCaloAna.html#afe94c360c527e97289601b2ddd4fc131" title="event processing method" alt="" coords="491,125,675,153"/>
-</map>

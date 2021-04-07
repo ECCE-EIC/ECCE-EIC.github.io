@@ -1,9 +1,0 @@
-<map id="RawTowerDeadMap::identify" name="RawTowerDeadMap::identify">
-<area shape="rect" id="node2" href="$d4/de8/classRawTowerDeadTowerInterp.html#a4e3908bd3a1a598bd1af8cf59eeb895d" title="RawTowerDeadTowerInterp\l::CreateNodes" alt="" coords="265,5,468,49"/>
-<area shape="rect" id="node4" href="$d0/db9/classRawTowerDigitizer.html#a5f1092625b3b4b3ff8d027e50e221da8" title="RawTowerDigitizer::\lCreateNodes" alt="" coords="290,73,443,117"/>
-<area shape="rect" id="node6" href="$d5/d99/classRawClusterDeadAreaMask.html#a18d66d8407ddf8e00150b757bac56893" title="RawClusterDeadAreaMask\l::CreateNodeTree" alt="" coords="267,141,466,185"/>
-<area shape="rect" id="node8" href="$d3/dba/classRawTowerDeadMapLoader.html#a0352293d0fc27e48fecf34f52ad13d12" title="RawTowerDeadMapLoader\l::InitRun" alt="" coords="267,209,467,253"/>
-<area shape="rect" id="node3" href="$d4/de8/classRawTowerDeadTowerInterp.html#a6089329c4059770ec7f2a92310008605" title="RawTowerDeadTowerInterp\l::InitRun" alt="" coords="516,5,719,49"/>
-<area shape="rect" id="node5" href="$d0/db9/classRawTowerDigitizer.html#ab086cd2460db3020b85c32967ae4e7e6" title="RawTowerDigitizer::\lInitRun" alt="" coords="541,73,694,117"/>
-<area shape="rect" id="node7" href="$d5/d99/classRawClusterDeadAreaMask.html#a0c26fe0b30d1cd692c4668361c71ecf8" title="RawClusterDeadAreaMask\l::InitRun" alt="" coords="518,141,717,185"/>
-</map>

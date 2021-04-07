@@ -1,6 +1,0 @@
-<map id="PHmd5Stream" name="PHmd5Stream">
-<area shape="rect" id="node2" href="$dd/d6c/PHmd5Utils_8h.html#a068adfc22ba6ef481edc1a2db79a7910" title="PHmd5File" alt="" coords="227,31,319,59"/>
-<area shape="rect" id="node5" href="$dd/d31/classPHmd5Value.html#a1b85908d15e4d1c1f7291eca9f0dc7ed" title="give an open file pointer to gte the checksum of that file" alt="" coords="172,83,375,111"/>
-<area shape="rect" id="node3" href="$dd/d31/classPHmd5Value.html#afaff630673e07d6bafb5a07330ac26da" title="give a filename to get the MD5 sum of that file" alt="" coords="423,5,625,33"/>
-<area shape="rect" id="node4" href="$dd/d31/classPHmd5Value.html#a961125515231ecef2c462297214206fa" title="if we change the file, this allows to update the MD5 sum" alt="" coords="429,57,619,85"/>
-</map>

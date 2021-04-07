@@ -1,5 +1,0 @@
-<map id="JetTruthEval::all_truth_particles" name="JetTruthEval::all_truth_particles">
-<area shape="rect" id="node2" href="$d3/d69/group__clustered.html#ga0507794200ea2082a334b9857e41909e" title="Jet::begin_comp" alt="" coords="247,5,379,33"/>
-<area shape="rect" id="node3" href="$d3/d69/group__clustered.html#ga2c87beb325736c98531718964dc70a7a" title="Jet::end_comp" alt="" coords="253,57,372,85"/>
-<area shape="rect" id="node4" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="220,109,405,153"/>
-</map>

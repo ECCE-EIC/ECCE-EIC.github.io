@@ -1,8 +1,0 @@
-<map id="FitNewton::NewtonMinimizerGradHessian::findSaddlePoint" name="FitNewton::NewtonMinimizerGradHessian::findSaddlePoint">
-<area shape="rect" id="node2" href="$da/d99/classFitNewton_1_1SquareGradient.html#afb9798b5ea7914a23d4d1c7ac46cac59" title="FitNewton::SquareGradient\l::calcValGrad" alt="" coords="296,5,500,49"/>
-<area shape="rect" id="node3" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a8729f39d9e6aebf8487c3e7aee166712" title="FitNewton::FunctionGradHessian\l::calcValGradHessian" alt="" coords="277,73,519,117"/>
-<area shape="rect" id="node4" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a6dc438939c4290137bf2c86378a672cc" title="FitNewton::FunctionGradHessian\l::computeCovariance" alt="" coords="277,141,519,185"/>
-<area shape="rect" id="node5" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a590c06a592d59818832eb5ffebaf6787" title="FitNewton::FunctionGradHessian\l::rescaleMove" alt="" coords="277,209,519,253"/>
-<area shape="rect" id="node6" href="$d4/da9/namespaceboost.html#a630945877437d477612e4419562161cc" title="boost::swap" alt="" coords="347,277,449,305"/>
-<area shape="rect" id="node7" href="$d1/d96/classboost_1_1array.html#a342ef866ed696b18ce803b5c9aba4b2e" title="boost::array::swap" alt="" coords="567,277,713,305"/>
-</map>

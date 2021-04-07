@@ -1,6 +1,0 @@
-<map id="BaseTruthEval::is_primary" name="BaseTruthEval::is_primary">
-<area shape="rect" id="node2" href="$de/dc9/classPHG4Particle.html#aefb22aefc07d013f8ec9bee4f02fb7b2" title="PHG4Particle::get_parent_id" alt="" coords="251,5,460,33"/>
-<area shape="rect" id="node3" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="510,49,698,93"/>
-<area shape="rect" id="node4" href="$dc/d23/classBaseTruthEval.html#a98bebdc989a84ce46fff6fa958476041" title="is this a primary shower?" alt="" coords="257,109,454,137"/>
-<area shape="rect" id="node5" href="$db/d88/classPHG4Shower.html#ade7a08fc8586dc22fdcec6458983958e" title="PHG4Shower::get_parent\l_shower_id" alt="" coords="508,117,700,161"/>
-</map>

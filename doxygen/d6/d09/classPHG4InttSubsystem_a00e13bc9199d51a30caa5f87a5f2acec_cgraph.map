@@ -1,7 +1,0 @@
-<map id="PHG4InttSubsystem::Print" name="PHG4InttSubsystem::Print">
-<area shape="rect" id="node2" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html#a33ab01b8ee11ec1550290c18085c9ff2" title="PHG4DetectorGroupSubsystem\l::GetParamsContainer" alt="" coords="217,5,451,49"/>
-<area shape="rect" id="node3" href="$d7/d6b/classPHParametersContainer.html#a8525a68e20501d4fcab08b9181a0394a" title="PHParametersContainer\l::Print" alt="" coords="243,73,425,117"/>
-<area shape="rect" id="node5" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html#a266e905d8a2d66a594ae5d6b0eaad6ad" title="PHG4DetectorGroupSubsystem\l::PrintDefaultParams" alt="" coords="217,141,451,185"/>
-<area shape="rect" id="node6" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html#a3268aada0ac6d71db0d50d6f039c11ea" title="PHG4DetectorGroupSubsystem\l::PrintMacroParams" alt="" coords="217,209,451,253"/>
-<area shape="rect" id="node4" href="$d7/d6b/classPHParametersContainer.html#a5f90d78420cb8573142c8a4d1c029799" title="PHParametersContainer\l::Name" alt="" coords="499,73,681,117"/>
-</map>

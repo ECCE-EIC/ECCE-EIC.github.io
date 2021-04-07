@@ -1,9 +1,0 @@
-<map id="TruthTrackerHepMC::set_hepmc_geneventmap" name="TruthTrackerHepMC::set_hepmc_geneventmap">
-<area shape="rect" id="node2" href="$da/d73/classExclusiveReco.html#a48d900fd8ad00d0b252204dcbb941bc7" title="ExclusiveReco::AddInvariant\lMassInformation" alt="" coords="259,5,472,49"/>
-<area shape="rect" id="node4" href="$d6/d40/classLeptoquarksReco.html#a0b9c5ead2ddb44a0aec04c64973299f5" title="LeptoquarksReco::AddTrue\lTauTag" alt="" coords="265,73,466,117"/>
-<area shape="rect" id="node6" href="$db/db5/classDISKinematicsReco.html#a304bc882f5517efba6e9584933088d33" title="DISKinematicsReco::\lCollectEmCandidatesFromTruth" alt="" coords="249,141,481,185"/>
-<area shape="rect" id="node8" href="$d7/d47/classLeptoquarks.html#a3f7335129b30cec1d731938ceedfbdcf" title="Leptoquarks::process\l_event" alt="" coords="283,209,448,253"/>
-<area shape="rect" id="node3" href="$da/d73/classExclusiveReco.html#a026079694f2af119464bf5955c27a01c" title="ExclusiveReco::process\l_event" alt="" coords="539,5,718,49"/>
-<area shape="rect" id="node5" href="$d6/d40/classLeptoquarksReco.html#aa5b8ff9665c7a78246bd4f1194d66d1b" title="LeptoquarksReco::process\l_event" alt="" coords="529,73,728,117"/>
-<area shape="rect" id="node7" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="549,141,709,185"/>
-</map>

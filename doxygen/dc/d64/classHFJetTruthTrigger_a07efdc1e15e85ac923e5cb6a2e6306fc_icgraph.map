@@ -1,5 +1,0 @@
-<map id="HFJetTruthTrigger::deltaR" name="HFJetTruthTrigger::deltaR">
-<area shape="rect" id="node2" href="$dc/d64/classHFJetTruthTrigger.html#ada13f34c0011a913e0ceb04396f405f4" title="tag jet flavor by hadron matching, like MIE proposal" alt="" coords="199,5,344,49"/>
-<area shape="rect" id="node4" href="$dc/d64/classHFJetTruthTrigger.html#ac5286e62e39c41db272d605b12de5f7d" title="tag jet flavor by parton matching, like PRL 113, 132301 (2014)" alt="" coords="199,73,344,117"/>
-<area shape="rect" id="node3" href="$dc/d64/classHFJetTruthTrigger.html#a285f04a4990696900275fab25aa86106" title="HFJetTruthTrigger::\lprocess_event" alt="" coords="392,40,537,84"/>
-</map>

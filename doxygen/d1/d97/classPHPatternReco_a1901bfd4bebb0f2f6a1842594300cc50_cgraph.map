@@ -1,5 +1,0 @@
-<map id="PHPatternReco::fit_vertex" name="PHPatternReco::fit_vertex">
-<area shape="rect" id="node2" href="$d7/d8c/classVertexFitter.html#a1f6ee05ea88e65b74958435bbff5c5dd" title="VertexFitter::findVertex" alt="" coords="197,5,376,33"/>
-<area shape="rect" id="node3" href="$d8/d73/classSimpleTrack3D.html#a2b408972a5bfc6efae302f7bd1dfd0b8" title="SimpleTrack3D::set\l_vertex_id" alt="" coords="211,57,363,101"/>
-<area shape="rect" id="node4" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="199,125,375,153"/>
-</map>

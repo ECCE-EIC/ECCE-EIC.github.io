@@ -1,8 +1,0 @@
-<map id="SeamStress::Needle" name="SeamStress::Needle">
-<area shape="rect" id="node2" href="$d5/dcd/classSeamStress_1_1Pincushion.html" title="SeamStress::Pincushion\l\&lt; ChiSquareGradHessian \&gt;" alt="" coords="220,5,427,49"/>
-<area shape="rect" id="node3" href="$d5/dcd/classSeamStress_1_1Pincushion.html" title="SeamStress::Pincushion\l\&lt; GaussianRegGradHessian \&gt;" alt="" coords="211,73,436,117"/>
-<area shape="rect" id="node4" href="$d5/dcd/classSeamStress_1_1Pincushion.html" title="SeamStress::Pincushion\l\&lt; sPHENIXSeedFinder \&gt;" alt="" coords="231,141,415,185"/>
-<area shape="rect" id="node5" href="$d5/dcd/classSeamStress_1_1Pincushion.html" title="SeamStress::Pincushion\l\&lt; sPHENIXTracker \&gt;" alt="" coords="232,209,415,253"/>
-<area shape="rect" id="node6" href="$d5/dcd/classSeamStress_1_1Pincushion.html" title="SeamStress::Pincushion\l\&lt; sPHENIXTrackerTpc \&gt;" alt="" coords="232,277,415,321"/>
-<area shape="rect" id="node7" href="$d5/dcd/classSeamStress_1_1Pincushion.html" title="SeamStress::Pincushion\l\&lt; TClass \&gt;" alt="" coords="232,345,415,389"/>
-</map>

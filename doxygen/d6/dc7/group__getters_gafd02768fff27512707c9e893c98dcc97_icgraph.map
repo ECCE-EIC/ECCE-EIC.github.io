@@ -1,8 +1,0 @@
-<map id="RawCluster::getNTowers" name="RawCluster::getNTowers">
-<area shape="rect" id="node2" href="$dd/d59/classCaloEvaluator.html#a5298ee9646d361a4960fc0e20f83c880" title="dump the evaluator information into ntuple for external analysis" alt="" coords="257,5,445,49"/>
-<area shape="rect" id="node4" href="$db/db5/classDISKinematicsReco.html#ad801f1794841d3657aa4c0b2da334743" title="DISKinematicsReco::\lInsertCandidateFromCluster" alt="" coords="246,125,457,169"/>
-<area shape="rect" id="node7" href="$dd/d59/classCaloEvaluator.html#ab7e09466d57c5b93274f09f61c0f321e" title="print out the ancestry information for detailed diagnosis" alt="" coords="237,73,465,101"/>
-<area shape="rect" id="node3" href="$dd/d59/classCaloEvaluator.html#a936967e98c89ec58e7851b0661b838c0" title="CaloEvaluator::process\l_event" alt="" coords="549,32,725,76"/>
-<area shape="rect" id="node5" href="$db/db5/classDISKinematicsReco.html#a4ea9fa36ccd955fd7cdfa7e7eaf1e534" title="DISKinematicsReco::\lCollectEmCandidatesFromCluster" alt="" coords="513,125,760,169"/>
-<area shape="rect" id="node6" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="808,125,968,169"/>
-</map>

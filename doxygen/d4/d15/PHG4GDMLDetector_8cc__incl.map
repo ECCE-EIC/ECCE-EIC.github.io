@@ -1,9 +1,0 @@
-<map id="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4GDMLDetector.cc" name="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4GDMLDetector.cc">
-<area shape="rect" id="node2" href="$df/d5c/PHG4GDMLDetector_8h.html" title="PHG4GDMLDetector.h" alt="" coords="343,113,511,141"/>
-<area shape="rect" id="node3" href="$dd/dcc/PHG4Detector_8h.html" title="g4main/PHG4Detector.h" alt="" coords="474,189,658,217"/>
-<area shape="rect" id="node8" href="$df/d1c/PHG4Subsystem_8h.html" title="g4main/PHG4Subsystem.h" alt="" coords="733,113,935,141"/>
-<area shape="rect" id="node13" href="$d6/d5e/PHG4Utils_8h.html" title="g4main/PHG4Utils.h" alt="" coords="959,113,1115,141"/>
-<area shape="rect" id="node9" href="$da/dc1/Fun4AllReturnCodes_8h.html" title="fun4all/Fun4AllReturnCodes.h" alt="" coords="1023,189,1245,217"/>
-<area shape="rect" id="node10" href="$d5/dc2/SubsysReco_8h.html" title="fun4all/SubsysReco.h" alt="" coords="834,189,999,217"/>
-<area shape="rect" id="node11" href="$d2/de7/Fun4AllBase_8h.html" title="Fun4AllBase.h" alt="" coords="885,265,1001,293"/>
-</map>

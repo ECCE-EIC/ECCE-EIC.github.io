@@ -1,5 +1,0 @@
-<map id="SvtxTrackMap::empty" name="SvtxTrackMap::empty">
-<area shape="rect" id="node2" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="221,5,429,49"/>
-<area shape="rect" id="node3" href="$de/d25/classPHGenFitTrkFitter.html#a2e088a68ab24c5b89b902205f877f9d6" title="Process Event, called for each event." alt="" coords="252,73,397,117"/>
-<area shape="rect" id="node4" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8861dffacdf05e47efc97b65adbafe32" title="Process Event, called for each event." alt="" coords="220,141,429,185"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="HCALAnalysis::process_event" name="HCALAnalysis::process_event">
-<area shape="rect" id="node2" href="$d3/d9e/classPHG4Hit.html#a299edb9d0b140d0456f8bfecdf9cac56" title="PHG4Hit::get_edep" alt="" coords="254,5,403,33"/>
-<area shape="rect" id="node3" href="$d3/d9e/classPHG4Hit.html#a58aae50a4a38ecbc38878e98bb71a1c7" title="PHG4Hit::get_light\l_yield" alt="" coords="255,57,402,101"/>
-<area shape="rect" id="node4" href="$d3/d9e/classPHG4Hit.html#a69cc7aee827e3da7cf86e87418f9211b" title="PHG4Hit::get_x" alt="" coords="267,125,391,153"/>
-<area shape="rect" id="node5" href="$d3/d9e/classPHG4Hit.html#a17de3a9c9dc84ce4a50fc89082689d55" title="PHG4Hit::get_y" alt="" coords="267,177,391,205"/>
-<area shape="rect" id="node6" href="$d4/d30/classPHG4HitContainer.html#aec01041c4b9347f93832704e142b2439" title="return all hits matching a given detid" alt="" coords="228,229,429,257"/>
-<area shape="rect" id="node7" href="$d3/d0c/classHCALAnalysis.html#a8de7b1f2aa8e38753b6605f65bbd228e" title="HCALAnalysis::GetNodes" alt="" coords="234,281,423,309"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="SvtxVertexMap::clear" name="SvtxVertexMap::clear">
-<area shape="rect" id="node2" href="$d2/d8f/classPHInitZVertexing.html#a8be961e889654346a4d4435896e5d0e0" title="PHInitZVertexing::export\l_output" alt="" coords="229,5,417,49"/>
-<area shape="rect" id="node4" href="$d8/dd4/classPHHoughSeeding.html#a61550a59cd3a34af03c43572e28274cb" title="code to translate back to the SVTX universe" alt="" coords="227,73,419,117"/>
-<area shape="rect" id="node6" href="$d5/daa/classPHRaveVertexing.html#ae0dfbdeba5060b396c4e3e5de573c289" title="Fill SvtxVertexMap from GFRaveVertexes and Tracks." alt="" coords="226,141,421,185"/>
-<area shape="rect" id="node8" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#ac5621819719358760a80506950274108" title="Fill SvtxVertexMap from GFRaveVertexes and Tracks." alt="" coords="219,209,428,253"/>
-<area shape="rect" id="node3" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="478,13,673,41"/>
-<area shape="rect" id="node5" href="$d8/dd4/classPHHoughSeeding.html#a8b2c7b85b2bcbe054e071dd6ff624f7d" title="PHHoughSeeding::Process" alt="" coords="476,81,675,109"/>
-<area shape="rect" id="node7" href="$d5/daa/classPHRaveVertexing.html#afefcb6ce27ac34016e62172d8519fae8" title="Process Event, called for each event." alt="" coords="476,141,675,185"/>
-</map>

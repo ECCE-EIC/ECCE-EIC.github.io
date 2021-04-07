@@ -1,9 +1,0 @@
-<map id="SetTitle" name="SetTitle">
-<area shape="rect" id="node2" href="$de/de0/matchedfilter_8C.html#a76024af35883fdd64bc255fb1c845701" title="doSeries" alt="" coords="187,5,267,33"/>
-<area shape="rect" id="node3" href="$d1/d28/classPgPostBankBackupStorage.html#a4c046b9bf839179628f13906e1504af0" title="PgPostBankBackupStorage\l::format_name_title" alt="" coords="125,57,328,101"/>
-<area shape="rect" id="node8" href="$d1/dc2/classstack.html#ad05d8aad046b3fa75e2f504ecf561282" title="stack::stack" alt="" coords="175,125,278,153"/>
-<area shape="rect" id="node4" href="$da/daa/classPgPostBankBackupManager.html#ac991d944f76ee913f18491df3ca45dba" title="PgPostBankBackupManager\l::SQLResultSet2BackupStorage" alt="" coords="376,57,608,101"/>
-<area shape="rect" id="node5" href="$da/daa/classPgPostBankBackupManager.html#a34f458a7ca1eb1053ac850d99c44adf6" title="PgPostBankBackupManager\l::fetchBank" alt="" coords="656,23,865,67"/>
-<area shape="rect" id="node7" href="$da/daa/classPgPostBankBackupManager.html#a48e85fa7beea90b4d7f828c59b5e5676" title="Database &#45;&gt; TFile for all all records satisifying record_selection." alt="" coords="656,91,865,135"/>
-<area shape="rect" id="node6" href="$da/daa/classPgPostBankBackupManager.html#a4d8b9019e125378da20dd0542dc614be" title="Database &#45;&gt; TFile for official operation use." alt="" coords="913,23,1123,67"/>
-</map>

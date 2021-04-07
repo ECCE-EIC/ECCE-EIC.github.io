@@ -1,8 +1,0 @@
-<map id="PHG4GDMLWriteMaterials::ElementWrite" name="PHG4GDMLWriteMaterials::ElementWrite">
-<area shape="rect" id="node2" href="$d3/d04/classPHG4GDMLWriteMaterials.html#afa5d6506fda575a7ebe232b35eac3412" title="PHG4GDMLWriteMaterials\l::AddIsotope" alt="" coords="248,140,443,184"/>
-<area shape="rect" id="node4" href="$dd/db5/classPHG4GDMLWrite.html#a16834147e17b47595b04d27a49405198" title="PHG4GDMLWrite::GenerateName" alt="" coords="733,56,977,84"/>
-<area shape="rect" id="node5" href="$dd/db5/classPHG4GDMLWrite.html#ada0a5579d406ec27f3150711ab83becc" title="PHG4GDMLWrite::NewElement" alt="" coords="1026,108,1254,136"/>
-<area shape="rect" id="node6" href="$dd/db5/classPHG4GDMLWrite.html#afe96dc9fdc7c1a0a1a96b59dc15dffa2" title="PHG4GDMLWrite::NewAttribute" alt="" coords="1025,219,1255,247"/>
-<area shape="rect" id="node7" href="$d3/d04/classPHG4GDMLWriteMaterials.html#a2b0f79e7a135e1e204a49efc3379caaa" title="PHG4GDMLWriteMaterials\l::AtomWrite" alt="" coords="758,211,953,255"/>
-<area shape="rect" id="node3" href="$d3/d04/classPHG4GDMLWriteMaterials.html#aa0d10ca2e27a001a06119f52a98da621" title="PHG4GDMLWriteMaterials\l::IsotopeWrite" alt="" coords="491,140,685,184"/>
-</map>

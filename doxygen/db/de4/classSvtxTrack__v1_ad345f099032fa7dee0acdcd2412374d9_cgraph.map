@@ -1,6 +1,0 @@
-<map id="SvtxTrack_v1::get_eta" name="SvtxTrack_v1::get_eta">
-<area shape="rect" id="node2" href="$db/de4/classSvtxTrack__v1.html#a85d9d74261bb1c3f09a04c468a5b2ecf" title="SvtxTrack_v1::get_pt" alt="" coords="221,31,384,59"/>
-<area shape="rect" id="node5" href="$db/de4/classSvtxTrack__v1.html#af9f746f3d728de5c747f2d6524588f5f" title="SvtxTrack_v1::get_pz" alt="" coords="221,83,384,111"/>
-<area shape="rect" id="node3" href="$db/de4/classSvtxTrack__v1.html#a5281fc0601e5bc6c3482ed0b7f789a14" title="SvtxTrack_v1::get_px" alt="" coords="432,5,596,33"/>
-<area shape="rect" id="node4" href="$db/de4/classSvtxTrack__v1.html#ad63f8757691e674774701d00bfce7def" title="SvtxTrack_v1::get_py" alt="" coords="432,57,596,85"/>
-</map>

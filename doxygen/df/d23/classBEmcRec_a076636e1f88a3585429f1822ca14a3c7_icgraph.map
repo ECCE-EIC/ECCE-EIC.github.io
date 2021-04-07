@@ -1,9 +1,0 @@
-<map id="BEmcRec::GetNx" name="BEmcRec::GetNx">
-<area shape="rect" id="node2" href="$d9/d04/classEmcCluster.html#aed16f8d915614655bd94ff2dbacfa8bb" title="Returns the energy in 3x3 towers around the cluster Center of Gravity." alt="" coords="223,5,371,33"/>
-<area shape="rect" id="node3" href="$d9/d04/classEmcCluster.html#af0d5e9d5210331c6333a68e051ff2dee" title="Returns the cluster energy taking into account towers with E&gt;Ethresh." alt="" coords="211,57,382,85"/>
-<area shape="rect" id="node6" href="$d9/d04/classEmcCluster.html#ae53411ba897ecc95197fd7166b3be252" title="Returns the EmcModule corresponding to the reconstructed impact tower." alt="" coords="188,109,405,137"/>
-<area shape="rect" id="node7" href="$d9/d04/classEmcCluster.html#af8f3dec8bedbb38c4bb499e3e04e0114" title="Splits the EmcCluster onto peakarea&#39;s; also returns peak tower array corresponding to peakarea array..." alt="" coords="211,161,382,189"/>
-<area shape="rect" id="node8" href="$d9/d04/classEmcCluster.html#ac04e582a2a2635a0d6f43751f5d91b7f" title="Returns the energy of the tower ix,iy (numbering from 0)" alt="" coords="188,213,405,241"/>
-<area shape="rect" id="node4" href="$d9/d04/classEmcCluster.html#a9e9c9b084ae284b857327038f39de7e8" title="Ecore corrected for energy leak sidewise core towers." alt="" coords="453,32,689,60"/>
-<area shape="rect" id="node5" href="$db/deb/classEmcPeakarea.html#a7667b69d5df543200537b7efbdeb9a42" title="Substitutes a number of functions above (to save CPU time)" alt="" coords="483,84,660,112"/>
-</map>

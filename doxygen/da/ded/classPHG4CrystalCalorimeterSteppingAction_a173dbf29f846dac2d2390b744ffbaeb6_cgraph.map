@@ -1,5 +1,0 @@
-<map id="PHG4CrystalCalorimeterSteppingAction::SetInterfacePointers" name="PHG4CrystalCalorimeterSteppingAction::SetInterfacePointers">
-<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="326,5,515,33"/>
-<area shape="rect" id="node3" href="$d1/deb/classPHG4CrystalCalorimeterDetector.html#a1f11066e0981022b5555ff2891543bde" title="PHG4CrystalCalorimeterDetector\l::SuperDetector" alt="" coords="299,57,543,101"/>
-<area shape="rect" id="node4" href="$df/d3f/classPHG4SteppingAction.html#a4f46d6b68b124cd32518b631465359dc" title="PHG4SteppingAction\l::Verbosity" alt="" coords="340,125,501,169"/>
-</map>

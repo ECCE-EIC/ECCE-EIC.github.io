@@ -1,5 +1,0 @@
-<map id="Prototype3DSTReader::Init" name="Prototype3DSTReader::Init">
-<area shape="rect" id="node2" href="$df/d7f/classPrototype3DSTReader.html#ac55401416d6a1fd465369e62a0ee5957" title="Prototype3DSTReader\l::build_tree" alt="" coords="224,24,395,68"/>
-<area shape="rect" id="node3" href="$d3/d2b/classPHTFileServer.html#a5a3ed7a2a70cc2e38dbe1cb33afe9c2f" title="return reference to class singleton" alt="" coords="448,5,595,33"/>
-<area shape="rect" id="node4" href="$d3/d2b/classPHTFileServer.html#aaae99c6748eb17d5f8d7df375bc6d615" title="open a SafeTFile. If filename is not found in the map, create a new TFile and append to the map; incr..." alt="" coords="443,57,600,85"/>
-</map>

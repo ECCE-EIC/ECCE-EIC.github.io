@@ -1,9 +1,0 @@
-<map id="PHAna::fill_truth_ntuple" name="PHAna::fill_truth_ntuple">
-<area shape="rect" id="node2" href="$de/dc9/classPHG4Particle.html#ac4a56068140437bf45a67dae571cae48" title="PHG4Particle::get_e" alt="" coords="255,5,410,33"/>
-<area shape="rect" id="node3" href="$de/dc9/classPHG4Particle.html#a474033dbd058eea155c71fc4d17aaf4d" title="PHG4Particle::get_pid" alt="" coords="249,57,416,85"/>
-<area shape="rect" id="node4" href="$de/dc9/classPHG4Particle.html#a44b98bfd72a04825791d1e4c4cb150a1" title="PHG4Particle::get_px" alt="" coords="251,109,414,137"/>
-<area shape="rect" id="node5" href="$de/dc9/classPHG4Particle.html#a3df4379f9e46224a8cca7f86c11e99e5" title="PHG4Particle::get_py" alt="" coords="251,161,414,189"/>
-<area shape="rect" id="node6" href="$de/dc9/classPHG4Particle.html#a533e9bda40b15f62802b187e6a743e74" title="PHG4Particle::get_pz" alt="" coords="251,213,414,241"/>
-<area shape="rect" id="node7" href="$da/d6c/classPHG4TruthInfoContainer.html#a2817b4438bb80cacb28f457975342cf2" title="PHG4TruthInfoContainer\l::GetPrimaryParticleRange" alt="" coords="233,265,432,309"/>
-<area shape="rect" id="node8" href="$d8/df7/classPHAna.html#a4d7752cb8a32b9bb1e9f5cac59c7af6e" title="PHAna::Square" alt="" coords="271,333,394,361"/>
-</map>

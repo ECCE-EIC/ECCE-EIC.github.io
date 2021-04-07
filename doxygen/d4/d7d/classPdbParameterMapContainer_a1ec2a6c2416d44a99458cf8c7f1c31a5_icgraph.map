@@ -1,7 +1,0 @@
-<map id="PdbParameterMapContainer::get_ParameterMaps" name="PdbParameterMapContainer::get_ParameterMaps">
-<area shape="rect" id="node2" href="$d7/d6b/classPHParametersContainer.html#a0a218521866fd8bae7551395892f5406" title="PHParametersContainer\l::CreateAndFillFrom" alt="" coords="300,5,483,49"/>
-<area shape="rect" id="node4" href="$d7/d6b/classPHParametersContainer.html#aeea87ec5112ffb96aef47541208e5093" title="PHParametersContainer\l::FillFrom" alt="" coords="300,73,483,117"/>
-<area shape="rect" id="node6" href="$d0/d7c/classDumpPdbParameterMapContainer.html#a4771dc99bfc0e6e2a05f671a7579433b" title="DumpPdbParameterMapContainer\l::process_Node" alt="" coords="265,141,517,185"/>
-<area shape="rect" id="node3" href="$d7/ddb/classPHG4TpcElectronDrift.html#a14a3483e3de7a9a5cb6a4434cba1835c" title="PHG4TpcElectronDrift\l::InitRun" alt="" coords="598,5,766,49"/>
-<area shape="rect" id="node5" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html#a9c1bbc352e506b9b598fcd4d34ea279e" title="PHG4DetectorGroupSubsystem\l::InitRun" alt="" coords="565,73,799,117"/>
-</map>

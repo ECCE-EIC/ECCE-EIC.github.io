@@ -1,8 +1,0 @@
-<map id="FROG::location" name="FROG::location">
-<area shape="rect" id="node2" href="$dd/dfd/classFROG.html#a6291e84bdd6ab218b667edefad29370a" title="FROG::dCacheSearch" alt="" coords="175,36,340,64"/>
-<area shape="rect" id="node4" href="$dd/dfd/classFROG.html#a8602dc55c35f650797f13f3f84b0a960" title="FROG::Verbosity" alt="" coords="406,11,538,39"/>
-<area shape="rect" id="node5" href="$dd/dfd/classFROG.html#a42c17db7edbc46bc46cb5c358c3d68ef" title="FROG::Disconnect" alt="" coords="185,88,329,116"/>
-<area shape="rect" id="node6" href="$dd/dfd/classFROG.html#ac1e57e6025d4b703e43105a64cfb61b6" title="FROG::localSearch" alt="" coords="184,140,331,168"/>
-<area shape="rect" id="node7" href="$dd/dfd/classFROG.html#a0ed2fbc68b5d5d0259c3ac29e532fcef" title="FROG::PGSearch" alt="" coords="191,192,324,220"/>
-<area shape="rect" id="node3" href="$dd/dfd/classFROG.html#a80b070fa2c7b5394d63bf7e0a63e3908" title="FROG::GetConnection" alt="" coords="388,115,556,143"/>
-</map>

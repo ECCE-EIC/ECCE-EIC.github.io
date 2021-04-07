@@ -1,7 +1,0 @@
-<map id="draw_histogram" name="draw_histogram">
-<area shape="rect" id="node2" href="$d2/d2c/LivePlot-Energy-EMC_8C.html#a88a38eaa6ac7846e1bfd468c2b253d92" title="fill_histogram" alt="" coords="227,5,341,33"/>
-<area shape="rect" id="node3" href="$d2/d2c/LivePlot-Energy-EMC_8C.html#a60bcdbc8babe643efb2f9fcf53eda7a1" title="generate_file_path" alt="" coords="211,57,357,85"/>
-<area shape="rect" id="node5" href="$d8/d44/Plot-Measured__Energy-EMC_8C.html#a22a6b84f3b2a40857ee9e5e4be7d0e74" title="generate_histogram_name" alt="" coords="183,109,385,137"/>
-<area shape="rect" id="node6" href="$d2/d2c/LivePlot-Energy-EMC_8C.html#a54c0e7ebd0f1cc22a5ca8fbda9dbd671" title="load_tree" alt="" coords="242,161,326,189"/>
-<area shape="rect" id="node4" href="$d2/d2c/LivePlot-Energy-EMC_8C.html#ab1cc1a3ff560049e22576031c7c2345b" title="strdup" alt="" coords="433,84,499,112"/>
-</map>

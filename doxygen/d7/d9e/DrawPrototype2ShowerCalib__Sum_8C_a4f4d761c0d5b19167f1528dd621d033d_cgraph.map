@@ -1,8 +1,0 @@
-<map id="RejectionCompare" name="RejectionCompare">
-<area shape="rect" id="node2" href="$dc/d17/DrawEcal_8C.html#a75150d6c085fcce71b306c1300fa6e39" title="Distribution2Efficiency" alt="" coords="377,29,552,57"/>
-<area shape="rect" id="node3" href="$d7/d9e/DrawPrototype2ShowerCalib__Sum_8C.html#ae824c7ac41d22090f57c03871fe4b9f0" title="GetMu2Pi" alt="" coords="221,29,307,57"/>
-<area shape="rect" id="node4" href="$d7/d9e/DrawPrototype2ShowerCalib__Sum_8C.html#a8bd6e73a9cd4045041e4e788c606ca1e" title="GetSimRejCurve" alt="" coords="199,81,329,109"/>
-<area shape="rect" id="node5" href="$d7/d9e/DrawPrototype2ShowerCalib__Sum_8C.html#abf8dfcc1061af514a7eb90a697d06755" title="GetTGraphRatio" alt="" coords="199,133,329,161"/>
-<area shape="rect" id="node6" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="212,185,316,213"/>
-<area shape="rect" id="node7" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="425,185,504,213"/>
-</map>

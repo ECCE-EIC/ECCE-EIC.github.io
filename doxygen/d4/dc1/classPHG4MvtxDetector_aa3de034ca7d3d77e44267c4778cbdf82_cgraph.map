@@ -1,6 +1,0 @@
-<map id="PHG4MvtxDetector::FillPVArray" name="PHG4MvtxDetector::FillPVArray">
-<area shape="rect" id="node2" href="$d4/dc1/classPHG4MvtxDetector.html#a711cc267c7fcd1908a5a283d23a0fceb" title="PHG4MvtxDetector::FindSensor" alt="" coords="283,5,516,33"/>
-<area shape="rect" id="node3" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="564,32,753,60"/>
-<area shape="rect" id="node4" href="$d4/dc1/classPHG4MvtxDetector.html#acdcaed99a60d1fbc488d75bfb08d5380" title="PHG4MvtxDetector::get\l_layer" alt="" coords="309,109,490,153"/>
-<area shape="rect" id="node5" href="$d4/dc1/classPHG4MvtxDetector.html#aa8f24838136cab1807ff028a2d4af5c0" title="PHG4MvtxDetector::get\l_stave" alt="" coords="309,177,490,221"/>
-</map>

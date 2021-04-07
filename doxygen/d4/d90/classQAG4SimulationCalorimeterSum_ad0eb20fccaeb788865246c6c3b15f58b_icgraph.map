@@ -1,9 +1,0 @@
-<map id="QAG4SimulationCalorimeterSum::get_histo_prefix" name="QAG4SimulationCalorimeterSum::get_histo_prefix">
-<area shape="rect" id="node2" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a2d446f5f510ab16326c0b748163849e1" title="fetch tower around track and histogram energy distributions" alt="" coords="265,5,477,49"/>
-<area shape="rect" id="node3" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a552be18b8bd8920596f2020f0b49275f" title="QAG4SimulationCalorimeter\lSum::process_event_TrackProj" alt="" coords="525,56,749,100"/>
-<area shape="rect" id="node4" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a2104cb16e224c7eb39b9c5aed8aed4f0" title="QAG4SimulationCalorimeter\lSum::process_event" alt="" coords="797,116,1009,160"/>
-<area shape="rect" id="node5" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a756cd27c08e1b44f20dc2636dd5e32dc" title="QAG4SimulationCalorimeter\lSum::Init" alt="" coords="531,227,743,271"/>
-<area shape="rect" id="node6" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a312b0f09812dae841f6a9b2e66c54f48" title="QAG4SimulationCalorimeter\lSum::Init_Cluster" alt="" coords="265,227,477,271"/>
-<area shape="rect" id="node7" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#ae7f0ccf5da58f2aef7fbae3d115461d5" title="QAG4SimulationCalorimeter\lSum::Init_TrackProj" alt="" coords="265,295,477,339"/>
-<area shape="rect" id="node8" href="$d4/d90/classQAG4SimulationCalorimeterSum.html#a43fbffe92b7442566b030407d181c743" title="QAG4SimulationCalorimeter\lSum::process_event_Cluster" alt="" coords="531,324,744,368"/>
-</map>

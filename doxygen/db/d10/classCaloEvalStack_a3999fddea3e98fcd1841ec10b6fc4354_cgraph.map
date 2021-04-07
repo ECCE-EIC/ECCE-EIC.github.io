@@ -1,4 +1,0 @@
-<map id="CaloEvalStack::get_truth_eval" name="CaloEvalStack::get_truth_eval">
-<area shape="rect" id="node2" href="$da/d7e/classCaloRawClusterEval.html#a6d036ff7a8fd5db626d47ef43d3b9675" title="get a copy of the lower level truth eval and its memory cache" alt="" coords="203,5,357,49"/>
-<area shape="rect" id="node3" href="$de/d0b/classCaloRawTowerEval.html#a1b8eced040f811052e763a4dd70a5938" title="get a copy of the lower level truth eval and its memory cache" alt="" coords="405,5,584,49"/>
-</map>

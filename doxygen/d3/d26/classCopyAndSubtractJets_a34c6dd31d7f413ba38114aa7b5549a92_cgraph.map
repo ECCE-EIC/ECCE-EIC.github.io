@@ -1,9 +1,0 @@
-<map id="CopyAndSubtractJets::CreateNode" name="CopyAndSubtractJets::CreateNode">
-<area shape="rect" id="node2" href="$d5/dca/classPHCompositeNode.html#a15a0c4804399a9de4267647f05bd1ba4" title="PHCompositeNode::addNode" alt="" coords="217,57,433,85"/>
-<area shape="rect" id="node6" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="231,133,419,161"/>
-<area shape="rect" id="node8" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="237,185,413,213"/>
-<area shape="rect" id="node3" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="494,109,639,137"/>
-<area shape="rect" id="node4" href="$dc/d82/classPHNode.html#adda2bd6cef2d5067bbe3016a990b7198" title="PHNode::setParent" alt="" coords="493,5,641,33"/>
-<area shape="rect" id="node5" href="$d6/d86/classPHPointerList.html#ac2176735e9d046a034f1686fd2c477eb" title="PHPointerList::append" alt="" coords="481,57,652,85"/>
-<area shape="rect" id="node7" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="498,161,635,189"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="coresoftware/blob/master/offline/packages/HelixHough/Seamstress/Needle.h" name="coresoftware/blob/master/offline/packages/HelixHough/Seamstress/Needle.h">
-<area shape="rect" id="node2" href="$d8/d80/Pincushion_8h.html" title="coresoftware/blob/master\l/offline/packages/HelixHough\l/Seamstress/Pincushion.h" alt="" coords="697,113,918,173"/>
-<area shape="rect" id="node8" href="$d3/d11/Seamstress_8cpp.html" title="coresoftware/blob/master\l/offline/packages/HelixHough\l/Seamstress/Seamstress.cpp" alt="" coords="942,113,1163,173"/>
-<area shape="rect" id="node3" href="$de/d2a/ChiSquareGradHessian_8cpp.html" title="coresoftware/blob/master\l/offline/packages/HelixHough\l/FitNewton/ChiSquareGradHessian.cpp" alt="" coords="5,229,289,289"/>
-<area shape="rect" id="node4" href="$dd/d2a/GaussianRegGradHessian_8cpp.html" title="coresoftware/blob/master\l/offline/packages/HelixHough\l/FitNewton/GaussianRegGradHessian.cpp" alt="" coords="314,229,615,289"/>
-<area shape="rect" id="node5" href="$d2/d54/sPHENIXSeedFinder_8cpp.html" title="coresoftware/blob/master\l/offline/packages/HelixHough\l/helix_hough/sPHENIX/sPHENIXSeedFinder.cpp" alt="" coords="640,229,975,289"/>
-<area shape="rect" id="node6" href="$d7/d81/sPHENIXTracker_8cpp.html" title="coresoftware/blob/master\l/offline/packages/HelixHough\l/helix_hough/sPHENIX/sPHENIXTracker.cpp" alt="" coords="999,229,1307,289"/>
-<area shape="rect" id="node7" href="$df/d64/sPHENIXTrackerTpc_8cpp.html" title="coresoftware/blob/master\l/offline/packages/HelixHough\l/helix_hough/sPHENIX/sPHENIXTracker\lTpc.cpp" alt="" coords="1331,221,1612,297"/>
-</map>

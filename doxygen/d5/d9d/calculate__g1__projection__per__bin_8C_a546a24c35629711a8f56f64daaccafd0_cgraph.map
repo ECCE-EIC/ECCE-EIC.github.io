@@ -1,8 +1,0 @@
-<map id="calculate_g1_projection_per_bin" name="calculate_g1_projection_per_bin">
-<area shape="rect" id="node2" href="$d5/d82/calculate__g1_8C.html#a0b8b9e88a3c9b36feed167c4bcaffb9b" title="get_A1_sigma" alt="" coords="233,177,348,205"/>
-<area shape="rect" id="node3" href="$d5/d82/calculate__g1_8C.html#a7444b42af9f9f3138c8ac0df15617493" title="get_g1_sigma" alt="" coords="396,125,511,153"/>
-<area shape="rect" id="node6" href="$d5/d82/calculate__g1_8C.html#a7d523d0d018fb4b04dcad5c7b1996c0f" title="get_parametrization_R" alt="" coords="787,125,961,153"/>
-<area shape="rect" id="node7" href="$d5/d82/calculate__g1_8C.html#a5fa036c64d2f7094d21e256fd5e5c361" title="get_parametrization_F2" alt="" coords="559,177,739,205"/>
-<area shape="rect" id="node4" href="$d5/d82/calculate__g1_8C.html#ac1f6b0bc705a4d464a6831d63ec69a39" title="get_beam_polarization" alt="" coords="561,5,736,33"/>
-<area shape="rect" id="node5" href="$d5/d82/calculate__g1_8C.html#a4fd507d32aee9eeeb2ea53f77d0bb9f1" title="get_depolarization\l_factor" alt="" coords="575,57,722,101"/>
-</map>

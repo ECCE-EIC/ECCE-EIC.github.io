@@ -1,9 +1,0 @@
-<map id="expaid" name="expaid">
-<area shape="rect" id="node2" href="$d8/dcf/d1mach_8f.html#a507decabfd116e2d9ebbda32e0d944b3" title="d1mach" alt="" coords="120,32,196,60"/>
-<area shape="rect" id="node3" href="$d8/dcf/d1mach_8f.html#afc9fb70ab87786e37bc6e39c9514d8c6" title="i1mcry" alt="" coords="268,5,336,33"/>
-<area shape="rect" id="node4" href="$d0/d5e/classPHTimer.html#adce6f9a85834e59bd154b9c624ee4e41" title="stops the counter" alt="" coords="244,57,360,85"/>
-<area shape="rect" id="node5" href="$d0/d5e/classPHTimer.html#aa92e3fe4a0a1799f39743eda9ef9d497" title="gets time from cpu clock counts" alt="" coords="613,23,763,67"/>
-<area shape="rect" id="node6" href="$d0/d5e/classPHTimer.html#a976738876ad978116fdc4549a3765685" title="retrieve elapsed value since last restart (in ms)" alt="" coords="408,83,548,111"/>
-<area shape="rect" id="node7" href="$d0/d5e/classPHTimer.html#aa75ff2c27aba40e7ef0a934f9a3355c2" title="returns difference between to time" alt="" coords="596,91,780,119"/>
-<area shape="rect" id="node8" href="$d2/db1/classPHTimer_1_1Frequency.html#a023a2d706df9a8bd303810a9ed017f61" title="period accessor" alt="" coords="828,83,985,127"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="PHFieldUtility::GetFieldConfigNode" name="PHFieldUtility::GetFieldConfigNode">
-<area shape="rect" id="node2" href="$d9/d8c/classPHFieldConfig.html#a0fa7a55ccb764b8f8301d0883066279c" title="Virtual copy constructor." alt="" coords="230,5,411,33"/>
-<area shape="rect" id="node3" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="227,81,415,109"/>
-<area shape="rect" id="node6" href="$d9/d8c/classPHFieldConfig.html#a654b7e3f5258ab82dc39484d2f51c036" title="PHFieldConfig::identify" alt="" coords="233,133,408,161"/>
-<area shape="rect" id="node7" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="230,185,411,213"/>
-<area shape="rect" id="node8" href="$da/d29/classFun4AllServer.html#abcaf6825367e5db292ff795237bdcf62" title="Fun4AllServer::topNode" alt="" coords="230,237,411,265"/>
-<area shape="rect" id="node4" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="467,56,604,84"/>
-<area shape="rect" id="node5" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="463,108,608,136"/>
-</map>

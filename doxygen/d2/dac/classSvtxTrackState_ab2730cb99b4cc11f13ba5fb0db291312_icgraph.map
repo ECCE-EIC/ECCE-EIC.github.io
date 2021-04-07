@@ -1,8 +1,0 @@
-<map id="SvtxTrackState::get_pathlength" name="SvtxTrackState::get_pathlength">
-<area shape="rect" id="node2" href="$db/de4/classSvtxTrack__v1.html#aebe4cbcfe7b85b5d0fc179366d383d0f" title="SvtxTrack_v1::insert\l_state" alt="" coords="232,5,389,49"/>
-<area shape="rect" id="node5" href="$db/de4/classSvtxTrack__v1.html#adf646da41b9bae3f630d616f7ede88f0" title="SvtxTrack_v1::operator=" alt="" coords="217,73,404,101"/>
-<area shape="rect" id="node6" href="$d5/daa/classPHRaveVertexing.html#af3ca2c60b8b69efdf6fdaf781f19948c" title="PHRaveVertexing::Translate\lSvtxToGenFitTrack" alt="" coords="207,125,415,169"/>
-<area shape="rect" id="node3" href="$d9/d91/classPHG4TrackFastSim.html#ab1ae4586bc276e05c9cbbfc88d7a4aff" title="PHG4TrackFastSim::MakeSvtx\lTrack" alt="" coords="463,5,684,49"/>
-<area shape="rect" id="node4" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="732,5,940,49"/>
-<area shape="rect" id="node7" href="$d5/daa/classPHRaveVertexing.html#afefcb6ce27ac34016e62172d8519fae8" title="Process Event, called for each event." alt="" coords="474,125,673,169"/>
-</map>

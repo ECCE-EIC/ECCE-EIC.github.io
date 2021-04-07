@@ -1,9 +1,0 @@
-<map id="RawClusterUtility::GetEVec" name="RawClusterUtility::GetEVec">
-<area shape="rect" id="node2" href="$d5/d98/classClusterJetInput.html#aaa06c7c9d5919cec36bebe981200e11a" title="ClusterJetInput::get\l_input" alt="" coords="212,5,365,49"/>
-<area shape="rect" id="node3" href="$de/dcb/classClusterIso.html#a6aa03ee56ec17554e0603b71e741dfbd" title="ClusterIso::process\l_event" alt="" coords="214,73,363,117"/>
-<area shape="rect" id="node4" href="$d7/dec/classForward__pi0s.html#aa5e9d908554327efd879a6db978b2174" title="Forward_pi0s::process\l_event" alt="" coords="203,141,374,185"/>
-<area shape="rect" id="node5" href="$dc/d53/classPhotons.html#abd8397d6fc7d55f20d97de36b431f81d" title="Photons::process_event" alt="" coords="197,209,380,237"/>
-<area shape="rect" id="node6" href="$da/da1/classPJTranslator.html#a05f197da20e9ab88a53904b574db33a2" title="PJTranslator::process\l_event" alt="" coords="208,261,369,305"/>
-<area shape="rect" id="node7" href="$df/dda/classPHFlowJetMaker.html#a08cdecbc83cd68e95644a8b17af394e5" title="PHFlowJetMaker::run\l_particle_flow" alt="" coords="209,329,369,373"/>
-<area shape="rect" id="node8" href="$df/dda/classPHFlowJetMaker.html#af2305df14541877c06f00e5d29113bac" title="PHFlowJetMaker::process\l_event" alt="" coords="428,329,617,373"/>
-</map>

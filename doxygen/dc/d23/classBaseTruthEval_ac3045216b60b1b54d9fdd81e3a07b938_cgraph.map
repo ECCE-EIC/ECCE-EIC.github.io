@@ -1,5 +1,0 @@
-<map id="BaseTruthEval::get_particle" name="BaseTruthEval::get_particle">
-<area shape="rect" id="node2" href="$d3/d9e/classPHG4Hit.html#ac19cdd97dbd9b8154b8012ec0de01f76" title="PHG4Hit::get_trkid" alt="" coords="223,5,370,33"/>
-<area shape="rect" id="node3" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="204,57,389,101"/>
-<area shape="rect" id="node4" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="203,125,391,169"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="remove_bad_hits" name="remove_bad_hits">
-<area shape="rect" id="node2" href="$df/d64/sPHENIXTrackerTpc_8cpp.html#ac214f30ac1733ffd454d314bcf302b68" title="fit_all_update" alt="" coords="189,13,301,41"/>
-<area shape="rect" id="node3" href="$df/d64/sPHENIXTrackerTpc_8cpp.html#a82dbde3b420605dfa78267fdb786812c" title="fit_all" alt="" coords="349,13,407,41"/>
-<area shape="rect" id="node4" href="$d8/ddc/classsPHENIXTrackerTpc.html#a71ff64599ec23d4003a74981ed9e2a50" title="sPHENIXTrackerTpc::\lfindTracksByCombinatorialKalman" alt="" coords="455,5,707,49"/>
-<area shape="rect" id="node5" href="$d8/ddc/classsPHENIXTrackerTpc.html#a03d04ab414ae2c90cffcf5c5d9cf39ad" title="sPHENIXTrackerTpc::\lfindTracks" alt="" coords="755,5,913,49"/>
-</map>

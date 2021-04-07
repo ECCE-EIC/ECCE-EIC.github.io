@@ -1,6 +1,0 @@
-<map id="TrkrClusterv1::getZSize" name="TrkrClusterv1::getZSize">
-<area shape="rect" id="node2" href="$dc/d79/classTrkrClusterv1.html#ab875fa4782b3ac48fa8652aacc1cefa7" title="TrkrClusterv1::identify" alt="" coords="233,13,405,41"/>
-<area shape="rect" id="node3" href="$dd/d60/classTpcPrototypeUnpacker.html#a018feffce2f4cf203fb9efc95d3c701a" title="TpcPrototypeUnpacker\l::exportDSTCluster" alt="" coords="453,5,629,49"/>
-<area shape="rect" id="node4" href="$dd/d60/classTpcPrototypeUnpacker.html#a3f531b94d26bba622c59c5b71ca4dd8e" title="Clustering then prepare IOs." alt="" coords="677,5,853,49"/>
-<area shape="rect" id="node5" href="$dd/d60/classTpcPrototypeUnpacker.html#a3c458d1bda422672ff79946e5816f197" title="TpcPrototypeUnpacker\l::process_event" alt="" coords="901,5,1077,49"/>
-</map>

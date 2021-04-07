@@ -1,6 +1,0 @@
-<map id="HelixHoughBin::init" name="HelixHoughBin::init">
-<area shape="rect" id="node2" href="$d2/d8f/classPHInitZVertexing.html#a9de548ed074e34b0eb7440ba0b09cf3e" title="PHInitZVertexing::initialize\l_houghbin" alt="" coords="207,5,407,49"/>
-<area shape="rect" id="node4" href="$d1/d97/classPHPatternReco.html#a2b74ac1c68ef26cfb17ab74a948c27a8" title="PHPatternReco::initialize\l_houghbin" alt="" coords="214,73,399,117"/>
-<area shape="rect" id="node3" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="455,13,649,41"/>
-<area shape="rect" id="node5" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="461,73,643,117"/>
-</map>

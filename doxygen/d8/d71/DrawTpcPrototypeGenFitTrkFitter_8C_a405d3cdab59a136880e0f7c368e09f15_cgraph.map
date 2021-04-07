@@ -1,9 +1,0 @@
-<map id="TrackClusterEnergy" name="TrackClusterEnergy">
-<area shape="rect" id="node2" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="225,5,293,33"/>
-<area shape="rect" id="node3" href="$d7/d2d/make__fmod__calibrations_8C.html#a0dac611a7318ae96902d033b4b7b51f1" title="fit" alt="" coords="239,57,278,85"/>
-<area shape="rect" id="node4" href="$d8/d71/DrawTpcPrototypeGenFitTrkFitter_8C.html#a1c56b85d89a2fa068d486abc329299e6" title="langaufit" alt="" coords="217,109,300,137"/>
-<area shape="rect" id="node7" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="207,161,311,189"/>
-<area shape="rect" id="node5" href="$d5/d77/getMeanRMS_8C.html#a4ebb5ff3e6a0b0cf936c6f1022d054c4" title="langaufun" alt="" coords="359,109,448,137"/>
-<area shape="rect" id="node6" href="$da/d55/TPCRateLayered_8m.html#a7507ef556477c204b499f1e189d40796" title="sum" alt="" coords="496,109,547,137"/>
-<area shape="rect" id="node8" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="364,161,443,189"/>
-</map>

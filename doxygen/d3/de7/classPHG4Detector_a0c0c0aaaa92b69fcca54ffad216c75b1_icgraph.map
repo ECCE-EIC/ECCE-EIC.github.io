@@ -1,8 +1,0 @@
-<map id="PHG4Detector::Verbosity" name="PHG4Detector::Verbosity">
-<area shape="rect" id="node2" href="$d3/db0/classPHG4FCalSubsystem.html#ae33e6bf245c74d5af937eb26841ed0b0" title="init" alt="" coords="255,5,448,33"/>
-<area shape="rect" id="node3" href="$df/d58/classPHG4ForwardHcalSubsystem.html#a1bdb4ffbae67bc0c103e28183d5681cf" title="PHG4ForwardHcalSubsystem\l::Init" alt="" coords="243,57,460,101"/>
-<area shape="rect" id="node4" href="$df/d77/classPHG4FPbScSubsystem.html#a9c0c8267108b045eed38a1f07c0c4df3" title="init" alt="" coords="265,125,438,169"/>
-<area shape="rect" id="node5" href="$d7/dcc/classPHG4RICHSubsystem.html#adeffc90badaa02bef006016e232991b4" title="init" alt="" coords="253,193,450,221"/>
-<area shape="rect" id="node6" href="$d9/dbf/classPHG4MvtxSubsystem.html#a189efac53cac8a58715d177c664d74c9" title="InitRunSubsystem." alt="" coords="264,245,439,289"/>
-<area shape="rect" id="node7" href="$d8/dce/classPHG4ForwardEcalSubsystem.html#a7648b66bce4a75af9fd96d07a7349780" title="PHG4ForwardEcalSubsystem\l::InitRunSubsystem" alt="" coords="243,313,459,357"/>
-</map>

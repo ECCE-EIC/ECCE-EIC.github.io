@@ -1,9 +1,0 @@
-<map id="Fun4AllServer::getNode" name="Fun4AllServer::getNode">
-<area shape="rect" id="node2" href="$d5/dca/classPHCompositeNode.html#a15a0c4804399a9de4267647f05bd1ba4" title="PHCompositeNode::addNode" alt="" coords="235,57,451,85"/>
-<area shape="rect" id="node6" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="249,133,437,161"/>
-<area shape="rect" id="node8" href="$da/d29/classFun4AllServer.html#abcaf6825367e5db292ff795237bdcf62" title="Fun4AllServer::topNode" alt="" coords="252,185,433,213"/>
-<area shape="rect" id="node3" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="511,109,657,137"/>
-<area shape="rect" id="node4" href="$dc/d82/classPHNode.html#adda2bd6cef2d5067bbe3016a990b7198" title="PHNode::setParent" alt="" coords="510,5,658,33"/>
-<area shape="rect" id="node5" href="$d6/d86/classPHPointerList.html#ac2176735e9d046a034f1686fd2c477eb" title="PHPointerList::append" alt="" coords="499,57,669,85"/>
-<area shape="rect" id="node7" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="515,161,653,189"/>
-</map>

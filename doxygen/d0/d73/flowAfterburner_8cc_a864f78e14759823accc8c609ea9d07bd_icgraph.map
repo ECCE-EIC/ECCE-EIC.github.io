@@ -1,6 +1,0 @@
-<map id="vn_func" name="vn_func">
-<area shape="rect" id="node2" href="$d0/d73/flowAfterburner_8cc.html#ac0f293e9cf57bfb0add951f874f16340" title="AddFlowToParent" alt="" coords="128,36,265,64"/>
-<area shape="rect" id="node3" href="$da/de2/flowAfterburner_8h.html#ae40d970d082126a095d39b0c142486ec" title="flowAfterburner" alt="" coords="313,36,440,64"/>
-<area shape="rect" id="node4" href="$d9/d0f/main_8cc.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title="main" alt="" coords="550,5,605,33"/>
-<area shape="rect" id="node5" href="$dd/d6c/classHepMCFlowAfterBurner.html#a6dae3bc90206798dc65ab8ef9b5b15ca" title="HepMCFlowAfterBurner\l::process_event" alt="" coords="488,57,667,101"/>
-</map>

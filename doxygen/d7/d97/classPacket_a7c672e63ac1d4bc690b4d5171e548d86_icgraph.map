@@ -1,6 +1,0 @@
-<map id="Packet::getIdentifier" name="Packet::getIdentifier">
-<area shape="rect" id="node2" href="$da/ddd/classTempInfoUnpackPRDF.html#af3b49a5b7cd05075bb8d483595a12f3f" title="TempInfoUnpackPRDF\l::addPacketInfo" alt="" coords="217,5,387,49"/>
-<area shape="rect" id="node4" href="$dc/dab/classFun4AllEventOutStream.html#ac3f5579ceba1f3acdf722be550d6f374" title="Fun4AllEventOutStream\l::WriteEvent" alt="" coords="211,73,393,117"/>
-<area shape="rect" id="node3" href="$da/ddd/classTempInfoUnpackPRDF.html#a7809ec7b5caa2c581f610a2296586b32" title="TempInfoUnpackPRDF\l::process_event" alt="" coords="465,5,635,49"/>
-<area shape="rect" id="node5" href="$d2/d4a/classFun4AllEventOutputManager.html#a07d37e34714c5e9cc5dab9c2898ad8a4" title="write starting from given node" alt="" coords="441,73,659,117"/>
-</map>

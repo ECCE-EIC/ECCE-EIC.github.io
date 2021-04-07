@@ -1,8 +1,0 @@
-<map id="QAG4SimulationJet::get_histo_prefix" name="QAG4SimulationJet::get_histo_prefix">
-<area shape="rect" id="node2" href="$d4/d28/classQAG4SimulationJet.html#a71d3afa61febd84616aa9a46f544bdf4" title="QAG4SimulationJet::\lInit_Spectrum" alt="" coords="220,5,377,49"/>
-<area shape="rect" id="node4" href="$d4/d28/classQAG4SimulationJet.html#a044fc90f5333dabb5588ea6561ceb893" title="QAG4SimulationJet::\lInit_TruthMatching" alt="" coords="220,73,377,117"/>
-<area shape="rect" id="node5" href="$d4/d28/classQAG4SimulationJet.html#ac2803dd2fafe7d6131f3311c9f1e4e27" title="QAG4SimulationJet::\lprocess_Spectrum" alt="" coords="220,141,377,185"/>
-<area shape="rect" id="node7" href="$d4/d28/classQAG4SimulationJet.html#a3e5c5fe2e5e5cee7fca6173ef6e6bfa2" title="QAG4SimulationJet::\lprocess_TruthMatching" alt="" coords="211,209,387,253"/>
-<area shape="rect" id="node3" href="$d4/d28/classQAG4SimulationJet.html#a7738b8c330b20835aa469fdd59c108f8" title="QAG4SimulationJet::Init" alt="" coords="435,48,616,76"/>
-<area shape="rect" id="node6" href="$d4/d28/classQAG4SimulationJet.html#a98c3c0fb4d213ada3475e8fb9895bc29" title="QAG4SimulationJet::\lprocess_event" alt="" coords="447,175,604,219"/>
-</map>

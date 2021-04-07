@@ -1,4 +1,0 @@
-<map id="TpcPrototypeGenFitTrkFitter::pos_cov_XYZ_to_RZ" name="TpcPrototypeGenFitTrkFitter::pos_cov_XYZ_to_RZ">
-<area shape="rect" id="node2" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#acb08b0bc5eccd234b42f363e27da09a3" title="Make SvtxTrack from PHGenFit::Track and SvtxTrack." alt="" coords="263,5,472,49"/>
-<area shape="rect" id="node3" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8861dffacdf05e47efc97b65adbafe32" title="Process Event, called for each event." alt="" coords="520,5,729,49"/>
-</map>

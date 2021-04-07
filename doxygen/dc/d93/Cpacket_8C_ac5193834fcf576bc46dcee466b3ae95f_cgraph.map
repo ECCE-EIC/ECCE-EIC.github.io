@@ -1,7 +1,0 @@
-<map id="findPacketDataStart" name="findPacketDataStart">
-<area shape="rect" id="node2" href="$dc/d93/Cpacket_8C.html#a29c44c21a6a00aa380a5fccd255f689c" title="getPacketDataDescrLength" alt="" coords="209,5,413,33"/>
-<area shape="rect" id="node5" href="$de/d93/Cpacket_8h.html#a00a03758ac2620086eda111809151cfd" title="getPacketHdrLength" alt="" coords="233,57,390,85"/>
-<area shape="rect" id="node6" href="$dc/d93/Cpacket_8C.html#af873472780d17d2304cb7d9ea6cb5cbb" title="validPacketHdr" alt="" coords="250,109,373,137"/>
-<area shape="rect" id="node3" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="461,57,623,85"/>
-<area shape="rect" id="node4" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="671,57,789,85"/>
-</map>

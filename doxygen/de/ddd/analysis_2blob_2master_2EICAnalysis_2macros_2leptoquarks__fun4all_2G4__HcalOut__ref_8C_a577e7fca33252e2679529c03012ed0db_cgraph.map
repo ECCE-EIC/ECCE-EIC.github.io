@@ -1,9 +1,0 @@
-<map id="HCalOuter" name="HCalOuter">
-<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html#ac1432a8cbba08919cd979a2ab8c0b6c9" title="PHG4DetectorSubsystem\l::get_double_param" alt="" coords="163,5,355,49"/>
-<area shape="rect" id="node4" href="$d5/d29/classPHG4DetectorSubsystem.html#a5a52f44370d90e92bfb3ed0abf6dbb76" title="PHG4DetectorSubsystem\l::OverlapCheck" alt="" coords="163,73,355,117"/>
-<area shape="rect" id="node5" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="145,141,372,169"/>
-<area shape="rect" id="node6" href="$d5/d29/classPHG4DetectorSubsystem.html#adf60f69cc9a72740cf39329f91a96451" title="PHG4DetectorSubsystem\l::SetAbsorberActive" alt="" coords="163,193,355,237"/>
-<area shape="rect" id="node7" href="$d5/d29/classPHG4DetectorSubsystem.html#a06d7265cdb191528ced9e78e73ba0f0a" title="PHG4DetectorSubsystem\l::SetActive" alt="" coords="163,261,355,305"/>
-<area shape="rect" id="node8" href="$d5/d29/classPHG4DetectorSubsystem.html#aa0c11d415a70a207a3ea851b28932dfd" title="PHG4DetectorSubsystem\l::SuperDetector" alt="" coords="163,329,355,373"/>
-<area shape="rect" id="node3" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="420,5,620,49"/>
-</map>

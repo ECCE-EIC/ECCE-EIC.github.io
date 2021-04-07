@@ -1,8 +1,0 @@
-<map id="DrawEMCalTower" name="DrawEMCalTower">
-<area shape="rect" id="node2" href="$d5/d00/Prototype2_2EMCal_2macros_2DrawEMCalTower_8C.html#a6d43355f22e6de5bd6029f9ebb65f8cd" title="EMCDistributionVSBeam_SUM" alt="" coords="191,31,413,59"/>
-<area shape="rect" id="node7" href="$d8/d79/Prototype2_2EMCal_2macros_2SetOKStyle_8C.html#a35318d2178324047bb14989874dbc9b6" title="SetOKStyle" alt="" coords="253,83,351,111"/>
-<area shape="rect" id="node3" href="$d1/d31/QA__Draw__Utility_8C.html#a94d18bd8db5d5cc2686044bcc3df861f" title="Fit for profile along the Y direction of TH2F." alt="" coords="474,5,553,33"/>
-<area shape="rect" id="node5" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="461,57,565,85"/>
-<area shape="rect" id="node4" href="$db/d5d/test__style_8C.html#a2513fe0eb0478642e44ad1201af61a46" title="f2" alt="" coords="633,5,672,33"/>
-<area shape="rect" id="node6" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="613,57,692,85"/>
-</map>

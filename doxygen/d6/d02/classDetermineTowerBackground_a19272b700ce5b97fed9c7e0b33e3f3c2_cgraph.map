@@ -1,7 +1,0 @@
-<map id="DetermineTowerBackground::FillNode" name="DetermineTowerBackground::FillNode">
-<area shape="rect" id="node2" href="$d5/d0f/classTowerBackground.html#a7b8d3c3eb897ad1448c77dc0cdb77e73" title="TowerBackground::set\l_nStripsUsedForFlow" alt="" coords="282,5,454,49"/>
-<area shape="rect" id="node3" href="$d5/d0f/classTowerBackground.html#a163c504ac4b389636a0ed5a3f49f48ee" title="TowerBackground::set\l_nTowersUsedForBkg" alt="" coords="282,73,454,117"/>
-<area shape="rect" id="node4" href="$d5/d0f/classTowerBackground.html#a8036648aad45c37212873c909adb5701" title="TowerBackground::set_Psi2" alt="" coords="265,141,471,169"/>
-<area shape="rect" id="node5" href="$d5/d0f/classTowerBackground.html#add0143829f555ee1b7d71ea4ddfed0bf" title="TowerBackground::set_UE" alt="" coords="269,193,467,221"/>
-<area shape="rect" id="node6" href="$d5/d0f/classTowerBackground.html#a53c283c9c23ec0e4e90f9a2ef93f0705" title="TowerBackground::set_v2" alt="" coords="271,245,465,273"/>
-</map>

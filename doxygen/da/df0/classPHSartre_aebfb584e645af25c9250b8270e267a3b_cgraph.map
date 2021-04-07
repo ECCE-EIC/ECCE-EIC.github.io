@@ -1,6 +1,0 @@
-<map id="PHSartre::beam_vertex_parameters" name="PHSartre::beam_vertex_parameters">
-<area shape="rect" id="node2" href="$da/df0/classPHSartre.html#a82b4979c804d6faee3b3dc1fb640adad" title="set the mean value of the vertex distribution, use PHENIX units of cm, ns" alt="" coords="231,5,391,49"/>
-<area shape="rect" id="node4" href="$da/df0/classPHSartre.html#aa32d2a482842cebeb6ed5c5006ec6104" title="set the width of the vertex distribution function about the mean, use PHENIX units of cm..." alt="" coords="231,73,391,117"/>
-<area shape="rect" id="node3" href="$dd/d2a/classPHHepMCGenHelper.html#aad7308b0a8bbfcdc2106b5be191ec37e" title="set the mean value of the vertex distribution, use PHENIX units of cm, ns" alt="" coords="439,5,640,49"/>
-<area shape="rect" id="node5" href="$dd/d2a/classPHHepMCGenHelper.html#a4a9dfd6131b1e3bfb1428875a88a98ea" title="set the width of the vertex distribution function about the mean, use PHENIX units of cm..." alt="" coords="439,73,639,117"/>
-</map>

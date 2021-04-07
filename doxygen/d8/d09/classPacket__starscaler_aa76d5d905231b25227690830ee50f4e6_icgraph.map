@@ -1,5 +1,0 @@
-<map id="Packet_starscaler::decode" name="Packet_starscaler::decode">
-<area shape="rect" id="node2" href="$d8/d09/classPacket__starscaler.html#a11c889ee671d898d0da38f12d30b905e" title="iValue returns the value of a given channel as an int." alt="" coords="200,5,347,49"/>
-<area shape="rect" id="node4" href="$d8/d09/classPacket__starscaler.html#a98b1340922a50df244b0818fd41484fa" title="Packet_starscaler::\llValue" alt="" coords="200,73,347,117"/>
-<area shape="rect" id="node3" href="$d8/d09/classPacket__starscaler.html#a8dd866b1b1bf19009e19da89926ded70" title="Packet_starscaler::dump" alt="" coords="395,48,581,76"/>
-</map>

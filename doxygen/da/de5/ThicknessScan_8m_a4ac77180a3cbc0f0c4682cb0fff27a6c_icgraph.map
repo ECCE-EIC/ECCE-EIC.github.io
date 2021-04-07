@@ -1,5 +1,0 @@
-<map id="surf" name="surf">
-<area shape="rect" id="node2" href="$d2/d72/classPHG4GDMLWriteStructure.html#a6f43dec8d3aac69dda385a18e6391528" title="PHG4GDMLWriteStructure\l::GetBorderSurface" alt="" coords="101,5,296,49"/>
-<area shape="rect" id="node4" href="$d2/d72/classPHG4GDMLWriteStructure.html#af03cba3e27bc33c5c3191e0240bd3474" title="PHG4GDMLWriteStructure\l::GetSkinSurface" alt="" coords="101,73,296,117"/>
-<area shape="rect" id="node3" href="$d2/d72/classPHG4GDMLWriteStructure.html#a957c6f2d283732660e3eb9c41b982048" title="PHG4GDMLWriteStructure\l::TraverseVolumeTree" alt="" coords="344,40,539,84"/>
-</map>

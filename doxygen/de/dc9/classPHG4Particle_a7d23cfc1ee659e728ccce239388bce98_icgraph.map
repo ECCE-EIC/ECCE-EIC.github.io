@@ -1,5 +1,0 @@
-<map id="PHG4Particle::set_e" name="PHG4Particle::set_e">
-<area shape="rect" id="node2" href="$db/d5c/classPHG4TruthTrackingAction.html#a22bc2cb2f4cdd07e12eee38c1a43f586" title="tracking action" alt="" coords="218,5,409,49"/>
-<area shape="rect" id="node3" href="$dd/d68/classPHG4ParticleGenerator.html#a1292dcb1c73496ea30769a4b8c355780" title="PHG4ParticleGenerator\l::process_event" alt="" coords="225,73,402,117"/>
-<area shape="rect" id="node4" href="$d5/df3/classPHG4SimpleEventGenerator.html#a4a7065a5083bd5b21c3743f8e224065b" title="PHG4SimpleEventGenerator\l::process_event" alt="" coords="207,141,420,185"/>
-</map>

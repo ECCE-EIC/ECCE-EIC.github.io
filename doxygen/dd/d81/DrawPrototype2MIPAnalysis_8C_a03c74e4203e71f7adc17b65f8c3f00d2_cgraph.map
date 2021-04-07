@@ -1,9 +1,0 @@
-<map id="DrawPrototype2MIPAnalysis" name="DrawPrototype2MIPAnalysis">
-<area shape="rect" id="node2" href="$d6/d60/DrawPrototype2EMCalTower_8C.html#a74fb77d1a3ae692025be7a38590b03de" title="EMCDistribution_ADC" alt="" coords="305,5,471,33"/>
-<area shape="rect" id="node5" href="$d5/d00/Prototype2_2EMCal_2macros_2DrawEMCalTower_8C.html#a53996f4bd4106d09eff4d26dd1387cda" title="EMCDistribution_Fast" alt="" coords="306,57,470,85"/>
-<area shape="rect" id="node7" href="$d6/d60/DrawPrototype2EMCalTower_8C.html#ac242e968ff3e3306392613303ac99ae8" title="EMCDistribution_PeakSample_Fast" alt="" coords="261,109,515,137"/>
-<area shape="rect" id="node3" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="629,31,733,59"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="847,31,925,59"/>
-<area shape="rect" id="node6" href="$d8/db5/namespaceQAHistManagerDef.html#a7e5037158f73c3ab97c4ddd6b974b34a" title="utility function to" alt="" coords="563,83,799,111"/>
-<area shape="rect" id="node8" href="$d7/d2d/make__fmod__calibrations_8C.html#a0dac611a7318ae96902d033b4b7b51f1" title="fit" alt="" coords="661,135,700,163"/>
-</map>

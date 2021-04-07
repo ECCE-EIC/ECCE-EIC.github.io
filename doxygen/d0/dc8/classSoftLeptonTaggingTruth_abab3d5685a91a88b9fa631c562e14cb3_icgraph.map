@@ -1,7 +1,0 @@
-<map id="SoftLeptonTaggingTruth::getHistoManager" name="SoftLeptonTaggingTruth::getHistoManager">
-<area shape="rect" id="node2" href="$d5/d60/analysis_2blob_2master_2HF-Jet_2TruthGeneration_2macros_2Fun4All__G4__sPHENIX_8C.html#a9a881c27e3822a95643d09c2fd73009e" title="Fun4All_G4_sPHENIX" alt="" coords="243,5,404,33"/>
-<area shape="rect" id="node3" href="$d0/dc8/classSoftLeptonTaggingTruth.html#ad13ed8517e5263712a1b3974cad31a9a" title="SoftLeptonTaggingTruth\l::Init" alt="" coords="461,80,641,124"/>
-<area shape="rect" id="node4" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a9e1e4f4837ca0190ec73da634fbf4876" title="SoftLeptonTaggingTruth\l::Init_Spectrum" alt="" coords="233,109,413,153"/>
-<area shape="rect" id="node5" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a3989ff17a01ba304478d558b99c3214f" title="SoftLeptonTaggingTruth\l::process_Spectrum" alt="" coords="233,177,413,221"/>
-<area shape="rect" id="node6" href="$d0/dc8/classSoftLeptonTaggingTruth.html#a152a3015fe9e7c089637c981a45787fe" title="SoftLeptonTaggingTruth\l::process_event" alt="" coords="461,177,641,221"/>
-</map>

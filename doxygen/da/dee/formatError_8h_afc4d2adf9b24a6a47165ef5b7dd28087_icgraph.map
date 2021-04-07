@@ -1,6 +1,0 @@
-<map id="setUserError" name="setUserError">
-<area shape="rect" id="node2" href="$d7/d66/framePackets_8h.html#ad5edc1915cb2a006a479822de87792c7" title="appendEmptyFramePacket" alt="" coords="160,5,363,33"/>
-<area shape="rect" id="node3" href="$db/d95/CframeV1_8h.html#ae584ba626d079e181c5a91085e98f840" title="orFrameStatusV1" alt="" coords="193,57,330,85"/>
-<area shape="rect" id="node4" href="$d6/dee/CpacketV1_8h.html#a3135b6aa3599d07d8763a4d4523297aa" title="orPacketV1Status" alt="" coords="191,109,331,137"/>
-<area shape="rect" id="node5" href="$d2/d89/packetRoutines_8h.html#a51b2f78e3681264053d2f7daf5115adc" title="startUnstructDataWrite" alt="" coords="173,161,350,189"/>
-</map>

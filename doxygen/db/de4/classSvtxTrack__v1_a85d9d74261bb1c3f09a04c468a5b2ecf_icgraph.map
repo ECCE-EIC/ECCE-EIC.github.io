@@ -1,6 +1,0 @@
-<map id="SvtxTrack_v1::get_pt" name="SvtxTrack_v1::get_pt">
-<area shape="rect" id="node2" href="$db/de4/classSvtxTrack__v1.html#ad345f099032fa7dee0acdcd2412374d9" title="SvtxTrack_v1::get_eta" alt="" coords="216,5,384,33"/>
-<area shape="rect" id="node3" href="$db/db5/classDISKinematicsReco.html#ad801f1794841d3657aa4c0b2da334743" title="DISKinematicsReco::\lInsertCandidateFromCluster" alt="" coords="432,24,643,68"/>
-<area shape="rect" id="node4" href="$db/db5/classDISKinematicsReco.html#a4ea9fa36ccd955fd7cdfa7e7eaf1e534" title="DISKinematicsReco::\lCollectEmCandidatesFromCluster" alt="" coords="691,24,937,68"/>
-<area shape="rect" id="node5" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="985,24,1145,68"/>
-</map>

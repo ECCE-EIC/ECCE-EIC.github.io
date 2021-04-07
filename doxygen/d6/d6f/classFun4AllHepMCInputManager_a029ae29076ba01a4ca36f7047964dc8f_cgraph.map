@@ -1,9 +1,0 @@
-<map id="Fun4AllHepMCInputManager::NoSyncPushBackEvents" name="Fun4AllHepMCInputManager::NoSyncPushBackEvents">
-<area shape="rect" id="node2" href="$d6/d6f/classFun4AllHepMCInputManager.html#a13e980270840f354ddd73834d9f90fc2" title="Fun4AllHepMCInputManager\l::PushBackEvents" alt="" coords="268,109,483,153"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="550,5,726,33"/>
-<area shape="rect" id="node4" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="800,57,953,85"/>
-<area shape="rect" id="node5" href="$d4/da9/classFun4AllInputManager.html#a7e22df6cae3040d6bf3d864c75131858" title="Fun4AllInputManager\l::IsOpen" alt="" coords="793,199,960,243"/>
-<area shape="rect" id="node6" href="$d9/d9e/evDisplay_8C.html#ac7bcb6cd8ca3e800a39f7f0063d61044" title="nevents" alt="" coords="600,177,676,205"/>
-<area shape="rect" id="node7" href="$d6/d6f/classFun4AllHepMCInputManager.html#a1bde483df8980d46f5927a109ace2635" title="Fun4AllHepMCInputManager\l::fileclose" alt="" coords="531,109,745,153"/>
-<area shape="rect" id="node8" href="$d4/da9/classFun4AllInputManager.html#a78a9801eec02c6002268798fddb2381a" title="Fun4AllInputManager\l::UpdateFileList" alt="" coords="793,109,960,153"/>
-</map>

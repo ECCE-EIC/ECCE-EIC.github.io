@@ -1,7 +1,0 @@
-<map id="RawClusterv1::get_position" name="RawClusterv1::get_position">
-<area shape="rect" id="node2" href="$d6/dc7/group__getters.html#ga079bd431c3b353df1f06ea5e7c66dc16" title="access Cartesian coordinate system" alt="" coords="259,57,419,85"/>
-<area shape="rect" id="node5" href="$d6/dc7/group__getters.html#ga2e5d549df1137f172ed31e69d4d5df35" title="RawClusterv1::get_y" alt="" coords="259,5,419,33"/>
-<area shape="rect" id="node6" href="$d6/dc7/group__getters.html#ga767e610ff6379f34a951f310310fdda0" title="RawClusterv1::get_z" alt="" coords="259,109,418,137"/>
-<area shape="rect" id="node3" href="$d6/dc7/group__getters.html#ga703f8d25f608d714d586755c91422157" title="RawClusterv1::get_r" alt="" coords="474,5,631,33"/>
-<area shape="rect" id="node4" href="$d6/dc7/group__getters.html#ga889263389d286a95c4c242642bf85f4b" title="access to intrinsic cylindrical coordinate system" alt="" coords="467,57,639,85"/>
-</map>

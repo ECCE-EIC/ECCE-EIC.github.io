@@ -1,5 +1,0 @@
-<map id="TPCMLDataInterface::getHistoManager" name="TPCMLDataInterface::getHistoManager">
-<area shape="rect" id="node2" href="$d8/d7c/classTPCMLDataInterface.html#a06e965f69e774a88ece555040944f543" title="Called at the end of all processing." alt="" coords="212,5,405,33"/>
-<area shape="rect" id="node3" href="$d8/d7c/classTPCMLDataInterface.html#aad0c12c04ec431668ccc0a8b9fe3aa10" title="TPCMLDataInterface\l::InitRun" alt="" coords="229,57,388,101"/>
-<area shape="rect" id="node4" href="$d8/d7c/classTPCMLDataInterface.html#ad8e09026c6e113a6b0a3ad2c5a54eae6" title="TPCMLDataInterface\l::process_event" alt="" coords="229,125,388,169"/>
-</map>

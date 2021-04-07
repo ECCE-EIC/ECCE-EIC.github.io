@@ -1,8 +1,0 @@
-<map id="Packet_A::fix_endianess" name="Packet_A::fix_endianess">
-<area shape="rect" id="node2" href="$dd/deb/classPacket__cdevir.html#a663ce8c290000d1ffa8e91b405fc020a" title="Packet_cdevir::decode" alt="" coords="247,19,419,47"/>
-<area shape="rect" id="node4" href="$d3/db5/classPacket__cdevwcm.html#a58a526e397131ff4e377b30b01e74d3b" title="Packet_cdevwcm::decode" alt="" coords="236,84,431,112"/>
-<area shape="rect" id="node3" href="$dd/deb/classPacket__cdevir.html#a28559ec0d3396a616aa7a9c73344ba3d" title="Packet_cdevir::dump" alt="" coords="491,5,653,33"/>
-<area shape="rect" id="node5" href="$d3/db5/classPacket__cdevwcm.html#a2bbcb44987b1ac0134fca56ef90e8776" title="Packet_cdevwcm::dump" alt="" coords="480,57,664,85"/>
-<area shape="rect" id="node6" href="$d3/db5/classPacket__cdevwcm.html#a11c851497549407ee4bc4bd85c7006d6" title="Packet_cdevwcm::iValue" alt="" coords="479,109,665,137"/>
-<area shape="rect" id="node7" href="$d3/db5/classPacket__cdevwcm.html#ae0544a11680e9bb363d13dce1d1f10ea" title="Packet_cdevwcm::rValue" alt="" coords="479,161,665,189"/>
-</map>

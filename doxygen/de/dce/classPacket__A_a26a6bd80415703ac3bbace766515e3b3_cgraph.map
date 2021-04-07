@@ -1,8 +1,0 @@
-<map id="Packet_A::getCheckSumStatus" name="Packet_A::getCheckSumStatus">
-<area shape="rect" id="node2" href="$de/dce/classPacket__A.html#a20327666352b14fc4ee2e08fa0889320" title="get the length of the debug block" alt="" coords="280,5,483,33"/>
-<area shape="rect" id="node6" href="$de/dce/classPacket__A.html#ab2a413f04c8e1cb18e896dc73fe008a3" title="Packet_A::getLength" alt="" coords="303,57,460,85"/>
-<area shape="rect" id="node3" href="$dc/d93/Cpacket_8C.html#a2aec430b5f0998606ea7847f08bbe03c" title="getPacketDebugLength" alt="" coords="531,5,708,33"/>
-<area shape="rect" id="node4" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="756,5,917,33"/>
-<area shape="rect" id="node5" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="965,5,1084,33"/>
-<area shape="rect" id="node7" href="$de/d93/Cpacket_8h.html#a240cdc0ca633222b7ca7dd8d85ebedd0" title="getPacketLength" alt="" coords="553,57,686,85"/>
-</map>

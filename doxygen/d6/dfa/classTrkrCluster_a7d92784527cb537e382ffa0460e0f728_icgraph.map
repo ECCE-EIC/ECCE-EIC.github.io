@@ -1,8 +1,0 @@
-<map id="TrkrCluster::getZ" name="TrkrCluster::getZ">
-<area shape="rect" id="node2" href="$dc/d41/classConversion.html#acc7b79ee4ec15a4802da1edfdd54b0cc" title="Conversion::dist" alt="" coords="237,5,369,33"/>
-<area shape="rect" id="node3" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="209,57,397,101"/>
-<area shape="rect" id="node5" href="$d6/d11/classSvtxEvaluator.html#aef548ddeafdf0ebc949f29e88a741db8" title="print out the ancestry information for detailed diagnosis" alt="" coords="189,125,417,153"/>
-<area shape="rect" id="node6" href="$db/d6d/classAnaMvtxTestBeam2019.html#a043d418b56118618968c827ff5030719" title="AnaMvtxTestBeam2019\l::process_event" alt="" coords="213,177,394,221"/>
-<area shape="rect" id="node7" href="$dd/d60/classDumpTrkrClusterContainer.html#a2d4908a1a9a430bfb4921f0768568f27" title="DumpTrkrClusterContainer\l::process_Node" alt="" coords="203,245,404,289"/>
-<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="465,88,641,132"/>
-</map>

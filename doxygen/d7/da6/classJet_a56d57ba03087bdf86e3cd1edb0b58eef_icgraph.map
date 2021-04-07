@@ -1,7 +1,0 @@
-<map id="Jet::set_id" name="Jet::set_id">
-<area shape="rect" id="node2" href="$d7/dce/classTreeMaker.html#a52bf12994bc1206706553ddef4a8e2ca" title="TreeMaker::CopyAndMakeJets" alt="" coords="141,13,363,41"/>
-<area shape="rect" id="node4" href="$df/d87/classFastJetAlgo.html#a3e3757d0950a235eb17e27464e3ee02c" title="FastJetAlgo::get_jets" alt="" coords="173,65,331,93"/>
-<area shape="rect" id="node5" href="$d6/d77/classFastJetAlgoSub.html#aedbf3469337244550d98d847a4a755a8" title="FastJetAlgoSub::get_jets" alt="" coords="160,117,344,145"/>
-<area shape="rect" id="node6" href="$d3/d26/classCopyAndSubtractJets.html#aa7469769625a7718d5d28b57faf8b663" title="CopyAndSubtractJets\l::process_event" alt="" coords="170,169,334,213"/>
-<area shape="rect" id="node3" href="$d7/dce/classTreeMaker.html#a89a6f3a23de784d5f8d86ae91956aa69" title="TreeMaker::process\l_event" alt="" coords="411,5,563,49"/>
-</map>

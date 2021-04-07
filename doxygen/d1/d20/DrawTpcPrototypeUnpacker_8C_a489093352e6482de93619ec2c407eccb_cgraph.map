@@ -1,8 +1,0 @@
-<map id="DrawTpcPrototypeUnpacker" name="DrawTpcPrototypeUnpacker">
-<area shape="rect" id="node2" href="$d1/d20/DrawTpcPrototypeUnpacker_8C.html#a051a8593f65b59ebe0b9f2b34cc094c8" title="ClusterQA" alt="" coords="284,5,373,33"/>
-<area shape="rect" id="node5" href="$d1/d20/DrawTpcPrototypeUnpacker_8C.html#a874fbf53cf69924663f184badbace183" title="Clusters3D" alt="" coords="281,57,376,85"/>
-<area shape="rect" id="node6" href="$d1/d95/sPhenixStyle_8C.html#a40c9ca7bea26e6a08182ceb8298869e7" title="sPHENIX Style, based on a style file from ATLAS by Peter Steinberg" alt="" coords="264,109,393,137"/>
-<area shape="rect" id="node3" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="443,32,547,60"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="597,32,676,60"/>
-<area shape="rect" id="node7" href="$d1/d95/sPhenixStyle_8C.html#a2b14fe9277832cb4dbdc473f44df99b4" title="sPhenixStyle" alt="" coords="441,109,549,137"/>
-</map>

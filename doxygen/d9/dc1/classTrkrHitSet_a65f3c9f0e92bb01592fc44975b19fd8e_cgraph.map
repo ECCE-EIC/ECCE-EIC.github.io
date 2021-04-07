@@ -1,6 +1,0 @@
-<map id="TrkrHitSet::removeHit" name="TrkrHitSet::removeHit">
-<area shape="rect" id="node2" href="$d9/dc1/classTrkrHitSet.html#af1ecf88b6afbf636a82d40b56020089a" title="TObject functions." alt="" coords="223,57,372,85"/>
-<area shape="rect" id="node3" href="$d9/dc1/classTrkrHitSet.html#ad407a57ad9c4624e1f8766335264af76" title="Get the key for this object." alt="" coords="420,5,607,33"/>
-<area shape="rect" id="node4" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="439,57,587,85"/>
-<area shape="rect" id="node5" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="440,109,587,137"/>
-</map>

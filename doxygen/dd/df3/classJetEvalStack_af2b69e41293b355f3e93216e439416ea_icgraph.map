@@ -1,7 +1,0 @@
-<map id="JetEvalStack::get_reco_eval" name="JetEvalStack::get_reco_eval">
-<area shape="rect" id="node2" href="$d1/df4/classJetEvaluator.html#a0c608411c03ff1de3fca80d64e93ae5d" title="dump the evaluator information into ntuple for external analysis" alt="" coords="284,9,461,53"/>
-<area shape="rect" id="node4" href="$d8/de2/classJetEnergies.html#a065fee78622ed073cafb5cf172d67bef" title="dump the evaluator information into ntuple for external analysis" alt="" coords="261,79,484,107"/>
-<area shape="rect" id="node6" href="$dc/d65/classPhotonJet.html#a3f9d3ec941f851bc2246ceb0c5362c9f" title="PhotonJet::process\l_event" alt="" coords="299,131,446,175"/>
-<area shape="rect" id="node3" href="$d1/df4/classJetEvaluator.html#ad83508ae828d1f2e4a83a948465a0cd2" title="JetEvaluator::process\l_event" alt="" coords="532,5,697,49"/>
-<area shape="rect" id="node5" href="$d8/de2/classJetEnergies.html#a6acaa9b2ba1fe7353781d2f5d476e8d1" title="JetEnergies::process\l_event" alt="" coords="535,73,695,117"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="RawClusterv1::get_chi2" name="RawClusterv1::get_chi2">
-<area shape="rect" id="node2" href="$d9/d6e/group__property__map.html#ga54e1537c84142df9c1d7b8b96c5f8667" title="RawClusterv1::get_property\l_float" alt="" coords="233,49,443,93"/>
-<area shape="rect" id="node3" href="$d9/d6e/group__property__map.html#ga32e4d878c2140a38512509751b0f8ed3" title="RawCluster::check_property" alt="" coords="501,5,710,33"/>
-<area shape="rect" id="node4" href="$d9/d6e/group__property__map.html#gae2fd02bc2683c96df67f54e7831755df" title="type management" alt="" coords="493,57,717,85"/>
-<area shape="rect" id="node5" href="$d9/d6e/group__property__map.html#gac4539a855658c1b9f3038b1a18276561" title="RawCluster::get_property_type" alt="" coords="491,109,720,137"/>
-</map>

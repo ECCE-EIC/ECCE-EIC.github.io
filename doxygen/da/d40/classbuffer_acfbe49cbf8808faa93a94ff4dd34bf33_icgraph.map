@@ -1,5 +1,0 @@
-<map id="buffer::makeBuffer" name="buffer::makeBuffer">
-<area shape="rect" id="node2" href="$d9/dce/classrcdaqEventiterator.html#a65e4811d6d752bf3b89f5a4215ea8e21" title="rcdaqEventiterator\l::read_next_buffer" alt="" coords="203,5,352,49"/>
-<area shape="rect" id="node3" href="$d8/dc3/classfileEventiterator.html#aec0bb7ea4c827747ace5f592fd48b365" title="fileEventiterator::\lread_next_buffer" alt="" coords="208,73,347,117"/>
-<area shape="rect" id="node4" href="$d8/dc3/classfileEventiterator.html#acf32e5a708dafc84a9def17b6e4d9736" title="fileEventiterator::\lgetNextEvent" alt="" coords="400,73,539,117"/>
-</map>

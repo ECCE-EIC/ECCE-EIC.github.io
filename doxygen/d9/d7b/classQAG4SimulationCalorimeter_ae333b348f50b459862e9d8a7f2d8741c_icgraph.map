@@ -1,5 +1,0 @@
-<map id="QAG4SimulationCalorimeter::flag" name="QAG4SimulationCalorimeter::flag">
-<area shape="rect" id="node2" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a276946dc4f116dd16c91722d1693b48d" title="QAG4SimulationCalorimeter\l::Init" alt="" coords="265,5,477,49"/>
-<area shape="rect" id="node3" href="$d9/d7b/classQAG4SimulationCalorimeter.html#a25759793f3ced174254b760ad882f001" title="QAG4SimulationCalorimeter\l::InitRun" alt="" coords="265,73,477,117"/>
-<area shape="rect" id="node4" href="$d9/d7b/classQAG4SimulationCalorimeter.html#aa3467829c4182ba4e09f74fd8198cb28" title="QAG4SimulationCalorimeter\l::process_event" alt="" coords="265,141,477,185"/>
-</map>

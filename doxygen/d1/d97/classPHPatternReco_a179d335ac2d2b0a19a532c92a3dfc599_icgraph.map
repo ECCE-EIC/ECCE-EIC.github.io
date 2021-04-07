@@ -1,7 +1,0 @@
-<map id="PHPatternReco::set_nbins" name="PHPatternReco::set_nbins">
-<area shape="rect" id="node2" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="444,79,625,123"/>
-<area shape="rect" id="node3" href="$d1/d97/classPHPatternReco.html#aa00d0b2fe173683c74768f192665dfe6" title="PHPatternReco::prune_xy" alt="" coords="204,35,396,63"/>
-<area shape="rect" id="node4" href="$d1/d97/classPHPatternReco.html#a176bfef91a98a5bbfdfeba918dd913af" title="PHPatternReco::prune_z" alt="" coords="209,87,391,115"/>
-<area shape="rect" id="node5" href="$d1/d97/classPHPatternReco.html#a5dcc960fb3e323ffc647bb777c24443a" title="PHPatternReco::vote_xy" alt="" coords="209,139,391,167"/>
-<area shape="rect" id="node6" href="$d1/d97/classPHPatternReco.html#a82990cbb5fd69f6527ed7723873ac6dc" title="PHPatternReco::vote_z" alt="" coords="213,191,387,219"/>
-</map>

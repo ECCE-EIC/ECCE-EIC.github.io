@@ -1,7 +1,0 @@
-<map id="BEmcRecFEMC::CorrectPosition" name="BEmcRecFEMC::CorrectPosition">
-<area shape="rect" id="node2" href="$d9/d04/classEmcCluster.html#aa7a15cfe3a8d3216d001e205e1001151" title="EmcCluster::ABS" alt="" coords="328,5,461,33"/>
-<area shape="rect" id="node3" href="$d9/d04/classEmcCluster.html#ae3825e6596e83cb4b5272da3981bb121" title="EmcCluster::lowint" alt="" coords="321,57,469,85"/>
-<area shape="rect" id="node4" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="636,109,695,137"/>
-<area shape="rect" id="node5" href="$d1/d5c/classBEmcRecFEMC.html#a5c27df8706978abfd67f6b52d83684fc" title="BEmcRecFEMC::Tower2Global" alt="" coords="284,161,505,189"/>
-<area shape="rect" id="node6" href="$df/d23/classBEmcRec.html#a8b3cf9ce5eaa158a9793e350809d7a4b" title="BEmcRec::GetTowerGeometry" alt="" coords="553,161,777,189"/>
-</map>

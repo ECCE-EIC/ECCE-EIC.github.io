@@ -1,8 +1,0 @@
-<map id="SvtxClusterMap::size" name="SvtxClusterMap::size">
-<area shape="rect" id="node2" href="$d8/d98/classpsTOFTimezeroEval.html#a25c3e5e12649de1507e66c332b989be0" title="print out the input object information (debugging upstream components)" alt="" coords="222,5,385,49"/>
-<area shape="rect" id="node4" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a5f5b66b96bcf4e8f905129e47e406dfc" title="print out the input object information (debugging upstream components)" alt="" coords="216,73,391,117"/>
-<area shape="rect" id="node6" href="$dd/dd5/classAnaMvtxTelescopeHits.html#a6ffa7ef5cbd7e7842f1d504c8caaecf9" title="AnaMvtxTelescopeHits\l::process_event" alt="" coords="216,141,391,185"/>
-<area shape="rect" id="node7" href="$d8/dd5/classDumpSvtxClusterMap.html#ac967b0d264e9f3a9d061a37466ed0a23" title="DumpSvtxClusterMap\l::process_Node" alt="" coords="219,209,387,253"/>
-<area shape="rect" id="node3" href="$d8/d98/classpsTOFTimezeroEval.html#a2e98730e1beaa91c36947c0fe671fdd2" title="psTOFTimezeroEval::\lprocess_event" alt="" coords="445,5,607,49"/>
-<area shape="rect" id="node5" href="$d2/d85/classSvtxEvaluatorHaiwang.html#ab63ca0cc53b56dad65b89d9b18220bce" title="SvtxEvaluatorHaiwang\l::process_event" alt="" coords="439,73,613,117"/>
-</map>

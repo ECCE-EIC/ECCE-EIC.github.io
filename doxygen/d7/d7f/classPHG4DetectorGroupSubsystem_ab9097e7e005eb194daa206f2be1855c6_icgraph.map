@@ -1,9 +1,0 @@
-<map id="PHG4DetectorGroupSubsystem::set_default_int_param" name="PHG4DetectorGroupSubsystem::set_default_int_param">
-<area shape="rect" id="node2" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html#a98770d45ac9f2b315edd6eaae1236c50" title="PHG4DetectorGroupSubsystem\l::InitializeParameters" alt="" coords="287,73,520,117"/>
-<area shape="rect" id="node6" href="$d9/dbf/classPHG4MvtxSubsystem.html#aa6e20b37940178b02854a9d157b9ab85" title="PHG4MvtxSubsystem::\lSetDefaultParameters" alt="" coords="316,141,491,185"/>
-<area shape="rect" id="node7" href="$d6/d09/classPHG4InttSubsystem.html#a9dcbde012a1ac43f80f1c7e5ef2e8c18" title="PHG4InttSubsystem::\lSetDefaultParameters" alt="" coords="319,209,488,253"/>
-<area shape="rect" id="node8" href="$dd/d21/classPHG4PSTOFSubsystem.html#a84501d7e051af59cd1a4a0cdb5ce9496" title="PHG4PSTOFSubsystem\l::SetDefaultParameters" alt="" coords="314,277,493,321"/>
-<area shape="rect" id="node3" href="$d6/d09/classPHG4InttSubsystem.html#ab9e600984e1a9ca21e1b94cf8f8388d2" title="constructor" alt="" coords="579,5,743,49"/>
-<area shape="rect" id="node4" href="$d9/dbf/classPHG4MvtxSubsystem.html#a3af23d4328867010422c1e576a8ac8dc" title="constructor" alt="" coords="573,73,748,117"/>
-<area shape="rect" id="node5" href="$dd/d21/classPHG4PSTOFSubsystem.html#a8ed87c369b2f21e2a23298039a6eddca" title="constructor" alt="" coords="568,141,753,185"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="Packet_A::getDebugLength" name="Packet_A::getDebugLength">
-<area shape="rect" id="node2" href="$dc/d93/Cpacket_8C.html#a2aec430b5f0998606ea7847f08bbe03c" title="getPacketDebugLength" alt="" coords="256,5,433,33"/>
-<area shape="rect" id="node3" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="481,5,643,33"/>
-<area shape="rect" id="node4" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="691,5,809,33"/>
-</map>

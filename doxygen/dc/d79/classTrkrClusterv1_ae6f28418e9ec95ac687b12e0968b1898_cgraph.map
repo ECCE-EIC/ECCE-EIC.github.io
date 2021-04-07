@@ -1,8 +1,0 @@
-<map id="TrkrClusterv1::isValid" name="TrkrClusterv1::isValid">
-<area shape="rect" id="node2" href="$dc/d79/classTrkrClusterv1.html#ac2f1ea4e433ce59a446c91f1389810f3" title="TrkrClusterv1::getError" alt="" coords="227,5,403,33"/>
-<area shape="rect" id="node6" href="$dc/d79/classTrkrClusterv1.html#a3274ca70bd0c48b5a22568bd6f41477f" title="TrkrClusterv1::getPosition" alt="" coords="217,57,413,85"/>
-<area shape="rect" id="node7" href="$dc/d79/classTrkrClusterv1.html#a98cd60401a51357f4cc7e4c37fdc8917" title="TrkrClusterv1::getSize" alt="" coords="230,109,401,137"/>
-<area shape="rect" id="node3" href="$dc/d79/classTrkrClusterv1.html#ae90d54dc6442524e2d53f793cdf273b2" title="TrkrClusterv1::covarIndex" alt="" coords="461,57,657,85"/>
-<area shape="rect" id="node4" href="$d4/da9/namespaceboost.html#a630945877437d477612e4419562161cc" title="boost::swap" alt="" coords="705,57,808,85"/>
-<area shape="rect" id="node5" href="$d1/d96/classboost_1_1array.html#a342ef866ed696b18ce803b5c9aba4b2e" title="boost::array::swap" alt="" coords="856,57,1003,85"/>
-</map>

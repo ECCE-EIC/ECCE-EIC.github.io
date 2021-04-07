@@ -1,4 +1,0 @@
-<map id="PHG4Shower::get_parent_particle_id" name="PHG4Shower::get_parent_particle_id">
-<area shape="rect" id="node2" href="$dc/d23/classBaseTruthEval.html#adc3cb5b39ad856e0b0cb19a09a04e0df" title="what was the primary particle that is associated with this shower?" alt="" coords="245,5,395,49"/>
-<area shape="rect" id="node3" href="$dc/d23/classBaseTruthEval.html#a1fbb3b7ea61e2d734fb56448565d5518" title="what was the primary shower that is associated with this particle?" alt="" coords="245,73,395,117"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="PHG4TruthInfoContainer::delete_particle" name="PHG4TruthInfoContainer::delete_particle">
-<area shape="rect" id="node2" href="$dd/d9d/classPHG4TruthEventAction.html#aadf84e52ab9bcf0b8fb892c626b53c27" title="PHG4TruthEventAction\l::EndOfEventAction" alt="" coords="242,5,415,49"/>
-<area shape="rect" id="node3" href="$d5/d85/classPHG4TruthSubsystem.html#a99860f74538d1d16ffaaa31c2b20ee77" title="event processing" alt="" coords="245,73,413,117"/>
-<area shape="rect" id="node4" href="$df/df1/classPHG4DstCompressReco.html#ad196a73c9aa26e2dac18f95a9425c942" title="event processing" alt="" coords="239,141,419,185"/>
-</map>

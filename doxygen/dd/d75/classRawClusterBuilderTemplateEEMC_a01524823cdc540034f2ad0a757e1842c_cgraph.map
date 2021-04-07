@@ -1,6 +1,0 @@
-<map id="RawClusterBuilderTemplateEEMC::Cell2Abs" name="RawClusterBuilderTemplateEEMC::Cell2Abs">
-<area shape="rect" id="node2" href="$da/d58/namespaceRawTowerDefs.html#a188fb7233354634d301c172177ab1ab6" title="RawTowerDefs::encode\l_towerid" alt="" coords="269,5,447,49"/>
-<area shape="rect" id="node3" href="$df/d49/classRawTowerGeomContainer.html#a9340968583d423ee6e757342509ccc4e" title="RawTowerGeomContainer\l::get_calorimeter_id" alt="" coords="260,73,456,117"/>
-<area shape="rect" id="node4" href="$df/d49/classRawTowerGeomContainer.html#a46e80e9792b3323f3197a1d9af1cd049" title="RawTowerGeomContainer\l::get_tower_geometry" alt="" coords="260,141,456,185"/>
-<area shape="rect" id="node5" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="329,209,387,237"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="QA_Draw_HCALOUT_G4Hit" name="QA_Draw_HCALOUT_G4Hit">
-<area shape="rect" id="node2" href="$d1/d31/QA__Draw__Utility_8C.html#aa837a9bf8a047e07a2563abbca45be37" title="DrawReference" alt="" coords="256,5,380,33"/>
-<area shape="rect" id="node3" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="266,57,370,85"/>
-<area shape="rect" id="node5" href="$d1/d95/sPhenixStyle_8C.html#a40c9ca7bea26e6a08182ceb8298869e7" title="sPHENIX Style, based on a style file from ATLAS by Peter Steinberg" alt="" coords="253,109,383,137"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="445,57,524,85"/>
-<area shape="rect" id="node6" href="$d1/d95/sPhenixStyle_8C.html#a2b14fe9277832cb4dbdc473f44df99b4" title="sPhenixStyle" alt="" coords="431,109,539,137"/>
-</map>

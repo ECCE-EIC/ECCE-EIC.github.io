@@ -1,6 +1,0 @@
-<map id="EMCalCalib::InitRun" name="EMCalCalib::InitRun">
-<area shape="rect" id="node2" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="207,31,395,59"/>
-<area shape="rect" id="node5" href="$de/da4/classEMCalCalib.html#a5f7760bbb83824da6fc43dae2a480a5c" title="EMCalCalib::flag" alt="" coords="235,83,366,111"/>
-<area shape="rect" id="node3" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="447,5,584,33"/>
-<area shape="rect" id="node4" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="443,57,588,85"/>
-</map>

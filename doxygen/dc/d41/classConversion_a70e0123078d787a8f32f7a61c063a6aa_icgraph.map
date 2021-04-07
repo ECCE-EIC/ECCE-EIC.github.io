@@ -1,7 +1,0 @@
-<map id="Conversion::DeltaPhi" name="Conversion::DeltaPhi">
-<area shape="rect" id="node2" href="$dc/d41/classConversion.html#a4e42cc6233c2f362b054e04a3ba9f087" title="Conversion::trackDPhi" alt="" coords="216,48,387,76"/>
-<area shape="rect" id="node3" href="$d9/d3a/classTruthConversionEval.html#a67e322163113e6ef65c9661d0fc80487" title="fills the member fields for all the background trees" alt="" coords="644,5,841,49"/>
-<area shape="rect" id="node5" href="$d9/d3a/classTruthConversionEval.html#a30309a3143d74dac7ff1f62cf275a5ac" title="TruthConversionEval\l::recordConversion" alt="" coords="435,69,596,113"/>
-<area shape="rect" id="node4" href="$d9/d3a/classTruthConversionEval.html#a9a67c8171296f35dd157daf89108d3fd" title="TruthConversionEval\l::process_event" alt="" coords="889,40,1051,84"/>
-<area shape="rect" id="node6" href="$d9/d3a/classTruthConversionEval.html#a802d15f00a153397546daabb7dbabbd2" title="TruthConversionEval\l::numUnique" alt="" coords="662,73,823,117"/>
-</map>

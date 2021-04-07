@@ -1,8 +1,0 @@
-<map id="Jetv1::get_pz" name="Jetv1::get_pz">
-<area shape="rect" id="node2" href="$d8/d10/classJetv1.html#aed689439cdaa1e1bab32028932ccbf49" title="Jetv1::get_eta" alt="" coords="175,5,291,33"/>
-<area shape="rect" id="node3" href="$d8/d10/classJetv1.html#a99b22101edec1978bd43945b9ac0da7f" title="Jetv1::get_mass2" alt="" coords="164,57,303,85"/>
-<area shape="rect" id="node5" href="$d8/d10/classJetv1.html#afb494dc5c267c46c6b53af806f8ccdd4" title="Jetv1::get_p" alt="" coords="182,109,285,137"/>
-<area shape="rect" id="node7" href="$d8/d10/classJetv1.html#a63b528d7457492a143446ed72eba6546" title="Jetv1::identify" alt="" coords="175,161,291,189"/>
-<area shape="rect" id="node4" href="$d8/d10/classJetv1.html#a67d362d881a9f6ea6a2c519129bbb437" title="Jetv1::get_mass" alt="" coords="351,57,481,85"/>
-<area shape="rect" id="node6" href="$d8/d10/classJetv1.html#ae8729870158d7feb84e9ac6172e5ce3b" title="Jetv1::get_et" alt="" coords="362,109,470,137"/>
-</map>

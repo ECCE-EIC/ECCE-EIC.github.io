@@ -1,8 +1,0 @@
-<map id="Packet_hbd_fpgashort::setNumSamples" name="Packet_hbd_fpgashort::setNumSamples">
-<area shape="rect" id="node2" href="$db/de1/classhLabHelper.html#a9743e4375ec051838915182ce1b24799" title="hLabHelper::evDisplay" alt="" coords="224,5,399,33"/>
-<area shape="rect" id="node3" href="$d8/db9/classhcalHelper.html#a9e4dafe94df89a2a04a2982b13dee116" title="hcalHelper::evLoop" alt="" coords="235,57,387,85"/>
-<area shape="rect" id="node5" href="$d0/de7/classtileHelper.html#a9800ebae544d8f505cda101b952a896f" title="tileHelper::evLoop" alt="" coords="239,109,384,137"/>
-<area shape="rect" id="node6" href="$d3/d17/classhcal.html#a060d05d25914c58ce5e0623f40ca862d" title="hcal::GetNextEvent" alt="" coords="235,161,388,189"/>
-<area shape="rect" id="node7" href="$d9/d9e/evDisplay_8C.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="284,213,339,241"/>
-<area shape="rect" id="node4" href="$d9/dfc/runHelper_8C.html#a19c3855ad40a8efdbbecea95011fe1d9" title="runHelper" alt="" coords="447,57,536,85"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="PHG4TruthInfoContainer::AddVertex" name="PHG4TruthInfoContainer::AddVertex">
-<area shape="rect" id="node2" href="$da/d6c/classPHG4TruthInfoContainer.html#a349601fb176f9c6a2b2910831870cb81" title="PHG4TruthInfoContainer\l::identify" alt="" coords="239,40,424,84"/>
-<area shape="rect" id="node6" href="$d6/d81/classPHG4VtxPoint.html#ad983bcfed092a74ea0a229f18c576dac" title="PHG4VtxPoint::set_id" alt="" coords="250,108,413,136"/>
-<area shape="rect" id="node3" href="$da/d6c/classPHG4TruthInfoContainer.html#a77051a88c6708ed10465eca6b73c2272" title="PHG4TruthInfoContainer\l::GetPrimaryVertexIndex" alt="" coords="472,40,659,84"/>
-<area shape="rect" id="node4" href="$da/d6c/classPHG4TruthInfoContainer.html#a53587ae22361008bcee4c51cc1d8d242" title="PHG4TruthInfoContainer\l::GetPrimaryVtxRange" alt="" coords="707,5,892,49"/>
-<area shape="rect" id="node5" href="$da/d6c/classPHG4TruthInfoContainer.html#a434c7528ce4a7f089bb4aaeb613af2ff" title="PHG4TruthInfoContainer\l::isEmbededVtx" alt="" coords="707,73,892,117"/>
-</map>

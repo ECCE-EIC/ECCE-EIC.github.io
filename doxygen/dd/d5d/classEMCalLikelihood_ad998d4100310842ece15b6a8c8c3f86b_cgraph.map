@@ -1,7 +1,0 @@
-<map id="EMCalLikelihood::get_HistoManager" name="EMCalLikelihood::get_HistoManager">
-<area shape="rect" id="node2" href="$da/d29/classFun4AllServer.html#af5885837658eb26f98dbc697b58747a7" title="Fun4AllServer::getHistoManager" alt="" coords="216,5,457,33"/>
-<area shape="rect" id="node4" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="246,57,427,85"/>
-<area shape="rect" id="node5" href="$da/d29/classFun4AllServer.html#a377f113767f24ce6413e678752ed7f53" title="Fun4AllServer::registerHisto\lManager" alt="" coords="231,109,442,153"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="505,36,681,64"/>
-<area shape="rect" id="node6" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="517,117,670,145"/>
-</map>

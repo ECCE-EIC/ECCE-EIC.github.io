@@ -1,5 +1,0 @@
-<map id="PHG4HcalPrototypeSteppingAction::SetInterfacePointers" name="PHG4HcalPrototypeSteppingAction::SetInterfacePointers">
-<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="278,5,467,33"/>
-<area shape="rect" id="node3" href="$d5/d3f/classPHG4HcalPrototypeDetector.html#acca6873cde77360c4df51d3ba40d940e" title="PHG4HcalPrototypeDetector\l::SuperDetector" alt="" coords="267,57,479,101"/>
-<area shape="rect" id="node4" href="$df/d3f/classPHG4SteppingAction.html#a4f46d6b68b124cd32518b631465359dc" title="PHG4SteppingAction\l::Verbosity" alt="" coords="292,125,453,169"/>
-</map>

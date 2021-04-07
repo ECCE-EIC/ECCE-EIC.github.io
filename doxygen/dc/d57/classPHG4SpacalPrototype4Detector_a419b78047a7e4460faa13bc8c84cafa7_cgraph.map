@@ -1,6 +1,0 @@
-<map id="PHG4SpacalPrototype4Detector::PHG4SpacalPrototype4Detector" name="PHG4SpacalPrototype4Detector::PHG4SpacalPrototype4Detector">
-<area shape="rect" id="node2" href="$dd/dae/classPHParameters.html#a0241ca27a369ab4865ac3d79620ac27c" title="PHParameters::get_int\l_param" alt="" coords="331,5,503,49"/>
-<area shape="rect" id="node3" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#a70fe65990c5fa7a48682b7891db70a24" title="PHG4SpacalPrototype4Detector\l::SetAbsorberActive" alt="" coords="299,73,535,117"/>
-<area shape="rect" id="node4" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#abb625123b9e7fe2bb0824f871ab67a56" title="PHG4SpacalPrototype4Detector\l::SetActive" alt="" coords="299,141,535,185"/>
-<area shape="rect" id="node5" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#a712a94dfaf3360961c68f2e3e4844064" title="PHG4SpacalPrototype4Detector\l::SuperDetector" alt="" coords="299,209,535,253"/>
-</map>

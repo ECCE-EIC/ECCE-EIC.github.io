@@ -1,6 +1,0 @@
-<map id="TrkrClusterContainer::getClusters" name="TrkrClusterContainer::getClusters">
-<area shape="rect" id="node2" href="$d6/d3f/namespaceTrkrDefs.html#a53af1843abe50e467a06d2307f7fe0eb" title="TrkrDefs::getClusKeyHi" alt="" coords="217,5,393,33"/>
-<area shape="rect" id="node5" href="$d6/d3f/namespaceTrkrDefs.html#a36fd0eb8c5bb3f21475acfec8965cf3e" title="Get a valid low / hi range for cluskey given tracker id &amp; layer." alt="" coords="216,57,393,85"/>
-<area shape="rect" id="node3" href="$d6/d9e/namespaceInttDefs.html#af41991588b294d4a9a89cfe7cf00439e" title="Generate a hitsetkey for the intt." alt="" coords="441,32,616,60"/>
-<area shape="rect" id="node4" href="$d6/d3f/namespaceTrkrDefs.html#a418e306477093b8d17d587be70b908a3" title="generate the common upper 16 bits for hitsetkey" alt="" coords="664,32,843,60"/>
-</map>

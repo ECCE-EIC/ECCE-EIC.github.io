@@ -1,5 +1,0 @@
-<map id="PHG4InEvent::GetParticles" name="PHG4InEvent::GetParticles">
-<area shape="rect" id="node2" href="$dc/d9a/classPHG4InEventCompress.html#a90aa61e9a022c17368a44e38a453a039" title="PHG4InEventCompress\l::process_event" alt="" coords="291,5,469,49"/>
-<area shape="rect" id="node3" href="$dc/dd7/classPHG4ScoringManager.html#a18f06bfae1801c84f524aa4056a32841" title="event processing method" alt="" coords="295,73,465,117"/>
-<area shape="rect" id="node4" href="$de/d3a/classDumpPHG4InEvent.html#a67cb97f8fb8fbf08e703c051c6928271" title="DumpPHG4InEvent::process_Node" alt="" coords="253,141,507,169"/>
-</map>

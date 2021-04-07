@@ -1,8 +1,0 @@
-<map id="RICHEvaluator::calculate_true_emission_angle" name="RICHEvaluator::calculate_true_emission_angle">
-<area shape="rect" id="node2" href="$de/dc9/classPHG4Particle.html#a474033dbd058eea155c71fc4d17aaf4d" title="PHG4Particle::get_pid" alt="" coords="251,5,417,33"/>
-<area shape="rect" id="node3" href="$de/dc9/classPHG4Particle.html#a44b98bfd72a04825791d1e4c4cb150a1" title="PHG4Particle::get_px" alt="" coords="253,57,415,85"/>
-<area shape="rect" id="node4" href="$de/dc9/classPHG4Particle.html#a3df4379f9e46224a8cca7f86c11e99e5" title="PHG4Particle::get_py" alt="" coords="253,109,415,137"/>
-<area shape="rect" id="node5" href="$de/dc9/classPHG4Particle.html#a533e9bda40b15f62802b187e6a743e74" title="PHG4Particle::get_pz" alt="" coords="253,161,415,189"/>
-<area shape="rect" id="node6" href="$d2/db8/classSvtxTrack.html#afdab8924d017edd067d32c16ac380840" title="SvtxTrack::get_truth\l_track_id" alt="" coords="256,213,412,257"/>
-<area shape="rect" id="node7" href="$da/d6c/classPHG4TruthInfoContainer.html#a175e3e0bbb61b850bf184368d920152f" title="PHG4TruthInfoContainer\l::GetParticle" alt="" coords="241,281,427,325"/>
-</map>

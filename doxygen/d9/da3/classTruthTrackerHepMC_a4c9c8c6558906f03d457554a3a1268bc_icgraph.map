@@ -1,6 +1,0 @@
-<map id="TruthTrackerHepMC::FindScatteredLepton" name="TruthTrackerHepMC::FindScatteredLepton">
-<area shape="rect" id="node2" href="$da/d73/classExclusiveReco.html#a48d900fd8ad00d0b252204dcbb941bc7" title="ExclusiveReco::AddInvariant\lMassInformation" alt="" coords="224,5,437,49"/>
-<area shape="rect" id="node4" href="$db/db5/classDISKinematicsReco.html#a304bc882f5517efba6e9584933088d33" title="DISKinematicsReco::\lCollectEmCandidatesFromTruth" alt="" coords="215,73,447,117"/>
-<area shape="rect" id="node3" href="$da/d73/classExclusiveReco.html#a026079694f2af119464bf5955c27a01c" title="ExclusiveReco::process\l_event" alt="" coords="495,5,673,49"/>
-<area shape="rect" id="node5" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="504,73,664,117"/>
-</map>

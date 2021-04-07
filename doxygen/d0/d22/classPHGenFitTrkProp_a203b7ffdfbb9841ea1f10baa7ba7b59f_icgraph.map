@@ -1,6 +1,0 @@
-<map id="PHGenFitTrkProp::TrkrClusterToPHGenFitMeasurement" name="PHGenFitTrkProp::TrkrClusterToPHGenFitMeasurement">
-<area shape="rect" id="node2" href="$d0/d22/classPHGenFitTrkProp.html#ac159ce1352f6004a2f51a520c287c339" title="KalmanTrkProp Call." alt="" coords="268,5,475,49"/>
-<area shape="rect" id="node5" href="$d0/d22/classPHGenFitTrkProp.html#a8de33eaa04103e00006e98f15ba808a0" title="PHGenFitTrkProp::TrackProp\lPatRec" alt="" coords="268,73,475,117"/>
-<area shape="rect" id="node3" href="$d0/d22/classPHGenFitTrkProp.html#ab11c2e61a1b78278fa4af7cf624c2538" title="Main function." alt="" coords="523,48,764,76"/>
-<area shape="rect" id="node4" href="$d0/d22/classPHGenFitTrkProp.html#a31e50e42d62a2bf32763652b39dc95b8" title="PHGenFitTrkProp::Process" alt="" coords="812,48,1004,76"/>
-</map>

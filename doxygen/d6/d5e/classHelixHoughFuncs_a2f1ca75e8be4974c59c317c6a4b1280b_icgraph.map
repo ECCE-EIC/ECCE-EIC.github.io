@@ -1,8 +1,0 @@
-<map id="HelixHoughFuncs::calculate_dzdl_range" name="HelixHoughFuncs::calculate_dzdl_range">
-<area shape="rect" id="node2" href="$d2/d8f/classPHInitZVertexing.html#a1b4c64990e2cdd0350b8e05a08dda0a1" title="PHInitZVertexing::vote_z" alt="" coords="263,5,449,33"/>
-<area shape="rect" id="node4" href="$d1/d97/classPHPatternReco.html#a82990cbb5fd69f6527ed7723873ac6dc" title="PHPatternReco::vote_z" alt="" coords="269,125,443,153"/>
-<area shape="rect" id="node6" href="$d1/d97/classPHPatternReco.html#a0f2e9cdfab77929fdc35beead3e80767" title="PHPatternReco::vote\l_z_init" alt="" coords="277,177,435,221"/>
-<area shape="rect" id="node7" href="$d2/d8f/classPHInitZVertexing.html#a025dfffd01721d0f1da389249ed8bc64" title="PHInitZVertexing::vote\l_z_init" alt="" coords="269,57,443,101"/>
-<area shape="rect" id="node3" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="497,51,692,79"/>
-<area shape="rect" id="node5" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="504,132,685,176"/>
-</map>

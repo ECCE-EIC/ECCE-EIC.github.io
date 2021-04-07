@@ -1,9 +1,0 @@
-<map id="PHPatternReco::bins_to_SimpleTrack3D" name="PHPatternReco::bins_to_SimpleTrack3D">
-<area shape="rect" id="node2" href="$d9/d4d/classHelixHoughBin.html#a2d3bbc92f5aea4bf4c44aa522beb2be8" title="HelixHoughBin::begin\l_clusters" alt="" coords="211,5,379,49"/>
-<area shape="rect" id="node3" href="$d9/d4d/classHelixHoughBin.html#a0bf223b928278b27dd12ad128b86e4f9" title="HelixHoughBin::end\l_clusters" alt="" coords="217,73,373,117"/>
-<area shape="rect" id="node4" href="$d9/d4d/classHelixHoughBin.html#a49c3219a2d689a69350ffb97a2415d7d" title="HelixHoughBin::get\l_count" alt="" coords="218,141,371,185"/>
-<area shape="rect" id="node5" href="$d9/d4d/classHelixHoughBin.html#a8e8ee057d33a2ec2350a844a6ee5b007" title="HelixHoughBin::get\l_dzdl_center" alt="" coords="218,209,371,253"/>
-<area shape="rect" id="node6" href="$d9/d4d/classHelixHoughBin.html#a6ab3a4913c9d4ee37b3870c22b2c17d1" title="HelixHoughBin::get\l_kappa_center" alt="" coords="218,277,371,321"/>
-<area shape="rect" id="node7" href="$d9/d4d/classHelixHoughBin.html#a7cbd1ed45422827e106c4719d46486bb" title="HelixHoughBin::get\l_phi_center" alt="" coords="218,345,371,389"/>
-<area shape="rect" id="node8" href="$d9/d4d/classHelixHoughBin.html#a1b46aecfcab060075a1d30d6f77a0797" title="HelixHoughBin::get\l_z0_center" alt="" coords="218,413,371,457"/>
-</map>

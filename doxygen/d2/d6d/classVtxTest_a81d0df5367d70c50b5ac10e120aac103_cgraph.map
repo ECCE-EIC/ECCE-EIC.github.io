@@ -1,6 +1,0 @@
-<map id="VtxTest::processBackground" name="VtxTest::processBackground">
-<area shape="rect" id="node2" href="$d6/d17/classSVReco.html#aa7be1346727f584c539cf568a7d36999" title="SVReco::findSecondaryVertex" alt="" coords="265,35,487,63"/>
-<area shape="rect" id="node5" href="$d6/d12/classRawClusterContainer.html#afb6d1f100edc4ecf309efec781d5b436" title="RawClusterContainer\l::getCluster" alt="" coords="294,87,458,131"/>
-<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a5f934a41fd25eaa343dd267112b4537d" title="SvtxTrack::get_id" alt="" coords="568,5,704,33"/>
-<area shape="rect" id="node4" href="$d7/dd5/classPHGenFit_1_1Track.html#a8cc267bf5a0014b5ba7e057a3b45ba3e" title="PHGenFit::Track::getGenFit\lTrack" alt="" coords="535,57,737,101"/>
-</map>

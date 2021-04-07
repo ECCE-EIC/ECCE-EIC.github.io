@@ -1,7 +1,0 @@
-<map id="get_evt_mnemonic" name="get_evt_mnemonic">
-<area shape="rect" id="node2" href="$d3/dc3/classoncsEvent.html#a4e8fbe7dd7e5f04c6d6cf60bff281e7c" title="oncsEvent::identify" alt="" coords="225,5,377,33"/>
-<area shape="rect" id="node3" href="$d5/dcf/classA__Event.html#aec438737751ba5a5b1ce45d597c25175" title="A_Event::identify" alt="" coords="232,57,369,85"/>
-<area shape="rect" id="node4" href="$d5/dcf/classA__Event.html#a5806eae191d9b4289022c1dfa7406cdf" title="A_Event::updateFramelist" alt="" coords="203,109,399,137"/>
-<area shape="rect" id="node5" href="$d5/dcf/classA__Event.html#a7e3164c742c2925d2965722ac9efee53" title="A_Event::A_Event" alt="" coords="447,83,588,111"/>
-<area shape="rect" id="node6" href="$d5/dcf/classA__Event.html#acca85a8f3e636641864acfc825d941b1" title="A_Event::convert" alt="" coords="448,135,587,163"/>
-</map>

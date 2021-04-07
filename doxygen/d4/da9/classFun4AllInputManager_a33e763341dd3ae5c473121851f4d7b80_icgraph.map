@@ -1,8 +1,0 @@
-<map id="Fun4AllInputManager::MySyncManager" name="Fun4AllInputManager::MySyncManager">
-<area shape="rect" id="node2" href="$db/d1f/classFun4AllOscarInputManager.html#a6fbe420ea4972e895f4061bb94ab9d77" title="Fun4AllOscarInputManager\l::fileopen" alt="" coords="260,5,465,49"/>
-<area shape="rect" id="node3" href="$d6/d6f/classFun4AllHepMCInputManager.html#aaf891596a876957d656c23ea03b39f1a" title="Fun4AllHepMCInputManager\l::fileopen" alt="" coords="255,73,470,117"/>
-<area shape="rect" id="node4" href="$da/dd8/classFun4AllPrdfInputManager.html#ac3f313ef5571ce32cd40799791e2ea56" title="Fun4AllPrdfInputManager::run" alt="" coords="251,141,474,169"/>
-<area shape="rect" id="node5" href="$de/d99/classFun4AllHepMCPileupInputManager.html#a81bf2b69c3c4d3aae0aadebafe1c2c2e" title="Fun4AllHepMCPileupInputManager::run" alt="" coords="220,193,505,221"/>
-<area shape="rect" id="node6" href="$d6/d6f/classFun4AllHepMCInputManager.html#ab6c80a8ee0701bfff5eee3ec3623015c" title="Fun4AllHepMCInputManager::run" alt="" coords="241,245,485,273"/>
-<area shape="rect" id="node7" href="$df/d43/classFun4AllDummyInputManager.html#a3863cb07576f56e8e514ae272b322679" title="Fun4AllDummyInputManager\l::setSyncManager" alt="" coords="253,297,472,341"/>
-</map>

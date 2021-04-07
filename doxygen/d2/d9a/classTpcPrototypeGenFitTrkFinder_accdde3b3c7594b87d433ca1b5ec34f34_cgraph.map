@@ -1,6 +1,0 @@
-<map id="TpcPrototypeGenFitTrkFinder::getChi2Ndf" name="TpcPrototypeGenFitTrkFinder::getChi2Ndf">
-<area shape="rect" id="node2" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="290,5,438,33"/>
-<area shape="rect" id="node3" href="$d1/d35/classPHGenFit_1_1Fitter.html#a0ae094389cc773308a3cf9ca98d60bdb" title="PHGenFit::Fitter::process\lTrack" alt="" coords="271,57,457,101"/>
-<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="276,125,452,153"/>
-<area shape="rect" id="node4" href="$d7/dd5/classPHGenFit_1_1Track.html#a8cc267bf5a0014b5ba7e057a3b45ba3e" title="PHGenFit::Track::getGenFit\lTrack" alt="" coords="505,57,708,101"/>
-</map>

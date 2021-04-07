@@ -1,6 +1,0 @@
-<map id="Conversion::PrintPhotonRecoInfo" name="Conversion::PrintPhotonRecoInfo">
-<area shape="rect" id="node2" href="$de/dc9/classPHG4Particle.html#ac29b72a8cdeebc0754b6dd42b0cfab86" title="PHG4Particle::get_track_id" alt="" coords="296,5,495,33"/>
-<area shape="rect" id="node3" href="$dc/d41/classConversion.html#ac9dc684c851d52502921c7d6c57fe81e" title="Conversion::getRecoTrack" alt="" coords="297,57,494,85"/>
-<area shape="rect" id="node5" href="$de/dc9/classPHG4Particle.html#a3dd58b08ff18a16d8d290fd5bcb1de7b" title="PHG4Particle::identify" alt="" coords="311,109,479,137"/>
-<area shape="rect" id="node4" href="$d2/db8/classSvtxTrack.html#a5f934a41fd25eaa343dd267112b4537d" title="SvtxTrack::get_id" alt="" coords="543,57,679,85"/>
-</map>

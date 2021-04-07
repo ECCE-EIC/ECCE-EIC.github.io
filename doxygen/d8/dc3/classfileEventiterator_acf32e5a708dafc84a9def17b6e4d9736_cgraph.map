@@ -1,6 +1,0 @@
-<map id="fileEventiterator::getNextEvent" name="fileEventiterator::getNextEvent">
-<area shape="rect" id="node2" href="$da/d40/classbuffer.html#a710eeda6958f43356dd7ee09be261b6a" title="buffer::getEvent" alt="" coords="195,5,327,33"/>
-<area shape="rect" id="node3" href="$d8/dc3/classfileEventiterator.html#aec0bb7ea4c827747ace5f592fd48b365" title="fileEventiterator::\lread_next_buffer" alt="" coords="192,57,331,101"/>
-<area shape="rect" id="node4" href="$da/d40/classbuffer.html#a64cad9a58ad2640b9dc371ff4e181c78" title="buffer::u4swap" alt="" coords="576,65,699,93"/>
-<area shape="rect" id="node5" href="$da/d40/classbuffer.html#acfbe49cbf8808faa93a94ff4dd34bf33" title="buffer::makeBuffer" alt="" coords="379,91,528,119"/>
-</map>

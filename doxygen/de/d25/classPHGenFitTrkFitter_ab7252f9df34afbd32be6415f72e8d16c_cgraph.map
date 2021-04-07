@@ -1,5 +1,0 @@
-<map id="PHGenFitTrkFitter::FillSvtxVertexMap" name="PHGenFitTrkFitter::FillSvtxVertexMap">
-<area shape="rect" id="node2" href="$db/dd7/classSvtxVertexMap.html#a0f23f84b53df2f0675e7c8f9b062f589" title="SvtxVertexMap::identify" alt="" coords="199,5,381,33"/>
-<area shape="rect" id="node3" href="$db/dd7/classSvtxVertexMap.html#aaee5941f2bcac17405bc668b1b8322cc" title="legacy interface. Add vertex to container. Note the container does not take ownership" alt="" coords="205,57,375,101"/>
-<area shape="rect" id="node4" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="202,125,378,153"/>
-</map>

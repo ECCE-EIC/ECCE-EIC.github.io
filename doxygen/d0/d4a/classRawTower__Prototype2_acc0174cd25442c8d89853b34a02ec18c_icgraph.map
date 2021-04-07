@@ -1,7 +1,0 @@
-<map id="RawTower_Prototype2::get_energy" name="RawTower_Prototype2::get_energy">
-<area shape="rect" id="node2" href="$d0/d4a/classRawTower__Prototype2.html#ae03e5e1e337d4360b02d2bf79dd3b23f" title="RawTower_Prototype2\l::identify" alt="" coords="230,5,398,49"/>
-<area shape="rect" id="node4" href="$d0/d4a/classRawTower__Prototype2.html#acc053e50e244c926962b1ffd6680a884" title="isValid returns non zero if object contains vailid data" alt="" coords="230,73,398,117"/>
-<area shape="rect" id="node5" href="$da/d36/classCaloCalibration.html#af83bb94aa1707e4f0a2a8cf8f170a218" title="CaloCalibration::process\l_event" alt="" coords="221,141,407,185"/>
-<area shape="rect" id="node6" href="$d4/d2d/classPrototype2DSTReader.html#a4d53fb1a3a37f986aba050448662045c" title="event processing method" alt="" coords="229,209,399,253"/>
-<area shape="rect" id="node3" href="$db/d5f/classCaloUnpackPRDF.html#adbb270280eedd426c4d6f085f36e1ebc" title="CaloUnpackPRDF::process\l_event" alt="" coords="455,5,652,49"/>
-</map>

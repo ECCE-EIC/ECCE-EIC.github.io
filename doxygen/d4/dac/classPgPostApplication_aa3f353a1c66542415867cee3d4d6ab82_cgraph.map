@@ -1,6 +1,0 @@
-<map id="PgPostApplication::commit" name="PgPostApplication::commit">
-<area shape="rect" id="node2" href="$dd/d63/classPgPostBankWrapper.html#a58179a60fdf054688ddf1cffc6c166d9" title="PgPostBankWrapper::\lcommit" alt="" coords="204,40,369,84"/>
-<area shape="rect" id="node3" href="$d4/dac/classPgPostApplication.html#a22f846e80275144e8ceb1a58febd97c0" title="PgPostApplication::\linstance" alt="" coords="417,5,568,49"/>
-<area shape="rect" id="node4" href="$d4/dac/classPgPostApplication.html#a2fead151fe51e2164f13fdb86c4f0d9c" title="PgPostApplication::\lgetConnection" alt="" coords="417,73,568,117"/>
-<area shape="rect" id="node5" href="$d4/dac/classPgPostApplication.html#a5b90a9f31d1f91f5d22e959daf2ba7b4" title="PgPostApplication::\lRegister" alt="" coords="616,73,767,117"/>
-</map>

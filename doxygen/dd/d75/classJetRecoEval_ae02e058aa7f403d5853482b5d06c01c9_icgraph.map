@@ -1,5 +1,0 @@
-<map id="JetRecoEval::next_event" name="JetRecoEval::next_event">
-<area shape="rect" id="node2" href="$dd/df3/classJetEvalStack.html#ab85ba05ab4fea5909c8faa238ba5f8e6" title="JetEvalStack::next\l_event" alt="" coords="240,40,385,84"/>
-<area shape="rect" id="node3" href="$d1/df4/classJetEvaluator.html#ad83508ae828d1f2e4a83a948465a0cd2" title="JetEvaluator::process\l_event" alt="" coords="433,5,599,49"/>
-<area shape="rect" id="node4" href="$d8/de2/classJetEnergies.html#a6acaa9b2ba1fe7353781d2f5d476e8d1" title="JetEnergies::process\l_event" alt="" coords="436,73,596,117"/>
-</map>

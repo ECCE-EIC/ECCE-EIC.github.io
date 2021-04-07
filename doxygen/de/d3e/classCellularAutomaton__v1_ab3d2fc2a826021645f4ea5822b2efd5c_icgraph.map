@@ -1,6 +1,0 @@
-<map id="CellularAutomaton_v1::run" name="CellularAutomaton_v1::run">
-<area shape="rect" id="node2" href="$d2/d8f/classPHInitZVertexing.html#a3c179fcf07400123b50e318038b33460" title="PHInitZVertexing::cellular\l_automaton_zvtx_init" alt="" coords="256,5,451,49"/>
-<area shape="rect" id="node4" href="$d1/d97/classPHPatternReco.html#a55efbe3839721014299b211e1c64d4e4" title="PHPatternReco::cellular\l_automaton_zvtx_init" alt="" coords="263,73,443,117"/>
-<area shape="rect" id="node3" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="499,13,693,41"/>
-<area shape="rect" id="node5" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="505,73,687,117"/>
-</map>

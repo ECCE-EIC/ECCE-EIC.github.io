@@ -1,7 +1,0 @@
-<map id="CylinderKalman::calculateProjections" name="CylinderKalman::calculateProjections">
-<area shape="rect" id="node2" href="$d4/d5c/classCylinderKalman.html#aed187e7a687cd6234f8ac9c559351558" title="CylinderKalman::calculate_dxda" alt="" coords="252,109,489,137"/>
-<area shape="rect" id="node3" href="$da/d87/classSimpleHit3D.html#aee4615586ba114d652ae2f53a329af8b" title="SimpleHit3D::get_layer" alt="" coords="537,5,716,33"/>
-<area shape="rect" id="node4" href="$da/d87/classSimpleHit3D.html#a7f9d236c9f34d7b37abdf76cbcdcc325" title="SimpleHit3D::get_x" alt="" coords="551,57,703,85"/>
-<area shape="rect" id="node5" href="$da/d87/classSimpleHit3D.html#a004f4dc96baa6789bb599036471d1e0d" title="SimpleHit3D::get_y" alt="" coords="551,161,703,189"/>
-<area shape="rect" id="node6" href="$da/d0a/CylinderKalman_8cpp.html#ab74daa0c9784c63e060bfb98cc06fbf5" title="sign" alt="" coords="602,109,651,137"/>
-</map>

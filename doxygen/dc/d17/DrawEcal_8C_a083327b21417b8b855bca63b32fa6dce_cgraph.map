@@ -1,9 +1,0 @@
-<map id="DrawCluster_Res_2Fit_Electron_NoSVX" name="DrawCluster_Res_2Fit_Electron_NoSVX">
-<area shape="rect" id="node2" href="$dc/d17/DrawEcal_8C.html#a6004c99815d735056926ce8f8200feab" title="DrawCluster_AnaP" alt="" coords="220,57,365,85"/>
-<area shape="rect" id="node7" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="241,109,345,137"/>
-<area shape="rect" id="node3" href="$dc/d17/DrawEcal_8C.html#a15d4c4683ad358bfb7beaf24efe673e2" title="DrawCluster_SingleE" alt="" coords="413,5,575,33"/>
-<area shape="rect" id="node6" href="$d7/d2d/make__fmod__calibrations_8C.html#a0dac611a7318ae96902d033b4b7b51f1" title="fit" alt="" coords="475,57,513,85"/>
-<area shape="rect" id="node4" href="$de/de0/matchedfilter_8C.html#a6547063fbcbf53a7fdffddbd2747b29f" title="rms" alt="" coords="623,5,669,33"/>
-<area shape="rect" id="node5" href="$da/d55/TPCRateLayered_8m.html#a7507ef556477c204b499f1e189d40796" title="sum" alt="" coords="717,5,768,33"/>
-<area shape="rect" id="node8" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="455,109,533,137"/>
-</map>

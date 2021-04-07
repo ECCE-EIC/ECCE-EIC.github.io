@@ -1,6 +1,0 @@
-<map id="PHPatternReco::turnoff_hits_used_in_triplets" name="PHPatternReco::turnoff_hits_used_in_triplets">
-<area shape="rect" id="node2" href="$d7/d8b/classSvtxTrackMap.html#a8c16bb47fdace6d5516d1803ffe54706" title="SvtxTrackMap::begin" alt="" coords="245,5,407,33"/>
-<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a57a5fabb0eb43ac5c181f2052fcd02ce" title="SvtxTrack::begin_clusters" alt="" coords="229,57,423,85"/>
-<area shape="rect" id="node4" href="$d7/d8b/classSvtxTrackMap.html#a1c7ae993700819b7d0a8e3f3d74fa99c" title="SvtxTrackMap::end" alt="" coords="251,109,401,137"/>
-<area shape="rect" id="node5" href="$d2/db8/classSvtxTrack.html#aae1444115aaa2a51e0dab436bef2a261" title="SvtxTrack::end_clusters" alt="" coords="236,161,416,189"/>
-</map>

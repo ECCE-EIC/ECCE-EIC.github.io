@@ -1,8 +1,0 @@
-<map id="CaloRawTowerEval::all_truth_hits" name="CaloRawTowerEval::all_truth_hits">
-<area shape="rect" id="node2" href="$d4/d97/classPHG4CellContainer.html#a1acc5c6b37ed888d3e768bb4de5bf3d2" title="PHG4CellContainer::\lfindCell" alt="" coords="246,5,403,49"/>
-<area shape="rect" id="node3" href="$d4/d30/classPHG4HitContainer.html#a62c24ef9c00bd714f597939598a87041" title="PHG4HitContainer::findHit" alt="" coords="225,73,424,101"/>
-<area shape="rect" id="node4" href="$d9/dd8/classRawTower.html#a6a76627f3c8245291e1733356373ce81" title="RawTower::get_g4cells" alt="" coords="238,125,411,153"/>
-<area shape="rect" id="node5" href="$dc/dfe/classPHG4Cell.html#a09dd9028bce6b527a61d09768dad8e35" title="PHG4Cell::get_g4hits" alt="" coords="243,177,407,205"/>
-<area shape="rect" id="node6" href="$de/d0b/classCaloRawTowerEval.html#af10c054c733eb652ab13675f8321255b" title="has the eval initialized correctly for full sim DST nodes?" alt="" coords="235,229,415,273"/>
-<area shape="rect" id="node7" href="$de/d0b/classCaloRawTowerEval.html#a1b8eced040f811052e763a4dd70a5938" title="get a copy of the lower level truth eval and its memory cache" alt="" coords="472,229,651,273"/>
-</map>

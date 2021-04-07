@@ -1,5 +1,0 @@
-<map id="CaloEvalStack::do_caching" name="CaloEvalStack::do_caching">
-<area shape="rect" id="node2" href="$da/d7e/classCaloRawClusterEval.html#a36daaec37f22e965563f157cc37dfed4" title="activate or deactivate the memory caching inside the evaluation module" alt="" coords="256,5,411,49"/>
-<area shape="rect" id="node3" href="$de/d0b/classCaloRawTowerEval.html#a29dc75d15db0e554032b23efdf228afc" title="activate or deactivate the memory caching inside the evaluation module" alt="" coords="459,5,632,49"/>
-<area shape="rect" id="node4" href="$d7/d3c/classCaloTruthEval.html#ab95034a1099359ee65dba12aa6ad2ea2" title="activate or deactivate the memory caching inside the evaluation module" alt="" coords="680,13,879,41"/>
-</map>

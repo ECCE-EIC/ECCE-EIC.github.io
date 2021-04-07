@@ -1,9 +1,0 @@
-<map id="analysis/blob/master/ParticleID/RICHAnalysis/SetupDualRICHAnalyzer.h" name="analysis/blob/master/ParticleID/RICHAnalysis/SetupDualRICHAnalyzer.h">
-<area shape="rect" id="node10" href="$de/d83/PHG4Hit_8h.html" title="g4main/PHG4Hit.h" alt="" coords="717,113,864,141"/>
-<area shape="rect" id="node16" href="$dd/d05/PHG4Particle_8h.html" title="g4main/PHG4Particle.h" alt="" coords="252,113,428,141"/>
-<area shape="rect" id="node17" href="$d4/d2a/PHG4VtxPoint_8h.html" title="g4main/PHG4VtxPoint.h" alt="" coords="503,113,686,141"/>
-<area shape="rect" id="node18" href="$d3/d08/PHG4HitContainer_8h.html" title="g4main/PHG4HitContainer.h" alt="" coords="903,113,1113,141"/>
-<area shape="rect" id="node21" href="$d0/d25/PHG4TruthInfoContainer_8h.html" title="g4main/PHG4TruthInfoContainer.h" alt="" coords="1137,113,1388,141"/>
-<area shape="rect" id="node11" href="$d2/d92/PHG4HitDefs_8h.html" title="PHG4HitDefs.h" alt="" coords="841,189,962,217"/>
-<area shape="rect" id="node12" href="$df/d32/PHObject_8h.html" title="phool/PHObject.h" alt="" coords="627,189,765,217"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="TPCFEETestRecov1::get_motor_loc" name="TPCFEETestRecov1::get_motor_loc">
-<area shape="rect" id="node2" href="$d7/d97/classPacket.html#af44705998001f29651f164d27fea3152" title="Packet::getLength" alt="" coords="251,5,394,33"/>
-<area shape="rect" id="node3" href="$d5/da5/classEvent.html#a1123f0f08345ac39e5e4e7b6a2ffd053" title="Event::getPacket" alt="" coords="255,57,391,85"/>
-<area shape="rect" id="node4" href="$d7/d97/classPacket.html#a1bb9f7173023a37b3099fe4b80393300" title="iValue returns the value of a given channel as an int." alt="" coords="265,109,380,137"/>
-<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="235,161,411,189"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="TempInfoUnpackPRDF::addPacketInfo" name="TempInfoUnpackPRDF::addPacketInfo">
-<area shape="rect" id="node2" href="$d5/dcb/classRawTower__Temperature.html#ace83a6a155e1c02f806081ead3427a74" title="RawTower_Temperature\l::add_entry" alt="" coords="224,5,404,49"/>
-<area shape="rect" id="node4" href="$d3/dc7/classRawTowerContainer.html#ae60b794b4c7a4ccb3fb2d05c16d453b8" title="RawTowerContainer::\lAddTower" alt="" coords="233,73,395,117"/>
-<area shape="rect" id="node5" href="$d7/d97/classPacket.html#a7c672e63ac1d4bc690b4d5171e548d86" title="get the packet identifier" alt="" coords="235,141,393,169"/>
-<area shape="rect" id="node6" href="$d3/dc7/classRawTowerContainer.html#a94a3368d6cd85ea4c3f204cd1065da26" title="RawTowerContainer::\lgetTower" alt="" coords="233,193,395,237"/>
-<area shape="rect" id="node7" href="$d7/d97/classPacket.html#a1bb9f7173023a37b3099fe4b80393300" title="iValue returns the value of a given channel as an int." alt="" coords="257,261,371,289"/>
-<area shape="rect" id="node3" href="$d5/dcb/classRawTower__Temperature.html#acb2f03991a234ee18cfe550f3c444cb9" title="RawTower_Temperature\l::get_nr_entries" alt="" coords="452,5,632,49"/>
-</map>

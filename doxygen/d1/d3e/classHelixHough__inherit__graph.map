@@ -1,9 +1,0 @@
-<map id="HelixHough" name="HelixHough">
-<area shape="rect" id="node2" href="$d1/d23/classFourHitSeedFinder.html" title="FourHitSeedFinder" alt="" coords="162,5,309,33"/>
-<area shape="rect" id="node3" href="$d5/d83/classNHitSeedFinder.html" title="NHitSeedFinder" alt="" coords="172,57,299,85"/>
-<area shape="rect" id="node4" href="$da/d18/classsPHENIXSeedFinder.html" title="sPHENIXSeedFinder" alt="" coords="158,109,313,137"/>
-<area shape="rect" id="node5" href="$da/d22/classsPHENIXTracker.html" title="sPHENIXTracker" alt="" coords="172,161,299,189"/>
-<area shape="rect" id="node6" href="$d8/ddc/classsPHENIXTrackerTpc.html" title="sPHENIXTrackerTpc" alt="" coords="160,213,311,241"/>
-<area shape="rect" id="node7" href="$df/d5a/classThreeHitSeedGrower.html" title="ThreeHitSeedGrower" alt="" coords="153,265,317,293"/>
-<area shape="rect" id="node8" href="$db/d6f/classVtxTrackFinder.html" title="VtxTrackFinder" alt="" coords="174,317,297,345"/>
-</map>

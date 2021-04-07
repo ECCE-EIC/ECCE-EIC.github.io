@@ -1,8 +1,0 @@
-<map id="PHG4TpcSubsystem::PHG4TpcSubsystem" name="PHG4TpcSubsystem::PHG4TpcSubsystem">
-<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html#add5cbb7bd43524ba72079425ca230200" title="PHG4DetectorSubsystem\l::InitializeParameters" alt="" coords="281,141,473,185"/>
-<area shape="rect" id="node3" href="$d5/d29/classPHG4DetectorSubsystem.html#aff8499a0c11c3fa5be809484bbd51693" title="PHG4DetectorSubsystem\l::set_default_int_param" alt="" coords="525,5,717,49"/>
-<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#a75005aa44390e1eb574603b0b230152b" title="PHParameters::set_double\l_param" alt="" coords="521,73,720,117"/>
-<area shape="rect" id="node5" href="$dd/dae/classPHParameters.html#a62881b44dd0564425633070316af66ec" title="PHParameters::set_int\l_param" alt="" coords="535,141,706,185"/>
-<area shape="rect" id="node6" href="$dd/dae/classPHParameters.html#a2ebd6e499647b20dd41ca164e71ca061" title="PHParameters::set_string\l_param" alt="" coords="525,209,716,253"/>
-<area shape="rect" id="node7" href="$d5/d29/classPHG4DetectorSubsystem.html#adb39c7396bb4d0a510820ba62a4fa3e4" title="PHG4DetectorSubsystem\l::SetDefaultParameters" alt="" coords="525,277,717,321"/>
-</map>

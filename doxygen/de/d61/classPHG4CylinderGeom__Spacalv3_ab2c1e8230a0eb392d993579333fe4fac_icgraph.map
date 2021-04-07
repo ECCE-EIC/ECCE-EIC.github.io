@@ -1,6 +1,0 @@
-<map id="PHG4CylinderGeom_Spacalv3::get_tower_z_phi_ID" name="PHG4CylinderGeom_Spacalv3::get_tower_z_phi_ID">
-<area shape="rect" id="node2" href="$dc/d20/classPHG4FullProjSpacalCellReco.html#a37f9ab5678a82c0a886af63ebd1d5f85" title="module initialization" alt="" coords="280,5,491,49"/>
-<area shape="rect" id="node3" href="$dc/d20/classPHG4FullProjSpacalCellReco.html#a8578e30ba539e33b658fe1b92fc83f71" title="event processing" alt="" coords="280,73,491,117"/>
-<area shape="rect" id="node4" href="$db/d4b/classEMCalAna.html#ab478dd11f24604db6fece30078120c73" title="EMCalAna::process_event_SF" alt="" coords="276,141,495,169"/>
-<area shape="rect" id="node5" href="$db/d4b/classEMCalAna.html#a3b829b80df0fd8625130f3d9c11f5d3d" title="EMCalAna::process_event" alt="" coords="543,141,739,169"/>
-</map>

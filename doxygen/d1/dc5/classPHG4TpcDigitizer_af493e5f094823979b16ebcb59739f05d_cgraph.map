@@ -1,8 +1,0 @@
-<map id="PHG4TpcDigitizer::InitRun" name="PHG4TpcDigitizer::InitRun">
-<area shape="rect" id="node2" href="$d1/dc5/classPHG4TpcDigitizer.html#ab4d954a3aed4125a364a0a6a4fc4524a" title="PHG4TpcDigitizer::Calculate\lCylinderCellADCScale" alt="" coords="248,5,459,49"/>
-<area shape="rect" id="node4" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="259,97,447,125"/>
-<area shape="rect" id="node7" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="265,149,441,177"/>
-<area shape="rect" id="node3" href="$d2/ddb/classPHG4CylinderCellGeomContainer.html#aeab167ab2aaa22469653d1a48c380545" title="PHG4CylinderCellGeomContainer\l::get_begin_end" alt="" coords="507,5,753,49"/>
-<area shape="rect" id="node5" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="561,85,699,113"/>
-<area shape="rect" id="node6" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="557,137,703,165"/>
-</map>

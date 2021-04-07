@@ -1,8 +1,0 @@
-<map id="TrkrCluster::getAdc" name="TrkrCluster::getAdc">
-<area shape="rect" id="node2" href="$d2/d93/classTrkrEvaluator.html#a753a5ea1a91f097f5c226f5b1620db3f" title="dump the evaluator information into ntuple for external analysis" alt="" coords="212,5,397,49"/>
-<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="211,73,399,117"/>
-<area shape="rect" id="node6" href="$db/d6d/classAnaMvtxTestBeam2019.html#a043d418b56118618968c827ff5030719" title="AnaMvtxTestBeam2019\l::process_event" alt="" coords="214,141,395,185"/>
-<area shape="rect" id="node7" href="$dd/d60/classDumpTrkrClusterContainer.html#a2d4908a1a9a430bfb4921f0768568f27" title="DumpTrkrClusterContainer\l::process_Node" alt="" coords="204,209,405,253"/>
-<area shape="rect" id="node3" href="$d2/d93/classTrkrEvaluator.html#af1cb893f5a8aebc803c2bb55dd582e5a" title="TrkrEvaluator::process\l_event" alt="" coords="455,5,628,49"/>
-<area shape="rect" id="node5" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="453,73,629,117"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="PHG4Prototype2HcalCellReco" name="PHG4Prototype2HcalCellReco">
-<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="949,5,1051,33"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="621,5,725,33"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="197,207,287,235"/>
-<area shape="rect" id="node9" href="$dd/dae/classPHParameters.html" title="PHParameters" alt="" coords="784,313,900,341"/>
-<area shape="rect" id="node5" title="STL class." alt="" coords="5,199,148,243"/>
-<area shape="rect" id="node6" href="$d4/d31/classPHParameterInterface.html" title="PHParameterInterface" alt="" coords="1075,241,1244,269"/>
-<area shape="rect" id="node10" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="466,375,550,403"/>
-</map>

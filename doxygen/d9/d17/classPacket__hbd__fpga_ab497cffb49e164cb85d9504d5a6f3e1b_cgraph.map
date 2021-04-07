@@ -1,8 +1,0 @@
-<map id="Packet_hbd_fpga::Packet_hbd_fpga" name="Packet_hbd_fpga::Packet_hbd_fpga">
-<area shape="rect" id="node2" href="$de/dce/classPacket__A.html#a5e30c627660488c84211aadf67744236" title="get the hit format; in case of unformatted get the encoding scheme." alt="" coords="241,32,420,60"/>
-<area shape="rect" id="node3" href="$d3/d7c/dataBlock_8h.html#a160f618e0792bddcb5271733bbae0c2b" title="getUnstructPacketHitFormat" alt="" coords="468,32,680,60"/>
-<area shape="rect" id="node4" href="$dc/d93/Cpacket_8C.html#acfa2f79342c6237bb5cf63e53d27c75a" title="findPacketDataDescr" alt="" coords="750,5,913,33"/>
-<area shape="rect" id="node7" href="$d3/d7c/dataBlock_8h.html#aa82497c019175939cb67b984b2bc96c6" title="getUnstructDescrHitFormat" alt="" coords="728,57,935,85"/>
-<area shape="rect" id="node5" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="983,5,1144,33"/>
-<area shape="rect" id="node6" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="1192,5,1311,33"/>
-</map>

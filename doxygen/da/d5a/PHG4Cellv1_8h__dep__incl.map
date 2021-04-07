@@ -1,9 +1,0 @@
-<map id="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4Cellv1.h" name="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4Cellv1.h">
-<area shape="rect" id="node2" href="$dc/d32/PHG4BlockCellReco_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BlockCellReco.cc" alt="" coords="5,121,268,181"/>
-<area shape="rect" id="node3" href="$d6/d87/PHG4CellContainer_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4CellContainer.cc" alt="" coords="293,121,551,181"/>
-<area shape="rect" id="node4" href="$d6/dec/PHG4Cellv1_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4Cellv1.cc" alt="" coords="575,121,786,181"/>
-<area shape="rect" id="node5" href="$dd/da5/PHG4CylinderCellReco_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4CylinderCellReco.cc" alt="" coords="810,121,1093,181"/>
-<area shape="rect" id="node6" href="$d4/de2/PHG4FullProjSpacalCellReco_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4FullProjSpacalCell\lReco.cc" alt="" coords="1117,113,1385,189"/>
-<area shape="rect" id="node7" href="$d9/d50/PHG4HcalCellReco_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4HcalCellReco.cc" alt="" coords="1410,121,1666,181"/>
-<area shape="rect" id="node8" href="$d1/d25/PHG4TpcPadPlaneReadout_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4tpc/PHG4TpcPadPlaneReadout.cc" alt="" coords="1691,121,1959,181"/>
-</map>

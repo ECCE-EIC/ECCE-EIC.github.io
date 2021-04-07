@@ -1,7 +1,0 @@
-<map id="EmcCluster::GetCorrPos" name="EmcCluster::GetCorrPos">
-<area shape="rect" id="node2" href="$df/d23/classBEmcRec.html#a677ad6b7ce852f984771eb70ba074a8e" title="BEmcRec::CorrectPosition" alt="" coords="244,5,439,33"/>
-<area shape="rect" id="node3" href="$d9/d04/classEmcCluster.html#ac6224f3bd03617de30ced859baf6e83b" title="Returns EmcCluster 1&#45;st (pxcg,pycg) and 2&#45;d momenta (pxx,pxy,pyy)" alt="" coords="245,57,438,85"/>
-<area shape="rect" id="node6" href="$d9/d04/classEmcCluster.html#a543c5bf233783f611dfc30038f61bb16" title="Returns the EmcCluster total energy." alt="" coords="236,109,447,137"/>
-<area shape="rect" id="node4" href="$df/d23/classBEmcRec.html#a9ee69a810895d964c13570ac715f96c3" title="BEmcRec::Momenta" alt="" coords="495,57,651,85"/>
-<area shape="rect" id="node5" href="$df/d23/classBEmcRec.html#a4bd50aa9b08ec11f0dbc65fd9f10a099" title="BEmcRec::iTowerDist" alt="" coords="699,57,861,85"/>
-</map>

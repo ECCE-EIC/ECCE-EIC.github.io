@@ -1,7 +1,0 @@
-<map id="SvtxVertex::get_ndof" name="SvtxVertex::get_ndof">
-<area shape="rect" id="node2" href="$d8/d13/classGlobalVertexReco.html#aa813cd24f5a1ac6d1d0d1aba2fa3bf92" title="GlobalVertexReco::process\l_event" alt="" coords="221,5,423,49"/>
-<area shape="rect" id="node3" href="$de/d25/classPHGenFitTrkFitter.html#ac5276a4b02f10308d87ae16dac18d765" title="PHGenFitTrkFitter::\lReFitTrack" alt="" coords="249,73,395,117"/>
-<area shape="rect" id="node5" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8322a858cfb89cab60e4a04e7f82745b" title="TpcPrototypeGenFitTrkFitter\l::ReFitTrack" alt="" coords="217,141,427,185"/>
-<area shape="rect" id="node4" href="$de/d25/classPHGenFitTrkFitter.html#a2e088a68ab24c5b89b902205f877f9d6" title="Process Event, called for each event." alt="" coords="507,73,652,117"/>
-<area shape="rect" id="node6" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8861dffacdf05e47efc97b65adbafe32" title="Process Event, called for each event." alt="" coords="475,141,684,185"/>
-</map>

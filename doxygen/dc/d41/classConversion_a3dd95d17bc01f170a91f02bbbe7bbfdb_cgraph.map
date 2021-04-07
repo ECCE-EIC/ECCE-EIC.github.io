@@ -1,7 +1,0 @@
-<map id="Conversion::getRecoTlvs" name="Conversion::getRecoTlvs">
-<area shape="rect" id="node2" href="$d2/db8/classSvtxTrack.html#aa455c367aed4671a5d34330cad61f7dc" title="SvtxTrack::get_p" alt="" coords="263,5,396,33"/>
-<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="259,57,400,85"/>
-<area shape="rect" id="node4" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="259,109,400,137"/>
-<area shape="rect" id="node5" href="$d2/db8/classSvtxTrack.html#a826b1ab6d05d45e5148c4645befe4def" title="SvtxTrack::get_pz" alt="" coords="259,161,399,189"/>
-<area shape="rect" id="node6" href="$dc/d41/classConversion.html#ac24ed5367463ba9de80adc6bcf7886fe" title="Conversion::recoCount" alt="" coords="241,213,417,241"/>
-</map>

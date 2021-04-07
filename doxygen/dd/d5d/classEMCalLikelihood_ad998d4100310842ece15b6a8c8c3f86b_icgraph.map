@@ -1,6 +1,0 @@
-<map id="EMCalLikelihood::get_HistoManager" name="EMCalLikelihood::get_HistoManager">
-<area shape="rect" id="node2" href="$dd/d5d/classEMCalLikelihood.html#a6a779ca1c32380a264774f52fc6ff24a" title="EMCalLikelihood::ApplyEMCal\lGanging" alt="" coords="216,5,436,49"/>
-<area shape="rect" id="node4" href="$dd/d5d/classEMCalLikelihood.html#add2c2efcb48129fe34a89154021cdb67" title="Called at the end of all processing." alt="" coords="243,73,409,101"/>
-<area shape="rect" id="node5" href="$dd/d5d/classEMCalLikelihood.html#affc4ae932b7804b7d06186a623778340" title="EMCalLikelihood::Init" alt="" coords="245,125,407,153"/>
-<area shape="rect" id="node3" href="$dd/d5d/classEMCalLikelihood.html#a61b8a63975bef62287c22bd4cfb83e35" title="EMCalLikelihood::process\l_event" alt="" coords="484,5,676,49"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="PHG4CylinderGeom_Spacalv2::ImportParameters" name="PHG4CylinderGeom_Spacalv2::ImportParameters">
-<area shape="rect" id="node2" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#a101400277a0fbe0c0c9c32c02a39fb40" title="load parameters from PHParameters, which interface to Database/XML/ROOT files" alt="" coords="276,120,499,164"/>
-<area shape="rect" id="node3" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a252fe43177261d752210af377132f152" title="PHG4FullProjSpacalDetector\l::PHG4FullProjSpacalDetector" alt="" coords="555,5,775,49"/>
-<area shape="rect" id="node4" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a400c0416a09f3c37958d24da9dbbbf2a" title="PHG4FullProjTiltedSpacal\lDetector::PHG4FullProjTilted\lSpacalDetector" alt="" coords="559,73,770,133"/>
-<area shape="rect" id="node5" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#aed2a21ff80c7f387832f684e8ee7ee16" title="PHG4SpacalPrototype4Detector\l::ConstructMe" alt="" coords="547,157,783,201"/>
-<area shape="rect" id="node6" href="$db/dc2/classPHG4SpacalPrototypeDetector.html#aea582a01978e516e9a623421dc3c1e2c" title="PHG4SpacalPrototypeDetector\l::ConstructMe" alt="" coords="551,225,779,269"/>
-</map>

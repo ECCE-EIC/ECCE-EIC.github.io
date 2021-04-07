@@ -1,5 +1,0 @@
-<map id="TPCIntegratedCharge::getHistoManager" name="TPCIntegratedCharge::getHistoManager">
-<area shape="rect" id="node2" href="$dc/d86/classTPCIntegratedCharge.html#ad54026ec079ca27baf30cb4191a75a78" title="Called at the end of all processing." alt="" coords="220,5,421,33"/>
-<area shape="rect" id="node3" href="$dc/d86/classTPCIntegratedCharge.html#aa4c12a22e24867e0ba367ee8f6080d55" title="TPCIntegratedCharge\l::InitRun" alt="" coords="237,57,404,101"/>
-<area shape="rect" id="node4" href="$dc/d86/classTPCIntegratedCharge.html#a81020cfbf5f20cf2696026c8ecf2953d" title="TPCIntegratedCharge\l::process_event" alt="" coords="237,125,404,169"/>
-</map>

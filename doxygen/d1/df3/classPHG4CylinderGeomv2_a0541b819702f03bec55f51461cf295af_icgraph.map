@@ -1,8 +1,0 @@
-<map id="PHG4CylinderGeomv2::set_nscint" name="PHG4CylinderGeomv2::set_nscint">
-<area shape="rect" id="node2" href="$d0/da4/classPHG4SpacalDetector.html#acde5479ab63b50fea1713c8a92b5a3b2" title="PHG4SpacalDetector\l::Construct_AzimuthalSeg" alt="" coords="245,9,439,53"/>
-<area shape="rect" id="node3" href="$d0/da4/classPHG4SpacalDetector.html#ac94e5116eddbcc2f1b5eb348b5450e38" title="PHG4SpacalDetector\l::ConstructMe" alt="" coords="508,40,671,84"/>
-<area shape="rect" id="node6" href="$db/dc2/classPHG4SpacalPrototypeDetector.html#aea582a01978e516e9a623421dc3c1e2c" title="PHG4SpacalPrototypeDetector\l::ConstructMe" alt="" coords="228,129,456,173"/>
-<area shape="rect" id="node7" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#aed2a21ff80c7f387832f684e8ee7ee16" title="PHG4SpacalPrototype4Detector\l::ConstructMe" alt="" coords="224,197,460,241"/>
-<area shape="rect" id="node4" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a9bbee7264b7117bfe8476d28de70909f" title="PHG4FullProjSpacalDetector\l::ConstructMe" alt="" coords="719,5,929,49"/>
-<area shape="rect" id="node5" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a99847a0a4cb3a1eb74d90d073aaec0f0" title="PHG4FullProjTiltedSpacal\lDetector::ConstructMe" alt="" coords="729,73,919,117"/>
-</map>

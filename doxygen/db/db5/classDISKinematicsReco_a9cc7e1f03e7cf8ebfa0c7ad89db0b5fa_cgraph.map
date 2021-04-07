@@ -1,7 +1,0 @@
-<map id="DISKinematicsReco::AddGlobalCalorimeterInformation" name="DISKinematicsReco::AddGlobalCalorimeterInformation">
-<area shape="rect" id="node2" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="314,5,487,33"/>
-<area shape="rect" id="node3" href="$d8/dc4/classRawTowerGeom.html#aed31c4e7b05d1f434c0cdc26fe438d46" title="RawTowerGeom::get_eta" alt="" coords="307,57,495,85"/>
-<area shape="rect" id="node4" href="$d8/dc4/classRawTowerGeom.html#a39490c6ecb489ef5a99cf26a8f25ecfc" title="RawTowerGeom::get_phi" alt="" coords="307,109,494,137"/>
-<area shape="rect" id="node5" href="$df/d49/classRawTowerGeomContainer.html#a46e80e9792b3323f3197a1d9af1cd049" title="RawTowerGeomContainer\l::get_tower_geometry" alt="" coords="303,161,499,205"/>
-<area shape="rect" id="node6" href="$d3/dc7/classRawTowerContainer.html#a570f017dc793182557b3382e07374491" title="return all towers" alt="" coords="319,229,482,273"/>
-</map>

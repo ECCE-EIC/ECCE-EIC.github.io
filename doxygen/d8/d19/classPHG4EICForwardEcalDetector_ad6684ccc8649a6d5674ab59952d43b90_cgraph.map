@@ -1,9 +1,0 @@
-<map id="PHG4EICForwardEcalDetector::ConstructTower" name="PHG4EICForwardEcalDetector::ConstructTower">
-<area shape="rect" id="node2" href="$d8/d23/classPHG4ForwardEcalDetector.html#a3785e595d8f858c825f8e120859ea5d8" title="PHG4ForwardEcalDetector\l::AbsorberLogicalVolSetInsert" alt="" coords="281,5,501,49"/>
-<area shape="rect" id="node3" href="$de/d3a/classPHG4ForwardEcalDisplayAction.html#aa4751c478f1cd54e122ef12a9e42b9a7" title="PHG4ForwardEcalDisplayAction\l::AddVolume" alt="" coords="275,73,508,117"/>
-<area shape="rect" id="node4" href="$d8/d23/classPHG4ForwardEcalDetector.html#aed358171be49edad4381ed33d86a0b54" title="PHG4ForwardEcalDetector\l::GetDisplayAction" alt="" coords="291,141,491,185"/>
-<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="281,209,502,237"/>
-<area shape="rect" id="node6" href="$d8/d23/classPHG4ForwardEcalDetector.html#af3f43442ec2ba77707ec5e0cbe8f0fe5" title="PHG4ForwardEcalDetector\l::ScintiLogicalVolSetInsert" alt="" coords="291,261,491,305"/>
-<area shape="rect" id="node7" href="$d8/d23/classPHG4ForwardEcalDetector.html#abb5a9cec310ea962d028e97e9916d54b" title="PHG4ForwardEcalDetector\l::TowerLogicNamePrefix" alt="" coords="291,329,491,373"/>
-<area shape="rect" id="node8" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="297,397,486,425"/>
-</map>

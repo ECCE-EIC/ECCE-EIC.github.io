@@ -1,5 +1,0 @@
-<map id="Fun4AllServer::UpdateEventSelector" name="Fun4AllServer::UpdateEventSelector">
-<area shape="rect" id="node2" href="$d8/d77/classFun4AllOutputManager.html#a2a601e70ddadeb2f8400956ba1a514e6" title="retrieves pointer to vector of event selector module names" alt="" coords="265,5,444,49"/>
-<area shape="rect" id="node3" href="$d8/d77/classFun4AllOutputManager.html#a330fe561bb5a02a9f6dc08395686321c" title="retrieves pointer to vector of event selector module ids" alt="" coords="265,73,444,117"/>
-<area shape="rect" id="node4" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="267,141,443,169"/>
-</map>

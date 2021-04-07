@@ -1,5 +1,0 @@
-<map id="RawTower::add_ecell" name="RawTower::add_ecell">
-<area shape="rect" id="node2" href="$d7/d10/classRawTowerBuilder.html#ab0904fa048bbd1d45f4df5efad65b229" title="RawTowerBuilder::process\l_event" alt="" coords="223,5,421,49"/>
-<area shape="rect" id="node3" href="$d1/dec/classHcalRawTowerBuilder.html#a419bcd185f821dfdefb481ebdbca3a31" title="HcalRawTowerBuilder\l::process_event" alt="" coords="239,73,405,117"/>
-<area shape="rect" id="node4" href="$df/d0d/classRawTowerCombiner.html#a5b3d03413a030f6f0082b8e3cafc3b04" title="RawTowerCombiner::process\l_event" alt="" coords="215,141,429,185"/>
-</map>

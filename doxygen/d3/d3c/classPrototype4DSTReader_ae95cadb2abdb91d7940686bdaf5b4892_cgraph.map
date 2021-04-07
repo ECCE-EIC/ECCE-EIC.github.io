@@ -1,5 +1,0 @@
-<map id="Prototype4DSTReader::Init" name="Prototype4DSTReader::Init">
-<area shape="rect" id="node2" href="$d3/d3c/classPrototype4DSTReader.html#a9bbd44e5160ac7768827587848cdf3ef" title="Prototype4DSTReader\l::build_tree" alt="" coords="224,24,395,68"/>
-<area shape="rect" id="node3" href="$d3/d2b/classPHTFileServer.html#a5a3ed7a2a70cc2e38dbe1cb33afe9c2f" title="return reference to class singleton" alt="" coords="448,5,595,33"/>
-<area shape="rect" id="node4" href="$d3/d2b/classPHTFileServer.html#aaae99c6748eb17d5f8d7df375bc6d615" title="open a SafeTFile. If filename is not found in the map, create a new TFile and append to the map; incr..." alt="" coords="443,57,600,85"/>
-</map>

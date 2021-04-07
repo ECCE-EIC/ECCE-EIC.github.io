@@ -1,8 +1,0 @@
-<map id="RawTowerGeomContainer_Cylinderv1::get_phibins" name="RawTowerGeomContainer_Cylinderv1::get_phibins">
-<area shape="rect" id="node2" href="$d8/d18/classRawTowerGeomContainer__Cylinderv1.html#a1af0ce5eec716535335ef482a3c885d5" title="RawTowerGeomContainer\l_Cylinderv1::get_phibounds" alt="" coords="507,116,718,160"/>
-<area shape="rect" id="node3" href="$d8/d18/classRawTowerGeomContainer__Cylinderv1.html#a54ef0a5e8c54d0e7ca5b62e4bc1485b1" title="RawTowerGeomContainer\l_Cylinderv1::get_phicenter" alt="" coords="251,5,457,49"/>
-<area shape="rect" id="node4" href="$d9/d8f/classCaloTriggerSim.html#ad6da1c0736e58679dbf1681e4e14075e" title="CaloTriggerSim::process\l_event" alt="" coords="521,27,705,71"/>
-<area shape="rect" id="node5" href="$d8/d18/classRawTowerGeomContainer__Cylinderv1.html#a30d4e5f93f8a723d3416f9501c99c426" title="RawTowerGeomContainer\l_Cylinderv1::identify" alt="" coords="256,176,452,220"/>
-<area shape="rect" id="node7" href="$d8/d18/classRawTowerGeomContainer__Cylinderv1.html#af3f361bc68726f4260aea5ed7f8b059e" title="RawTowerGeomContainer\l_Cylinderv1::set_phibounds" alt="" coords="249,244,459,288"/>
-<area shape="rect" id="node6" href="$d8/d18/classRawTowerGeomContainer__Cylinderv1.html#aa2516e0b452bf4c400a73f20464f8a31" title="RawTowerGeomContainer\l_Cylinderv1::get_etabounds" alt="" coords="507,184,719,228"/>
-</map>

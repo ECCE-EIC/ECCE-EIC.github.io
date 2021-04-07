@@ -1,8 +1,0 @@
-<map id="Conversion::correctSecondaryVertex" name="Conversion::correctSecondaryVertex">
-<area shape="rect" id="node2" href="$dc/d41/classConversion.html#ac24ed5367463ba9de80adc6bcf7886fe" title="Conversion::recoCount" alt="" coords="279,5,455,33"/>
-<area shape="rect" id="node3" href="$d7/dd4/classVtxRegressor.html#a9fcfebeb181524d256aad8d06b00d621" title="VtxRegressor::regress" alt="" coords="281,57,452,85"/>
-<area shape="rect" id="node7" href="$d0/d34/tracks_8C.html#ac926d763061c5568ecb5f5e062e9c778" title="tracks" alt="" coords="335,109,398,137"/>
-<area shape="rect" id="node4" href="$d2/db8/classSvtxTrack.html#af6f03ad537260f2ceef84cf876e22deb" title="SvtxTrack::get_pt" alt="" coords="506,5,645,33"/>
-<area shape="rect" id="node5" href="$d2/db8/classSvtxTrack.html#a8ffb0c9b9181cc2dedd6e21f4b462129" title="SvtxTrack::get_phi" alt="" coords="503,57,648,85"/>
-<area shape="rect" id="node6" href="$d2/db8/classSvtxTrack.html#a991a05caa213e0922d00c76568dade57" title="SvtxTrack::get_eta" alt="" coords="503,109,648,137"/>
-</map>

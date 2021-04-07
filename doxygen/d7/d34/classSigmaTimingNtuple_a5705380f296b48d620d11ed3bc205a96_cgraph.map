@@ -1,8 +1,0 @@
-<map id="SigmaTimingNtuple::get_dtotal" name="SigmaTimingNtuple::get_dtotal">
-<area shape="rect" id="node2" href="$d3/d9e/classPHG4Hit.html#a99663034e71d3f324eb878eb0e3b36ba" title="PHG4Hit::get_avg_x" alt="" coords="216,5,372,33"/>
-<area shape="rect" id="node4" href="$d3/d9e/classPHG4Hit.html#a880ee4134d36a1b558ec9eed831f376a" title="PHG4Hit::get_avg_y" alt="" coords="216,57,372,85"/>
-<area shape="rect" id="node6" href="$d3/d9e/classPHG4Hit.html#a7dce2f1e781d7c94af5b27400165d76c" title="PHG4Hit::get_avg_z" alt="" coords="217,109,371,137"/>
-<area shape="rect" id="node3" href="$d3/d9e/classPHG4Hit.html#a69cc7aee827e3da7cf86e87418f9211b" title="PHG4Hit::get_x" alt="" coords="420,5,544,33"/>
-<area shape="rect" id="node5" href="$d3/d9e/classPHG4Hit.html#a17de3a9c9dc84ce4a50fc89082689d55" title="PHG4Hit::get_y" alt="" coords="420,57,544,85"/>
-<area shape="rect" id="node7" href="$d3/d9e/classPHG4Hit.html#a06fcf6b2cbcc8413ca3d6a172458e94e" title="PHG4Hit::get_z" alt="" coords="421,109,543,137"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="CrossSection2RAA" name="CrossSection2RAA">
-<area shape="rect" id="node2" href="$d1/d4a/Draw__HFJetTruth_8C.html#aa3a867691ddddb130694c0610a27a484" title="CrossSection2RelUncert" alt="" coords="199,5,383,33"/>
-<area shape="rect" id="node3" href="$d1/d4a/Draw__HFJetTruth_8C.html#a481cb0034180b3d3b1262d3f0b3a5a90" title="GetRAA" alt="" coords="254,57,327,85"/>
-<area shape="rect" id="node4" href="$df/d6a/Draw__HFJetTruth__InvMass_8C.html#a21372087065dca055ab8e064f5213d25" title="GetRAAKang2019" alt="" coords="220,109,361,137"/>
-<area shape="rect" id="node5" href="$df/d6a/Draw__HFJetTruth__InvMass_8C.html#a5f64a1f8bcf0f3227f8072e17d5899c7" title="GetRAARatioKang2019" alt="" coords="203,161,379,189"/>
-<area shape="rect" id="node6" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="239,213,343,241"/>
-<area shape="rect" id="node7" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="431,213,509,241"/>
-</map>

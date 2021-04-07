@@ -1,6 +1,0 @@
-<map id="RawTowerGeom::get_id" name="RawTowerGeom::get_id">
-<area shape="rect" id="node2" href="$d5/dcb/classRawTowerGeomContainerv1.html#ae7736c01cd656b9efc108f22f4eb98eb" title="go through all towers" alt="" coords="232,5,443,49"/>
-<area shape="rect" id="node3" href="$dd/d75/classRawClusterBuilderTemplateEEMC.html#ab378520416a18903ff3c1eac2d53f78f" title="RawClusterBuilderTemplate\lEEMC::InitRun" alt="" coords="234,73,441,117"/>
-<area shape="rect" id="node4" href="$d8/d80/classRawClusterBuilderTemplateFEMC.html#ac0387936af8379f4d7df68e77e28b015" title="RawClusterBuilderTemplate\lFEMC::InitRun" alt="" coords="234,141,441,185"/>
-<area shape="rect" id="node5" href="$d8/d5d/classRawClusterBuilderTemplate.html#a37dfa12fa93c1e11d501fb65a17c2d39" title="RawClusterBuilderTemplate\l::InitRun" alt="" coords="234,209,441,253"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="STACalorimeterCharacterization::get_ordered_towers" name="STACalorimeterCharacterization::get_ordered_towers">
-<area shape="rect" id="node2" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="289,5,463,33"/>
-<area shape="rect" id="node3" href="$d3/dc7/classRawTowerContainer.html#a570f017dc793182557b3382e07374491" title="return all towers" alt="" coords="295,57,457,101"/>
-</map>

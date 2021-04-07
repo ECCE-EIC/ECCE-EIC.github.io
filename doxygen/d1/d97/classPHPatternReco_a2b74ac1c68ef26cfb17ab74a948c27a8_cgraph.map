@@ -1,7 +1,0 @@
-<map id="PHPatternReco::initialize_houghbin" name="PHPatternReco::initialize_houghbin">
-<area shape="rect" id="node2" href="$d3/d0a/classHelixHoughSpace.html#a3df7b58b924a578806f905e4c82576cb" title="HelixHoughSpace::get_bin" alt="" coords="239,5,439,33"/>
-<area shape="rect" id="node3" href="$d9/d4d/classHelixHoughBin.html#aaac7fa5f7e47782acfa8dc31207d977d" title="HelixHoughBin::identify" alt="" coords="248,57,429,85"/>
-<area shape="rect" id="node4" href="$d9/d4d/classHelixHoughBin.html#ac4fcb902513c20cbb55bce210bd111e3" title="HelixHoughBin::init" alt="" coords="262,109,415,137"/>
-<area shape="rect" id="node5" href="$d9/d4d/classHelixHoughBin.html#a2eb5ced7cd77f8626f112367521eeaec" title="HelixHoughBin::set\l_hough_space" alt="" coords="263,161,415,205"/>
-<area shape="rect" id="node6" href="$d9/d4d/classHelixHoughBin.html#a399716f31c31bd878d3cfb51461ed425" title="HelixHoughBin::set\l_zoomlevel" alt="" coords="263,229,415,273"/>
-</map>

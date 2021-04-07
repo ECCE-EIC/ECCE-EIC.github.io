@@ -1,7 +1,0 @@
-<map id="EpFinderEval::Init" name="EpFinderEval::Init">
-<area shape="rect" id="node2" href="$d3/d2b/classPHTFileServer.html#a5a3ed7a2a70cc2e38dbe1cb33afe9c2f" title="return reference to class singleton" alt="" coords="225,5,372,33"/>
-<area shape="rect" id="node3" href="$d3/d2b/classPHTFileServer.html#aaae99c6748eb17d5f8d7df375bc6d615" title="open a SafeTFile. If filename is not found in the map, create a new TFile and append to the map; incr..." alt="" coords="220,57,377,85"/>
-<area shape="rect" id="node4" href="$d4/d60/classEpFinder.html#a7f17e628e4ac63f9ad49d05078dcc433" title="EpFinder::Report" alt="" coords="231,109,366,137"/>
-<area shape="rect" id="node5" href="$d4/d60/classEpFinder.html#a8b1ff34ecdd0863f46e013f1f629c235" title="EpFinder::SetMaxTileWeight" alt="" coords="193,161,404,189"/>
-<area shape="rect" id="node6" href="$d4/d60/classEpFinder.html#a253ad93c3776dae79fad7b30820616e5" title="EpFinder::SetnMipThreshold" alt="" coords="193,213,404,241"/>
-</map>

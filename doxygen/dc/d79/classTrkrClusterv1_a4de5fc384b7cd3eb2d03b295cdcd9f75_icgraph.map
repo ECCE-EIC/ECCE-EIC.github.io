@@ -1,7 +1,0 @@
-<map id="TrkrClusterv1::setError" name="TrkrClusterv1::setError">
-<area shape="rect" id="node2" href="$dd/d60/classTpcPrototypeUnpacker.html#a018feffce2f4cf203fb9efc95d3c701a" title="TpcPrototypeUnpacker\l::exportDSTCluster" alt="" coords="245,5,421,49"/>
-<area shape="rect" id="node5" href="$dc/d79/classTrkrClusterv1.html#a3a37c793534127d89da3ac1d8784d3ac" title="ctor" alt="" coords="228,73,437,101"/>
-<area shape="rect" id="node3" href="$dd/d60/classTpcPrototypeUnpacker.html#a3f531b94d26bba622c59c5b71ca4dd8e" title="Clustering then prepare IOs." alt="" coords="487,5,663,49"/>
-<area shape="rect" id="node4" href="$dd/d60/classTpcPrototypeUnpacker.html#a3c458d1bda422672ff79946e5816f197" title="TpcPrototypeUnpacker\l::process_event" alt="" coords="712,5,888,49"/>
-<area shape="rect" id="node6" href="$dc/d79/classTrkrClusterv1.html#a80b3d2c1f1c1cce5b81c27ea57c4a723" title="Virtual copy constructor." alt="" coords="485,73,664,101"/>
-</map>

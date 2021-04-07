@@ -1,5 +1,0 @@
-<map id="RawTowerGeomContainer::get_calorimeter_id" name="RawTowerGeomContainer::get_calorimeter_id">
-<area shape="rect" id="node2" href="$dd/d75/classRawClusterBuilderTemplateEEMC.html#a01524823cdc540034f2ad0a757e1842c" title="RawClusterBuilderTemplate\lEEMC::Cell2Abs" alt="" coords="264,5,471,49"/>
-<area shape="rect" id="node3" href="$d8/d80/classRawClusterBuilderTemplateFEMC.html#a6d504632501dab77a402001d92461aaa" title="RawClusterBuilderTemplate\lFEMC::Cell2Abs" alt="" coords="264,73,471,117"/>
-<area shape="rect" id="node4" href="$dc/df3/classDumpRawTowerGeomContainer.html#aa7d2180a2e3cac8886789e080206ce96" title="DumpRawTowerGeomContainer\l::process_Node" alt="" coords="249,141,485,185"/>
-</map>

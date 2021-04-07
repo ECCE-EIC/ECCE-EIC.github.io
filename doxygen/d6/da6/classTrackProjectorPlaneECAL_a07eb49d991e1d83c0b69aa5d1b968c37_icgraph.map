@@ -1,5 +1,0 @@
-<map id="TrackProjectorPlaneECAL::get_best_state" name="TrackProjectorPlaneECAL::get_best_state">
-<area shape="rect" id="node2" href="$db/db5/classDISKinematicsReco.html#ad801f1794841d3657aa4c0b2da334743" title="DISKinematicsReco::\lInsertCandidateFromCluster" alt="" coords="243,5,453,49"/>
-<area shape="rect" id="node3" href="$db/db5/classDISKinematicsReco.html#a4ea9fa36ccd955fd7cdfa7e7eaf1e534" title="DISKinematicsReco::\lCollectEmCandidatesFromCluster" alt="" coords="501,5,748,49"/>
-<area shape="rect" id="node4" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="796,5,956,49"/>
-</map>

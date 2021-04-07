@@ -1,9 +1,0 @@
-<map id="buffer::u4swap" name="buffer::u4swap">
-<area shape="rect" id="node2" href="$d9/d3d/classgzbuffer.html#a0336e4c0df9ab4bb6ec5b10720238d9d" title="gzbuffer::gzbuffer" alt="" coords="188,5,332,33"/>
-<area shape="rect" id="node3" href="$d5/db0/classlzobuffer.html#a84faf7eb90a7b09c7b7a3aac96f326ca" title="lzobuffer::lzobuffer" alt="" coords="185,57,335,85"/>
-<area shape="rect" id="node4" href="$da/d40/classbuffer.html#acfbe49cbf8808faa93a94ff4dd34bf33" title="buffer::makeBuffer" alt="" coords="185,109,335,137"/>
-<area shape="rect" id="node6" href="$d8/dc3/classfileEventiterator.html#aec0bb7ea4c827747ace5f592fd48b365" title="fileEventiterator::\lread_next_buffer" alt="" coords="397,153,536,197"/>
-<area shape="rect" id="node8" href="$d8/de5/classprdfBuffer.html#a4d3af9630883b14479de90575dd0ed1e" title="prdfBuffer::prdfBuffer" alt="" coords="176,213,344,241"/>
-<area shape="rect" id="node5" href="$d9/dce/classrcdaqEventiterator.html#a65e4811d6d752bf3b89f5a4215ea8e21" title="rcdaqEventiterator\l::read_next_buffer" alt="" coords="392,85,541,129"/>
-<area shape="rect" id="node7" href="$d8/dc3/classfileEventiterator.html#acf32e5a708dafc84a9def17b6e4d9736" title="fileEventiterator::\lgetNextEvent" alt="" coords="589,153,728,197"/>
-</map>

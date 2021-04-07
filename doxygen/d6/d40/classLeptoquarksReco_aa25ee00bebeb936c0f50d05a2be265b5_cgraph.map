@@ -1,7 +1,0 @@
-<map id="LeptoquarksReco::AddGlobalEventInformation" name="LeptoquarksReco::AddGlobalEventInformation">
-<area shape="rect" id="node2" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="298,5,471,33"/>
-<area shape="rect" id="node3" href="$d8/dc4/classRawTowerGeom.html#aed31c4e7b05d1f434c0cdc26fe438d46" title="RawTowerGeom::get_eta" alt="" coords="291,57,479,85"/>
-<area shape="rect" id="node4" href="$d8/dc4/classRawTowerGeom.html#a39490c6ecb489ef5a99cf26a8f25ecfc" title="RawTowerGeom::get_phi" alt="" coords="291,109,478,137"/>
-<area shape="rect" id="node5" href="$d2/d11/classPidCandidate.html#aa84ca88edd9fd020fbc1bcd6da4dba85" title="PidCandidate::get_property\l_float" alt="" coords="281,161,488,205"/>
-<area shape="rect" id="node6" href="$d2/d11/classPidCandidate.html#aa0a89753db8bf00c61e8e15fece92c3a" title="PidCandidate::get_property_int" alt="" coords="269,229,500,257"/>
-</map>

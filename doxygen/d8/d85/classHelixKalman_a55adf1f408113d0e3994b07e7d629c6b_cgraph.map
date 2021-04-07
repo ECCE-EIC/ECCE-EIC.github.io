@@ -1,8 +1,0 @@
-<map id="HelixKalman::calculateMSCovariance" name="HelixKalman::calculateMSCovariance">
-<area shape="rect" id="node2" href="$d8/d85/classHelixKalman.html#a52cca2345c3380fc8343f006390f5c1d" title="HelixKalman::calculate\l_dAdAp" alt="" coords="360,5,536,49"/>
-<area shape="rect" id="node4" href="$d8/d85/classHelixKalman.html#ad45962489041411c135777aed0b44552" title="HelixKalman::calculate\l_dApdp" alt="" coords="360,73,536,117"/>
-<area shape="rect" id="node5" href="$d8/d85/classHelixKalman.html#aef12e80004e0637454bf1fa4b3534233" title="HelixKalman::calculate_dbdt" alt="" coords="341,141,555,169"/>
-<area shape="rect" id="node6" href="$d8/d85/classHelixKalman.html#a49443f60ba396d2948ae2bde46dea8a7" title="HelixKalman::calculate_dpdb" alt="" coords="339,193,557,221"/>
-<area shape="rect" id="node7" href="$d8/d85/classHelixKalman.html#af9357af5c3c7c3ab96aa5031d843b505" title="HelixKalman::calculateScattering\lVariance" alt="" coords="325,245,571,289"/>
-<area shape="rect" id="node3" href="$dc/d08/HelixKalman_8cpp.html#ab74daa0c9784c63e060bfb98cc06fbf5" title="sign" alt="" coords="619,13,668,41"/>
-</map>

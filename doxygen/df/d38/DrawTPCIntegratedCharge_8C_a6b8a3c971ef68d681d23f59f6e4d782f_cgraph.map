@@ -1,8 +1,0 @@
-<map id="DrawTPCIntegratedCharge" name="DrawTPCIntegratedCharge">
-<area shape="rect" id="node2" href="$df/d38/DrawTPCIntegratedCharge_8C.html#a647f3dbdb0bba4c518297814fc982a82" title="ChargePerLayer" alt="" coords="253,5,383,33"/>
-<area shape="rect" id="node5" href="$d1/dc1/DrawFluence_8C.html#a189971c975b6e8a6584d580ab0becdd5" title="Check" alt="" coords="286,57,350,85"/>
-<area shape="rect" id="node6" href="$d1/d95/sPhenixStyle_8C.html#a40c9ca7bea26e6a08182ceb8298869e7" title="sPHENIX Style, based on a style file from ATLAS by Peter Steinberg" alt="" coords="253,109,383,137"/>
-<area shape="rect" id="node3" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="433,32,537,60"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="587,32,665,60"/>
-<area shape="rect" id="node7" href="$d1/d95/sPhenixStyle_8C.html#a2b14fe9277832cb4dbdc473f44df99b4" title="sPhenixStyle" alt="" coords="431,109,539,137"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="PHNodeIntegrate::perform" name="PHNodeIntegrate::perform">
-<area shape="rect" id="node2" href="$d9/d24/classPHObject.html#a68f2ff4b014481b3ef7ea232916809a6" title="PHObject::clone" alt="" coords="277,5,407,33"/>
-<area shape="rect" id="node3" href="$d9/d24/classPHObject.html#a0d124979e8e1351f7b3957ee6f2edae4" title="PHObject::CopyFrom" alt="" coords="262,57,422,85"/>
-<area shape="rect" id="node4" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="269,109,415,137"/>
-<area shape="rect" id="node5" href="$dc/d82/classPHNode.html#af8e3244a9eae5dd966a719f8847eddb6" title="PHNode::getObjectType" alt="" coords="252,161,432,189"/>
-<area shape="rect" id="node6" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="273,213,411,241"/>
-<area shape="rect" id="node7" href="$d9/d24/classPHObject.html#aeba94ef049ee3f540695cc217cac4218" title="PHObject::Integrate" alt="" coords="265,265,419,293"/>
-</map>

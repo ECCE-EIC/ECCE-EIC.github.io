@@ -1,9 +1,0 @@
-<map id="PHG4ScoringManager::makeScoringHistograms" name="PHG4ScoringManager::makeScoringHistograms">
-<area shape="rect" id="node2" href="$dc/dd7/classPHG4ScoringManager.html#ac02cb8f43e68a495bb66fcf774bbc991" title="PHG4ScoringManager\l::getHistoManager" alt="" coords="249,117,419,161"/>
-<area shape="rect" id="node4" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="756,177,932,205"/>
-<area shape="rect" id="node8" href="$d3/d96/classFun4AllHistoManager.html#a7e1354855437fa28bb0d29dc0581d0a6" title="Fun4AllHistoManager\l::registerHisto" alt="" coords="251,280,417,324"/>
-<area shape="rect" id="node3" href="$da/d29/classFun4AllServer.html#af5885837658eb26f98dbc697b58747a7" title="Fun4AllServer::getHistoManager" alt="" coords="467,125,708,153"/>
-<area shape="rect" id="node5" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="497,5,678,33"/>
-<area shape="rect" id="node6" href="$da/d29/classFun4AllServer.html#a377f113767f24ce6413e678752ed7f53" title="Fun4AllServer::registerHisto\lManager" alt="" coords="482,57,693,101"/>
-<area shape="rect" id="node7" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="767,65,921,93"/>
-</map>

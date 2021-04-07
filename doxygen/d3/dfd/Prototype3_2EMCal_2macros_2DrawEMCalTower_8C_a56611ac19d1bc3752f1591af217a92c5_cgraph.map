@@ -1,7 +1,0 @@
-<map id="DrawEMCalTower" name="DrawEMCalTower">
-<area shape="rect" id="node2" href="$d5/d00/Prototype2_2EMCal_2macros_2DrawEMCalTower_8C.html#a53996f4bd4106d09eff4d26dd1387cda" title="EMCDistribution_Fast" alt="" coords="191,31,355,59"/>
-<area shape="rect" id="node6" href="$d8/d79/Prototype2_2EMCal_2macros_2SetOKStyle_8C.html#a35318d2178324047bb14989874dbc9b6" title="SetOKStyle" alt="" coords="224,83,321,111"/>
-<area shape="rect" id="node3" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="469,5,573,33"/>
-<area shape="rect" id="node5" href="$d8/db5/namespaceQAHistManagerDef.html#a7e5037158f73c3ab97c4ddd6b974b34a" title="utility function to" alt="" coords="403,57,639,85"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="687,5,765,33"/>
-</map>

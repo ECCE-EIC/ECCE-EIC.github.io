@@ -1,6 +1,0 @@
-<map id="PHParameterInterface::set_default_int_param" name="PHParameterInterface::set_default_int_param">
-<area shape="rect" id="node2" href="$db/d1c/classPHG4TpcPadPlaneSimple.html#a0ff9224767a3f11356f257308e9e0b36" title="PHG4TpcPadPlaneSimple\l::SetDefaultParameters" alt="" coords="243,5,434,49"/>
-<area shape="rect" id="node3" href="$d6/d1b/classPrototype2RawTowerBuilder.html#a214f3941132c4d2b527447745f58cbf7" title="Prototype2RawTowerBuilder\l::SetDefaultParameters" alt="" coords="233,73,444,117"/>
-<area shape="rect" id="node4" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#ab2d44799c54fd33ea44a6b7491b754d6" title="PHG4TpcPadPlaneReadout\l::SetDefaultParameters" alt="" coords="238,141,439,185"/>
-<area shape="rect" id="node5" href="$d1/dec/classHcalRawTowerBuilder.html#ac1e2d1d582b6841932eba5fc655dbc6d" title="HcalRawTowerBuilder\l::SetDefaultParameters" alt="" coords="249,209,428,253"/>
-</map>

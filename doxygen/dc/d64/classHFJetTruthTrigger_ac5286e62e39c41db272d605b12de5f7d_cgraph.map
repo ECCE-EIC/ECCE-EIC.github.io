@@ -1,7 +1,0 @@
-<map id="HFJetTruthTrigger::parton_tagging" name="HFJetTruthTrigger::parton_tagging">
-<area shape="rect" id="node2" href="$dc/d64/classHFJetTruthTrigger.html#a07efdc1e15e85ac923e5cb6a2e6306fc" title="HFJetTruthTrigger::\ldeltaR" alt="" coords="199,5,344,49"/>
-<area shape="rect" id="node3" href="$d7/da6/classJet.html#aa7219b7e6fafba21362c4591f4ed8f06" title="Jet::get_eta" alt="" coords="222,73,321,101"/>
-<area shape="rect" id="node4" href="$d7/da6/classJet.html#aaf7b661627240eff2b2b5bc596b8736e" title="Jet::get_phi" alt="" coords="222,125,321,153"/>
-<area shape="rect" id="node5" href="$d7/da6/classJet.html#ab0298c30da3364739d73c36a28e76dfb" title="Jet::get_pt" alt="" coords="225,177,317,205"/>
-<area shape="rect" id="node6" href="$d7/da6/classJet.html#a40ba601bffa363398a14d09c90fe985b" title="Jet::set_property" alt="" coords="205,229,338,257"/>
-</map>

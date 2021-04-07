@@ -1,9 +1,0 @@
-<map id="TrkrClusterv1::getSize" name="TrkrClusterv1::getSize">
-<area shape="rect" id="node2" href="$dc/d79/classTrkrClusterv1.html#af1e5d15c5894fd5c67f17e0dac04d306" title="TrkrClusterv1::getPhiSize" alt="" coords="224,5,415,33"/>
-<area shape="rect" id="node3" href="$dc/d79/classTrkrClusterv1.html#ab875fa4782b3ac48fa8652aacc1cefa7" title="TrkrClusterv1::identify" alt="" coords="463,57,635,85"/>
-<area shape="rect" id="node7" href="$dc/d79/classTrkrClusterv1.html#a599408f1d4bd48050168509475a04c29" title="TrkrClusterv1::getZSize" alt="" coords="229,109,409,137"/>
-<area shape="rect" id="node8" href="$dc/d79/classTrkrClusterv1.html#ae6f28418e9ec95ac687b12e0968b1898" title="isValid returns non zero if object contains vailid data" alt="" coords="237,161,401,189"/>
-<area shape="rect" id="node4" href="$dd/d60/classTpcPrototypeUnpacker.html#a018feffce2f4cf203fb9efc95d3c701a" title="TpcPrototypeUnpacker\l::exportDSTCluster" alt="" coords="683,49,859,93"/>
-<area shape="rect" id="node5" href="$dd/d60/classTpcPrototypeUnpacker.html#a3f531b94d26bba622c59c5b71ca4dd8e" title="Clustering then prepare IOs." alt="" coords="907,49,1083,93"/>
-<area shape="rect" id="node6" href="$dd/d60/classTpcPrototypeUnpacker.html#a3c458d1bda422672ff79946e5816f197" title="TpcPrototypeUnpacker\l::process_event" alt="" coords="1131,49,1307,93"/>
-</map>

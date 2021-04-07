@@ -1,6 +1,0 @@
-<map id="Fun4AllDstOutputManager::Print" name="Fun4AllDstOutputManager::Print">
-<area shape="rect" id="node2" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="493,6,646,34"/>
-<area shape="rect" id="node3" href="$d8/d77/classFun4AllOutputManager.html#a88e93d6a7e6cb5f40245b3cda59649bc" title="get output file name" alt="" coords="253,23,432,67"/>
-<area shape="rect" id="node4" href="$d8/d77/classFun4AllOutputManager.html#ae13cdf197e3ae6f5310199ca034b8754" title="print method (dump event selector)" alt="" coords="253,91,432,135"/>
-<area shape="rect" id="node5" href="$d8/d77/classFun4AllOutputManager.html#af86abee7682ee661cf4477e1e0443f71" title="get number of Events" alt="" coords="480,91,659,135"/>
-</map>

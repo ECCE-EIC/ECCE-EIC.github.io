@@ -1,8 +1,0 @@
-<map id="RawTower_Prototype4::get_energy_power_law_double_exp" name="RawTower_Prototype4::get_energy_power_law_double_exp">
-<area shape="rect" id="node2" href="$d4/def/namespacePROTOTYPE4__FEM.html#a326b922b6e178b23a0802e77932602ba" title="Power law double exp fit." alt="" coords="239,69,460,113"/>
-<area shape="rect" id="node3" href="$d9/d9e/evDisplay_8C.html#aa88c4e96fb52fe557d1b37b229d46f38" title="pedestal" alt="" coords="809,43,888,71"/>
-<area shape="rect" id="node4" href="$d8/dde/namespaceTPCDaqDefs_1_1FEEv1.html#abd2061ecda45294b4af7a576942bdec5" title="TPCDaqDefs::FEEv1::\lSignalShape_PowerLawDoubleExp" alt="" coords="508,35,761,79"/>
-<area shape="rect" id="node6" href="$d8/dde/namespaceTPCDaqDefs_1_1FEEv1.html#a47c72b7f30d93c45803dab7b7a2adb53" title="TPCDaqDefs::FEEv1::\lSignalShape_PowerLawExp" alt="" coords="532,103,737,147"/>
-<area shape="rect" id="node7" href="$db/d5d/test__style_8C.html#a2513fe0eb0478642e44ad1201af61a46" title="f2" alt="" coords="615,171,654,199"/>
-<area shape="rect" id="node5" href="$d9/d9e/evDisplay_8C.html#a4e8c1369ad3f4b66e1057a8bf987b94b" title="signal" alt="" coords="818,103,879,131"/>
-</map>

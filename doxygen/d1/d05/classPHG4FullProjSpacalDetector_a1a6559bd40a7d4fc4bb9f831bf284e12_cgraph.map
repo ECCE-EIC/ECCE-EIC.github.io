@@ -1,8 +1,0 @@
-<map id="PHG4FullProjSpacalDetector::Print" name="PHG4FullProjSpacalDetector::Print">
-<area shape="rect" id="node2" href="$d1/d05/classPHG4FullProjSpacalDetector.html#ae56250077cd2b8eaa62829541a3ff6f3" title="get the v3 cast of the geometry object" alt="" coords="270,5,481,49"/>
-<area shape="rect" id="node3" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="281,73,470,101"/>
-<area shape="rect" id="node4" href="$de/d61/classPHG4CylinderGeom__Spacalv3.html#aba7c905f0fdacb1830781ea2ab74f2d1" title="PHG4CylinderGeom_Spacalv3\l::Print" alt="" coords="264,125,487,169"/>
-<area shape="rect" id="node5" href="$d0/d1f/classEventiterator.html#aca55e3fae164615c2986bb1181aa0c54" title="Eventiterator::identify" alt="" coords="561,103,731,131"/>
-<area shape="rect" id="node6" href="$db/d5f/classPHG4CylinderGeom__Spacalv2.html#a83a50d9b62827f465e2014d1c921a15a" title="PHG4CylinderGeom_Spacalv2\l::Print" alt="" coords="535,155,757,199"/>
-<area shape="rect" id="node7" href="$d2/da2/classPHG4CylinderGeom__Spacalv1.html#a1cdcc10ac6ac29063e200bbff1e4c079" title="PHG4CylinderGeom_Spacalv1\l::Print" alt="" coords="805,155,1028,199"/>
-</map>

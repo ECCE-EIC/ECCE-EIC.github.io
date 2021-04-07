@@ -1,8 +1,0 @@
-<map id="PHG4CylinderGeom_Spacalv3::geom_tower::identify" name="PHG4CylinderGeom_Spacalv3::geom_tower::identify">
-<area shape="rect" id="node2" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#a1e97508c5325d68d3164cf8076e3eef6" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="276,5,512,49"/>
-<area shape="rect" id="node5" href="$db/dc2/classPHG4SpacalPrototypeDetector.html#afdab9ce7ec2aa157af0fe75bdbcdc93d" title="a block along z axis built with G4Trd that is slightly tapered in x dimension" alt="" coords="280,73,508,117"/>
-<area shape="rect" id="node3" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#a89b6e3c050233502c4d15065661fa5b8" title="PHG4SpacalPrototype4Detector\l::Construct_AzimuthalSeg" alt="" coords="560,5,796,49"/>
-<area shape="rect" id="node4" href="$dc/d57/classPHG4SpacalPrototype4Detector.html#aed2a21ff80c7f387832f684e8ee7ee16" title="PHG4SpacalPrototype4Detector\l::ConstructMe" alt="" coords="844,5,1080,49"/>
-<area shape="rect" id="node6" href="$db/dc2/classPHG4SpacalPrototypeDetector.html#acc645e26fbb90c42a8e1b96cc468bb1e" title="PHG4SpacalPrototypeDetector\l::Construct_AzimuthalSeg" alt="" coords="564,73,792,117"/>
-<area shape="rect" id="node7" href="$db/dc2/classPHG4SpacalPrototypeDetector.html#aea582a01978e516e9a623421dc3c1e2c" title="PHG4SpacalPrototypeDetector\l::ConstructMe" alt="" coords="848,73,1076,117"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="DVMPHelper::pass_cut" name="DVMPHelper::pass_cut">
-<area shape="rect" id="node2" href="$dd/d6c/classDVMPHelper.html#a9c3b72489d3f5fb0893f693024bcd3f0" title="DVMPHelper::calculateInvariant\lMass_1" alt="" coords="227,5,463,49"/>
-<area shape="rect" id="node5" href="$dd/d6c/classDVMPHelper.html#a451b295b8d19ccb4c84719512fa4259d" title="DVMPHelper::calculateInvariant\lMass_3" alt="" coords="227,73,463,117"/>
-<area shape="rect" id="node6" href="$dd/d6c/classDVMPHelper.html#aa8c35b42cc74224151f4263efcc4f0f8" title="DVMPHelper::calculateInvariant\lMass_4" alt="" coords="227,141,463,185"/>
-<area shape="rect" id="node3" href="$da/d73/classExclusiveReco.html#a48d900fd8ad00d0b252204dcbb941bc7" title="ExclusiveReco::AddInvariant\lMassInformation" alt="" coords="511,73,724,117"/>
-<area shape="rect" id="node4" href="$da/d73/classExclusiveReco.html#a026079694f2af119464bf5955c27a01c" title="ExclusiveReco::process\l_event" alt="" coords="772,73,951,117"/>
-</map>

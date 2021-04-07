@@ -1,9 +1,0 @@
-<map id="SimpleHit3D::set_error" name="SimpleHit3D::set_error">
-<area shape="rect" id="node2" href="$da/d87/classSimpleHit3D.html#a6197850bb9fdd280e35067280abafd3e" title="SimpleHit3D::SimpleHit3D" alt="" coords="232,5,432,33"/>
-<area shape="rect" id="node3" href="$d1/d97/classPHPatternReco.html#aceb09e501b427d8fbce29e7790bd19d4" title="PHPatternReco::translate\l_input" alt="" coords="237,57,427,101"/>
-<area shape="rect" id="node5" href="$d2/d8f/classPHInitZVertexing.html#aefdd3d35e9f530093d9dc58a457b1e79" title="PHInitZVertexing::translate\l_input" alt="" coords="230,125,434,169"/>
-<area shape="rect" id="node7" href="$d8/dd4/classPHHoughSeeding.html#a4204cf7d0291bbdbfd0d299e8435512e" title="fetch node pointers" alt="" coords="228,193,436,237"/>
-<area shape="rect" id="node4" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="493,57,674,101"/>
-<area shape="rect" id="node6" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="486,133,681,161"/>
-<area shape="rect" id="node8" href="$d8/dd4/classPHHoughSeeding.html#a8b2c7b85b2bcbe054e071dd6ff624f7d" title="PHHoughSeeding::Process" alt="" coords="484,201,683,229"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="Jet::set_property" name="Jet::set_property">
-<area shape="rect" id="node2" href="$dc/d64/classHFJetTruthTrigger.html#ada13f34c0011a913e0ceb04396f405f4" title="tag jet flavor by hadron matching, like MIE proposal" alt="" coords="220,5,365,49"/>
-<area shape="rect" id="node4" href="$dc/d64/classHFJetTruthTrigger.html#ac5286e62e39c41db272d605b12de5f7d" title="tag jet flavor by parton matching, like PRL 113, 132301 (2014)" alt="" coords="220,73,365,117"/>
-<area shape="rect" id="node5" href="$d6/d02/classDetermineTowerBackground.html#a1e2d3c456b619165aec9114ae37ee6bf" title="DetermineTowerBackground\l::process_event" alt="" coords="187,141,399,185"/>
-<area shape="rect" id="node3" href="$dc/d64/classHFJetTruthTrigger.html#a285f04a4990696900275fab25aa86106" title="HFJetTruthTrigger::\lprocess_event" alt="" coords="447,40,592,84"/>
-</map>

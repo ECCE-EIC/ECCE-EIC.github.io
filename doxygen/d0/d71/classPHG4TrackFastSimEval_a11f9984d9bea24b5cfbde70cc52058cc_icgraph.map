@@ -1,6 +1,0 @@
-<map id="PHG4TrackFastSimEval::reset_variables" name="PHG4TrackFastSimEval::reset_variables">
-<area shape="rect" id="node2" href="$d0/d71/classPHG4TrackFastSimEval.html#a52a746bdc6e84dc7886b5bae0b608e68" title="PHG4TrackFastSimEval\l::fill_track_tree" alt="" coords="233,5,407,49"/>
-<area shape="rect" id="node4" href="$d0/d71/classPHG4TrackFastSimEval.html#abb5af30ed95d2dc6212aca004f92016d" title="PHG4TrackFastSimEval\l::fill_vertex_tree" alt="" coords="233,73,407,117"/>
-<area shape="rect" id="node5" href="$d0/d71/classPHG4TrackFastSimEval.html#add5db0942487623b913f0ad9aeb1e3e9" title="PHG4TrackFastSimEval\l::PHG4TrackFastSimEval" alt="" coords="228,141,412,185"/>
-<area shape="rect" id="node3" href="$d0/d71/classPHG4TrackFastSimEval.html#ab0136bd1d81150679effd3e148c3cfc4" title="PHG4TrackFastSimEval\l::process_event" alt="" coords="460,40,635,84"/>
-</map>

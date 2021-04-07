@@ -1,5 +1,0 @@
-<map id="SvtxTrackState::CloneMe" name="SvtxTrackState::CloneMe">
-<area shape="rect" id="node2" href="$db/de4/classSvtxTrack__v1.html#aebe4cbcfe7b85b5d0fc179366d383d0f" title="SvtxTrack_v1::insert\l_state" alt="" coords="243,5,400,49"/>
-<area shape="rect" id="node3" href="$d9/d91/classPHG4TrackFastSim.html#ab1ae4586bc276e05c9cbbfc88d7a4aff" title="PHG4TrackFastSim::MakeSvtx\lTrack" alt="" coords="448,5,669,49"/>
-<area shape="rect" id="node4" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="717,5,925,49"/>
-</map>

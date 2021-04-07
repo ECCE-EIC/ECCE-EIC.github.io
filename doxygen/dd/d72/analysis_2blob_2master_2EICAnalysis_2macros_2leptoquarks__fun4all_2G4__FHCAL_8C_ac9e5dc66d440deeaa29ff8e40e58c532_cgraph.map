@@ -1,7 +1,0 @@
-<map id="FHCALSetup" name="FHCALSetup">
-<area shape="rect" id="node2" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="187,5,368,33"/>
-<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html#a23501010ac65db7c2bc31c02c5945ecb" title="PHG4Subsystem::OverlapCheck" alt="" coords="159,57,396,85"/>
-<area shape="rect" id="node4" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="164,109,391,137"/>
-<area shape="rect" id="node5" href="$df/d58/classPHG4ForwardHcalSubsystem.html#a1ff3ec31290571c2636146b32bed6dca" title="PHG4ForwardHcalSubsystem\l::SetAbsorberActive" alt="" coords="169,161,386,205"/>
-<area shape="rect" id="node6" href="$df/d58/classPHG4ForwardHcalSubsystem.html#aeb17265040b6988cbb0f7e9e5aeccc84" title="PHG4ForwardHcalSubsystem\l::SetTowerMappingFile" alt="" coords="169,229,386,273"/>
-</map>

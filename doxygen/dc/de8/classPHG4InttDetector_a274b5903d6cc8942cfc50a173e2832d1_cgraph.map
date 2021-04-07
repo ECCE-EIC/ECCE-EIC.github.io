@@ -1,9 +1,0 @@
-<map id="PHG4InttDetector::ConstructIntt" name="PHG4InttDetector::ConstructIntt">
-<area shape="rect" id="node2" href="$d7/d14/classPHG4InttDisplayAction.html#a39432ce679287388e2f96668f4bc2120" title="PHG4InttDisplayAction\l::AddVolume" alt="" coords="315,5,488,49"/>
-<area shape="rect" id="node3" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="367,73,435,101"/>
-<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="301,125,501,169"/>
-<area shape="rect" id="node5" href="$dd/dae/classPHParameters.html#a0241ca27a369ab4865ac3d79620ac27c" title="PHParameters::get_int\l_param" alt="" coords="315,193,487,237"/>
-<area shape="rect" id="node6" href="$d7/d6b/classPHParametersContainer.html#ab3e63b8b945b61000299f853eb6cb110" title="PHParametersContainer\l::GetParameters" alt="" coords="310,261,493,305"/>
-<area shape="rect" id="node7" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="291,329,512,357"/>
-<area shape="rect" id="node8" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="307,381,496,409"/>
-</map>

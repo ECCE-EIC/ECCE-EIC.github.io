@@ -1,8 +1,0 @@
-<map id="PHG4CellContainer::findCell" name="PHG4CellContainer::findCell">
-<area shape="rect" id="node2" href="$de/d0b/classCaloRawTowerEval.html#ac47d08a77fcfab78124cf54006fdccd0" title="what truth hits contributed energy to this tower?" alt="" coords="225,35,397,79"/>
-<area shape="rect" id="node5" href="$db/d1c/classPHG4TpcPadPlaneSimple.html#aa3a99959cef017400747cf9c999deeef" title="PHG4TpcPadPlaneSimple\l::MapToPadPlane" alt="" coords="216,103,407,147"/>
-<area shape="rect" id="node6" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a56fe08cc093dc800b38ec28a7e971bf3" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="211,171,412,215"/>
-<area shape="rect" id="node7" href="$da/d27/classTPCDataStreamEmulator.html#a103b0eab10ddf8a3b47e2d6e36b5a59d" title="TPCDataStreamEmulator\l::process_event" alt="" coords="216,239,407,283"/>
-<area shape="rect" id="node3" href="$da/d7e/classCaloRawClusterEval.html#a6dca3e2823bfaf5a27c13c0c40c1ad82" title="what truth hits contributed energy to this tower?" alt="" coords="460,5,615,49"/>
-<area shape="rect" id="node4" href="$dd/d75/classJetRecoEval.html#a83e004c6c55ecf277a13a046d90790a3" title="which truth hits contributed to this reconstructed jet?" alt="" coords="663,44,860,72"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="RawTowerGeomContainer::get_radius" name="RawTowerGeomContainer::get_radius">
-<area shape="rect" id="node2" href="$df/d0d/classRawTowerCombiner.html#a9dbc0b9dfed20dcd3a9a5f6dcf53636d" title="RawTowerCombiner::Create\lNodes" alt="" coords="249,5,456,49"/>
-<area shape="rect" id="node4" href="$db/dc4/classPHGenFitTrackProjection.html#ae2e85a8af68c6564ef33a4b85ecc17bd" title="PHGenFitTrackProjection\l::InitRun" alt="" coords="261,73,445,117"/>
-<area shape="rect" id="node5" href="$d9/d91/classPHG4TrackFastSim.html#a17dc5842cbcfb29af50a12af173c82c8" title="Initialization Run, called for initialization of a run." alt="" coords="251,141,454,169"/>
-<area shape="rect" id="node6" href="$d8/d5d/classRawClusterBuilderTemplate.html#a0c7c1981bbe39c660bff36304525272f" title="RawClusterBuilderTemplate\l::process_event" alt="" coords="249,193,456,237"/>
-<area shape="rect" id="node3" href="$df/d0d/classRawTowerCombiner.html#a7c200854ab6656841ce516da52eb7639" title="RawTowerCombiner::InitRun" alt="" coords="504,13,713,41"/>
-</map>

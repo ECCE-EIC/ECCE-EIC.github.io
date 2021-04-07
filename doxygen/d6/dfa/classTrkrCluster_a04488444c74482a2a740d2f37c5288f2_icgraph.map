@@ -1,7 +1,0 @@
-<map id="TrkrCluster::getZSize" name="TrkrCluster::getZSize">
-<area shape="rect" id="node2" href="$d2/d93/classTrkrEvaluator.html#a753a5ea1a91f097f5c226f5b1620db3f" title="dump the evaluator information into ntuple for external analysis" alt="" coords="217,5,403,49"/>
-<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="216,73,404,117"/>
-<area shape="rect" id="node6" href="$db/d6d/classAnaMvtxTestBeam2019.html#a043d418b56118618968c827ff5030719" title="AnaMvtxTestBeam2019\l::process_event" alt="" coords="219,141,401,185"/>
-<area shape="rect" id="node3" href="$d2/d93/classTrkrEvaluator.html#af1cb893f5a8aebc803c2bb55dd582e5a" title="TrkrEvaluator::process\l_event" alt="" coords="453,5,627,49"/>
-<area shape="rect" id="node5" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="452,73,628,117"/>
-</map>

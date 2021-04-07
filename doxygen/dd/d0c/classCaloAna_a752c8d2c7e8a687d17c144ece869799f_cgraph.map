@@ -1,5 +1,0 @@
-<map id="CaloAna::process_towers" name="CaloAna::process_towers">
-<area shape="rect" id="node2" href="$d0/d25/group__cylindrical__calorimeter.html#gaa9140242d594e93aab92b1092a167a58" title="RawTowerGeomContainer\l::get_etacenter" alt="" coords="244,5,440,49"/>
-<area shape="rect" id="node3" href="$d0/d25/group__cylindrical__calorimeter.html#ga034c36ddaadba3382c053d0ecb0af185" title="RawTowerGeomContainer\l::get_phicenter" alt="" coords="244,73,440,117"/>
-<area shape="rect" id="node4" href="$d3/dc7/classRawTowerContainer.html#a570f017dc793182557b3382e07374491" title="return all towers" alt="" coords="261,141,423,185"/>
-</map>

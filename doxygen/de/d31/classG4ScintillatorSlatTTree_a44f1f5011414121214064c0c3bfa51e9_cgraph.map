@@ -1,6 +1,0 @@
-<map id="G4ScintillatorSlatTTree::process_event" name="G4ScintillatorSlatTTree::process_event">
-<area shape="rect" id="node2" href="$d7/dfc/classG4RootScintillatorSlatContainer.html#ad2ee0395c73052b55817d245a66bf2da" title="G4RootScintillatorSlatContainer\l::AddSlat" alt="" coords="228,5,464,49"/>
-<area shape="rect" id="node3" href="$d1/daa/classPHG4ScintillatorSlat.html#a4bdc3596deb6fb1dbf6ae7985505f7e2" title="PHG4ScintillatorSlat\l::get_edep" alt="" coords="267,73,425,117"/>
-<area shape="rect" id="node4" href="$d7/dfc/classG4RootScintillatorSlatContainer.html#a58db1e8f388601d92731870574cc2abf" title="G4RootScintillatorSlatContainer\l::set_etotal" alt="" coords="228,141,464,185"/>
-<area shape="rect" id="node5" href="$d7/dfc/classG4RootScintillatorSlatContainer.html#a784d8ebcd5d24eabc3445c26f6371718" title="G4RootScintillatorSlatContainer\l::set_event" alt="" coords="228,209,464,253"/>
-</map>

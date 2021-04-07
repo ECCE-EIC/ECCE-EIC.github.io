@@ -1,7 +1,0 @@
-<map id="PHG4DetectorGroupSubsystem::SaveParamsToFile" name="PHG4DetectorGroupSubsystem::SaveParamsToFile">
-<area shape="rect" id="node2" href="$d7/d6b/classPHParametersContainer.html#a2ff7874e21c88c95d6c630512185bbaa" title="PHParametersContainer\l::WriteToFile" alt="" coords="287,49,469,93"/>
-<area shape="rect" id="node3" href="$dc/d80/classPdbBankID.html#a26db21ac8e324b200456e462d5f389dc" title="PdbBankID::getInternalValue" alt="" coords="545,5,759,33"/>
-<area shape="rect" id="node4" href="$da/dc2/classPHTimeStamp.html#aaf398dcc8d0066c674cc30dbbef5efcb" title="PHTimeStamp::getTics" alt="" coords="565,57,739,85"/>
-<area shape="rect" id="node5" href="$d7/d6b/classPHParametersContainer.html#a278f75a3ec3234961271ad8d33c4c126" title="PHParametersContainer\l::CopyToPdbParameterMapContainer" alt="" coords="517,109,787,153"/>
-<area shape="rect" id="node6" href="$d4/d7d/classPdbParameterMapContainer.html#a0e5436b10b4e13f2575b80553dc8beba" title="PdbParameterMapContainer\l::AddPdbParameterMap" alt="" coords="835,109,1047,153"/>
-</map>

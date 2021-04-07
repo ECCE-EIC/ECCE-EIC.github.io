@@ -1,7 +1,0 @@
-<map id="PHG4CylinderCellGeom::get_zstep" name="PHG4CylinderCellGeom::get_zstep">
-<area shape="rect" id="node2" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#afb8cd2eb40385b19cc084e19143e58c8" title="PHG4TpcPadPlaneReadout\l::populate_zbins" alt="" coords="233,5,435,49"/>
-<area shape="rect" id="node4" href="$d6/d03/classTpcPrototypeClusterizer.html#ad790455b460f30f668670fcd15cc36fb" title="TpcPrototypeClusterizer\l::process_event" alt="" coords="241,73,427,117"/>
-<area shape="rect" id="node5" href="$de/d25/classTpcClusterizer.html#a8dd29d5451a29cd488440e096a9f53d1" title="TpcClusterizer::process\l_event" alt="" coords="244,141,424,185"/>
-<area shape="rect" id="node6" href="$d5/dd0/classPHG4CylinderCellReco.html#acd9297cbac172c726c8da55f875a824a" title="event processing" alt="" coords="248,209,420,253"/>
-<area shape="rect" id="node3" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a56fe08cc093dc800b38ec28a7e971bf3" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="483,5,684,49"/>
-</map>

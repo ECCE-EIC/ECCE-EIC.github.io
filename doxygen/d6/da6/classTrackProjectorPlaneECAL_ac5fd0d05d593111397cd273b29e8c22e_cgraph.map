@@ -1,5 +1,0 @@
-<map id="TrackProjectorPlaneECAL::get_detector_from_cluster" name="TrackProjectorPlaneECAL::get_detector_from_cluster">
-<area shape="rect" id="node2" href="$da/d58/namespaceRawTowerDefs.html#abe0066c841778a599760e75d9ea2e804" title="RawTowerDefs::convert\l_caloid_to_name" alt="" coords="260,5,440,49"/>
-<area shape="rect" id="node3" href="$da/d58/namespaceRawTowerDefs.html#afefd6e46416b49770fdbb506daa2f9ce" title="RawTowerDefs::decode\l_caloid" alt="" coords="261,73,439,117"/>
-<area shape="rect" id="node4" href="$d6/dc7/group__getters.html#gaf0461bd4d57237e8757b615f0cd95fc0" title="RawCluster::get_towers" alt="" coords="260,141,440,169"/>
-</map>

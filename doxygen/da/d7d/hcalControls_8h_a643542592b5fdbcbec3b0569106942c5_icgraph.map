@@ -1,9 +1,0 @@
-<map id="HLABdataDir" name="HLABdataDir">
-<area shape="rect" id="node2" href="$db/de1/classhLabHelper.html#a31bcc9323065347cbfd9e278e1d857e9" title="hLabHelper::getFileLists" alt="" coords="171,65,354,93"/>
-<area shape="rect" id="node6" href="$db/de1/classhLabHelper.html#a2bdad9b7ed2d473efea3cda3726d322b" title="hLabHelper::runToPRDFFile" alt="" coords="161,125,364,153"/>
-<area shape="rect" id="node3" href="$db/de1/classhLabHelper.html#af1bc788fdf8714c642a2fccc61c733cc" title="hLabHelper::attachrootrun" alt="" coords="412,5,612,33"/>
-<area shape="rect" id="node5" href="$d8/d2c/classtileLightYield.html#afee1eabfd2c9ab33a6d6c2885ecbf014" title="tileLightYield::tileLight\lYield" alt="" coords="425,57,599,101"/>
-<area shape="rect" id="node4" href="$d0/de7/classtileHelper.html#a5cc554cd3554a5356d6376cb62ceb433" title="tileHelper::tilePattern" alt="" coords="660,5,824,33"/>
-<area shape="rect" id="node7" href="$db/de1/classhLabHelper.html#a9743e4375ec051838915182ce1b24799" title="hLabHelper::evDisplay" alt="" coords="425,125,599,153"/>
-<area shape="rect" id="node8" href="$db/de1/classhLabHelper.html#ad8b66df4f9b4b700e95c408c6c69408b" title="hLabHelper::setPRDFRun" alt="" coords="417,177,607,205"/>
-</map>

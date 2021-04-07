@@ -1,8 +1,0 @@
-<map id="TpcDefs::getSide" name="TpcDefs::getSide">
-<area shape="rect" id="node2" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="191,5,389,49"/>
-<area shape="rect" id="node4" href="$d7/db0/namespaceTpcDefs.html#a5f42c6b0f4cfea43db9931d43a62be77" title="Get the side id from cluskey." alt="" coords="221,73,359,101"/>
-<area shape="rect" id="node5" href="$de/d25/classTpcClusterizer.html#a8dd29d5451a29cd488440e096a9f53d1" title="TpcClusterizer::process\l_event" alt="" coords="200,125,380,169"/>
-<area shape="rect" id="node6" href="$d6/d03/classTpcPrototypeClusterizer.html#ad790455b460f30f668670fcd15cc36fb" title="TpcPrototypeClusterizer\l::process_event" alt="" coords="197,193,383,237"/>
-<area shape="rect" id="node7" href="$d7/ddb/classPHG4TpcElectronDrift.html#a92dfae090d091df16bfde8d0318bfe8f" title="PHG4TpcElectronDrift\l::process_event" alt="" coords="206,261,374,305"/>
-<area shape="rect" id="node3" href="$d1/dc5/classPHG4TpcDigitizer.html#a3a1281c04ddb169c704cc2c03a327e04" title="event processing" alt="" coords="437,5,637,49"/>
-</map>

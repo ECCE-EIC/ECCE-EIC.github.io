@@ -1,9 +1,0 @@
-<map id="CylinderKalman::calculateMeasurements" name="CylinderKalman::calculateMeasurements">
-<area shape="rect" id="node2" href="$da/d87/classSimpleHit3D.html#afedde585b37d72326a4ffd97978eec56" title="SimpleHit3D::get_size" alt="" coords="252,13,421,41"/>
-<area shape="rect" id="node6" href="$da/d87/classSimpleHit3D.html#a7f9d236c9f34d7b37abdf76cbcdcc325" title="SimpleHit3D::get_x" alt="" coords="261,65,413,93"/>
-<area shape="rect" id="node7" href="$da/d87/classSimpleHit3D.html#a004f4dc96baa6789bb599036471d1e0d" title="SimpleHit3D::get_y" alt="" coords="261,117,413,145"/>
-<area shape="rect" id="node8" href="$da/d87/classSimpleHit3D.html#a32bb6a50aea56d16a2b81b4e5c02ffc0" title="SimpleHit3D::get_z" alt="" coords="261,169,412,197"/>
-<area shape="rect" id="node3" href="$da/d87/classSimpleHit3D.html#ae49a0ed39765942f7347d1455d015b01" title="SimpleHit3D::covar\l_index" alt="" coords="469,5,623,49"/>
-<area shape="rect" id="node4" href="$d4/da9/namespaceboost.html#a630945877437d477612e4419562161cc" title="boost::swap" alt="" coords="671,13,773,41"/>
-<area shape="rect" id="node5" href="$d1/d96/classboost_1_1array.html#a342ef866ed696b18ce803b5c9aba4b2e" title="boost::array::swap" alt="" coords="821,13,968,41"/>
-</map>

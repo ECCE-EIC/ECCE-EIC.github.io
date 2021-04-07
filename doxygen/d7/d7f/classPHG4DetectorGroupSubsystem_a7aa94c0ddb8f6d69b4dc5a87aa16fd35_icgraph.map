@@ -1,6 +1,0 @@
-<map id="PHG4DetectorGroupSubsystem::SetDefaultParameters" name="PHG4DetectorGroupSubsystem::SetDefaultParameters">
-<area shape="rect" id="node2" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html#a98770d45ac9f2b315edd6eaae1236c50" title="PHG4DetectorGroupSubsystem\l::InitializeParameters" alt="" coords="287,73,520,117"/>
-<area shape="rect" id="node3" href="$d6/d09/classPHG4InttSubsystem.html#ab9e600984e1a9ca21e1b94cf8f8388d2" title="constructor" alt="" coords="579,5,743,49"/>
-<area shape="rect" id="node4" href="$d9/dbf/classPHG4MvtxSubsystem.html#a3af23d4328867010422c1e576a8ac8dc" title="constructor" alt="" coords="573,73,748,117"/>
-<area shape="rect" id="node5" href="$dd/d21/classPHG4PSTOFSubsystem.html#a8ed87c369b2f21e2a23298039a6eddca" title="constructor" alt="" coords="568,141,753,185"/>
-</map>

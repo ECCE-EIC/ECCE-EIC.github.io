@@ -1,5 +1,0 @@
-<map id="PHG4CEmcTestBeamSteppingAction::SetInterfacePointers" name="PHG4CEmcTestBeamSteppingAction::SetInterfacePointers">
-<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="292,5,481,33"/>
-<area shape="rect" id="node3" href="$d5/da7/classPHG4CEmcTestBeamDetector.html#a14c29d60c4613b77b7d95eccecd59b3c" title="PHG4CEmcTestBeamDetector\l::SuperDetector" alt="" coords="276,57,497,101"/>
-<area shape="rect" id="node4" href="$df/d3f/classPHG4SteppingAction.html#a4f46d6b68b124cd32518b631465359dc" title="PHG4SteppingAction\l::Verbosity" alt="" coords="306,125,467,169"/>
-</map>

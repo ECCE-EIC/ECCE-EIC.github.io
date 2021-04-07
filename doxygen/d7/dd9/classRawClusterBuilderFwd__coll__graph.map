@@ -1,9 +1,0 @@
-<map id="RawClusterBuilderFwd" name="RawClusterBuilderFwd">
-<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="78,392,179,420"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="98,276,202,304"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="37,176,127,204"/>
-<area shape="rect" id="node5" title="STL class." alt="" coords="11,83,153,127"/>
-<area shape="rect" id="node6" href="$d6/d12/classRawClusterContainer.html" title="RawClusterContainer" alt="" coords="204,392,368,420"/>
-<area shape="rect" id="node7" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="239,91,323,119"/>
-<area shape="rect" id="node10" href="$d2/d4e/classRawCluster.html" title="RawCluster" alt="" coords="301,176,399,204"/>
-</map>

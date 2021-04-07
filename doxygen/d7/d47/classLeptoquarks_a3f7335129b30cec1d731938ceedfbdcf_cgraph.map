@@ -1,8 +1,0 @@
-<map id="Leptoquarks::process_event" name="Leptoquarks::process_event">
-<area shape="rect" id="node2" href="$d9/da3/classTruthTrackerHepMC.html#ab8173361abec72cf4798b1f65ff8467c" title="TruthTrackerHepMC::\lFindDaughterParticle" alt="" coords="235,5,398,49"/>
-<area shape="rect" id="node3" href="$d9/da3/classTruthTrackerHepMC.html#a3c3682f5369bc9d6d4deb00e4f4a675a" title="TruthTrackerHepMC::\lFindDecayParticles" alt="" coords="236,73,397,117"/>
-<area shape="rect" id="node4" href="$d9/da3/classTruthTrackerHepMC.html#ab2000e7c9c298815349837fd6eab00e0" title="TruthTrackerHepMC::\lFindMissingPt" alt="" coords="236,141,397,185"/>
-<area shape="rect" id="node6" href="$d9/da3/classTruthTrackerHepMC.html#a9631e940c3988607a73358110af6ae68" title="TruthTrackerHepMC::\lFindParticle" alt="" coords="236,209,397,253"/>
-<area shape="rect" id="node7" href="$d9/da3/classTruthTrackerHepMC.html#ae0eb45adac578b1e9fe0071f05013835" title="TruthTrackerHepMC::\lset_hepmc_geneventmap" alt="" coords="219,277,415,321"/>
-<area shape="rect" id="node5" href="$d7/d7b/classPHHepMCGenEvent.html#a086a77104ec225e191885f9db7538521" title="PHHepMCGenEvent::getEvent" alt="" coords="463,184,687,212"/>
-</map>

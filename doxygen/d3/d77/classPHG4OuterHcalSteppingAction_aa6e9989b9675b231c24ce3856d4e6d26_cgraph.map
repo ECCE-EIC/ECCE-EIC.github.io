@@ -1,5 +1,0 @@
-<map id="PHG4OuterHcalSteppingAction::Init" name="PHG4OuterHcalSteppingAction::Init">
-<area shape="rect" id="node2" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="283,5,483,49"/>
-<area shape="rect" id="node3" href="$dd/dae/classPHParameters.html#a0241ca27a369ab4865ac3d79620ac27c" title="PHParameters::get_int\l_param" alt="" coords="297,73,469,117"/>
-<area shape="rect" id="node4" href="$df/d3f/classPHG4SteppingAction.html#aedfa74577cbcdade8a85f2f77cd3eb5d" title="PHG4SteppingAction\l::SetLightCorrection" alt="" coords="302,141,463,185"/>
-</map>

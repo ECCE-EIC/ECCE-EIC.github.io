@@ -1,7 +1,0 @@
-<map id="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4CrystalCalorimeterDetector.h" name="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4CrystalCalorimeterDetector.h">
-<area shape="rect" id="node2" href="$d9/da2/PHG4CrystalCalorimeterDetector_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4CrystalCalorimeter\lDetector.cc" alt="" coords="5,129,283,205"/>
-<area shape="rect" id="node3" href="$d4/de5/PHG4CrystalCalorimeterSteppingAction_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4CrystalCalorimeter\lSteppingAction.cc" alt="" coords="307,129,584,205"/>
-<area shape="rect" id="node4" href="$de/d92/PHG4CrystalCalorimeterSubsystem_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4CrystalCalorimeter\lSubsystem.cc" alt="" coords="515,253,792,329"/>
-<area shape="rect" id="node5" href="$db/d3c/PHG4ProjCrystalCalorimeterDetector_8h.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4ProjCrystalCalorimeter\lDetector.h" alt="" coords="659,129,962,205"/>
-<area shape="rect" id="node6" href="$d7/df2/PHG4ProjCrystalCalorimeterDetector_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4ProjCrystalCalorimeter\lDetector.cc" alt="" coords="833,253,1135,329"/>
-</map>

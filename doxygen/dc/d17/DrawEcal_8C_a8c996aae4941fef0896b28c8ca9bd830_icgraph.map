@@ -1,8 +1,0 @@
-<map id="DrawTower_Load" name="DrawTower_Load">
-<area shape="rect" id="node2" href="$dc/d17/DrawEcal_8C.html#ac066a567959fcaedbcbe344fc8857d05" title="DrawEnergyDensity" alt="" coords="227,5,381,33"/>
-<area shape="rect" id="node3" href="$dc/d17/DrawEcal_8C.html#ae0776e4c7ce71db54b51f5ea830e258a" title="DrawEnergyDensityXY" alt="" coords="217,57,391,85"/>
-<area shape="rect" id="node4" href="$dc/d17/DrawEcal_8C.html#a6b1d1248b6ac150ffd4ca29dbbe7c5fe" title="DrawTower_EMCDistribution" alt="" coords="199,109,409,137"/>
-<area shape="rect" id="node5" href="$dc/d17/DrawEcal_8C.html#a4b576bb5f840b6927d289b02f3f7e182" title="DrawTower_EMCDistribution5x5" alt="" coords="187,161,421,189"/>
-<area shape="rect" id="node6" href="$dc/d17/DrawEcal_8C.html#a1303f450f966a7b2685fe69919a7a502" title="DrawTower_EMCTrigEff" alt="" coords="217,213,391,241"/>
-<area shape="rect" id="node7" href="$dc/d17/DrawEcal_8C.html#a90e2f805054c27bf06f60b058f579be0" title="DrawTower_EMCTrigEff\l_SlideingWindow2" alt="" coords="217,265,391,309"/>
-</map>

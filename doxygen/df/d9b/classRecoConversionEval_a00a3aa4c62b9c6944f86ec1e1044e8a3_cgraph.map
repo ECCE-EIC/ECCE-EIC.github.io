@@ -1,8 +1,0 @@
-<map id="RecoConversionEval::approachDistance" name="RecoConversionEval::approachDistance">
-<area shape="rect" id="node2" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="212,5,353,33"/>
-<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="212,57,353,85"/>
-<area shape="rect" id="node4" href="$d2/db8/classSvtxTrack.html#a826b1ab6d05d45e5148c4645befe4def" title="SvtxTrack::get_pz" alt="" coords="213,109,353,137"/>
-<area shape="rect" id="node5" href="$d2/db8/classSvtxTrack.html#af2317becf2120fcad5cefaa61a01407e" title="SvtxTrack::get_x" alt="" coords="217,161,349,189"/>
-<area shape="rect" id="node6" href="$d2/db8/classSvtxTrack.html#ac4bf3bd4ecaeff1ca06c48942a8b9236" title="SvtxTrack::get_y" alt="" coords="217,213,349,241"/>
-<area shape="rect" id="node7" href="$d2/db8/classSvtxTrack.html#aaaa435dd9d41dbe836f0608712ca12db" title="SvtxTrack::get_z" alt="" coords="217,265,348,293"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="sPHENIXTrackerTpc::initSplitting" name="sPHENIXTrackerTpc::initSplitting">
-<area shape="rect" id="node2" href="$d8/ddc/classsPHENIXTrackerTpc.html#a63dc5dd7e87c012cd6d8268b2d47cec5" title="sPHENIXTrackerTpc::\linitEvent" alt="" coords="212,40,371,84"/>
-<area shape="rect" id="node3" href="$d8/ddc/classsPHENIXTrackerTpc.html#a042f70f2fcd63dcf947273fa9b6828a8" title="sPHENIXTrackerTpc::\lsetNLayers" alt="" coords="419,5,577,49"/>
-<area shape="rect" id="node4" href="$d8/ddc/classsPHENIXTrackerTpc.html#acb7d8decf0357bf5e314be6bd735e0d5" title="sPHENIXTrackerTpc::\lsetSeedLayer" alt="" coords="419,73,577,117"/>
-</map>

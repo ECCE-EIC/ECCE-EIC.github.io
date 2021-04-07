@@ -1,9 +1,0 @@
-<map id="boost::shared_ptr::swap" name="boost::shared_ptr::swap">
-<area shape="rect" id="node2" href="$d4/da9/namespaceboost.html#a8940021c293d75b997d0a2fd57fb97f4" title="boost::atomic_compare\l_exchange" alt="" coords="241,9,421,53"/>
-<area shape="rect" id="node4" href="$d4/da9/namespaceboost.html#a6d367cd4931325d822c116faf5d8b6a5" title="boost::atomic_exchange" alt="" coords="237,81,424,109"/>
-<area shape="rect" id="node6" href="$d4/da9/namespaceboost.html#a8ad2de7e358794f915f6324942ff57d7" title="boost::atomic_store" alt="" coords="253,133,408,161"/>
-<area shape="rect" id="node8" href="$d4/da9/namespaceboost.html#a51f2976f1c5b8cf202f9b843361c56d0" title="boost::swap" alt="" coords="279,185,382,213"/>
-<area shape="rect" id="node3" href="$d4/da9/namespaceboost.html#a469f2906c0424b86520ecf5d00d6aa1f" title="boost::atomic_compare\l_exchange_explicit" alt="" coords="475,5,655,49"/>
-<area shape="rect" id="node5" href="$d4/da9/namespaceboost.html#a7ec0dbdf68fd610df03b2336c97c0a9d" title="boost::atomic_exchange\l_explicit" alt="" coords="472,73,659,117"/>
-<area shape="rect" id="node7" href="$d4/da9/namespaceboost.html#a4502baaa62095798a53105d9455aa791" title="boost::atomic_store\l_explicit" alt="" coords="488,141,643,185"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="PHInitZVertexing::find_track_candidates_z" name="PHInitZVertexing::find_track_candidates_z">
-<area shape="rect" id="node2" href="$d9/d4d/classHelixHoughBin.html#a49c3219a2d689a69350ffb97a2415d7d" title="HelixHoughBin::get\l_count" alt="" coords="234,5,387,49"/>
-<area shape="rect" id="node3" href="$d9/d4d/classHelixHoughBin.html#a1e33921bcde6321f5442879646059df1" title="HelixHoughBin::get\l_dzdl_bin" alt="" coords="234,73,387,117"/>
-<area shape="rect" id="node4" href="$d9/d4d/classHelixHoughBin.html#ad8678a01fc4850ea4dd5a91ffb629097" title="HelixHoughBin::get\l_z0_bin" alt="" coords="234,141,387,185"/>
-<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="223,209,399,237"/>
-</map>

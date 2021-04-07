@@ -1,9 +1,0 @@
-<map id="AssocInfoContainer::SetClusterTrackAssoc" name="AssocInfoContainer::SetClusterTrackAssoc">
-<area shape="rect" id="node2" href="$d8/dd4/classPHHoughSeeding.html#a61550a59cd3a34af03c43572e28274cb" title="code to translate back to the SVTX universe" alt="" coords="249,5,441,49"/>
-<area shape="rect" id="node4" href="$d0/d22/classPHGenFitTrkProp.html#a425f22248030483cb56cdb867c3077c8" title="ExportOutput Call. Make SvtxTrack from PHGenFit::Track and set of clusters." alt="" coords="228,73,461,117"/>
-<area shape="rect" id="node7" href="$d5/da2/classPHTruthTrackSeeding.html#ab0ab67b0de3435bad2eeba92a482753c" title="PHTruthTrackSeeding\l::Process" alt="" coords="263,141,427,185"/>
-<area shape="rect" id="node8" href="$d2/d9a/classTpcPrototypeGenFitTrkFinder.html#ade4ab3187ffe209109db1dfae75d8311" title="Process Event, called for each event." alt="" coords="236,209,453,253"/>
-<area shape="rect" id="node3" href="$d8/dd4/classPHHoughSeeding.html#a8b2c7b85b2bcbe054e071dd6ff624f7d" title="PHHoughSeeding::Process" alt="" coords="531,13,729,41"/>
-<area shape="rect" id="node5" href="$d0/d22/classPHGenFitTrkProp.html#ab11c2e61a1b78278fa4af7cf624c2538" title="Main function." alt="" coords="509,81,751,109"/>
-<area shape="rect" id="node6" href="$d0/d22/classPHGenFitTrkProp.html#a31e50e42d62a2bf32763652b39dc95b8" title="PHGenFitTrkProp::Process" alt="" coords="799,81,991,109"/>
-</map>

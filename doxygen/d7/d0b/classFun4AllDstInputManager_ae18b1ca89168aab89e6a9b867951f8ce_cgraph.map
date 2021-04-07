@@ -1,6 +1,0 @@
-<map id="Fun4AllDstInputManager::setBranches" name="Fun4AllDstInputManager::setBranches">
-<area shape="rect" id="node2" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="259,5,412,33"/>
-<area shape="rect" id="node3" href="$d7/d4d/classPHNodeIOManager.html#a951b393b49f7932bd55ca1897fd3e3b4" title="PHNodeIOManager::selectObject\lToRead" alt="" coords="477,80,719,124"/>
-<area shape="rect" id="node4" href="$d7/d0b/classFun4AllDstInputManager.html#a22bc575e2e8b3b72e67523a694acbf22" title="Fun4AllDstInputManager\l::setSyncBranches" alt="" coords="241,109,429,153"/>
-<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="247,177,423,205"/>
-</map>

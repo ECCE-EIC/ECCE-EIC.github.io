@@ -1,5 +1,0 @@
-<map id="Packet_A::getStructure" name="Packet_A::getStructure">
-<area shape="rect" id="node2" href="$dc/d93/Cpacket_8C.html#ade89bd0e37071377bb6797d41c9b3480" title="getPacketStructure" alt="" coords="228,5,377,33"/>
-<area shape="rect" id="node3" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="425,5,587,33"/>
-<area shape="rect" id="node4" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="635,5,753,33"/>
-</map>

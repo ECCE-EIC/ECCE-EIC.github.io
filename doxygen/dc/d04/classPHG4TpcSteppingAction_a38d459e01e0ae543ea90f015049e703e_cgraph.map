@@ -1,5 +1,0 @@
-<map id="PHG4TpcSteppingAction::SetInterfacePointers" name="PHG4TpcSteppingAction::SetInterfacePointers">
-<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="269,5,458,33"/>
-<area shape="rect" id="node3" href="$de/d81/classPHG4TpcDetector.html#a0217bc3512e774aafb5a7b9ea0dbd55a" title="PHG4TpcDetector::SuperDetector" alt="" coords="239,57,488,85"/>
-<area shape="rect" id="node4" href="$df/d3f/classPHG4SteppingAction.html#a4f46d6b68b124cd32518b631465359dc" title="PHG4SteppingAction\l::Verbosity" alt="" coords="283,109,444,153"/>
-</map>

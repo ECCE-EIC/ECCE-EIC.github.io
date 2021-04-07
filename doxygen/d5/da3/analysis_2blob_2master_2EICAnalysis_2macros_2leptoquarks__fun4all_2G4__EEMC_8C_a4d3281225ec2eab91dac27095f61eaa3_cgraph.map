@@ -1,5 +1,0 @@
-<map id="EEMCSetup" name="EEMCSetup">
-<area shape="rect" id="node2" href="$db/df7/classPHG4Subsystem.html#a23501010ac65db7c2bc31c02c5945ecb" title="PHG4Subsystem::OverlapCheck" alt="" coords="163,5,401,33"/>
-<area shape="rect" id="node3" href="$d0/d78/classPHG4Reco.html#abc0956c0994a72d5a817b69511e1456b" title="register subsystem" alt="" coords="169,57,395,85"/>
-<area shape="rect" id="node4" href="$dc/d10/classPHG4CrystalCalorimeterSubsystem.html#a220752a571d022aaacac4480d1b15076" title="PHG4CrystalCalorimeterSubsystem\l::SetTowerMappingFile" alt="" coords="152,109,412,153"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="hLabHelper::attachrootrun" name="hLabHelper::attachrootrun">
-<area shape="rect" id="node2" href="$db/de1/classhLabHelper.html#a31bcc9323065347cbfd9e278e1d857e9" title="hLabHelper::getFileLists" alt="" coords="253,109,436,137"/>
-<area shape="rect" id="node3" href="$da/d7d/hcalControls_8h.html#a6932c924ec292fd23d662555249874d5" title="RCFrootDir" alt="" coords="527,5,621,33"/>
-<area shape="rect" id="node4" href="$da/d7d/hcalControls_8h.html#a8998226eecfa3f1d2d1dcd3e8a7ff807" title="HLABrootDir" alt="" coords="521,57,627,85"/>
-<area shape="rect" id="node5" href="$da/d7d/hcalControls_8h.html#a34b93c191015766f5a2918f696d31a39" title="RCFdataDir" alt="" coords="525,109,623,137"/>
-<area shape="rect" id="node6" href="$da/d7d/hcalControls_8h.html#a643542592b5fdbcbec3b0569106942c5" title="HLABdataDir" alt="" coords="520,161,628,189"/>
-<area shape="rect" id="node7" href="$db/de1/classhLabHelper.html#a413a1f6d8067608bb3b7696c3baf3108" title="hLabHelper::decoderun" alt="" coords="484,213,664,241"/>
-</map>

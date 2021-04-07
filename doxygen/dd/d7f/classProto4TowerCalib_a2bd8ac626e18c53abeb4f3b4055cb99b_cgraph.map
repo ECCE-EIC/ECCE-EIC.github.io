@@ -1,6 +1,0 @@
-<map id="Proto4TowerCalib::MakeAna" name="Proto4TowerCalib::MakeAna">
-<area shape="rect" id="node2" href="$dd/d7f/classProto4TowerCalib.html#aebdec7cd19efba3693d36f0934095982" title="Proto4TowerCalib::fill_sig" alt="" coords="261,5,449,33"/>
-<area shape="rect" id="node4" href="$dd/d7f/classProto4TowerCalib.html#ab435336c2e62735c45a2062b04618e00" title="Proto4TowerCalib::is_sig" alt="" coords="264,57,447,85"/>
-<area shape="rect" id="node5" href="$dd/d7f/classProto4TowerCalib.html#afe11b9444ea50e1447896ad2ac1f66e8" title="Proto4TowerCalib::reset\l_pedestal" alt="" coords="265,109,446,153"/>
-<area shape="rect" id="node3" href="$dd/d7f/classProto4TowerCalib.html#a808c89cfe0625e4d9e3ebc61feb9fabb" title="Proto4TowerCalib::getChannel\lNumber" alt="" coords="497,24,721,68"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="PHTimeServer::timer::get" name="PHTimeServer::timer::get">
-<area shape="rect" id="node2" href="$d9/d7a/classPHG4PhenixEventAction.html#a8d3143a3ddb0d3f652ceebd780a28357" title="PHG4PhenixEventAction\l::BeginOfEventAction" alt="" coords="259,5,444,49"/>
-<area shape="rect" id="node3" href="$da/daa/classPgPostBankBackupManager.html#a0a04a1d872f424730592d5b01a9952be" title="PgPostBankBackupManager\l::CleanTable" alt="" coords="247,73,456,117"/>
-<area shape="rect" id="node4" href="$da/daa/classPgPostBankBackupManager.html#a235748109f2b58dfa188d3c20d9fbe9a" title="TFile &#45;&gt; Database for official operation use." alt="" coords="247,141,456,185"/>
-<area shape="rect" id="node5" href="$d9/d7a/classPHG4PhenixEventAction.html#a2a4797d6cc52dc97b4a234b79dc82b80" title="PHG4PhenixEventAction\l::EndOfEventAction" alt="" coords="259,209,444,253"/>
-<area shape="rect" id="node6" href="$da/daa/classPgPostBankBackupManager.html#a48e85fa7beea90b4d7f828c59b5e5676" title="Database &#45;&gt; TFile for all all records satisifying record_selection." alt="" coords="247,277,456,321"/>
-</map>

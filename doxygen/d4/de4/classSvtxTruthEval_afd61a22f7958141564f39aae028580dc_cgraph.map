@@ -1,6 +1,0 @@
-<map id="SvtxTruthEval::get_vertex" name="SvtxTruthEval::get_vertex">
-<area shape="rect" id="node2" href="$dc/d23/classBaseTruthEval.html#ad3f606dcf24aeca41b79f5d64f68dc0e" title="what was the vertex creation point of the particle?" alt="" coords="200,57,349,101"/>
-<area shape="rect" id="node3" href="$de/dc9/classPHG4Particle.html#a02ca717804f76c532efaf6d1cdebda3e" title="PHG4Particle::get_vtx_id" alt="" coords="398,5,585,33"/>
-<area shape="rect" id="node4" href="$da/d6c/classPHG4TruthInfoContainer.html#a5f3f30ff74c7397069c6f0041849b53c" title="PHG4TruthInfoContainer\l::GetVtx" alt="" coords="399,57,584,101"/>
-<area shape="rect" id="node5" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="397,125,585,169"/>
-</map>

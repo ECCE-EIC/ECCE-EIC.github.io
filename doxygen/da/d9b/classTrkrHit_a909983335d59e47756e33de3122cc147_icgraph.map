@@ -1,8 +1,0 @@
-<map id="TrkrHit::addEnergy" name="TrkrHit::addEnergy">
-<area shape="rect" id="node2" href="$d1/dc5/classPHG4TpcDigitizer.html#a885fb5ebbc80c8a2ed915f762b90ad79" title="PHG4TpcDigitizer::Digitize\lCylinderCells" alt="" coords="205,5,404,49"/>
-<area shape="rect" id="node4" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a336bd9c399b931212426976290988223" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="204,73,405,117"/>
-<area shape="rect" id="node5" href="$de/d4d/classPHG4MvtxHitReco.html#afae36034dbc6416433dbbd401e71f26b" title="event processing" alt="" coords="203,141,407,185"/>
-<area shape="rect" id="node6" href="$dd/deb/classPHG4InttHitReco.html#aeae720fd9e71be360c52c2e58bea5bb5" title="event processing" alt="" coords="207,209,402,253"/>
-<area shape="rect" id="node7" href="$d7/ddb/classPHG4TpcElectronDrift.html#a92dfae090d091df16bfde8d0318bfe8f" title="PHG4TpcElectronDrift\l::process_event" alt="" coords="221,277,389,321"/>
-<area shape="rect" id="node3" href="$d1/dc5/classPHG4TpcDigitizer.html#a3a1281c04ddb169c704cc2c03a327e04" title="event processing" alt="" coords="455,5,655,49"/>
-</map>

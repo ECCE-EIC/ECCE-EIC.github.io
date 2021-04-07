@@ -1,7 +1,0 @@
-<map id="PHG4Prototype3InnerHcalSubsystem::Print" name="PHG4Prototype3InnerHcalSubsystem::Print">
-<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html#a6ce8e425ac50e6f13d44075bd6843dcf" title="PHG4DetectorSubsystem\l::GetParams" alt="" coords="356,5,548,49"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="375,73,529,101"/>
-<area shape="rect" id="node4" href="$d7/d98/classPHG4Prototype3InnerHcalDetector.html#a6844cf465ebbf7f2e5cefe4fb99f6a24" title="print detector info" alt="" coords="324,125,580,169"/>
-<area shape="rect" id="node5" href="$dd/dae/classPHParameters.html#a86d5b7d8808528ad2d4389a081f7c657" title="PHParameters::Print" alt="" coords="373,193,531,221"/>
-<area shape="rect" id="node6" href="$df/d3f/classPHG4SteppingAction.html#ab450bfc504b60661c2d6b925d7b6f028" title="PHG4SteppingAction\l::Print" alt="" coords="371,245,533,289"/>
-</map>

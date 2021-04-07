@@ -1,7 +1,0 @@
-<map id="ClusterSizeScan" name="ClusterSizeScan">
-<area shape="rect" id="node2" href="$d5/d51/DrawHadronShowers_8C.html#a84e15daec6faece69efa9a8c061a4725" title="GetResolution" alt="" coords="183,57,299,85"/>
-<area shape="rect" id="node5" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="349,109,453,137"/>
-<area shape="rect" id="node3" href="$d5/d51/DrawHadronShowers_8C.html#ac3f29226cb9dcf3fb4ab5aad51ad4afb" title="GetEvalHisto" alt="" coords="347,5,455,33"/>
-<area shape="rect" id="node4" href="$d5/d51/DrawHadronShowers_8C.html#afbe9b1a984a4764aaca150efeaa0fec9" title="GetQAHisto" alt="" coords="351,57,451,85"/>
-<area shape="rect" id="node6" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="503,109,581,137"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="getHistoryStageV1" name="getHistoryStageV1">
-<area shape="rect" id="node2" href="$db/d95/CframeV1_8h.html#a0418ec3e5257d1de68059e9543ceac71" title="getHistoryEntryV1" alt="" coords="237,31,383,59"/>
-<area shape="rect" id="node7" href="$db/d95/CframeV1_8h.html#afbf79b2d89a1784c37ff4161d3574c25" title="getStageFromHistoryEntryV1" alt="" coords="201,83,419,111"/>
-<area shape="rect" id="node3" href="$d1/dce/Cframe_8C.html#a6f01e161db6e6b94bd6aa5225e135f97" title="findFrameHistoryStart" alt="" coords="471,5,641,33"/>
-<area shape="rect" id="node6" href="$d1/dce/Cframe_8C.html#a449d7bf915cc9cadab78683d11836e4f" title="getFrameHistoryLength" alt="" coords="467,57,645,85"/>
-<area shape="rect" id="node4" href="$dd/d35/Cframe_8h.html#a9865ee8e25f33106f015f2167da9571b" title="getFrameHdrVersion" alt="" coords="693,32,852,60"/>
-<area shape="rect" id="node5" href="$d0/db6/formatError_8C.html#a5e3e311e06d8c0240b4e42af658900fb" title="setFrameError" alt="" coords="900,32,1017,60"/>
-</map>

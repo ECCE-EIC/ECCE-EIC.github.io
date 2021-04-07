@@ -1,6 +1,0 @@
-<map id="DrawPrototype2EMCalTower_ResolutionRecalib" name="DrawPrototype2EMCalTower_ResolutionRecalib">
-<area shape="rect" id="node2" href="$de/d8e/DrawPrototype2EMCalTower__ResolutionRecalib_8C.html#a69a8f172922a91b4be265aefbda2e325" title="RecalibratorMakeOnePlot" alt="" coords="264,5,456,33"/>
-<area shape="rect" id="node3" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="308,57,412,85"/>
-<area shape="rect" id="node5" href="$d8/d79/Prototype2_2EMCal_2macros_2SetOKStyle_8C.html#a35318d2178324047bb14989874dbc9b6" title="SetOKStyle" alt="" coords="311,109,409,137"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="504,57,583,85"/>
-</map>

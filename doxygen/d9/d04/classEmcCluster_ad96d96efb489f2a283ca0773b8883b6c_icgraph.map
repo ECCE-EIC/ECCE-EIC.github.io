@@ -1,6 +1,0 @@
-<map id="EmcCluster::GetTowerEnergy" name="EmcCluster::GetTowerEnergy">
-<area shape="rect" id="node2" href="$db/deb/classEmcPeakarea.html#a17c3d6c1f486fd7362d6c5ba5f2e8ff7" title="EmcPeakarea::GetChi2New" alt="" coords="277,5,482,33"/>
-<area shape="rect" id="node3" href="$db/deb/classEmcPeakarea.html#ad9e2d041709556e5b40fa23df3d42480" title="EmcPeakarea::GetCLNew" alt="" coords="283,57,475,85"/>
-<area shape="rect" id="node4" href="$d9/d04/classEmcCluster.html#a21235d45d7a0133f1cfbe6c8a6e37395" title="Returns the energy in 2x2 towers around the cluster Center of Gravity." alt="" coords="305,109,453,137"/>
-<area shape="rect" id="node5" href="$d9/d04/classEmcCluster.html#ae53411ba897ecc95197fd7166b3be252" title="Returns the EmcModule corresponding to the reconstructed impact tower." alt="" coords="271,161,488,189"/>
-</map>

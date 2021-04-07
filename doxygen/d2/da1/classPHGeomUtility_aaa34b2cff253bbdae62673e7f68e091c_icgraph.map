@@ -1,5 +1,0 @@
-<map id="PHGeomUtility::ExportGeomtry" name="PHGeomUtility::ExportGeomtry">
-<area shape="rect" id="node2" href="$db/d89/ConstructGeometry_8C.html#a21c369835643f1016f506a3da3b8d446" title="ConstructGeometry" alt="" coords="289,5,442,33"/>
-<area shape="rect" id="node3" href="$df/d51/Fun4All__ExportGeom_8C.html#a582925c51bad38d562cf19e71211adfd" title="get geometry from DST file and output TGeoManager ROOT files or other formats of geometry files..." alt="" coords="284,57,447,85"/>
-<area shape="rect" id="node4" href="$d9/d0f/Fun4All__ImportGeom_8C.html#a3388968a8dae60e9eb62b1126f747b6a" title="Read in a Geometry file, and output DST and ROOT TGeo files." alt="" coords="284,109,447,137"/>
-</map>

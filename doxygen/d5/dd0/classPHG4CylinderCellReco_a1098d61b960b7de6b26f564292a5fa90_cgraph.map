@@ -1,7 +1,0 @@
-<map id="PHG4CylinderCellReco::PHG4CylinderCellReco" name="PHG4CylinderCellReco::PHG4CylinderCellReco">
-<area shape="rect" id="node2" href="$d5/dd0/classPHG4CylinderCellReco.html#ad65ddf63cd840e9841ebc831b8b1c392" title="PHG4CylinderCellReco\l::SetDefaultParameters" alt="" coords="235,73,413,117"/>
-<area shape="rect" id="node3" href="$da/d11/classPHParameterContainerInterface.html#a304d76924bdc742b6f68fd4bede1bde4" title="PHParameterContainerInterface\l::set_default_double_param" alt="" coords="461,73,696,117"/>
-<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#a5dc8e713d09897d2654015b008364d18" title="PHParameters::exist\l_double_param" alt="" coords="765,5,923,49"/>
-<area shape="rect" id="node5" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="744,73,944,117"/>
-<area shape="rect" id="node6" href="$dd/dae/classPHParameters.html#a75005aa44390e1eb574603b0b230152b" title="PHParameters::set_double\l_param" alt="" coords="745,141,943,185"/>
-</map>

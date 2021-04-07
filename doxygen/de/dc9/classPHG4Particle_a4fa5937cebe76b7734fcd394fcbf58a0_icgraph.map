@@ -1,5 +1,0 @@
-<map id="PHG4Particle::set_Z" name="PHG4Particle::set_Z">
-<area shape="rect" id="node2" href="$db/d5c/classPHG4TruthTrackingAction.html#a22bc2cb2f4cdd07e12eee38c1a43f586" title="tracking action" alt="" coords="220,5,411,49"/>
-<area shape="rect" id="node3" href="$da/ddc/classPHG4IonGun.html#a9be0567cd28272569e2e6236e6d5a306" title="PHG4IonGun::UpdateParticle" alt="" coords="208,73,423,101"/>
-<area shape="rect" id="node4" href="$da/ddc/classPHG4IonGun.html#a5a16c52574396043551b429962256e43" title="PHG4IonGun::process\l_event" alt="" coords="471,65,639,109"/>
-</map>

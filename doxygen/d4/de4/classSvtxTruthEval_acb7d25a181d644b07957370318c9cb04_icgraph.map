@@ -1,9 +1,0 @@
-<map id="SvtxTruthEval::set_strict" name="SvtxTruthEval::set_strict">
-<area shape="rect" id="node2" href="$d8/d98/classpsTOFTimezeroEval.html#a25c3e5e12649de1507e66c332b989be0" title="print out the input object information (debugging upstream components)" alt="" coords="224,5,387,49"/>
-<area shape="rect" id="node4" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a5f5b66b96bcf4e8f905129e47e406dfc" title="print out the input object information (debugging upstream components)" alt="" coords="218,73,393,117"/>
-<area shape="rect" id="node6" href="$d6/d11/classSvtxEvaluator.html#a51a88cb55f439b7bc820fa1f727bf39a" title="print out the input object information (debugging upstream components)" alt="" coords="197,141,413,169"/>
-<area shape="rect" id="node8" href="$d9/d62/classSvtxHitEval.html#a748baba39b06efa99b35955f05cf6a94" title="SvtxHitEval::set_strict" alt="" coords="220,193,391,221"/>
-<area shape="rect" id="node3" href="$d8/d98/classpsTOFTimezeroEval.html#a2e98730e1beaa91c36947c0fe671fdd2" title="psTOFTimezeroEval::\lprocess_event" alt="" coords="468,5,631,49"/>
-<area shape="rect" id="node5" href="$d2/d85/classSvtxEvaluatorHaiwang.html#ab63ca0cc53b56dad65b89d9b18220bce" title="SvtxEvaluatorHaiwang\l::process_event" alt="" coords="462,73,637,117"/>
-<area shape="rect" id="node7" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="461,141,637,185"/>
-</map>

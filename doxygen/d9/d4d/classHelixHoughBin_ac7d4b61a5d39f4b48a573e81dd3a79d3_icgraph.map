@@ -1,8 +1,0 @@
-<map id="HelixHoughBin::set_bins" name="HelixHoughBin::set_bins">
-<area shape="rect" id="node2" href="$d2/d8f/classPHInitZVertexing.html#aaba06ae4505c75d93fdee4976ae0fad7" title="PHInitZVertexing::vote_xy" alt="" coords="240,5,436,33"/>
-<area shape="rect" id="node4" href="$d1/d97/classPHPatternReco.html#a5dcc960fb3e323ffc647bb777c24443a" title="PHPatternReco::vote_xy" alt="" coords="247,109,429,137"/>
-<area shape="rect" id="node6" href="$d1/d97/classPHPatternReco.html#a82990cbb5fd69f6527ed7723873ac6dc" title="PHPatternReco::vote_z" alt="" coords="251,161,425,189"/>
-<area shape="rect" id="node7" href="$d2/d8f/classPHInitZVertexing.html#a1b4c64990e2cdd0350b8e05a08dda0a1" title="PHInitZVertexing::vote_z" alt="" coords="245,57,431,85"/>
-<area shape="rect" id="node3" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="484,43,679,71"/>
-<area shape="rect" id="node5" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="491,116,672,160"/>
-</map>

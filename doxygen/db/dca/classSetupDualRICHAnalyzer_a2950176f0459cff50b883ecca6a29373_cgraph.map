@@ -1,6 +1,0 @@
-<map id="SetupDualRICHAnalyzer::calculate_emission_angle" name="SetupDualRICHAnalyzer::calculate_emission_angle">
-<area shape="rect" id="node2" href="$d3/d9e/classPHG4Hit.html#ab7c17485631c917f194d10e551230d50" title="PHG4Hit::get_detid" alt="" coords="256,5,405,33"/>
-<area shape="rect" id="node3" href="$d3/d9e/classPHG4Hit.html#a69cc7aee827e3da7cf86e87418f9211b" title="PHG4Hit::get_x" alt="" coords="269,57,393,85"/>
-<area shape="rect" id="node4" href="$d3/d9e/classPHG4Hit.html#a17de3a9c9dc84ce4a50fc89082689d55" title="PHG4Hit::get_y" alt="" coords="269,109,393,137"/>
-<area shape="rect" id="node5" href="$d3/d9e/classPHG4Hit.html#a06fcf6b2cbcc8413ca3d6a172458e94e" title="PHG4Hit::get_z" alt="" coords="269,161,392,189"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="TrkrClusterHitAssoc::addAssoc" name="TrkrClusterHitAssoc::addAssoc">
-<area shape="rect" id="node2" href="$d5/d86/classInttClusterizer.html#aa896d5f1adf8ac34a5ae766fd4d557bc" title="InttClusterizer::Cluster\lLadderCells" alt="" coords="228,9,401,53"/>
-<area shape="rect" id="node4" href="$dc/d12/classMvtxClusterizer.html#a1aa96e33d67d25815d5b5812566cc5b7" title="MvtxClusterizer::ClusterMvtx" alt="" coords="207,79,423,107"/>
-<area shape="rect" id="node6" href="$de/d25/classTpcClusterizer.html#a8dd29d5451a29cd488440e096a9f53d1" title="TpcClusterizer::process\l_event" alt="" coords="225,131,405,175"/>
-<area shape="rect" id="node7" href="$d6/d03/classTpcPrototypeClusterizer.html#ad790455b460f30f668670fcd15cc36fb" title="TpcPrototypeClusterizer\l::process_event" alt="" coords="222,199,407,243"/>
-<area shape="rect" id="node3" href="$d5/d86/classInttClusterizer.html#abd6df1fa3454cf1d42afb35c6d6a0073" title="event processing" alt="" coords="475,5,653,49"/>
-<area shape="rect" id="node5" href="$dc/d12/classMvtxClusterizer.html#a2b88d21ed3595b07eb7f807003ec2843" title="event processing" alt="" coords="471,73,657,117"/>
-</map>

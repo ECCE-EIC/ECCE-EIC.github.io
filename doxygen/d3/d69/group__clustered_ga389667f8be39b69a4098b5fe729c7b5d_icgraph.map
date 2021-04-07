@@ -1,9 +1,0 @@
-<map id="Jet::insert_comp" name="Jet::insert_comp">
-<area shape="rect" id="node2" href="$d0/d02/classTrackJetInput.html#a0cceae03123381b77ed599c1ed6296eb" title="TrackJetInput::get\l_input" alt="" coords="212,5,353,49"/>
-<area shape="rect" id="node3" href="$df/d01/classTowerJetInput.html#aefe1861906affd853304efd7847ec22f" title="TowerJetInput::get\l_input" alt="" coords="210,73,355,117"/>
-<area shape="rect" id="node4" href="$d5/d98/classClusterJetInput.html#aaa06c7c9d5919cec36bebe981200e11a" title="ClusterJetInput::get\l_input" alt="" coords="206,141,359,185"/>
-<area shape="rect" id="node5" href="$da/dbf/classTruthJetInput.html#a2583a24ee2031fc5a2926d20ed69b2b6" title="TruthJetInput::get\l_input" alt="" coords="212,209,353,253"/>
-<area shape="rect" id="node6" href="$df/d87/classFastJetAlgo.html#a3e3757d0950a235eb17e27464e3ee02c" title="FastJetAlgo::get_jets" alt="" coords="204,277,361,305"/>
-<area shape="rect" id="node7" href="$d6/d77/classFastJetAlgoSub.html#aedbf3469337244550d98d847a4a755a8" title="FastJetAlgoSub::get_jets" alt="" coords="191,329,375,357"/>
-<area shape="rect" id="node8" href="$da/daf/classJetHepMCLoader.html#ae68c17d088405b8d235bb43f8c115988" title="JetHepMCLoader::process\l_event" alt="" coords="185,381,380,425"/>
-</map>

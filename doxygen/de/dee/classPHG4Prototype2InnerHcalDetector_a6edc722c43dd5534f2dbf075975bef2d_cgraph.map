@@ -1,5 +1,0 @@
-<map id="PHG4Prototype2InnerHcalDetector::ConstructScintillatorBox" name="PHG4Prototype2InnerHcalDetector::ConstructScintillatorBox">
-<area shape="rect" id="node2" href="$de/dee/classPHG4Prototype2InnerHcalDetector.html#add3721c20ce9b799887c9611b05d8b49" title="PHG4Prototype2InnerHcalDetector\l::ConstructScintiTileU1" alt="" coords="309,5,565,49"/>
-<area shape="rect" id="node3" href="$de/dee/classPHG4Prototype2InnerHcalDetector.html#a52c7773d643f521ee2000e6286156871" title="PHG4Prototype2InnerHcalDetector\l::ConstructScintiTileU2" alt="" coords="309,73,565,117"/>
-<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="327,141,548,169"/>
-</map>

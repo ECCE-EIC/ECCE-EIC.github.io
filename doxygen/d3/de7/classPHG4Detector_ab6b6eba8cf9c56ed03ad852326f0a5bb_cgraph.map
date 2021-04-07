@@ -1,5 +1,0 @@
-<map id="PHG4Detector::Construct" name="PHG4Detector::Construct">
-<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html#a5d8fc5994b57855b6d8b36a030579134" title="PHG4Detector::ConstructMe" alt="" coords="247,5,458,33"/>
-<area shape="rect" id="node3" href="$db/df7/classPHG4Subsystem.html#aefa207f293b61d75df90e318b6626f29" title="PHG4Subsystem::GetLogical\lVolume" alt="" coords="246,57,459,101"/>
-<area shape="rect" id="node4" href="$db/df7/classPHG4Subsystem.html#a4e7993db33f5c29fcb258b8041cc656b" title="PHG4Subsystem::GetMother\lSubsystem" alt="" coords="245,125,460,169"/>
-</map>

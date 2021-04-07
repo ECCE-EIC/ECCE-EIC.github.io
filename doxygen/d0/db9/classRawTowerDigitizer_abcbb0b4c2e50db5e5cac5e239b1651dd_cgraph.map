@@ -1,7 +1,0 @@
-<map id="RawTowerDigitizer::sipm_photon_digitization" name="RawTowerDigitizer::sipm_photon_digitization">
-<area shape="rect" id="node2" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="244,5,417,33"/>
-<area shape="rect" id="node3" href="$d9/dd8/classRawTower.html#ae6dbf341707e31164177005c95dcd247" title="RawTower::identify" alt="" coords="257,57,405,85"/>
-<area shape="rect" id="node4" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="254,109,407,137"/>
-<area shape="rect" id="node5" href="$d9/dd8/classRawTower.html#ab5d2ef8076b5750583766daadf746be1" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="245,161,417,189"/>
-<area shape="rect" id="node6" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="243,213,419,241"/>
-</map>

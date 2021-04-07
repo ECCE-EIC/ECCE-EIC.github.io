@@ -1,5 +1,0 @@
-<map id="SvtxTruthEval::are_same_vertex" name="SvtxTruthEval::are_same_vertex">
-<area shape="rect" id="node2" href="$dc/d23/classBaseTruthEval.html#a431bd69deaddb2d0de37aecf771518a5" title="do these two vertex pointers resolve to the same vertex?" alt="" coords="199,28,347,72"/>
-<area shape="rect" id="node3" href="$d6/d81/classPHG4VtxPoint.html#abd6cd30899c23d90bad06005d977b2f9" title="PHG4VtxPoint::get_id" alt="" coords="407,5,571,33"/>
-<area shape="rect" id="node4" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="395,57,583,101"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="EMCalCalib_TestBeam::process_event" name="EMCalCalib_TestBeam::process_event">
-<area shape="rect" id="node2" href="$d8/dd6/classEMCalCalib__TestBeam.html#a6baae79a427e1410da6809bdc7a33083" title="EMCalCalib_TestBeam\l::process_event_Tower" alt="" coords="223,36,396,80"/>
-<area shape="rect" id="node3" href="$d3/dc7/classRawTowerContainer.html#a94a3368d6cd85ea4c3f204cd1065da26" title="RawTowerContainer::\lgetTower" alt="" coords="449,5,612,49"/>
-<area shape="rect" id="node4" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="444,73,617,101"/>
-</map>

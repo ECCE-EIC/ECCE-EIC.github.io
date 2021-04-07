@@ -1,5 +1,0 @@
-<map id="JetHepMCLoader::getHistoManager" name="JetHepMCLoader::getHistoManager">
-<area shape="rect" id="node2" href="$da/daf/classJetHepMCLoader.html#a94e00de614efb99e2fb5551a2e47e116" title="Called at the end of all processing." alt="" coords="265,5,433,33"/>
-<area shape="rect" id="node3" href="$da/daf/classJetHepMCLoader.html#afb7b41b5926ecc2871e47f3e8059f72a" title="JetHepMCLoader::InitRun" alt="" coords="255,57,444,85"/>
-<area shape="rect" id="node4" href="$da/daf/classJetHepMCLoader.html#ae68c17d088405b8d235bb43f8c115988" title="JetHepMCLoader::process\l_event" alt="" coords="252,109,447,153"/>
-</map>

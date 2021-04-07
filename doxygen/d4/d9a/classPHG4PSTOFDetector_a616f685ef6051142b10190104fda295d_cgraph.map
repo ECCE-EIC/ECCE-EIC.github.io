@@ -1,5 +1,0 @@
-<map id="PHG4PSTOFDetector::ConstructMe" name="PHG4PSTOFDetector::ConstructMe">
-<area shape="rect" id="node2" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="232,5,432,49"/>
-<area shape="rect" id="node3" href="$d7/d6b/classPHParametersContainer.html#ab3e63b8b945b61000299f853eb6cb110" title="PHParametersContainer\l::GetParameters" alt="" coords="241,73,423,117"/>
-<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="221,141,443,169"/>
-</map>

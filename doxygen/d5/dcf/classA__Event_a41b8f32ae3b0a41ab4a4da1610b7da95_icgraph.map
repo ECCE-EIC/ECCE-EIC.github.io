@@ -1,7 +1,0 @@
-<map id="A_Event::getEvtSequence" name="A_Event::getEvtSequence">
-<area shape="rect" id="node2" href="$d5/dcf/classA__Event.html#ac9fd33cb2b56a4f5e82ffa11e6a19602" title="A_Event::createMap" alt="" coords="251,84,408,112"/>
-<area shape="rect" id="node3" href="$d5/dcf/classA__Event.html#a7da7d1210a427edf5904bd63134a3ae9" title="A_Event::existPacket" alt="" coords="463,5,625,33"/>
-<area shape="rect" id="node4" href="$d5/dcf/classA__Event.html#a90cd2e372e1cc36b8c1ec156055b3482" title="A_Event::getErrorCode" alt="" coords="456,57,632,85"/>
-<area shape="rect" id="node5" href="$d5/dcf/classA__Event.html#a601119d50cd05d8866dbc7d125fb5b06" title="A_Event::getPacket" alt="" coords="467,109,621,137"/>
-<area shape="rect" id="node6" href="$d5/dcf/classA__Event.html#ae86408e48c2468a22a00ec5f457a7a7d" title="A_Event::getPacketList" alt="" coords="456,161,632,189"/>
-</map>

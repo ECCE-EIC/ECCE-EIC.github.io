@@ -1,9 +1,0 @@
-<map id="PHG4CellDefs::SizeBinning::get_zbin" name="PHG4CellDefs::SizeBinning::get_zbin">
-<area shape="rect" id="node2" href="$d7/d10/classRawTowerBuilder.html#ab0904fa048bbd1d45f4df5efad65b229" title="RawTowerBuilder::process\l_event" alt="" coords="256,5,453,49"/>
-<area shape="rect" id="node3" href="$dc/d86/classTPCIntegratedCharge.html#a81020cfbf5f20cf2696026c8ecf2953d" title="TPCIntegratedCharge\l::process_event" alt="" coords="271,73,438,117"/>
-<area shape="rect" id="node4" href="$d5/dd0/classPHG4CylinderCellReco.html#acd9297cbac172c726c8da55f875a824a" title="event processing" alt="" coords="269,141,441,185"/>
-<area shape="rect" id="node5" href="$da/d27/classTPCDataStreamEmulator.html#a103b0eab10ddf8a3b47e2d6e36b5a59d" title="TPCDataStreamEmulator\l::process_event" alt="" coords="259,209,450,253"/>
-<area shape="rect" id="node6" href="$dd/d0c/classCaloAna.html#ab4a75457a9b038f2373d43ee974721c4" title="CaloAna::process_g4cells" alt="" coords="258,277,451,305"/>
-<area shape="rect" id="node8" href="$d3/d0b/classDumpPHG4CellContainer.html#a03d218ddb510a07f1301dff310550601" title="DumpPHG4CellContainer\l::process_Node" alt="" coords="259,329,451,373"/>
-<area shape="rect" id="node7" href="$dd/d0c/classCaloAna.html#afe94c360c527e97289601b2ddd4fc131" title="event processing method" alt="" coords="501,277,685,305"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="EmcCluster::GetE9" name="EmcCluster::GetE9">
-<area shape="rect" id="node2" href="$d9/d04/classEmcCluster.html#ac6224f3bd03617de30ced859baf6e83b" title="Returns EmcCluster 1&#45;st (pxcg,pycg) and 2&#45;d momenta (pxx,pxy,pyy)" alt="" coords="201,5,395,33"/>
-<area shape="rect" id="node5" href="$df/d23/classBEmcRec.html#a076636e1f88a3585429f1822ca14a3c7" title="BEmcRec::GetNx" alt="" coords="231,57,365,85"/>
-<area shape="rect" id="node3" href="$df/d23/classBEmcRec.html#a9ee69a810895d964c13570ac715f96c3" title="BEmcRec::Momenta" alt="" coords="443,5,599,33"/>
-<area shape="rect" id="node4" href="$df/d23/classBEmcRec.html#a4bd50aa9b08ec11f0dbc65fd9f10a099" title="BEmcRec::iTowerDist" alt="" coords="647,5,809,33"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="FullCylRProjPHENIXComparison" name="FullCylRProjPHENIXComparison">
-<area shape="rect" id="node2" href="$d1/dc1/DrawFluence_8C.html#ad55d4133a70e8892771a5fb9370e99fb" title="GetPHENIXDose" alt="" coords="292,5,421,33"/>
-<area shape="rect" id="node3" href="$d1/dc1/DrawFluence_8C.html#adf0f20cd50407dcfde699109a961743e" title="GetPHENIXNeutron" alt="" coords="283,57,431,85"/>
-<area shape="rect" id="node4" href="$d1/dc1/DrawFluence_8C.html#adfc9250b301aab8872763a9c3f078ae3" title="GetZProjection" alt="" coords="296,109,417,137"/>
-<area shape="rect" id="node5" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="305,161,409,189"/>
-<area shape="rect" id="node6" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="479,161,557,189"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="MakeSimpleTree::process_event" name="MakeSimpleTree::process_event">
-<area shape="rect" id="node2" href="$db/d39/classMyTClonesArray.html#a67788bc4fffb297c17dbf7ddb38b2539" title="MyTClonesArray::GetNewItem" alt="" coords="250,5,471,33"/>
-<area shape="rect" id="node3" href="$db/d39/classMyTClonesArray.html#a415585c5af44f7a1b069b7cad16bf121" title="MyTClonesArray::MyEventFloat" alt="" coords="245,57,476,85"/>
-<area shape="rect" id="node4" href="$db/d39/classMyTClonesArray.html#aa74b375c43b9a82060b1faea3457afbb" title="MyTClonesArray::MyEventInt" alt="" coords="253,109,468,137"/>
-<area shape="rect" id="node5" href="$d8/d07/classMySimpleTree.html#ae6aaa25ddd3abe590791929626ed71c7" title="MySimpleTree::MyFloat" alt="" coords="271,161,450,189"/>
-<area shape="rect" id="node6" href="$d8/d07/classMySimpleTree.html#add031c4a8ed0de2c352b29e4611abc6b" title="MySimpleTree::MyInt" alt="" coords="279,213,442,241"/>
-</map>

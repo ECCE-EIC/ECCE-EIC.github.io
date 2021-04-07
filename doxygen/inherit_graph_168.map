@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$df/d69/classJetInput.html" title="JetInput" alt="" coords="5,84,81,112"/>
-<area shape="rect" id="node2" href="$d5/d98/classClusterJetInput.html" title="ClusterJetInput" alt="" coords="129,5,252,33"/>
-<area shape="rect" id="node3" href="$df/d01/classTowerJetInput.html" title="TowerJetInput" alt="" coords="133,57,248,85"/>
-<area shape="rect" id="node4" href="$d0/d02/classTrackJetInput.html" title="TrackJetInput" alt="" coords="135,109,246,137"/>
-<area shape="rect" id="node5" href="$da/dbf/classTruthJetInput.html" title="TruthJetInput" alt="" coords="136,161,245,189"/>
-</map>

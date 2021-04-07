@@ -1,5 +1,0 @@
-<map id="RawTower_Prototype2::RawTower_Prototype2" name="RawTower_Prototype2::RawTower_Prototype2">
-<area shape="rect" id="node2" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="231,5,404,33"/>
-<area shape="rect" id="node3" href="$d9/dd8/classRawTower.html#acb57721d39800bb8a23ffc10ae66d198" title="RawTower::get_id" alt="" coords="248,57,387,85"/>
-<area shape="rect" id="node4" href="$d9/dd8/classRawTower.html#a3481d83f6e1192145399e3d11c0c011c" title="Time stamp assigned to the tower. Depending on the tower maker, it could be rise time or peak time..." alt="" coords="239,109,395,137"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="EMCalCalib::get_HistoManager" name="EMCalCalib::get_HistoManager">
-<area shape="rect" id="node2" href="$de/da4/classEMCalCalib.html#a9a51df14ce2f12864d6b65afe4e2ac20" title="Called at the end of all processing." alt="" coords="304,5,435,33"/>
-<area shape="rect" id="node3" href="$de/da4/classEMCalCalib.html#add3b7f63137dc2c9eeb7ef64dc892a1c" title="EMCalCalib::Init_SF" alt="" coords="294,57,445,85"/>
-<area shape="rect" id="node5" href="$de/da4/classEMCalCalib.html#a94d2bfb62544f43f39b25a4c6290dac5" title="EMCalCalib::Init_Tower" alt="" coords="283,109,456,137"/>
-<area shape="rect" id="node6" href="$de/da4/classEMCalCalib.html#af3ce97ca1edf6391105d268935e2872f" title="EMCalCalib::process\l_event_SF" alt="" coords="291,161,448,205"/>
-<area shape="rect" id="node8" href="$de/da4/classEMCalCalib.html#aa0b96923b3a6aa979859ed0628ce6807" title="EMCalCalib::process\l_event_Tower" alt="" coords="291,229,448,273"/>
-<area shape="rect" id="node4" href="$de/da4/classEMCalCalib.html#a034dde96a0a0b32dc847e6f9f6d23509" title="EMCalCalib::Init" alt="" coords="519,93,647,121"/>
-<area shape="rect" id="node7" href="$de/da4/classEMCalCalib.html#aa70da6270813e434e35da37b6ec2a350" title="EMCalCalib::process\l_event" alt="" coords="504,179,661,223"/>
-</map>

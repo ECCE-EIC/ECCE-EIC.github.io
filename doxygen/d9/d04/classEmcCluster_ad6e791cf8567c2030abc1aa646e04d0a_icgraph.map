@@ -1,6 +1,0 @@
-<map id="EmcCluster::max" name="EmcCluster::max">
-<area shape="rect" id="node2" href="$df/d23/classBEmcRec.html#aa4fa596a4c2667defdd97427b28f4204" title="BEmcRec::SetTowerThreshold" alt="" coords="189,81,409,109"/>
-<area shape="rect" id="node3" href="$d8/d5d/classRawClusterBuilderTemplate.html#a61bb434b818ca4e8e179b3d0e8f4eec5" title="RawClusterBuilderTemplate\l::RawClusterBuilderTemplate" alt="" coords="495,5,711,49"/>
-<area shape="rect" id="node4" href="$dd/d75/classRawClusterBuilderTemplateEEMC.html#af84dbadc9a5dfd005e4b5074858abf35" title="RawClusterBuilderTemplate\lEEMC::RawClusterBuilderTemplateEEMC" alt="" coords="457,73,749,117"/>
-<area shape="rect" id="node5" href="$d8/d80/classRawClusterBuilderTemplateFEMC.html#a5d4c84382703dfcf4ee78deba3f493dd" title="RawClusterBuilderTemplate\lFEMC::RawClusterBuilderTemplateFEMC" alt="" coords="458,141,749,185"/>
-</map>

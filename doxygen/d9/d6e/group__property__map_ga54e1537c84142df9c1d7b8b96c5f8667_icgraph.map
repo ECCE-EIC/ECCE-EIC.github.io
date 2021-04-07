@@ -1,7 +1,0 @@
-<map id="RawClusterv1::get_property_float" name="RawClusterv1::get_property_float">
-<area shape="rect" id="node2" href="$d6/dc7/group__getters.html#ga4a95295244cae913956150f64d0f220c" title="reduced chi2 for EM shower" alt="" coords="268,5,448,33"/>
-<area shape="rect" id="node3" href="$d6/dc7/group__getters.html#ga5a613f5c3bb8c2eda9a10813646b293a" title="RawClusterv1::get_ecore" alt="" coords="263,57,453,85"/>
-<area shape="rect" id="node4" href="$d6/dc7/group__getters.html#ga035a7775b91c2a80239a1c2b6930f147" title="isolation ET the radius and hueristic can be specified" alt="" coords="263,109,453,137"/>
-<area shape="rect" id="node5" href="$d6/dc7/group__getters.html#ga4e4eba60a6cf76c4cf0deadda1612558" title="cluster template probability for EM shower" alt="" coords="267,161,449,189"/>
-<area shape="rect" id="node6" href="$d0/d73/classRawClusterv1.html#af611c374548d110f58ff0bcfcc465a70" title="RawClusterv1::identify" alt="" coords="271,213,445,241"/>
-</map>

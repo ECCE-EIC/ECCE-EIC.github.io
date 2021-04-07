@@ -1,7 +1,0 @@
-<map id="RawTower_Prototype2::identify" name="RawTower_Prototype2::identify">
-<area shape="rect" id="node2" href="$d0/d4a/classRawTower__Prototype2.html#afbfbd3db305c584fad7020feca73b4c8" title="RawTower_Prototype2\l::get_bineta" alt="" coords="221,5,389,49"/>
-<area shape="rect" id="node4" href="$d0/d4a/classRawTower__Prototype2.html#a8375705ba0aa384ac64b50ee47f76b84" title="RawTower_Prototype2\l::get_binphi" alt="" coords="221,73,389,117"/>
-<area shape="rect" id="node6" href="$d0/d4a/classRawTower__Prototype2.html#acc0174cd25442c8d89853b34a02ec18c" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="221,141,389,185"/>
-<area shape="rect" id="node3" href="$da/d58/namespaceRawTowerDefs.html#aaae6ca2e49c6d90186b5c221afe39bca" title="RawTowerDefs::decode\l_index1" alt="" coords="437,5,615,49"/>
-<area shape="rect" id="node5" href="$da/d58/namespaceRawTowerDefs.html#a3d5658966751d2e96b1be553d2701b2b" title="RawTowerDefs::decode\l_index2" alt="" coords="437,73,615,117"/>
-</map>

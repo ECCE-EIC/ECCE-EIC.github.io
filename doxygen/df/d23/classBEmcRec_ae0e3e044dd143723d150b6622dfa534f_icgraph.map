@@ -1,9 +1,0 @@
-<map id="BEmcRec::GetModSizex" name="BEmcRec::GetModSizex">
-<area shape="rect" id="node2" href="$d0/dee/classBEmcRecCEMC.html#a056abc96ac852b4e06e36faa75f44db1" title="BEmcRecCEMC::CorrectPosition" alt="" coords="235,5,468,33"/>
-<area shape="rect" id="node3" href="$db/deb/classEmcPeakarea.html#afb0b1364d6dcaf46701dc1cd9a2a863e" title="Returns peakarea&#39;s 1st momentum (COG) after Shower Shape fit." alt="" coords="256,57,447,85"/>
-<area shape="rect" id="node4" href="$db/deb/classEmcPeakarea.html#a7667b69d5df543200537b7efbdeb9a42" title="Substitutes a number of functions above (to save CPU time)" alt="" coords="263,109,440,137"/>
-<area shape="rect" id="node5" href="$db/deb/classEmcPeakarea.html#a17c3d6c1f486fd7362d6c5ba5f2e8ff7" title="EmcPeakarea::GetChi2New" alt="" coords="249,161,454,189"/>
-<area shape="rect" id="node6" href="$db/deb/classEmcPeakarea.html#ad9e2d041709556e5b40fa23df3d42480" title="EmcPeakarea::GetCLNew" alt="" coords="255,213,447,241"/>
-<area shape="rect" id="node7" href="$d9/d04/classEmcCluster.html#a21235d45d7a0133f1cfbe6c8a6e37395" title="Returns the energy in 2x2 towers around the cluster Center of Gravity." alt="" coords="277,265,425,293"/>
-<area shape="rect" id="node8" href="$d9/d04/classEmcCluster.html#ae53411ba897ecc95197fd7166b3be252" title="Returns the EmcModule corresponding to the reconstructed impact tower." alt="" coords="243,317,460,345"/>
-</map>

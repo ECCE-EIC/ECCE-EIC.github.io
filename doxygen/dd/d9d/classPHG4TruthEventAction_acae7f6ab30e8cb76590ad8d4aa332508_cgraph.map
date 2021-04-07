@@ -1,7 +1,0 @@
-<map id="PHG4TruthEventAction::SetInterfacePointers" name="PHG4TruthEventAction::SetInterfacePointers">
-<area shape="rect" id="node2" href="$dd/d9d/classPHG4TruthEventAction.html#a8140dbcb21650639a4d51d11cd23951b" title="PHG4TruthEventAction\l::SearchNode" alt="" coords="227,24,400,68"/>
-<area shape="rect" id="node3" href="$d1/d3e/classPHDataNode.html#a1f3b856fd3ce165047be8aa97f4ab9f3" title="PHDataNode::getData" alt="" coords="448,5,617,33"/>
-<area shape="rect" id="node4" href="$d5/d07/classPHNodeIterator.html#a110a5b87a02a22deecae334f32387ffa" title="PHNodeIterator::ls" alt="" coords="461,57,605,85"/>
-<area shape="rect" id="node5" href="$d6/d86/classPHPointerList.html#a560c9339d74f28f604d07dcb10a2e0be" title="PHPointerList::clear" alt="" coords="674,31,827,59"/>
-<area shape="rect" id="node6" href="$d6/d86/classPHPointerList.html#ac2176735e9d046a034f1686fd2c477eb" title="PHPointerList::append" alt="" coords="665,83,836,111"/>
-</map>

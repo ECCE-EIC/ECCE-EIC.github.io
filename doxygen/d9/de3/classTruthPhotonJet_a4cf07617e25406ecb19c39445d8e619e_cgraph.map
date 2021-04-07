@@ -1,7 +1,0 @@
-<map id="TruthPhotonJet::End" name="TruthPhotonJet::End">
-<area shape="rect" id="node2" href="$d8/d0e/classPHGenIntegral.html#ad1de91ef47f85897863ad4f391de497b" title="cross sections for the events accepted by the event generator in pb" alt="" coords="232,158,424,218"/>
-<area shape="rect" id="node3" href="$d8/d0e/classPHGenIntegral.html#a602ff4dfd24221ca9cbb86e69c2f8d38" title="Integrated luminosity in pb^&#45;1." alt="" coords="535,30,685,74"/>
-<area shape="rect" id="node4" href="$d8/d0e/classPHGenIntegral.html#ab423bef5cb65ec50c9e5dc8d24cf5adc" title="Number of accepted events in the event generator. This can be higher than fNProcessedEvent depending ..." alt="" coords="495,200,725,244"/>
-<area shape="rect" id="node5" href="$d8/d0e/classPHGenIntegral.html#a2d655672dbf38a73326e8b4d0249252c" title="cross sections for the processed events in pb" alt="" coords="209,38,447,82"/>
-<area shape="rect" id="node6" href="$d8/d0e/classPHGenIntegral.html#aaf67e6931c93f2f00069e882e370499c" title="Number of processed events in the Fun4All cycles." alt="" coords="530,98,690,142"/>
-</map>

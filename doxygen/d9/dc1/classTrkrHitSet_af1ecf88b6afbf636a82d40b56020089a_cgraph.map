@@ -1,5 +1,0 @@
-<map id="TrkrHitSet::identify" name="TrkrHitSet::identify">
-<area shape="rect" id="node2" href="$d9/dc1/classTrkrHitSet.html#ad407a57ad9c4624e1f8766335264af76" title="Get the key for this object." alt="" coords="203,5,389,33"/>
-<area shape="rect" id="node3" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="222,57,370,85"/>
-<area shape="rect" id="node4" href="$d6/d3f/namespaceTrkrDefs.html#a542bf66cb1037404f08212eeefdfde70" title="Get the tracker ID from either key type." alt="" coords="223,109,369,137"/>
-</map>

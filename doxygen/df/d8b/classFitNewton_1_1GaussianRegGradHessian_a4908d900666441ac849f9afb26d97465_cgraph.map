@@ -1,8 +1,0 @@
-<map id="FitNewton::GaussianRegGradHessian::calcValGradHessian" name="FitNewton::GaussianRegGradHessian::calcValGradHessian">
-<area shape="rect" id="node2" href="$df/d8b/classFitNewton_1_1GaussianRegGradHessian.html#aff2ee1eb45212474f5c09a3c779d0f3d" title="FitNewton::GaussianRegGrad\lHessian::calcValGradHessianThread1" alt="" coords="271,73,544,117"/>
-<area shape="rect" id="node6" href="$da/d55/TPCRateLayered_8m.html#ac40e4ec8f2a74a2878f06670249eebb8" title="double" alt="" coords="373,141,441,169"/>
-<area shape="rect" id="node7" href="$d5/dcd/classSeamStress_1_1Pincushion.html#a16652db40dd3fe23a6fa1679bedf5a6c" title="SeamStress::Pincushion\l::sewStraight" alt="" coords="316,193,499,237"/>
-<area shape="rect" id="node3" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a9ddf262fabef65326926ae595708901e" title="FitNewton::FunctionGradHessian\l::Clone" alt="" coords="592,5,833,49"/>
-<area shape="rect" id="node4" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a5561d8485787ff8c8c1fd4054c3bf453" title="FitNewton::FunctionGradHessian\l::setFixedPar" alt="" coords="592,73,833,117"/>
-<area shape="rect" id="node5" href="$d2/d79/classFitNewton_1_1FunctionGradHessian.html#a8729f39d9e6aebf8487c3e7aee166712" title="FitNewton::FunctionGradHessian\l::calcValGradHessian" alt="" coords="592,141,833,185"/>
-</map>

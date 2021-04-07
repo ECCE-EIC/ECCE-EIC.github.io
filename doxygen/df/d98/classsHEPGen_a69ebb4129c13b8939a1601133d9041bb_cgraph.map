@@ -1,8 +1,0 @@
-<map id="sHEPGen::Init" name="sHEPGen::Init">
-<area shape="rect" id="node2" href="$df/d98/classsHEPGen.html#a9cd448004f60b2b735b076c9576176bd" title="sHEPGen::create_node_tree" alt="" coords="168,32,376,60"/>
-<area shape="rect" id="node7" href="$df/d98/classsHEPGen.html#af70293423cfb3787d76056bbe8e1544a" title="sHEPGen::printlogo" alt="" coords="196,84,348,112"/>
-<area shape="rect" id="node3" href="$dd/d2a/classPHHepMCGenHelper.html#a78f26357d1f0720a4bfa89589a3c4eff" title="init interface nodes" alt="" coords="424,24,635,68"/>
-<area shape="rect" id="node4" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="683,32,871,60"/>
-<area shape="rect" id="node5" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="919,5,1064,33"/>
-<area shape="rect" id="node6" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="923,57,1060,85"/>
-</map>

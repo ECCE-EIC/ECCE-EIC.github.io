@@ -1,8 +1,0 @@
-<map id="PHG4mRICHDetector::build_foamHolder" name="PHG4mRICHDetector::build_foamHolder">
-<area shape="rect" id="node2" href="$d9/deb/classPHG4mRICHDetector.html#af4080565a5cf2aec2ea903619535d924" title="PHG4mRICHDetector::\lbuild_box" alt="" coords="247,5,417,49"/>
-<area shape="rect" id="node4" href="$d9/deb/classPHG4mRICHDetector.html#a24f790735136a45608fc012003881217" title="PHG4mRICHDetector::\lbuild_polyhedra" alt="" coords="247,73,417,117"/>
-<area shape="rect" id="node5" href="$db/d8a/classPHG4mRICHDetector_1_1mRichParameter.html#a4373c4fcf3110f14b3e30b4fed410b8a" title="PHG4mRICHDetector::\lmRichParameter::GetBoxPar" alt="" coords="225,141,439,185"/>
-<area shape="rect" id="node7" href="$db/d8a/classPHG4mRICHDetector_1_1mRichParameter.html#ad9a72a2892bbaf126fa9b8acd6088b2d" title="PHG4mRICHDetector::\lmRichParameter::GetPolyPar" alt="" coords="224,209,440,253"/>
-<area shape="rect" id="node3" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="488,48,709,76"/>
-<area shape="rect" id="node6" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="569,183,628,211"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="SvtxHit::get_adc" name="SvtxHit::get_adc">
-<area shape="rect" id="node2" href="$d8/d98/classpsTOFTimezeroEval.html#ae9fd1570652089bed4ec7eb81009b318" title="dump the evaluator information into ntuple for external analysis" alt="" coords="199,5,362,49"/>
-<area shape="rect" id="node4" href="$d2/d85/classSvtxEvaluatorHaiwang.html#a0fd261422264aedc22d0506ef5e897c4" title="dump the evaluator information into ntuple for external analysis" alt="" coords="193,73,368,117"/>
-<area shape="rect" id="node6" href="$da/d27/classTPCDataStreamEmulator.html#a103b0eab10ddf8a3b47e2d6e36b5a59d" title="TPCDataStreamEmulator\l::process_event" alt="" coords="185,141,376,185"/>
-<area shape="rect" id="node3" href="$d8/d98/classpsTOFTimezeroEval.html#a2e98730e1beaa91c36947c0fe671fdd2" title="psTOFTimezeroEval::\lprocess_event" alt="" coords="430,5,593,49"/>
-<area shape="rect" id="node5" href="$d2/d85/classSvtxEvaluatorHaiwang.html#ab63ca0cc53b56dad65b89d9b18220bce" title="SvtxEvaluatorHaiwang\l::process_event" alt="" coords="424,73,599,117"/>
-</map>

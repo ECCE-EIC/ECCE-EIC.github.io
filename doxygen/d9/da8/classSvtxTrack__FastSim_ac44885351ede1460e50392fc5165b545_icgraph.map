@@ -1,5 +1,0 @@
-<map id="SvtxTrack_FastSim::set_truth_track_id" name="SvtxTrack_FastSim::set_truth_track_id">
-<area shape="rect" id="node2" href="$d9/d91/classPHG4TrackFastSim.html#ab1ae4586bc276e05c9cbbfc88d7a4aff" title="PHG4TrackFastSim::MakeSvtx\lTrack" alt="" coords="207,5,428,49"/>
-<area shape="rect" id="node4" href="$d5/da2/classPHTruthTrackSeeding.html#ab0ab67b0de3435bad2eeba92a482753c" title="PHTruthTrackSeeding\l::Process" alt="" coords="235,73,399,117"/>
-<area shape="rect" id="node3" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="476,5,684,49"/>
-</map>

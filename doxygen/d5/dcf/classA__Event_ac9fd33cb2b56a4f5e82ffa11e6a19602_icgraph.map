@@ -1,6 +1,0 @@
-<map id="A_Event::createMap" name="A_Event::createMap">
-<area shape="rect" id="node2" href="$d5/dcf/classA__Event.html#a7da7d1210a427edf5904bd63134a3ae9" title="A_Event::existPacket" alt="" coords="217,5,380,33"/>
-<area shape="rect" id="node3" href="$d5/dcf/classA__Event.html#a90cd2e372e1cc36b8c1ec156055b3482" title="A_Event::getErrorCode" alt="" coords="211,57,387,85"/>
-<area shape="rect" id="node4" href="$d5/dcf/classA__Event.html#a601119d50cd05d8866dbc7d125fb5b06" title="A_Event::getPacket" alt="" coords="222,109,375,137"/>
-<area shape="rect" id="node5" href="$d5/dcf/classA__Event.html#ae86408e48c2468a22a00ec5f457a7a7d" title="A_Event::getPacketList" alt="" coords="211,161,387,189"/>
-</map>

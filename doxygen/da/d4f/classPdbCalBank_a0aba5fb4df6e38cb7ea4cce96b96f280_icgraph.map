@@ -1,5 +1,0 @@
-<map id="PdbCalBank::print" name="PdbCalBank::print">
-<area shape="rect" id="node2" href="$dd/d63/classPgPostBankWrapper.html#a6d5648c200e93d1938d5505973c63817" title="PgPostBankWrapper::\lprint" alt="" coords="216,5,381,49"/>
-<area shape="rect" id="node3" href="$d1/d28/classPgPostBankBackupStorage.html#a4b31fc89a955da5abf2017871d59df17" title="PgPostBankBackupStorage\l::Print" alt="" coords="197,73,400,117"/>
-<area shape="rect" id="node4" href="$da/daa/classPgPostBankBackupManager.html#a4d8b9019e125378da20dd0542dc614be" title="Database &#45;&gt; TFile for official operation use." alt="" coords="448,73,657,117"/>
-</map>

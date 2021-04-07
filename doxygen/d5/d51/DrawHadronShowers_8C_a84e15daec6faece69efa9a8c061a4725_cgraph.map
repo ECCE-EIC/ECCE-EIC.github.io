@@ -1,6 +1,0 @@
-<map id="GetResolution" name="GetResolution">
-<area shape="rect" id="node2" href="$d5/d51/DrawHadronShowers_8C.html#ac3f29226cb9dcf3fb4ab5aad51ad4afb" title="GetEvalHisto" alt="" coords="169,5,277,33"/>
-<area shape="rect" id="node3" href="$d5/d51/DrawHadronShowers_8C.html#afbe9b1a984a4764aaca150efeaa0fec9" title="GetQAHisto" alt="" coords="173,57,273,85"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="171,109,275,137"/>
-<area shape="rect" id="node5" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="325,109,404,137"/>
-</map>

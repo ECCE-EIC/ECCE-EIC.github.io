@@ -1,7 +1,0 @@
-<map id="SetPoint" name="SetPoint">
-<area shape="rect" id="node2" href="$db/de1/classhLabHelper.html#a9743e4375ec051838915182ce1b24799" title="hLabHelper::evDisplay" alt="" coords="131,5,305,33"/>
-<area shape="rect" id="node3" href="$d1/dc2/classstack.html#ae7d3962c2deee3aee309cf2a2030ecdc" title="stack::getStackTime" alt="" coords="139,57,297,85"/>
-<area shape="rect" id="node4" href="$d3/d17/classhcal.html#aa039813eb47cb473a47b9a1c0afc9fd1" title="hcal::getStackTiming" alt="" coords="353,57,516,85"/>
-<area shape="rect" id="node5" href="$d8/db9/classhcalHelper.html#a9e4dafe94df89a2a04a2982b13dee116" title="hcalHelper::evLoop" alt="" coords="564,57,716,85"/>
-<area shape="rect" id="node6" href="$d9/dfc/runHelper_8C.html#a19c3855ad40a8efdbbecea95011fe1d9" title="runHelper" alt="" coords="764,57,853,85"/>
-</map>

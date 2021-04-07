@@ -1,5 +1,0 @@
-<map id="CaloRawTowerEval::all_towers_from" name="CaloRawTowerEval::all_towers_from">
-<area shape="rect" id="node2" href="$de/d0b/classCaloRawTowerEval.html#aa4fd291619249c3c6ea981b35578db0b" title="what towers did this primary truth particle contribute energy to?" alt="" coords="233,5,405,49"/>
-<area shape="rect" id="node3" href="$de/d0b/classCaloRawTowerEval.html#a6e75471eb8324a36c82758e37f764fa1" title="which tower did this primary shower contribute the most energy to?" alt="" coords="225,73,412,117"/>
-<area shape="rect" id="node4" href="$de/d0b/classCaloRawTowerEval.html#a8fa1befd5a2ebd1ffb575ce4f59090b8" title="which tower did the primary truth particle contribute the most energy to?" alt="" coords="460,73,647,117"/>
-</map>

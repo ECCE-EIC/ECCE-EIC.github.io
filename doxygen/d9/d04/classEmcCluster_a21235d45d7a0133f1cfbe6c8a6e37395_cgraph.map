@@ -1,8 +1,0 @@
-<map id="EmcCluster::GetE4" name="EmcCluster::GetE4">
-<area shape="rect" id="node2" href="$df/d23/classBEmcRec.html#ae0e3e044dd143723d150b6622dfa534f" title="BEmcRec::GetModSizex" alt="" coords="219,5,401,33"/>
-<area shape="rect" id="node3" href="$df/d23/classBEmcRec.html#a5ee3c4f9c1c986df76cd33138cd28ead" title="BEmcRec::GetModSizey" alt="" coords="219,57,401,85"/>
-<area shape="rect" id="node4" href="$d9/d04/classEmcCluster.html#ac6224f3bd03617de30ced859baf6e83b" title="Returns EmcCluster 1&#45;st (pxcg,pycg) and 2&#45;d momenta (pxx,pxy,pyy)" alt="" coords="213,109,407,137"/>
-<area shape="rect" id="node7" href="$d9/d04/classEmcCluster.html#ad96d96efb489f2a283ca0773b8883b6c" title="Returns the energy of the ich&#45;tower (numbering from 0)" alt="" coords="201,161,419,189"/>
-<area shape="rect" id="node5" href="$df/d23/classBEmcRec.html#a9ee69a810895d964c13570ac715f96c3" title="BEmcRec::Momenta" alt="" coords="467,109,623,137"/>
-<area shape="rect" id="node6" href="$df/d23/classBEmcRec.html#a4bd50aa9b08ec11f0dbc65fd9f10a099" title="BEmcRec::iTowerDist" alt="" coords="671,109,833,137"/>
-</map>

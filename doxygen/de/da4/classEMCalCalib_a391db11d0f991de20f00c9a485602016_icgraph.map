@@ -1,5 +1,0 @@
-<map id="EMCalCalib::eval_photon_proj" name="EMCalCalib::eval_photon_proj">
-<area shape="rect" id="node2" href="$de/da4/classEMCalCalib.html#ac80fa52a42070fa6210a5c69f9c10fed" title="project a photon to calorimeters and collect towers around it" alt="" coords="275,13,463,41"/>
-<area shape="rect" id="node3" href="$de/da4/classEMCalCalib.html#a8d33bc88a464878c873f29c9230ce7fe" title="EMCalCalib::process\l_event_MCPhoton" alt="" coords="511,5,668,49"/>
-<area shape="rect" id="node4" href="$de/da4/classEMCalCalib.html#aa70da6270813e434e35da37b6ec2a350" title="EMCalCalib::process\l_event" alt="" coords="716,5,873,49"/>
-</map>

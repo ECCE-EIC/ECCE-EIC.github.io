@@ -1,7 +1,0 @@
-<map id="PidCandidatev1::set_candidate_id" name="PidCandidatev1::set_candidate_id">
-<area shape="rect" id="node2" href="$db/db5/classDISKinematicsReco.html#a304bc882f5517efba6e9584933088d33" title="DISKinematicsReco::\lCollectEmCandidatesFromTruth" alt="" coords="477,5,709,49"/>
-<area shape="rect" id="node4" href="$db/db5/classDISKinematicsReco.html#ad801f1794841d3657aa4c0b2da334743" title="DISKinematicsReco::\lInsertCandidateFromCluster" alt="" coords="211,72,421,116"/>
-<area shape="rect" id="node6" href="$d6/d40/classLeptoquarksReco.html#aa5b8ff9665c7a78246bd4f1194d66d1b" title="LeptoquarksReco::process\l_event" alt="" coords="217,140,415,184"/>
-<area shape="rect" id="node3" href="$db/db5/classDISKinematicsReco.html#a6d03dc93ccee64fd4d931a06dad1ec55" title="DISKinematicsReco::\lprocess_event" alt="" coords="764,40,924,84"/>
-<area shape="rect" id="node5" href="$db/db5/classDISKinematicsReco.html#a4ea9fa36ccd955fd7cdfa7e7eaf1e534" title="DISKinematicsReco::\lCollectEmCandidatesFromCluster" alt="" coords="469,73,716,117"/>
-</map>

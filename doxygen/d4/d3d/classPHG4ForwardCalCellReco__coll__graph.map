@@ -1,9 +1,0 @@
-<map id="PHG4ForwardCalCellReco" name="PHG4ForwardCalCellReco">
-<area shape="rect" id="node2" href="$d0/d32/classSubsysReco.html" title="SubsysReco" alt="" coords="893,77,995,105"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html" title="Fun4AllBase" alt="" coords="571,77,675,105"/>
-<area shape="rect" id="node4" title="STL class." alt="" coords="323,77,412,105"/>
-<area shape="rect" id="node5" title="STL class." alt="" coords="131,69,273,113"/>
-<area shape="rect" id="node7" href="$d6/db7/classPHG4CylinderCell.html" title="PHG4CylinderCell" alt="" coords="553,137,693,165"/>
-<area shape="rect" id="node8" href="$dc/dfe/classPHG4Cell.html" title="PHG4Cell" alt="" coords="325,137,409,165"/>
-<area shape="rect" id="node9" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="160,137,244,165"/>
-</map>

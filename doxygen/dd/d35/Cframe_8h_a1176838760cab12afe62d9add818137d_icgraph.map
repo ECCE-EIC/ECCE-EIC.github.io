@@ -1,9 +1,0 @@
-<map id="findFrameHistoryStart" name="findFrameHistoryStart">
-<area shape="rect" id="node2" href="$db/d95/CframeV1_8h.html#a0418ec3e5257d1de68059e9543ceac71" title="getHistoryEntryV1" alt="" coords="229,57,374,85"/>
-<area shape="rect" id="node6" href="$d5/dcf/classA__Event.html#a0ef6a3ed87450ff2c45e778cd9a6ff31" title="A_Event::listHistory" alt="" coords="224,109,379,137"/>
-<area shape="rect" id="node7" href="$d8/d3b/frameRoutines_8C.html#a874a1df42f72ccd63193646f490c479d" title="storeFrameHistory" alt="" coords="229,161,374,189"/>
-<area shape="rect" id="node3" href="$db/d95/CframeV1_8h.html#adea9fa225c313e0d63802cf09fb866ea" title="getHistoryStageV1" alt="" coords="449,5,597,33"/>
-<area shape="rect" id="node4" href="$db/d95/CframeV1_8h.html#a6a9e5135c4dfdf2c63d71826f89af672" title="getHistorySourceIndexV1" alt="" coords="427,57,619,85"/>
-<area shape="rect" id="node5" href="$db/d95/CframeV1_8h.html#a2c5e1ecbcf4fea6258ad74d00afbcb50" title="getHistoryStatusV1" alt="" coords="447,109,599,137"/>
-<area shape="rect" id="node8" href="$df/d06/fakeFrame_8C.html#a747f31be4098f000504011767116e41c" title="fakeFrame" alt="" coords="477,161,569,189"/>
-</map>

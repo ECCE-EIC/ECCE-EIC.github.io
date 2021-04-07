@@ -1,6 +1,0 @@
-<map id="SvtxCluster_v1::get_size" name="SvtxCluster_v1::get_size">
-<area shape="rect" id="node2" href="$d7/df6/classSvtxCluster__v1.html#adc8f2600e8e1912e1ddcdae5d923adf6" title="SvtxCluster_v1::get\l_phi_size" alt="" coords="250,5,405,49"/>
-<area shape="rect" id="node3" href="$d7/df6/classSvtxCluster__v1.html#a7475f0365f5b04797f5e50ee0347f7d2" title="SvtxCluster_v1::identify" alt="" coords="463,73,645,101"/>
-<area shape="rect" id="node4" href="$d7/df6/classSvtxCluster__v1.html#aa672affebda4259333c1b9bc5205f59a" title="SvtxCluster_v1::get\l_z_size" alt="" coords="250,125,405,169"/>
-<area shape="rect" id="node5" href="$d7/df6/classSvtxCluster__v1.html#a5c2914a72e0094fb35860ae201e282db" title="isValid returns non zero if object contains vailid data" alt="" coords="240,193,415,221"/>
-</map>

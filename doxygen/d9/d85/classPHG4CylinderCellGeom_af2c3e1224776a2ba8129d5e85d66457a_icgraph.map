@@ -1,5 +1,0 @@
-<map id="PHG4CylinderCellGeom::get_zbin" name="PHG4CylinderCellGeom::get_zbin">
-<area shape="rect" id="node2" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#afb8cd2eb40385b19cc084e19143e58c8" title="PHG4TpcPadPlaneReadout\l::populate_zbins" alt="" coords="233,5,435,49"/>
-<area shape="rect" id="node4" href="$d5/dd0/classPHG4CylinderCellReco.html#acd9297cbac172c726c8da55f875a824a" title="event processing" alt="" coords="248,73,420,117"/>
-<area shape="rect" id="node3" href="$d7/d6c/classPHG4TpcPadPlaneReadout.html#a56fe08cc093dc800b38ec28a7e971bf3" title="PHG4TpcPadPlaneReadout\l::MapToPadPlane" alt="" coords="483,5,684,49"/>
-</map>

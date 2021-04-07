@@ -1,6 +1,0 @@
-<map id="SimpleTrackingAnalysis::Init" name="SimpleTrackingAnalysis::Init">
-<area shape="rect" id="node2" href="$da/d29/classFun4AllServer.html#a3e55156f91b2c94bb6c4ef33ffce587a" title="Fun4AllServer::instance" alt="" coords="248,5,429,33"/>
-<area shape="rect" id="node3" href="$da/d29/classFun4AllServer.html#a531952321df1183d357e6fec6db28103" title="Fun4AllServer::registerHisto" alt="" coords="233,57,444,85"/>
-<area shape="rect" id="node4" href="$d3/d96/classFun4AllHistoManager.html#a7e1354855437fa28bb0d29dc0581d0a6" title="Fun4AllHistoManager\l::registerHisto" alt="" coords="492,49,657,93"/>
-<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="705,57,881,85"/>
-</map>

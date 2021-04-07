@@ -1,5 +1,0 @@
-<map id="PgPostBankWrapperManager::print" name="PgPostBankWrapperManager::print">
-<area shape="rect" id="node2" href="$dd/d63/classPgPostBankWrapper.html#a81fb691600e649d3a3df80318178ab48" title="PgPostBankWrapper::\lgetBankID" alt="" coords="295,5,461,49"/>
-<area shape="rect" id="node3" href="$dc/d80/classPdbBankID.html#a26db21ac8e324b200456e462d5f389dc" title="PdbBankID::getInternalValue" alt="" coords="271,73,485,101"/>
-<area shape="rect" id="node4" href="$dd/d63/classPgPostBankWrapper.html#a8a89a22b6a0819fabc5dc4321e5c6566" title="PgPostBankWrapper::\lgetTableName" alt="" coords="295,125,461,169"/>
-</map>

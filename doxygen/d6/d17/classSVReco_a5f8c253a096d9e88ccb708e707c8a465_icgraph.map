@@ -1,6 +1,0 @@
-<map id="SVReco::CreateNodes" name="SVReco::CreateNodes">
-<area shape="rect" id="node2" href="$d6/d17/classSVReco.html#a9581ef99bcb8afd9c1c08b1a37d4f033" title="Initialization Run, called for initialization of a run." alt="" coords="221,81,349,109"/>
-<area shape="rect" id="node3" href="$df/d9b/classRecoConversionEval.html#a03477928e8acf96769e1958d74907437" title="RecoConversionEval\l::InitRun" alt="" coords="399,5,557,49"/>
-<area shape="rect" id="node4" href="$d9/d3a/classTruthConversionEval.html#a91521ac566817eac601239e4cb8df5b7" title="TruthConversionEval\l::InitRun" alt="" coords="397,73,559,117"/>
-<area shape="rect" id="node5" href="$d2/d6d/classVtxTest.html#a5901bc48ee02bf2495a9d916f7772af3" title="VtxTest::InitRun" alt="" coords="414,141,542,169"/>
-</map>

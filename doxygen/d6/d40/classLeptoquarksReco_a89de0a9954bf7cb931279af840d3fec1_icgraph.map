@@ -1,7 +1,0 @@
-<map id="LeptoquarksReco::CalculateDeltaR" name="LeptoquarksReco::CalculateDeltaR">
-<area shape="rect" id="node2" href="$d6/d40/classLeptoquarksReco.html#a5a6750e3713a0ffdf0e41211f9c2e745" title="LeptoquarksReco::AddJetStructure\lInformation" alt="" coords="519,5,771,49"/>
-<area shape="rect" id="node4" href="$d6/d40/classLeptoquarksReco.html#a74b066097052383649d5ecd7efb01627" title="LeptoquarksReco::AddTrack\lInformation" alt="" coords="263,65,471,109"/>
-<area shape="rect" id="node5" href="$d6/d40/classLeptoquarksReco.html#a5d0ac93be115c4d08c153bb03861c34c" title="LeptoquarksReco::FindMin\lDeltaRCandidate" alt="" coords="268,133,465,177"/>
-<area shape="rect" id="node3" href="$d6/d40/classLeptoquarksReco.html#aa5b8ff9665c7a78246bd4f1194d66d1b" title="LeptoquarksReco::process\l_event" alt="" coords="819,65,1017,109"/>
-<area shape="rect" id="node6" href="$d6/d40/classLeptoquarksReco.html#a0b9c5ead2ddb44a0aec04c64973299f5" title="LeptoquarksReco::AddTrue\lTauTag" alt="" coords="544,129,745,173"/>
-</map>

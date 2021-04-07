@@ -1,6 +1,0 @@
-<map id="coresoftware/blob/master/offline/packages/tpc/TpcHit.h" name="coresoftware/blob/master/offline/packages/tpc/TpcHit.h">
-<area shape="rect" id="node2" href="$d2/d2e/TpcHit_8cc.html" title="Implementation of Tpc hit object." alt="" coords="5,105,236,149"/>
-<area shape="rect" id="node3" href="$d6/dc6/PHG4TpcDigitizer_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4tpc/PHG4TpcDigitizer.cc" alt="" coords="261,97,466,157"/>
-<area shape="rect" id="node4" href="$d6/d40/PHG4TpcElectronDrift_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4tpc/PHG4TpcElectronDrift.cc" alt="" coords="490,97,725,157"/>
-<area shape="rect" id="node5" href="$d1/d25/PHG4TpcPadPlaneReadout_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4tpc/PHG4TpcPadPlaneReadout.cc" alt="" coords="749,97,1017,157"/>
-</map>

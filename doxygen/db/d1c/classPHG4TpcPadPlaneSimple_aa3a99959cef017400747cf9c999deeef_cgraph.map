@@ -1,9 +1,0 @@
-<map id="PHG4TpcPadPlaneSimple::MapToPadPlane" name="PHG4TpcPadPlaneSimple::MapToPadPlane">
-<area shape="rect" id="node2" href="$dc/dfe/classPHG4Cell.html#aba3e45e6d9098128013e2ee31705678f" title="PHG4Cell::add_edep" alt="" coords="265,5,425,33"/>
-<area shape="rect" id="node3" href="$d4/d97/classPHG4CellContainer.html#af244549af779063b2fd959b6babe13a8" title="PHG4CellContainer::\lAddCell" alt="" coords="267,57,424,101"/>
-<area shape="rect" id="node6" href="$d4/d97/classPHG4CellContainer.html#a1acc5c6b37ed888d3e768bb4de5bf3d2" title="PHG4CellContainer::\lfindCell" alt="" coords="267,125,424,169"/>
-<area shape="rect" id="node7" href="$d6/d84/namespacePHG4CellDefs_1_1SizeBinning.html#a7a0b33119e015869652e39f3dd307931" title="PHG4CellDefs::SizeBinning\l::genkey" alt="" coords="244,193,447,237"/>
-<area shape="rect" id="node4" href="$dc/dfe/classPHG4Cell.html#af03de1745657c41817236e5d1124aae5" title="PHG4Cell::get_cellid" alt="" coords="509,40,667,68"/>
-<area shape="rect" id="node5" href="$d7/dba/namespacePHG4CellDefs.html#a195c6e84995def1ed68ecd3ca1159734" title="PHG4CellDefs::get_detid" alt="" coords="495,92,681,120"/>
-<area shape="rect" id="node8" href="$d9/d13/PHG4CellDefs_8cc.html#a85ba9f720354d77b858e20c95a1b8f9e" title="generic_16bit_genkey" alt="" coords="503,201,673,229"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="EMCDistributionVSBeam_SUM" name="EMCDistributionVSBeam_SUM">
-<area shape="rect" id="node2" href="$d1/d31/QA__Draw__Utility_8C.html#a94d18bd8db5d5cc2686044bcc3df861f" title="Fit for profile along the Y direction of TH2F." alt="" coords="289,5,367,33"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="276,57,380,85"/>
-<area shape="rect" id="node3" href="$db/d5d/test__style_8C.html#a2513fe0eb0478642e44ad1201af61a46" title="f2" alt="" coords="448,5,487,33"/>
-<area shape="rect" id="node5" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="428,57,507,85"/>
-</map>

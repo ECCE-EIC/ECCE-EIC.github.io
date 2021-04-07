@@ -1,4 +1,0 @@
-<map id="PHGenFitTrkFitter::pos_cov_XYZ_to_RZ" name="PHGenFitTrkFitter::pos_cov_XYZ_to_RZ">
-<area shape="rect" id="node2" href="$de/d25/classPHGenFitTrkFitter.html#a458cc1e5f1d6f6e4b20e0c0d266ff74b" title="Make SvtxTrack from PHGenFit::Track and SvtxTrack." alt="" coords="208,5,353,49"/>
-<area shape="rect" id="node3" href="$de/d25/classPHGenFitTrkFitter.html#a2e088a68ab24c5b89b902205f877f9d6" title="Process Event, called for each event." alt="" coords="401,5,547,49"/>
-</map>

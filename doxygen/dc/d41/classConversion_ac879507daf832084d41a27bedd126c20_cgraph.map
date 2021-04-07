@@ -1,8 +1,0 @@
-<map id="Conversion::trackDLayer" name="Conversion::trackDLayer">
-<area shape="rect" id="node2" href="$d2/db8/classSvtxTrack.html#a57a5fabb0eb43ac5c181f2052fcd02ce" title="SvtxTrack::begin_clusters" alt="" coords="241,5,435,33"/>
-<area shape="rect" id="node3" href="$df/d0b/classSvtxCluster.html#a039e7ab5fd01121ce9a483377bf7ad3e" title="SvtxCluster::begin_hits" alt="" coords="249,57,427,85"/>
-<area shape="rect" id="node4" href="$d4/de2/classSvtxHitMap.html#ae5dd94dc6e542ecbcd9f302a2a8b7cec" title="SvtxHitMap::get" alt="" coords="273,109,403,137"/>
-<area shape="rect" id="node5" href="$d9/dc2/classSvtxClusterMap.html#a8da48ee7f9a489ea179d0e8a2283a080" title="SvtxClusterMap::get" alt="" coords="259,161,417,189"/>
-<area shape="rect" id="node6" href="$da/df2/classSvtxHit.html#adcad61fe28a698713917e7e721806587" title="SvtxHit::get_layer" alt="" coords="267,213,409,241"/>
-<area shape="rect" id="node7" href="$dc/d41/classConversion.html#ac24ed5367463ba9de80adc6bcf7886fe" title="Conversion::recoCount" alt="" coords="250,265,426,293"/>
-</map>

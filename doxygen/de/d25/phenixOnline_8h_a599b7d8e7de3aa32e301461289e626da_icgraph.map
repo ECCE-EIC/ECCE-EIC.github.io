@@ -1,6 +1,0 @@
-<map id="singleDwordByteSwap" name="singleDwordByteSwap">
-<area shape="rect" id="node2" href="$dd/d35/Cframe_8h.html#a408aa0ed210433e12c165b05eb827125" title="byteSwapFrame" alt="" coords="426,30,555,58"/>
-<area shape="rect" id="node3" href="$d6/d02/prdf2prdf_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="625,30,680,58"/>
-<area shape="rect" id="node4" href="$de/d25/phenixOnline_8h.html#ae9fb86eb58a9f1def15e39c6d3c80888" title="dwordByteSwap" alt="" coords="225,82,356,110"/>
-<area shape="rect" id="node5" href="$dd/d35/Cframe_8h.html#adf740517365565b4a37189a78ea25b8a" title="checkFrameEndianism" alt="" coords="404,82,577,110"/>
-</map>

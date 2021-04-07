@@ -1,6 +1,0 @@
-<map id="SvtxTrackMap::erase" name="SvtxTrackMap::erase">
-<area shape="rect" id="node2" href="$d0/d22/classPHGenFitTrkProp.html#ab11c2e61a1b78278fa4af7cf624c2538" title="Main function." alt="" coords="215,5,456,33"/>
-<area shape="rect" id="node4" href="$de/d25/classPHGenFitTrkFitter.html#a2e088a68ab24c5b89b902205f877f9d6" title="Process Event, called for each event." alt="" coords="263,57,408,101"/>
-<area shape="rect" id="node5" href="$df/dd7/classTpcPrototypeGenFitTrkFitter.html#a8861dffacdf05e47efc97b65adbafe32" title="Process Event, called for each event." alt="" coords="231,125,440,169"/>
-<area shape="rect" id="node3" href="$d0/d22/classPHGenFitTrkProp.html#a31e50e42d62a2bf32763652b39dc95b8" title="PHGenFitTrkProp::Process" alt="" coords="504,5,696,33"/>
-</map>

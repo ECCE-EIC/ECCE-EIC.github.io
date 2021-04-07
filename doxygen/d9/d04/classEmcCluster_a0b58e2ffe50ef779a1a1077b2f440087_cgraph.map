@@ -1,9 +1,0 @@
-<map id="EmcCluster::GetGlobalPos" name="EmcCluster::GetGlobalPos">
-<area shape="rect" id="node2" href="$d9/d04/classEmcCluster.html#a3d0d2d3ed6e633cc4358c95885fe389d" title="Returns the EmcCluster corrected position in Sector (SM) frame." alt="" coords="251,57,434,85"/>
-<area shape="rect" id="node7" href="$d9/d04/classEmcCluster.html#a543c5bf233783f611dfc30038f61bb16" title="Returns the EmcCluster total energy." alt="" coords="483,109,693,137"/>
-<area shape="rect" id="node8" href="$df/d23/classBEmcRec.html#af31103451f839ab9dd870d2fa65718a0" title="BEmcRec::Tower2Global" alt="" coords="251,161,435,189"/>
-<area shape="rect" id="node3" href="$df/d23/classBEmcRec.html#a677ad6b7ce852f984771eb70ba074a8e" title="BEmcRec::CorrectPosition" alt="" coords="491,5,685,33"/>
-<area shape="rect" id="node4" href="$d9/d04/classEmcCluster.html#ac6224f3bd03617de30ced859baf6e83b" title="Returns EmcCluster 1&#45;st (pxcg,pycg) and 2&#45;d momenta (pxx,pxy,pyy)" alt="" coords="491,57,685,85"/>
-<area shape="rect" id="node5" href="$df/d23/classBEmcRec.html#a9ee69a810895d964c13570ac715f96c3" title="BEmcRec::Momenta" alt="" coords="741,57,897,85"/>
-<area shape="rect" id="node6" href="$df/d23/classBEmcRec.html#a4bd50aa9b08ec11f0dbc65fd9f10a099" title="BEmcRec::iTowerDist" alt="" coords="945,57,1108,85"/>
-</map>

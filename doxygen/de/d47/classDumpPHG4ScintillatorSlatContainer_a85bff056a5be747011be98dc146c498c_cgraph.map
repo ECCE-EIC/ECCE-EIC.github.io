@@ -1,5 +1,0 @@
-<map id="DumpPHG4ScintillatorSlatContainer::process_Node" name="DumpPHG4ScintillatorSlatContainer::process_Node">
-<area shape="rect" id="node2" href="$d1/d3e/classPHDataNode.html#a1f3b856fd3ce165047be8aa97f4ab9f3" title="PHDataNode::getData" alt="" coords="279,5,449,33"/>
-<area shape="rect" id="node3" href="$dd/dbd/classPHG4ScintillatorSlatContainer.html#acad6b5208ca3e8bf69fe0f2488211953" title="return all scintillatorSlats matching a given detid" alt="" coords="252,57,476,101"/>
-<area shape="rect" id="node4" href="$dd/dbd/classPHG4ScintillatorSlatContainer.html#a6ba6e21cf063a9342534466b0941ed9e" title="PHG4ScintillatorSlatContainer\l::size" alt="" coords="252,125,476,169"/>
-</map>

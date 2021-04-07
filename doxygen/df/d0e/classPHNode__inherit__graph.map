@@ -1,7 +1,0 @@
-<map id="PHNode" name="PHNode">
-<area shape="rect" id="node2" href="$d5/dca/classPHCompositeNode.html" title="PHCompositeNode" alt="" coords="5,81,152,109"/>
-<area shape="rect" id="node3" href="$d1/d3e/classPHDataNode.html" title="PHDataNode\&lt; T \&gt;" alt="" coords="177,81,322,109"/>
-<area shape="rect" id="node5" href="$d1/d3e/classPHDataNode.html" title="PHDataNode\&lt; PHDWORD \&gt;" alt="" coords="346,81,555,109"/>
-<area shape="rect" id="node4" href="$d9/dde/classPHIODataNode.html" title="PHIODataNode\&lt; T \&gt;" alt="" coords="169,157,329,185"/>
-<area shape="rect" id="node6" href="$df/d2e/classPHRawDataNode.html" title="PHRawDataNode" alt="" coords="383,157,518,185"/>
-</map>

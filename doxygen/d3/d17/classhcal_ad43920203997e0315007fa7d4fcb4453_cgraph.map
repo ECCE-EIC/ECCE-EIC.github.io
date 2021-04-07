@@ -1,6 +1,0 @@
-<map id="hcal::Initialize" name="hcal::Initialize">
-<area shape="rect" id="node2" href="$d3/d17/classhcal.html#ace9f45ddbe7cae23e11457ba6d4b691f" title="hcal::SignalShape" alt="" coords="198,5,341,33"/>
-<area shape="rect" id="node5" href="$d3/d17/classhcal.html#acabdf165843583128cb5d6786068c050" title="hcal::SignalShapeNegative" alt="" coords="168,57,371,85"/>
-<area shape="rect" id="node3" href="$d9/d9e/evDisplay_8C.html#aa88c4e96fb52fe557d1b37b229d46f38" title="pedestal" alt="" coords="419,5,497,33"/>
-<area shape="rect" id="node4" href="$d9/d9e/evDisplay_8C.html#a4e8c1369ad3f4b66e1057a8bf987b94b" title="signal" alt="" coords="427,57,489,85"/>
-</map>

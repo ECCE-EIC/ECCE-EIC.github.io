@@ -1,7 +1,0 @@
-<map id="PHInitZVertexing::set_nbins" name="PHInitZVertexing::set_nbins">
-<area shape="rect" id="node2" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="473,88,668,116"/>
-<area shape="rect" id="node3" href="$d2/d8f/classPHInitZVertexing.html#a412ae0d20c96e3caf14e1e908818a0bf" title="PHInitZVertexing::prune_xy" alt="" coords="219,36,425,64"/>
-<area shape="rect" id="node4" href="$d2/d8f/classPHInitZVertexing.html#a08a21d406d640d5f9281f37b67817cb9" title="PHInitZVertexing::prune_z" alt="" coords="223,88,421,116"/>
-<area shape="rect" id="node5" href="$d2/d8f/classPHInitZVertexing.html#aaba06ae4505c75d93fdee4976ae0fad7" title="PHInitZVertexing::vote_xy" alt="" coords="224,140,420,168"/>
-<area shape="rect" id="node6" href="$d2/d8f/classPHInitZVertexing.html#a1b4c64990e2cdd0350b8e05a08dda0a1" title="PHInitZVertexing::vote_z" alt="" coords="229,192,415,220"/>
-</map>

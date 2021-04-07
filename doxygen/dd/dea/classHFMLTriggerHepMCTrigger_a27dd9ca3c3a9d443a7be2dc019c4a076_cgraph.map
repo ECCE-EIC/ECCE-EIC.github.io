@@ -1,8 +1,0 @@
-<map id="HFMLTriggerHepMCTrigger::process_event" name="HFMLTriggerHepMCTrigger::process_event">
-<area shape="rect" id="node2" href="$d5/d41/classPHHepMCGenEventMap.html#aeee51cbc5dbbd18af41e66c03e955319" title="fetch event" alt="" coords="257,5,471,33"/>
-<area shape="rect" id="node3" href="$d7/d7b/classPHHepMCGenEvent.html#a086a77104ec225e191885f9db7538521" title="PHHepMCGenEvent::getEvent" alt="" coords="252,57,476,85"/>
-<area shape="rect" id="node4" href="$d5/d41/classPHHepMCGenEventMap.html#a9808332ce5629be39dc62c9c3d50a0e2" title="PHHepMCGenEventMap\l::identify" alt="" coords="273,109,455,153"/>
-<area shape="rect" id="node5" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="287,177,441,205"/>
-<area shape="rect" id="node6" href="$d8/d21/classPdbParameterMap.html#aa47d7a23c66ee4fc4bcedca941892f72" title="PdbParameterMap::set\l_int_param" alt="" coords="277,229,451,273"/>
-<area shape="rect" id="node7" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="276,297,452,325"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="ReadLikelihoodD::GetMvaValue__" name="ReadLikelihoodD::GetMvaValue__">
-<area shape="rect" id="node2" href="$d5/db5/classReadLikelihoodD.html#a9afb6ce78ac51f76bf41ce6cd4faac37" title="ReadLikelihoodD::GetNvar" alt="" coords="305,5,505,33"/>
-<area shape="rect" id="node3" href="$d5/db5/classReadLikelihoodD.html#a0f65e8d80ea21adea3fe58cf52bf36a6" title="ReadLikelihoodD::GetType" alt="" coords="307,57,504,85"/>
-<area shape="rect" id="node4" href="$dc/d9f/hcalUtil_8C.html#af562b1ac3ac927ecde202ce0501a97a6" title="ps" alt="" coords="386,109,425,137"/>
-<area shape="rect" id="node6" href="$d5/db5/classReadLikelihoodD.html#a1397606e4e4acd54984e922aedfcae65" title="ReadLikelihoodD::Transform" alt="" coords="300,161,511,189"/>
-<area shape="rect" id="node8" href="$d5/db5/classReadLikelihoodD.html#a2c0958d9f70c71462087342133d7fd1e" title="ReadLikelihoodD::Transform\lLikelihoodOutput" alt="" coords="300,213,511,257"/>
-<area shape="rect" id="node5" href="$da/d55/TPCRateLayered_8m.html#a7507ef556477c204b499f1e189d40796" title="sum" alt="" coords="646,109,697,137"/>
-<area shape="rect" id="node7" href="$d5/db5/classReadLikelihoodD.html#a3f9fde1f566c6bc2963dac31558cf9f2" title="ReadLikelihoodD::Transform_1" alt="" coords="559,161,784,189"/>
-</map>

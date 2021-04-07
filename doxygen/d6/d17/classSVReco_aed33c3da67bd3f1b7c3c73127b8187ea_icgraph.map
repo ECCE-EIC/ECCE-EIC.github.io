@@ -1,6 +1,0 @@
-<map id="SVReco::refitTrack" name="SVReco::refitTrack">
-<area shape="rect" id="node2" href="$df/d9b/classRecoConversionEval.html#ae0025d84438ba3f29cc99ec09cbb9f5b" title="Uses _vertexer to refit." alt="" coords="234,5,393,49"/>
-<area shape="rect" id="node4" href="$dc/d41/classConversion.html#a5a8976da958375a2e66f9c35017fb7be" title="Uses recoVertex and." alt="" coords="225,73,401,101"/>
-<area shape="rect" id="node5" href="$dc/d41/classConversion.html#a232908ec95e6d7b3bfd8883d19885971" title="Uses the truth vertex and SVReco to improve the fit of reco1 and reco2. Uses." alt="" coords="197,125,429,153"/>
-<area shape="rect" id="node3" href="$df/d9b/classRecoConversionEval.html#a54bb2ea55f01b0d0dc8752fbee1bc237" title="RecoConversionEval\l::process_event" alt="" coords="477,5,636,49"/>
-</map>

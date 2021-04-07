@@ -1,9 +1,0 @@
-<map id="RawClusterUtility::GetECoreVec" name="RawClusterUtility::GetECoreVec">
-<area shape="rect" id="node2" href="$dc/d65/classPhotonJet.html#a2c998d51d52420bdde0a2100c7cbdf62" title="PhotonJet::ConeSum" alt="" coords="231,5,391,33"/>
-<area shape="rect" id="node3" href="$dc/d65/classPhotonJet.html#a3f9d3ec941f851bc2246ceb0c5362c9f" title="PhotonJet::process\l_event" alt="" coords="479,80,625,124"/>
-<area shape="rect" id="node4" href="$d0/da9/classAnaTutorial.html#a04c6cb82e3dc8b29662a1bc82fc2ce91" title="AnaTutorial::getEMCalClusters" alt="" coords="197,245,424,273"/>
-<area shape="rect" id="node6" href="$dc/d65/classPhotonJet.html#a9b2de7dcbd5e3bbbd26150d418b7bb44" title="PhotonJet::GetRecoHadrons\lAndJets" alt="" coords="207,109,415,153"/>
-<area shape="rect" id="node7" href="$dc/d65/classPhotonJet.html#a2c1adc79085fbbe9d27254d016321804" title="PhotonJet::GetRecoHadrons\lAndJetsAA" alt="" coords="207,177,415,221"/>
-<area shape="rect" id="node8" href="$d7/dec/classForward__pi0s.html#aa5e9d908554327efd879a6db978b2174" title="Forward_pi0s::process\l_event" alt="" coords="225,297,396,341"/>
-<area shape="rect" id="node5" href="$d0/da9/classAnaTutorial.html#a3b64c061aaffaf4a42631434fb7eb6f9" title="SubsysReco event processing method." alt="" coords="472,237,632,281"/>
-</map>

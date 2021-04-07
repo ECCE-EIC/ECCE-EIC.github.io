@@ -1,9 +1,0 @@
-<map id="PHHepMCGenEventMap::insert_event" name="PHHepMCGenEventMap::insert_event">
-<area shape="rect" id="node2" href="$dd/d2a/classPHHepMCGenHelper.html#ab0c755f6e53c0bf57ccd314a0017d227" title="send HepMC::GenEvent to DST tree. This function takes ownership of evt" alt="" coords="236,125,444,169"/>
-<area shape="rect" id="node3" href="$d6/d6f/classFun4AllHepMCInputManager.html#ab6c80a8ee0701bfff5eee3ec3623015c" title="Fun4AllHepMCInputManager::run" alt="" coords="492,5,736,33"/>
-<area shape="rect" id="node4" href="$db/d1f/classFun4AllOscarInputManager.html#a1537e89c4e652f70747fbbef18ceadc4" title="Fun4AllOscarInputManager\l::ConvertFromOscar" alt="" coords="511,57,717,101"/>
-<area shape="rect" id="node6" href="$dd/da8/classPHPythia6.html#a7a70bdd1c198a83ed143d3e2c4516d0d" title="PHPythia6::process\l_event" alt="" coords="539,125,689,169"/>
-<area shape="rect" id="node7" href="$d9/d3a/classPHPythia8.html#a5cc4124cc6be2fb2467714e3d3bc5a6a" title="PHPythia8::process\l_event" alt="" coords="539,193,689,237"/>
-<area shape="rect" id="node8" href="$da/df0/classPHSartre.html#aafe9fd92317ab1f7eee67a9354696c4e" title="PHSartre::process_event" alt="" coords="521,261,707,289"/>
-<area shape="rect" id="node5" href="$db/d1f/classFun4AllOscarInputManager.html#a4be602bd8c9fe73f9dcc81c8871784a6" title="Fun4AllOscarInputManager::run" alt="" coords="784,65,1019,93"/>
-</map>

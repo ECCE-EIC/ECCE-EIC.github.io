@@ -1,6 +1,0 @@
-<map id="PHG4MvtxDetector::PHG4MvtxDetector" name="PHG4MvtxDetector::PHG4MvtxDetector">
-<area shape="rect" id="node2" href="$dd/dae/classPHParameters.html#aa61ce249b94375d9af4482c36a1308cf" title="PHParameters::get_double\l_param" alt="" coords="281,5,481,49"/>
-<area shape="rect" id="node3" href="$dd/dae/classPHParameters.html#a0241ca27a369ab4865ac3d79620ac27c" title="PHParameters::get_int\l_param" alt="" coords="295,73,467,117"/>
-<area shape="rect" id="node4" href="$d7/d6b/classPHParametersContainer.html#ab3e63b8b945b61000299f853eb6cb110" title="PHParametersContainer\l::GetParameters" alt="" coords="290,141,473,185"/>
-<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="287,209,476,237"/>
-</map>

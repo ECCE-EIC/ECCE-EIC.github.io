@@ -1,4 +1,0 @@
-<map id="CaloRawTowerEval::get_caloid" name="CaloRawTowerEval::get_caloid">
-<area shape="rect" id="node2" href="$d7/d3c/classCaloTruthEval.html#a6f4bfb82a1eb60f0d0fe65b81a4e5387" title="get the hash id for this calorimeter volume" alt="" coords="248,5,395,49"/>
-<area shape="rect" id="node3" href="$de/d0b/classCaloRawTowerEval.html#a1b8eced040f811052e763a4dd70a5938" title="get a copy of the lower level truth eval and its memory cache" alt="" coords="232,73,411,117"/>
-</map>

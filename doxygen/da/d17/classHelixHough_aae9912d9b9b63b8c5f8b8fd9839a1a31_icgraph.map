@@ -1,8 +1,0 @@
-<map id="HelixHough::setPrintTimings" name="HelixHough::setPrintTimings">
-<area shape="rect" id="node2" href="$d1/d27/test__with__vertex_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="333,5,387,33"/>
-<area shape="rect" id="node3" href="$d8/dd4/classPHHoughSeeding.html#a0ebb820f99823081bb76430fa2ca1623" title="code to setup initial vertexing tracker" alt="" coords="267,57,453,101"/>
-<area shape="rect" id="node6" href="$d8/dd4/classPHHoughSeeding.html#a5a05656b73ff982c62a12ffc9ee5ddbc" title="code to setup seed tracking objects" alt="" coords="267,125,453,169"/>
-<area shape="rect" id="node7" href="$d8/dd4/classPHHoughSeeding.html#addc756d71d24093889c153d59cd1316a" title="code to setup full tracking object" alt="" coords="267,193,453,237"/>
-<area shape="rect" id="node4" href="$d8/dd4/classPHHoughSeeding.html#aa37236d12ed871a287dfb8c9cb52d35a" title="create new node output pointers" alt="" coords="501,125,705,169"/>
-<area shape="rect" id="node5" href="$d8/dd4/classPHHoughSeeding.html#afd17a769426edf60c5ea7bffa65622e3" title="PHHoughSeeding::Setup" alt="" coords="753,133,941,161"/>
-</map>

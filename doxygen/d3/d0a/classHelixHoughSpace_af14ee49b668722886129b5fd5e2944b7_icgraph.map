@@ -1,8 +1,0 @@
-<map id="HelixHoughSpace::get_d_max" name="HelixHoughSpace::get_d_max">
-<area shape="rect" id="node2" href="$d1/d97/classPHPatternReco.html#aa7aee7e645e840895d5ccbef3b5dcf8b" title="PHPatternReco::Init" alt="" coords="242,5,394,33"/>
-<area shape="rect" id="node4" href="$d2/d8f/classPHInitZVertexing.html#aa582764dfeca5acd2a4233dac55f2953" title="PHInitZVertexing::Setup" alt="" coords="227,57,409,85"/>
-<area shape="rect" id="node5" href="$d1/d97/classPHPatternReco.html#a0f2e9cdfab77929fdc35beead3e80767" title="PHPatternReco::vote\l_z_init" alt="" coords="239,109,397,153"/>
-<area shape="rect" id="node6" href="$d2/d8f/classPHInitZVertexing.html#a025dfffd01721d0f1da389249ed8bc64" title="PHInitZVertexing::vote\l_z_init" alt="" coords="231,177,405,221"/>
-<area shape="rect" id="node3" href="$d1/d97/classPHPatternReco.html#ac97e2c1e8d98ea16a11d44c134ad0299" title="PHPatternReco::process\l_event" alt="" coords="464,53,645,97"/>
-<area shape="rect" id="node7" href="$d2/d8f/classPHInitZVertexing.html#a50743230c0f324a28d4410227a526ec8" title="PHInitZVertexing::Process" alt="" coords="457,185,652,213"/>
-</map>

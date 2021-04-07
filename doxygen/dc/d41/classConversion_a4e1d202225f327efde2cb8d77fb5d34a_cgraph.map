@@ -1,6 +1,0 @@
-<map id="Conversion::getRecoPhoton" name="Conversion::getRecoPhoton">
-<area shape="rect" id="node2" href="$d2/db8/classSvtxTrack.html#aa455c367aed4671a5d34330cad61f7dc" title="SvtxTrack::get_p" alt="" coords="265,5,399,33"/>
-<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a79f3af39b753ecee85dc1d4e3db08cdd" title="SvtxTrack::get_px" alt="" coords="261,57,403,85"/>
-<area shape="rect" id="node4" href="$d2/db8/classSvtxTrack.html#a5a9164fc95756dd9780755a55327fec5" title="SvtxTrack::get_py" alt="" coords="261,109,403,137"/>
-<area shape="rect" id="node5" href="$d2/db8/classSvtxTrack.html#a826b1ab6d05d45e5148c4645befe4def" title="SvtxTrack::get_pz" alt="" coords="262,161,402,189"/>
-</map>

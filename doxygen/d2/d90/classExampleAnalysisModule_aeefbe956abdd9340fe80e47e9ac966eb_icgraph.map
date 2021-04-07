@@ -1,5 +1,0 @@
-<map id="ExampleAnalysisModule::get_HistoManager" name="ExampleAnalysisModule::get_HistoManager">
-<area shape="rect" id="node2" href="$d2/d90/classExampleAnalysisModule.html#addbbbdacc898dd5a98a90f3fe497ccb6" title="Standard function called at the end of processing. Save your stuff here." alt="" coords="239,5,459,33"/>
-<area shape="rect" id="node3" href="$d2/d90/classExampleAnalysisModule.html#a441ab391e00177a3bd43d7dd107fa119" title="Standard function called at initialization." alt="" coords="256,57,441,101"/>
-<area shape="rect" id="node4" href="$d2/d90/classExampleAnalysisModule.html#ae8a4b6fe1beaa527f3aa92073ea067e4" title="Standard function called at each event." alt="" coords="256,125,441,169"/>
-</map>

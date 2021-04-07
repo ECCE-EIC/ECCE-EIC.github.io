@@ -1,7 +1,0 @@
-<map id="TpcPrototypeGenFitTrkFinder::End" name="TpcPrototypeGenFitTrkFinder::End">
-<area shape="rect" id="node2" href="$d3/d2b/classPHTFileServer.html#ac4e4f66af63e11c709628712c43c5dc9" title="change to directory of TFile matching filename" alt="" coords="333,5,471,33"/>
-<area shape="rect" id="node3" href="$d1/d35/classPHGenFit_1_1Fitter.html#a96693b5a9f125c47e158b38793c657f0" title="PHGenFit::Fitter::display\lEvent" alt="" coords="310,57,494,101"/>
-<area shape="rect" id="node4" href="$d3/d2b/classPHTFileServer.html#a5a3ed7a2a70cc2e38dbe1cb33afe9c2f" title="return reference to class singleton" alt="" coords="329,125,475,153"/>
-<area shape="rect" id="node5" href="$d1/d35/classPHGenFit_1_1Fitter.html#a6310f56a435f67f2a8ff1a9c2270e51e" title="PHGenFit::Fitter::getEvent\lDisplay" alt="" coords="304,177,500,221"/>
-<area shape="rect" id="node6" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="314,245,490,273"/>
-</map>

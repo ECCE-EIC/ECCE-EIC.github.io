@@ -1,8 +1,0 @@
-<map id="Fun4AllServer::topNode" name="Fun4AllServer::topNode">
-<area shape="rect" id="node2" href="$da/d29/classFun4AllServer.html#a76e4880f2838ed1522160c0826b0202a" title="Fun4AllServer::AddTopNode" alt="" coords="235,5,443,33"/>
-<area shape="rect" id="node3" href="$da/d29/classFun4AllServer.html#a2ebfcdcf706670c98c189bfa93c3ff89" title="Fun4AllServer::InitNodeTree" alt="" coords="235,57,444,85"/>
-<area shape="rect" id="node4" href="$d5/dca/classPHCompositeNode.html#a15a0c4804399a9de4267647f05bd1ba4" title="PHCompositeNode::addNode" alt="" coords="492,57,708,85"/>
-<area shape="rect" id="node5" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="769,5,914,33"/>
-<area shape="rect" id="node6" href="$dc/d82/classPHNode.html#adda2bd6cef2d5067bbe3016a990b7198" title="PHNode::setParent" alt="" coords="767,57,915,85"/>
-<area shape="rect" id="node7" href="$d6/d86/classPHPointerList.html#ac2176735e9d046a034f1686fd2c477eb" title="PHPointerList::append" alt="" coords="756,109,927,137"/>
-</map>

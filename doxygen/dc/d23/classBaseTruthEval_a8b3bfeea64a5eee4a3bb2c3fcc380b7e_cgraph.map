@@ -1,5 +1,0 @@
-<map id="BaseTruthEval::is_g4hit_from_primary_shower" name="BaseTruthEval::is_g4hit_from_primary_shower">
-<area shape="rect" id="node2" href="$db/d88/classPHG4Shower.html#a34435c49b7aafdb4f7128d5173dd69ca" title="PHG4Shower::get_id" alt="" coords="248,5,407,33"/>
-<area shape="rect" id="node3" href="$d3/d9e/classPHG4Hit.html#ab640cd94d468b23b439656ea9cdfedf5" title="PHG4Hit::get_shower_id" alt="" coords="236,57,419,85"/>
-<area shape="rect" id="node4" href="$dc/d23/classBaseTruthEval.html#a988244333e36bcd3a7c9c68d4c345af5" title="BaseTruthEval::has\l_reduced_node_pointers" alt="" coords="233,109,421,153"/>
-</map>

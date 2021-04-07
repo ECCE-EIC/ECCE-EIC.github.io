@@ -1,8 +1,0 @@
-<map id="PHG4TpcElectronDrift::PHG4TpcElectronDrift" name="PHG4TpcElectronDrift::PHG4TpcElectronDrift">
-<area shape="rect" id="node2" href="$d4/d31/classPHParameterInterface.html#a2d4069d697a7bc6700ca79e6b42b07fa" title="PHParameterInterface\l::InitializeParameters" alt="" coords="231,108,400,152"/>
-<area shape="rect" id="node7" href="$d7/ddb/classPHG4TpcElectronDrift.html#ae18cd2527e6e4980c116479563b14b52" title="PHG4TpcElectronDrift\l::set_seed" alt="" coords="231,176,399,220"/>
-<area shape="rect" id="node3" href="$d4/d31/classPHParameterInterface.html#a221c3ea7cea9da2f1dbf16a7ab2464ee" title="PHParameterInterface\l::SetDefaultParameters" alt="" coords="458,5,637,49"/>
-<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#a75005aa44390e1eb574603b0b230152b" title="PHParameters::set_double\l_param" alt="" coords="448,73,647,117"/>
-<area shape="rect" id="node5" href="$dd/dae/classPHParameters.html#a62881b44dd0564425633070316af66ec" title="PHParameters::set_int\l_param" alt="" coords="462,141,633,185"/>
-<area shape="rect" id="node6" href="$dd/dae/classPHParameters.html#a2ebd6e499647b20dd41ca164e71ca061" title="PHParameters::set_string\l_param" alt="" coords="452,209,643,253"/>
-</map>

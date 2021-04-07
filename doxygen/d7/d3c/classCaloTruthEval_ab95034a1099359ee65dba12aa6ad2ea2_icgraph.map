@@ -1,8 +1,0 @@
-<map id="CaloTruthEval::do_caching" name="CaloTruthEval::do_caching">
-<area shape="rect" id="node2" href="$de/d0b/classCaloRawTowerEval.html#a29dc75d15db0e554032b23efdf228afc" title="activate or deactivate the memory caching inside the evaluation module" alt="" coords="252,5,425,49"/>
-<area shape="rect" id="node3" href="$da/d7e/classCaloRawClusterEval.html#a36daaec37f22e965563f157cc37dfed4" title="activate or deactivate the memory caching inside the evaluation module" alt="" coords="473,5,628,49"/>
-<area shape="rect" id="node4" href="$db/d10/classCaloEvalStack.html#ad2a871e552ea68a04d23ef239849c48d" title="CaloEvalStack::do_caching" alt="" coords="676,13,879,41"/>
-<area shape="rect" id="node5" href="$d3/d22/classJetTruthEval.html#a962bc362620fe783ef4a42c68bde441e" title="activate or deactivate the memory caching inside the evaluation module" alt="" coords="927,13,1115,41"/>
-<area shape="rect" id="node6" href="$dd/d75/classJetRecoEval.html#ad5be585298d29ebe5c659d7e79227362" title="activate or deactivate the memory caching inside the evaluation module" alt="" coords="1163,13,1349,41"/>
-<area shape="rect" id="node7" href="$dd/df3/classJetEvalStack.html#acf99c6db6673c099155d61af06ca46f8" title="JetEvalStack::do_caching" alt="" coords="1397,13,1588,41"/>
-</map>

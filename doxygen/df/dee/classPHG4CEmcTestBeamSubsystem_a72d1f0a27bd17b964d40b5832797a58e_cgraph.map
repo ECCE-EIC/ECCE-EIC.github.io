@@ -1,6 +1,0 @@
-<map id="PHG4CEmcTestBeamSubsystem::process_event" name="PHG4CEmcTestBeamSubsystem::process_event">
-<area shape="rect" id="node2" href="$df/d6e/classPHG4CEmcTestBeamSteppingAction.html#a57a4f74dd6ba5a46380988f5dd7fd44a" title="reimplemented from base class" alt="" coords="291,57,513,101"/>
-<area shape="rect" id="node3" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="577,5,767,33"/>
-<area shape="rect" id="node4" href="$d5/da7/classPHG4CEmcTestBeamDetector.html#a14c29d60c4613b77b7d95eccecd59b3c" title="PHG4CEmcTestBeamDetector\l::SuperDetector" alt="" coords="561,57,783,101"/>
-<area shape="rect" id="node5" href="$df/d3f/classPHG4SteppingAction.html#a4f46d6b68b124cd32518b631465359dc" title="PHG4SteppingAction\l::Verbosity" alt="" coords="591,125,753,169"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="SvtxTrack::get_dca3d_xy_error" name="SvtxTrack::get_dca3d_xy_error">
-<area shape="rect" id="node2" href="$d2/d93/classTrkrEvaluator.html#a753a5ea1a91f097f5c226f5b1620db3f" title="dump the evaluator information into ntuple for external analysis" alt="" coords="220,5,405,49"/>
-<area shape="rect" id="node4" href="$d6/d11/classSvtxEvaluator.html#ace95fef2b7b4ad8b797f6695e053dd6e" title="dump the evaluator information into ntuple for external analysis" alt="" coords="219,73,407,117"/>
-<area shape="rect" id="node6" href="$db/d4c/classBJetModule.html#a93ec29147c2d7aea52780d7370141e74" title="BJetModule::process\l_event" alt="" coords="233,141,392,185"/>
-<area shape="rect" id="node3" href="$d2/d93/classTrkrEvaluator.html#af1cb893f5a8aebc803c2bb55dd582e5a" title="TrkrEvaluator::process\l_event" alt="" coords="456,5,629,49"/>
-<area shape="rect" id="node5" href="$d6/d11/classSvtxEvaluator.html#ac66ea4145deb621d9e4fb38cf852dc33" title="SvtxEvaluator::process\l_event" alt="" coords="455,73,631,117"/>
-</map>

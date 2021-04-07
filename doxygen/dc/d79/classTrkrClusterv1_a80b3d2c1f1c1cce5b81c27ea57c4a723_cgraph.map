@@ -1,8 +1,0 @@
-<map id="TrkrClusterv1::CloneMe" name="TrkrClusterv1::CloneMe">
-<area shape="rect" id="node2" href="$dc/d79/classTrkrClusterv1.html#a3a37c793534127d89da3ac1d8784d3ac" title="ctor" alt="" coords="232,32,441,60"/>
-<area shape="rect" id="node3" href="$dc/d79/classTrkrClusterv1.html#a4de5fc384b7cd3eb2d03b295cdcd9f75" title="TrkrClusterv1::setError" alt="" coords="489,5,664,33"/>
-<area shape="rect" id="node7" href="$dc/d79/classTrkrClusterv1.html#a07ec25db051133ef43528937c92380c3" title="TrkrClusterv1::setSize" alt="" coords="492,57,661,85"/>
-<area shape="rect" id="node4" href="$dc/d79/classTrkrClusterv1.html#ae90d54dc6442524e2d53f793cdf273b2" title="TrkrClusterv1::covarIndex" alt="" coords="712,32,908,60"/>
-<area shape="rect" id="node5" href="$d4/da9/namespaceboost.html#a630945877437d477612e4419562161cc" title="boost::swap" alt="" coords="956,32,1059,60"/>
-<area shape="rect" id="node6" href="$d1/d96/classboost_1_1array.html#a342ef866ed696b18ce803b5c9aba4b2e" title="boost::array::swap" alt="" coords="1107,32,1253,60"/>
-</map>

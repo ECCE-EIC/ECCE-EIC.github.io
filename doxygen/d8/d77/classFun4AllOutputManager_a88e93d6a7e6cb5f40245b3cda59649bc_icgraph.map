@@ -1,9 +1,0 @@
-<map id="Fun4AllOutputManager::OutFileName" name="Fun4AllOutputManager::OutFileName">
-<area shape="rect" id="node2" href="$d6/dc8/classFun4AllPrdfOutputManager.html#ad566fdc55f40cf311853ae42fa8cba1c" title="Fun4AllPrdfOutputManager\l::InitPrdfManager" alt="" coords="239,5,443,49"/>
-<area shape="rect" id="node4" href="$d6/dc8/classFun4AllPrdfOutputManager.html#a9ad91502eb5e000913f5f72ab22d2b13" title="reinitialize raw output manager to write to new filename. Close old one if any" alt="" coords="239,73,443,117"/>
-<area shape="rect" id="node5" href="$da/daa/classFun4AllDstOutputManager.html#aabf3c98fd391310f0bd2b917213f6671" title="print method (dump event selector)" alt="" coords="241,141,441,185"/>
-<area shape="rect" id="node6" href="$d2/d4a/classFun4AllEventOutputManager.html#a2fa3132456444cbaa50831d3b50e1058" title="Fun4AllEventOutputManager\l::SetOutfileName" alt="" coords="232,209,449,253"/>
-<area shape="rect" id="node8" href="$da/daa/classFun4AllDstOutputManager.html#ac839ec7d93dd52ca363c8307fa88cb94" title="write specified node" alt="" coords="241,277,441,321"/>
-<area shape="rect" id="node3" href="$d6/dc8/classFun4AllPrdfOutputManager.html#a6aaed7e9b0b32a481661fde72ff44fa2" title="event write method (startNode argument is ignored. prdfNode is always used)" alt="" coords="506,5,710,49"/>
-<area shape="rect" id="node7" href="$d0/dbe/classFun4AllRolloverFileOutStream.html#a62307502b13100ac20f8adf1bd9c1c20" title="Fun4AllRolloverFileOutStream\l::WriteEventOut" alt="" coords="497,209,719,253"/>
-</map>

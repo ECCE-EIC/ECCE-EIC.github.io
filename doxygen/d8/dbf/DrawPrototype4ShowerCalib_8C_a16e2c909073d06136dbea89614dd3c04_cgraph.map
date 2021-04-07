@@ -1,8 +1,0 @@
-<map id="Get_Res_linear_Summmary_Sim" name="Get_Res_linear_Summmary_Sim">
-<area shape="rect" id="node2" href="$dc/d3f/DrawPrototype2ShowerCalib_8C.html#a04a53ccab016c6e0a03718ada230fe27" title="GetBeamMom" alt="" coords="292,5,409,33"/>
-<area shape="rect" id="node3" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="459,57,563,85"/>
-<area shape="rect" id="node5" href="$d5/d51/DrawHadronShowers_8C.html#a84e15daec6faece69efa9a8c061a4725" title="GetResolution" alt="" coords="293,109,409,137"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="613,57,692,85"/>
-<area shape="rect" id="node6" href="$d5/d51/DrawHadronShowers_8C.html#ac3f29226cb9dcf3fb4ab5aad51ad4afb" title="GetEvalHisto" alt="" coords="457,109,565,137"/>
-<area shape="rect" id="node7" href="$d5/d51/DrawHadronShowers_8C.html#afbe9b1a984a4764aaca150efeaa0fec9" title="GetQAHisto" alt="" coords="461,161,561,189"/>
-</map>

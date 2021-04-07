@@ -1,8 +1,0 @@
-<map id="FitNewton::FunctionGradHessian::Clone" name="FitNewton::FunctionGradHessian::Clone">
-<area shape="rect" id="node2" href="$df/da1/classFitNewton_1_1ChiSquareGradHessian.html#a1c018b80c13ee46af5db3244f75c5a8a" title="FitNewton::ChiSquareGrad\lHessian::calcValGrad" alt="" coords="625,20,824,64"/>
-<area shape="rect" id="node3" href="$df/da1/classFitNewton_1_1ChiSquareGradHessian.html#ae95ffa2793d2c42ab05ad87b8fc0ab13" title="FitNewton::ChiSquareGrad\lHessian::calcValGradHessian" alt="" coords="616,113,833,157"/>
-<area shape="rect" id="node4" href="$df/da1/classFitNewton_1_1ChiSquareGradHessian.html#a415ae5287349b788d8e8d49560b72cf9" title="FitNewton::ChiSquareGrad\lHessian::calcValGradHessianThread1" alt="" coords="295,156,568,200"/>
-<area shape="rect" id="node5" href="$df/d8b/classFitNewton_1_1GaussianRegGradHessian.html#aff2ee1eb45212474f5c09a3c779d0f3d" title="FitNewton::GaussianRegGrad\lHessian::calcValGradHessianThread1" alt="" coords="295,224,568,268"/>
-<area shape="rect" id="node7" href="$df/da1/classFitNewton_1_1ChiSquareGradHessian.html#a7873e6b3b2467a1b02c2c03555cffd17" title="FitNewton::ChiSquareGrad\lHessian::calcValGradThread1" alt="" coords="321,36,541,80"/>
-<area shape="rect" id="node6" href="$df/d8b/classFitNewton_1_1GaussianRegGradHessian.html#a4908d900666441ac849f9afb26d97465" title="FitNewton::GaussianRegGrad\lHessian::calcValGradHessian" alt="" coords="616,224,833,268"/>
-</map>

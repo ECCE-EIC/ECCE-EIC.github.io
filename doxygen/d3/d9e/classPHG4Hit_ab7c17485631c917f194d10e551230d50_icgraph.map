@@ -1,5 +1,0 @@
-<map id="PHG4Hit::get_detid" name="PHG4Hit::get_detid">
-<area shape="rect" id="node2" href="$db/dca/classSetupDualRICHAnalyzer.html#a2950176f0459cff50b883ecca6a29373" title="SetupDualRICHAnalyzer\l::calculate_emission_angle" alt="" coords="203,65,405,109"/>
-<area shape="rect" id="node3" href="$d8/dea/classRICHEvaluator.html#a6f910e41350cb9b89acc8029e5769762" title="RICHEvaluator::process\l_event" alt="" coords="453,5,632,49"/>
-<area shape="rect" id="node4" href="$dc/d11/classRICHParticleID.html#a6a405f148fafb5d7a36c60626507e5f7" title="RICHParticleID::process\l_event" alt="" coords="453,73,632,117"/>
-</map>

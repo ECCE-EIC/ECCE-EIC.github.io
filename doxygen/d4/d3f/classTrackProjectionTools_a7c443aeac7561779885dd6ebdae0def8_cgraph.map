@@ -1,8 +1,0 @@
-<map id="TrackProjectionTools::getE33Barrel" name="TrackProjectionTools::getE33Barrel">
-<area shape="rect" id="node2" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="223,5,397,33"/>
-<area shape="rect" id="node3" href="$d0/d25/group__cylindrical__calorimeter.html#ga3ea5ca162fdc4aef33e043a5fe932170" title="RawTowerGeomContainer\l::get_etabin" alt="" coords="212,57,408,101"/>
-<area shape="rect" id="node4" href="$d0/d25/group__cylindrical__calorimeter.html#ga3d283957eb2f3bc0b27e3217d37b8dfb" title="RawTowerGeomContainer\l::get_etabins" alt="" coords="212,125,408,169"/>
-<area shape="rect" id="node5" href="$d0/d25/group__cylindrical__calorimeter.html#gabb19fa77925744d525f54a5988be7fac" title="RawTowerGeomContainer\l::get_phibin" alt="" coords="212,193,408,237"/>
-<area shape="rect" id="node6" href="$d0/d25/group__cylindrical__calorimeter.html#gab9c3a0fa996fffad8aa107d62d5b26b6" title="RawTowerGeomContainer\l::get_phibins" alt="" coords="212,261,408,305"/>
-<area shape="rect" id="node7" href="$d3/dc7/classRawTowerContainer.html#a94a3368d6cd85ea4c3f204cd1065da26" title="RawTowerContainer::\lgetTower" alt="" coords="229,329,391,373"/>
-</map>

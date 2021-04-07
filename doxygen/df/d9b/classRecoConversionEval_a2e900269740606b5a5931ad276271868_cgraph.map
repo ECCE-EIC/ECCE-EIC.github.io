@@ -1,9 +1,0 @@
-<map id="RecoConversionEval::pairCuts" name="RecoConversionEval::pairCuts">
-<area shape="rect" id="node2" href="$df/d9b/classRecoConversionEval.html#a549928dd5c423a81195fe810d62bc37a" title="RecoConversionEval\l::detaCut" alt="" coords="212,5,371,49"/>
-<area shape="rect" id="node3" href="$d2/db8/classSvtxTrack.html#a991a05caa213e0922d00c76568dade57" title="SvtxTrack::get_eta" alt="" coords="219,73,364,101"/>
-<area shape="rect" id="node4" href="$df/d9b/classRecoConversionEval.html#ac7e014fdf47223bef41f1db285534f1c" title="RecoConversionEval\l::hitCuts" alt="" coords="212,125,371,169"/>
-<area shape="rect" id="node5" href="$d2/db8/classSvtxTrack.html#a6d8dace95bd6d93aa08d66c5e2c3ad85" title="SvtxTrack::begin_cluster_keys" alt="" coords="419,43,643,71"/>
-<area shape="rect" id="node6" href="$d0/d2c/classTrkrClusterContainer.html#a2b2eea90672ac17f6439c932d2a144ad" title="TrkrClusterContainer\l::findCluster" alt="" coords="449,95,612,139"/>
-<area shape="rect" id="node7" href="$d6/dfa/classTrkrCluster.html#ab18c56f7c1aa174203dcf8fbf0141279" title="TrkrCluster::getClusKey" alt="" coords="441,163,621,191"/>
-<area shape="rect" id="node8" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="457,215,605,243"/>
-</map>

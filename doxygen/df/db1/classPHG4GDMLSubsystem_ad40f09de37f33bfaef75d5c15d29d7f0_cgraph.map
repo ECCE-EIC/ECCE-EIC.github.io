@@ -1,7 +1,0 @@
-<map id="PHG4GDMLSubsystem::Print" name="PHG4GDMLSubsystem::Print">
-<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html#a6ce8e425ac50e6f13d44075bd6843dcf" title="PHG4DetectorSubsystem\l::GetParams" alt="" coords="237,5,429,49"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="257,73,410,101"/>
-<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#a86d5b7d8808528ad2d4389a081f7c657" title="PHParameters::Print" alt="" coords="255,125,412,153"/>
-<area shape="rect" id="node5" href="$df/d0d/classPHG4GDMLDetector.html#a4478cf49b6e8e93a27cdad7873add356" title="PHG4GDMLDetector::Print" alt="" coords="235,177,432,205"/>
-<area shape="rect" id="node6" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="480,177,669,205"/>
-</map>

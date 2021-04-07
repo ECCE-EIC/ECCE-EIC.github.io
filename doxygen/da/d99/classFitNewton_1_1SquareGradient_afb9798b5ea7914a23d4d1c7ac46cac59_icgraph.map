@@ -1,4 +1,0 @@
-<map id="FitNewton::SquareGradient::calcValGrad" name="FitNewton::SquareGradient::calcValGrad">
-<area shape="rect" id="node2" href="$da/d99/classFitNewton_1_1SquareGradient.html#a01aeda824aa0da749a6c826595274f6b" title="FitNewton::SquareGradient\l::calcValGradHessian" alt="" coords="267,5,471,49"/>
-<area shape="rect" id="node3" href="$d1/d34/classFitNewton_1_1NewtonMinimizerGradHessian.html#acbcf90b318d2419aa6832cefe666efb2" title="FitNewton::NewtonMinimizer\lGradHessian::findSaddlePoint" alt="" coords="257,73,481,117"/>
-</map>

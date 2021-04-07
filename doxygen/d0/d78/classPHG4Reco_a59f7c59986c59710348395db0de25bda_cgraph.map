@@ -1,8 +1,0 @@
-<map id="PHG4Reco::Init" name="PHG4Reco::Init">
-<area shape="rect" id="node2" href="$d0/d78/classPHG4Reco.html#a90115a5a7726db54ec46f7fa341e0e5c" title="PHG4Reco::DefineMaterials" alt="" coords="176,5,383,33"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="431,32,607,60"/>
-<area shape="rect" id="node4" href="$d0/d78/classPHG4Reco.html#a0ef2e9563072fdd4550b15579d512d66" title="PHG4Reco::DefineRegions" alt="" coords="180,109,379,137"/>
-<area shape="rect" id="node5" href="$d0/d78/classPHG4Reco.html#ad9327b20b8993c36a9cc9826608db68f" title="PHG4Reco::G4Seed" alt="" coords="203,161,356,189"/>
-<area shape="rect" id="node6" href="$d0/d32/classSubsysReco.html#a6670c0a093dd2c2bdd44f8fc6f9ba8e8" title="SubsysReco::Init" alt="" coords="213,213,346,241"/>
-<area shape="rect" id="node7" href="$db/d73/classP6DExtDecayerPhysics.html#a2bd6e1c13d83f11d804f6296c151472f" title="P6DExtDecayerPhysics\l::SetForceDecay" alt="" coords="191,265,367,309"/>
-</map>

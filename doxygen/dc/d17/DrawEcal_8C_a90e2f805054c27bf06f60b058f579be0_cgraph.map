@@ -1,6 +1,0 @@
-<map id="DrawTower_EMCTrigEff_SlideingWindow2" name="DrawTower_EMCTrigEff_SlideingWindow2">
-<area shape="rect" id="node2" href="$dc/d17/DrawEcal_8C.html#a75150d6c085fcce71b306c1300fa6e39" title="Distribution2Efficiency" alt="" coords="228,5,403,33"/>
-<area shape="rect" id="node3" href="$dc/d17/DrawEcal_8C.html#a8c996aae4941fef0896b28c8ca9bd830" title="DrawTower_Load" alt="" coords="249,57,382,85"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="263,109,367,137"/>
-<area shape="rect" id="node5" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="451,109,529,137"/>
-</map>

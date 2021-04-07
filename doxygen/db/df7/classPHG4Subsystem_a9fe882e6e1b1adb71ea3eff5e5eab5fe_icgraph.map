@@ -1,6 +1,0 @@
-<map id="PHG4Subsystem::SetLogicalVolume" name="PHG4Subsystem::SetLogicalVolume">
-<area shape="rect" id="node2" href="$dc/d36/classPHG4BlockDetector.html#a2caa8fb9a09ae821083b3033196ac14b" title="construct" alt="" coords="309,5,470,49"/>
-<area shape="rect" id="node3" href="$d3/d95/classPHG4CylinderDetector.html#a41c5cf8440085201958fe2ca403500a0" title="construct" alt="" coords="303,73,476,117"/>
-<area shape="rect" id="node4" href="$d6/d41/classPHG4ConeDetector.html#a412ef104ac98b1f41ccf1d273b3d7118" title="construct" alt="" coords="267,141,512,169"/>
-<area shape="rect" id="node5" href="$df/d0d/classPHG4GDMLDetector.html#a6ca6be89e2f2ee1d92e862115981fd0e" title="construct" alt="" coords="264,193,515,221"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="serai" name="serai">
-<area shape="rect" id="node2" href="$d8/dcf/d1mach_8f.html#a507decabfd116e2d9ebbda32e0d944b3" title="d1mach" alt="" coords="107,32,183,60"/>
-<area shape="rect" id="node3" href="$d8/dcf/d1mach_8f.html#afc9fb70ab87786e37bc6e39c9514d8c6" title="i1mcry" alt="" coords="255,5,323,33"/>
-<area shape="rect" id="node4" href="$d0/d5e/classPHTimer.html#adce6f9a85834e59bd154b9c624ee4e41" title="stops the counter" alt="" coords="231,57,347,85"/>
-<area shape="rect" id="node5" href="$d0/d5e/classPHTimer.html#aa92e3fe4a0a1799f39743eda9ef9d497" title="gets time from cpu clock counts" alt="" coords="599,23,750,67"/>
-<area shape="rect" id="node6" href="$d0/d5e/classPHTimer.html#a976738876ad978116fdc4549a3765685" title="retrieve elapsed value since last restart (in ms)" alt="" coords="395,83,535,111"/>
-<area shape="rect" id="node7" href="$d0/d5e/classPHTimer.html#aa75ff2c27aba40e7ef0a934f9a3355c2" title="returns difference between to time" alt="" coords="583,91,767,119"/>
-<area shape="rect" id="node8" href="$d2/db1/classPHTimer_1_1Frequency.html#a023a2d706df9a8bd303810a9ed017f61" title="period accessor" alt="" coords="815,83,972,127"/>
-</map>

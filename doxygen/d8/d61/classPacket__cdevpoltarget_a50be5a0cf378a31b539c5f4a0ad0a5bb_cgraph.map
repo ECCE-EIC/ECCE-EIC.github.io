@@ -1,8 +1,0 @@
-<map id="Packet_cdevpoltarget::decode" name="Packet_cdevpoltarget::decode">
-<area shape="rect" id="node2" href="$dc/d93/Cpacket_8C.html#ac5193834fcf576bc46dcee466b3ae95f" title="findPacketDataStart" alt="" coords="220,57,376,85"/>
-<area shape="rect" id="node3" href="$dc/d93/Cpacket_8C.html#a29c44c21a6a00aa380a5fccd255f689c" title="getPacketDataDescrLength" alt="" coords="424,5,628,33"/>
-<area shape="rect" id="node6" href="$de/d93/Cpacket_8h.html#a00a03758ac2620086eda111809151cfd" title="getPacketHdrLength" alt="" coords="447,57,605,85"/>
-<area shape="rect" id="node7" href="$dc/d93/Cpacket_8C.html#af873472780d17d2304cb7d9ea6cb5cbb" title="validPacketHdr" alt="" coords="465,109,587,137"/>
-<area shape="rect" id="node4" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="676,57,837,85"/>
-<area shape="rect" id="node5" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="885,57,1004,85"/>
-</map>

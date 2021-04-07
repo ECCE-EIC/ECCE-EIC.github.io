@@ -1,6 +1,0 @@
-<map id="SvtxTrack::get_vertex_id" name="SvtxTrack::get_vertex_id">
-<area shape="rect" id="node2" href="$d0/d22/classPHGenFitTrkProp.html#ab11c2e61a1b78278fa4af7cf624c2538" title="Main function." alt="" coords="520,35,761,63"/>
-<area shape="rect" id="node4" href="$d0/d22/classPHGenFitTrkProp.html#a425f22248030483cb56cdb867c3077c8" title="ExportOutput Call. Make SvtxTrack from PHGenFit::Track and set of clusters." alt="" coords="239,27,472,71"/>
-<area shape="rect" id="node5" href="$d0/d22/classPHGenFitTrkProp.html#ac159ce1352f6004a2f51a520c287c339" title="KalmanTrkProp Call." alt="" coords="252,95,459,139"/>
-<area shape="rect" id="node3" href="$d0/d22/classPHGenFitTrkProp.html#a31e50e42d62a2bf32763652b39dc95b8" title="PHGenFitTrkProp::Process" alt="" coords="809,35,1001,63"/>
-</map>

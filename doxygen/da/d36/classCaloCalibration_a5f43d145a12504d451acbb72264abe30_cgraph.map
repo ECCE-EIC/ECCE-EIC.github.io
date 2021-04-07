@@ -1,5 +1,0 @@
-<map id="CaloCalibration::CaloCalibration" name="CaloCalibration::CaloCalibration">
-<area shape="rect" id="node2" href="$da/d36/classCaloCalibration.html#a91a8738c7943bf35c2b80608e1da3a9d" title="load the default parameter to param" alt="" coords="289,40,495,84"/>
-<area shape="rect" id="node3" href="$dd/dae/classPHParameters.html#a62881b44dd0564425633070316af66ec" title="PHParameters::set_int\l_param" alt="" coords="557,5,727,49"/>
-<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#a75005aa44390e1eb574603b0b230152b" title="PHParameters::set_double\l_param" alt="" coords="543,73,741,117"/>
-</map>

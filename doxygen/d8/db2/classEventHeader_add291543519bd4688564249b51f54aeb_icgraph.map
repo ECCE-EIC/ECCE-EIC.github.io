@@ -1,6 +1,0 @@
-<map id="EventHeader::get_RunNumber" name="EventHeader::get_RunNumber">
-<area shape="rect" id="node2" href="$d4/d6e/classProto4ShowerCalib.html#a6779c358aea1a7a5be8e763e75a494fc" title="Proto4ShowerCalib::\lprocess_event" alt="" coords="295,5,453,49"/>
-<area shape="rect" id="node3" href="$d9/d84/classProto3ShowerCalib.html#aac6fefbb30143ab22df4299ed4d0d522" title="Proto3ShowerCalib::\lprocess_event" alt="" coords="295,73,453,117"/>
-<area shape="rect" id="node4" href="$d6/da1/classProto2ShowerCalib.html#acdbc70e3d9fd76151ff1ea043ccf7db8" title="Proto2ShowerCalib::\lprocess_event" alt="" coords="295,141,453,185"/>
-<area shape="rect" id="node5" href="$d2/d90/classExampleAnalysisModule.html#ae8a4b6fe1beaa527f3aa92073ea067e4" title="Standard function called at each event." alt="" coords="281,209,467,253"/>
-</map>

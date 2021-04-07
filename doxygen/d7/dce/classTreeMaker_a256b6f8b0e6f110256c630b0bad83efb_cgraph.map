@@ -1,8 +1,0 @@
-<map id="TreeMaker::GetTruthJets" name="TreeMaker::GetTruthJets">
-<area shape="rect" id="node2" href="$d7/d97/classJetMap.html#a0ed0a38d5cffc5f42774a634f2207d43" title="JetMap::begin" alt="" coords="236,5,351,33"/>
-<area shape="rect" id="node3" href="$d7/d97/classJetMap.html#a21986721db13cb4cf361c1639aebcc1b" title="JetMap::end" alt="" coords="242,57,345,85"/>
-<area shape="rect" id="node4" href="$d7/da6/classJet.html#a85015347b5a5742dcf218e258f0460ae" title="Jet::get_e" alt="" coords="251,109,336,137"/>
-<area shape="rect" id="node5" href="$d7/da6/classJet.html#aa7219b7e6fafba21362c4591f4ed8f06" title="Jet::get_eta" alt="" coords="244,161,343,189"/>
-<area shape="rect" id="node6" href="$d7/da6/classJet.html#aaf7b661627240eff2b2b5bc596b8736e" title="Jet::get_phi" alt="" coords="244,213,343,241"/>
-<area shape="rect" id="node7" href="$d7/da6/classJet.html#ab0298c30da3364739d73c36a28e76dfb" title="Jet::get_pt" alt="" coords="247,265,339,293"/>
-</map>

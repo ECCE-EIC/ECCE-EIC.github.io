@@ -1,6 +1,0 @@
-<map id="findPacketV1DataEnd" name="findPacketV1DataEnd">
-<area shape="rect" id="node2" href="$df/d5c/CpacketV1_8C.html#ae0154305cc6adc6a81b815b920ee9c83" title="findPacketV1DebugStart" alt="" coords="220,57,407,85"/>
-<area shape="rect" id="node3" href="$de/d93/Cpacket_8h.html#a240cdc0ca633222b7ca7dd8d85ebedd0" title="getPacketLength" alt="" coords="486,5,619,33"/>
-<area shape="rect" id="node4" href="$d6/dee/CpacketV1_8h.html#ac216e6fa802dd319054712799b39ff71" title="getPacketV1DebugLength" alt="" coords="455,57,651,85"/>
-<area shape="rect" id="node5" href="$d6/dee/CpacketV1_8h.html#abc38cac9b20b4aebc6f2cb40e6cf0af2" title="getPacketV1ErrorLength" alt="" coords="461,109,645,137"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="PHHepMCGenEventMap::size" name="PHHepMCGenEventMap::size">
-<area shape="rect" id="node2" href="$dc/d86/classTPCIntegratedCharge.html#a81020cfbf5f20cf2696026c8ecf2953d" title="TPCIntegratedCharge\l::process_event" alt="" coords="248,5,415,49"/>
-<area shape="rect" id="node3" href="$da/d27/classTPCDataStreamEmulator.html#a103b0eab10ddf8a3b47e2d6e36b5a59d" title="TPCDataStreamEmulator\l::process_event" alt="" coords="236,73,427,117"/>
-<area shape="rect" id="node4" href="$d8/d7c/classTPCMLDataInterface.html#ad8e09026c6e113a6b0a3ad2c5a54eae6" title="TPCMLDataInterface\l::process_event" alt="" coords="252,141,411,185"/>
-<area shape="rect" id="node5" href="$dc/dd7/classPHG4ScoringManager.html#a18f06bfae1801c84f524aa4056a32841" title="event processing method" alt="" coords="247,209,416,253"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="RawTowerContainer::identify" name="RawTowerContainer::identify">
-<area shape="rect" id="node2" href="$d7/d10/classRawTowerBuilder.html#ab0904fa048bbd1d45f4df5efad65b229" title="RawTowerBuilder::process\l_event" alt="" coords="223,5,420,49"/>
-<area shape="rect" id="node3" href="$d6/d1b/classPrototype2RawTowerBuilder.html#a054b323dcfa56a3b03b5ba5638b17b43" title="Prototype2RawTowerBuilder\l::process_event" alt="" coords="216,73,427,117"/>
-<area shape="rect" id="node4" href="$d1/dec/classHcalRawTowerBuilder.html#a419bcd185f821dfdefb481ebdbca3a31" title="HcalRawTowerBuilder\l::process_event" alt="" coords="238,141,405,185"/>
-<area shape="rect" id="node5" href="$db/d5f/classCaloUnpackPRDF.html#adbb270280eedd426c4d6f085f36e1ebc" title="CaloUnpackPRDF::process\l_event" alt="" coords="223,209,420,253"/>
-<area shape="rect" id="node6" href="$d1/df8/classRawTowerBuilderByHitIndex.html#aa8ce40e0a1ba5c7a2326a1a720fe3f8d" title="RawTowerBuilderByHitIndex\l::process_event" alt="" coords="216,277,427,321"/>
-</map>

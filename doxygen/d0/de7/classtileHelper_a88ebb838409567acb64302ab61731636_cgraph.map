@@ -1,9 +1,0 @@
-<map id="tileHelper::tileTiming" name="tileHelper::tileTiming">
-<area shape="rect" id="node2" href="$d0/de7/classtileHelper.html#afe9c6ac4fa2ec846b865c66dcd2fdc61" title="tileHelper::fitTileSignal" alt="" coords="222,32,397,60"/>
-<area shape="rect" id="node3" href="$db/de1/classhLabHelper.html#ad95e7adb643427f3040b53a80688ed48" title="hLabHelper::getInstance" alt="" coords="216,84,403,112"/>
-<area shape="rect" id="node4" href="$db/de1/classhLabHelper.html#a97f81588f97fbe76de68880f6f7761fa" title="hLabHelper::hLabHelper" alt="" coords="451,84,637,112"/>
-<area shape="rect" id="node5" href="$da/d7d/hcalControls_8h.html#a8998226eecfa3f1d2d1dcd3e8a7ff807" title="HLABrootDir" alt="" coords="685,5,791,33"/>
-<area shape="rect" id="node6" href="$da/d7d/hcalControls_8h.html#a6932c924ec292fd23d662555249874d5" title="RCFrootDir" alt="" coords="691,57,785,85"/>
-<area shape="rect" id="node7" href="$d9/d9e/evDisplay_8C.html#a33f331fb5be17a06936e29f910014973" title="signalShape" alt="" coords="686,109,790,137"/>
-<area shape="rect" id="node8" href="$da/d55/TPCRateLayered_8m.html#a7507ef556477c204b499f1e189d40796" title="sum" alt="" coords="713,161,763,189"/>
-</map>

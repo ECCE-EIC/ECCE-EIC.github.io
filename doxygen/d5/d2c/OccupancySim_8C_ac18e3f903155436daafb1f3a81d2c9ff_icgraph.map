@@ -1,6 +1,0 @@
-<map id="MakeCDF" name="MakeCDF">
-<area shape="rect" id="node2" href="$d2/da8/DrawTPCDataStreamEmulator_8C.html#af3200dbdd6f1e13b539798be6d850502" title="FEEDataSize" alt="" coords="155,5,262,33"/>
-<area shape="rect" id="node3" href="$d2/da8/DrawTPCDataStreamEmulator_8C.html#a302e9813e60ef3ad503c7de8fbb6d3d4" title="SectorDataSize" alt="" coords="147,57,271,85"/>
-<area shape="rect" id="node4" href="$d5/d2c/OccupancySim_8C.html#a610c2a9d5bfded848f666b158f4da429" title="TriggerMultiplicity" alt="" coords="137,109,280,137"/>
-<area shape="rect" id="node5" href="$d5/d2c/OccupancySim_8C.html#a28382febd43e2ec0a59885ad01d46bfb" title="OccupancySim" alt="" coords="328,109,449,137"/>
-</map>

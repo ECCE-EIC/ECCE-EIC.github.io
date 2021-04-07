@@ -1,5 +1,0 @@
-<map id="PHG4CylinderGeom_Spacalv1::init_default_sector_map" name="PHG4CylinderGeom_Spacalv1::init_default_sector_map">
-<area shape="rect" id="node2" href="$d0/da4/classPHG4SpacalDetector.html#ac94e5116eddbcc2f1b5eb348b5450e38" title="PHG4SpacalDetector\l::ConstructMe" alt="" coords="276,40,439,84"/>
-<area shape="rect" id="node3" href="$d1/d05/classPHG4FullProjSpacalDetector.html#a9bbee7264b7117bfe8476d28de70909f" title="PHG4FullProjSpacalDetector\l::ConstructMe" alt="" coords="487,5,697,49"/>
-<area shape="rect" id="node4" href="$d3/db1/classPHG4FullProjTiltedSpacalDetector.html#a99847a0a4cb3a1eb74d90d073aaec0f0" title="PHG4FullProjTiltedSpacal\lDetector::ConstructMe" alt="" coords="497,73,687,117"/>
-</map>

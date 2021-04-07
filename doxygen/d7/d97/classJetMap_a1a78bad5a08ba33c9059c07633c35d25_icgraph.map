@@ -1,6 +1,0 @@
-<map id="JetMap::insert" name="JetMap::insert">
-<area shape="rect" id="node2" href="$d7/df3/classJetReco.html#a4eb9e0148803537afd75d99352f56fda" title="JetReco::FillJetNode" alt="" coords="191,5,343,33"/>
-<area shape="rect" id="node4" href="$df/dda/classPHFlowJetMaker.html#af2305df14541877c06f00e5d29113bac" title="PHFlowJetMaker::process\l_event" alt="" coords="172,57,361,101"/>
-<area shape="rect" id="node5" href="$da/daf/classJetHepMCLoader.html#ae68c17d088405b8d235bb43f8c115988" title="JetHepMCLoader::process\l_event" alt="" coords="169,125,364,169"/>
-<area shape="rect" id="node3" href="$d7/df3/classJetReco.html#aa8a680f10310539941f0db1fc38e2e91" title="JetReco::process_event" alt="" coords="412,5,592,33"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="RawClusterDeadAreaMask::InitRun" name="RawClusterDeadAreaMask::InitRun">
-<area shape="rect" id="node2" href="$d5/d99/classRawClusterDeadAreaMask.html#a18d66d8407ddf8e00150b757bac56893" title="RawClusterDeadAreaMask\l::CreateNodeTree" alt="" coords="252,75,451,119"/>
-<area shape="rect" id="node3" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="511,31,699,59"/>
-<area shape="rect" id="node6" href="$d9/d41/classRawTowerDeadMap.html#a38fa36f5cd40660926e4fb846cd51335" title="RawTowerDeadMap::identify" alt="" coords="499,83,711,111"/>
-<area shape="rect" id="node7" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="528,135,681,163"/>
-<area shape="rect" id="node4" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="759,5,904,33"/>
-<area shape="rect" id="node5" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="763,57,900,85"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="RawCluster::set_r" name="RawCluster::set_r">
-<area shape="rect" id="node2" href="$d7/dce/classTreeMaker.html#ae86d85abb37a69817ded01d7a8f2f7db" title="TreeMaker::CopyAndMakeClusters" alt="" coords="192,13,444,41"/>
-<area shape="rect" id="node4" href="$d2/d46/classRawClusterBuilderGraph.html#a8b8678d16130835761627d0c1fc6ebf9" title="RawClusterBuilderGraph\l::process_event" alt="" coords="225,65,411,109"/>
-<area shape="rect" id="node5" href="$dd/d75/classRawClusterBuilderTemplateEEMC.html#aa136844c4c61b778c808a8dc110b9041" title="RawClusterBuilderTemplate\lEEMC::process_event" alt="" coords="215,133,421,177"/>
-<area shape="rect" id="node6" href="$dd/d9c/classRawClusterBuilderFwd.html#a3b88c548143030fceb38c3dfe726eda0" title="RawClusterBuilderFwd\l::process_event" alt="" coords="232,201,404,245"/>
-<area shape="rect" id="node7" href="$d8/d80/classRawClusterBuilderTemplateFEMC.html#a66594d22c29c0ee5c439121e816cf218" title="RawClusterBuilderTemplate\lFEMC::process_event" alt="" coords="215,269,421,313"/>
-<area shape="rect" id="node8" href="$d8/d5d/classRawClusterBuilderTemplate.html#a0c7c1981bbe39c660bff36304525272f" title="RawClusterBuilderTemplate\l::process_event" alt="" coords="215,337,421,381"/>
-<area shape="rect" id="node3" href="$d7/dce/classTreeMaker.html#a89a6f3a23de784d5f8d86ae91956aa69" title="TreeMaker::process\l_event" alt="" coords="492,5,644,49"/>
-</map>

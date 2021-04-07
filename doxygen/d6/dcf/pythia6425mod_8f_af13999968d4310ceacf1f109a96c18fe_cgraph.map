@@ -1,8 +1,0 @@
-<map id="fhsetpara" name="fhsetpara">
-<area shape="rect" id="node2" href="$d6/dcf/pythia6425mod_8f.html#a4140396b9ec9bafcebf4c7ebecb462e7" title="pystop" alt="" coords="139,40,205,68"/>
-<area shape="rect" id="node3" href="$d0/d5e/classPHTimer.html#adce6f9a85834e59bd154b9c624ee4e41" title="stops the counter" alt="" coords="253,40,369,68"/>
-<area shape="rect" id="node4" href="$d0/d5e/classPHTimer.html#aa92e3fe4a0a1799f39743eda9ef9d497" title="gets time from cpu clock counts" alt="" coords="622,5,773,49"/>
-<area shape="rect" id="node5" href="$d0/d5e/classPHTimer.html#a976738876ad978116fdc4549a3765685" title="retrieve elapsed value since last restart (in ms)" alt="" coords="417,65,557,93"/>
-<area shape="rect" id="node6" href="$d0/d5e/classPHTimer.html#aa75ff2c27aba40e7ef0a934f9a3355c2" title="returns difference between to time" alt="" coords="605,73,789,101"/>
-<area shape="rect" id="node7" href="$d2/db1/classPHTimer_1_1Frequency.html#a023a2d706df9a8bd303810a9ed017f61" title="period accessor" alt="" coords="837,65,995,109"/>
-</map>

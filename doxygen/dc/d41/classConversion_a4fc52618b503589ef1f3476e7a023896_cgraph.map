@@ -1,7 +1,0 @@
-<map id="Conversion::dist" name="Conversion::dist">
-<area shape="rect" id="node2" href="$d2/db8/classSvtxTrack.html#a57a5fabb0eb43ac5c181f2052fcd02ce" title="SvtxTrack::begin_clusters" alt="" coords="185,5,379,33"/>
-<area shape="rect" id="node3" href="$d9/dc2/classSvtxClusterMap.html#a8da48ee7f9a489ea179d0e8a2283a080" title="SvtxClusterMap::get" alt="" coords="203,57,361,85"/>
-<area shape="rect" id="node4" href="$df/d0b/classSvtxCluster.html#aa44a7021226dda0d5ae672d5bcfea0d0" title="SvtxCluster::get_x" alt="" coords="210,109,354,137"/>
-<area shape="rect" id="node5" href="$df/d0b/classSvtxCluster.html#aa4afc3cf65621847966c955c5ade6b1b" title="SvtxCluster::get_y" alt="" coords="210,161,354,189"/>
-<area shape="rect" id="node6" href="$df/d0b/classSvtxCluster.html#aa3d1e30da08d33e9b3975bbebf5cb864" title="SvtxCluster::get_z" alt="" coords="210,213,354,241"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="makeUnstructPacketDataDescr" name="makeUnstructPacketDataDescr">
-<area shape="rect" id="node2" href="$dc/d93/Cpacket_8C.html#acfa2f79342c6237bb5cf63e53d27c75a" title="findPacketDataDescr" alt="" coords="304,5,467,33"/>
-<area shape="rect" id="node5" href="$d3/d7c/dataBlock_8h.html#a73dcbf3778b215ee3e0937235ca00b4e" title="makeUnstructDataDescr" alt="" coords="292,109,479,137"/>
-<area shape="rect" id="node8" href="$dc/d93/Cpacket_8C.html#ac42643d46354b3a65cba78507467db8a" title="setPacketDataDescrLength" alt="" coords="284,57,487,85"/>
-<area shape="rect" id="node3" href="$de/d93/Cpacket_8h.html#a5086c5b9a0c51b566d8fe9ab6a5a6213" title="getPacketHdrVersion" alt="" coords="557,19,718,47"/>
-<area shape="rect" id="node4" href="$d0/db6/formatError_8C.html#acc9f1b83d468fccaa25cbd751730a101" title="setPacketError" alt="" coords="788,19,907,47"/>
-<area shape="rect" id="node6" href="$d3/d7c/dataBlock_8h.html#a136087ea216605defa70cf23e56cbbf5" title="setUnstructDescrHitFormat" alt="" coords="535,83,740,111"/>
-<area shape="rect" id="node7" href="$d3/d7c/dataBlock_8h.html#af75d4603ba1326afe34ed06adf5fd1ba" title="setUnstructDescrWordSize" alt="" coords="537,135,737,163"/>
-</map>

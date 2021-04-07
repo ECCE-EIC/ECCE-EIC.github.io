@@ -1,8 +1,0 @@
-<map id="JetTruthEval::get_node_pointers" name="JetTruthEval::get_node_pointers">
-<area shape="rect" id="node2" href="$d3/d22/classJetTruthEval.html#a12d320025a689f1c1914b92241a0f545" title="example truthjetname: AntiKt_Truth_r03" alt="" coords="228,5,420,33"/>
-<area shape="rect" id="node3" href="$d3/d22/classJetTruthEval.html#ac29b8d18ee116903ed233388eb253256" title="reinitialize the eval for a new event" alt="" coords="253,57,395,101"/>
-<area shape="rect" id="node4" href="$dd/d75/classJetRecoEval.html#ae02e058aa7f403d5853482b5d06c01c9" title="reinitialize the eval for a new event" alt="" coords="468,65,655,93"/>
-<area shape="rect" id="node5" href="$dd/df3/classJetEvalStack.html#ab85ba05ab4fea5909c8faa238ba5f8e6" title="JetEvalStack::next\l_event" alt="" coords="703,57,848,101"/>
-<area shape="rect" id="node6" href="$d1/df4/classJetEvaluator.html#ad83508ae828d1f2e4a83a948465a0cd2" title="JetEvaluator::process\l_event" alt="" coords="896,23,1061,67"/>
-<area shape="rect" id="node7" href="$d8/de2/classJetEnergies.html#a6acaa9b2ba1fe7353781d2f5d476e8d1" title="JetEnergies::process\l_event" alt="" coords="899,91,1059,135"/>
-</map>

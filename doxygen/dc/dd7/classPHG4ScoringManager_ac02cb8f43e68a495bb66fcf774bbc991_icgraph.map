@@ -1,6 +1,0 @@
-<map id="PHG4ScoringManager::getHistoManager" name="PHG4ScoringManager::getHistoManager">
-<area shape="rect" id="node2" href="$dc/dd7/classPHG4ScoringManager.html#a47778438ef12d5d1ac27351f701cd6ba" title="end of run method" alt="" coords="467,40,669,68"/>
-<area shape="rect" id="node3" href="$dc/dd7/classPHG4ScoringManager.html#a33b23900a69f349f588254381ae35791" title="full initialization" alt="" coords="236,28,405,72"/>
-<area shape="rect" id="node4" href="$dc/dd7/classPHG4ScoringManager.html#a39091d7b61e10293db093fd15055c459" title="based on G4VScoreWriter::DumpAllQuantitiesToFile()" alt="" coords="223,96,419,140"/>
-<area shape="rect" id="node5" href="$dc/dd7/classPHG4ScoringManager.html#a18f06bfae1801c84f524aa4056a32841" title="event processing method" alt="" coords="236,164,405,208"/>
-</map>

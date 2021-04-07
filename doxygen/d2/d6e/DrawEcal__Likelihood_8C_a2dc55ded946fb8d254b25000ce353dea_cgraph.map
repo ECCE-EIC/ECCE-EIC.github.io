@@ -1,5 +1,0 @@
-<map id="Ep_Checks" name="Ep_Checks">
-<area shape="rect" id="node2" href="$dc/d17/DrawEcal_8C.html#a75150d6c085fcce71b306c1300fa6e39" title="Distribution2Efficiency" alt="" coords="147,5,321,33"/>
-<area shape="rect" id="node3" href="$d1/d31/QA__Draw__Utility_8C.html#acb5d1d0f06c58ad966ad06c5c7b36861" title="Save canvas to multiple formats." alt="" coords="182,57,286,85"/>
-<area shape="rect" id="node4" href="$d1/d31/QA__Draw__Utility_8C.html#a1b71da436f8aecc5962267d85f5cb013" title="Service function to SaveCanvas()" alt="" coords="369,57,448,85"/>
-</map>

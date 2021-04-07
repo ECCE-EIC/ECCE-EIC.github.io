@@ -1,5 +1,0 @@
-<map id="PHG4Hit::get_shower_id" name="PHG4Hit::get_shower_id">
-<area shape="rect" id="node2" href="$dc/d23/classBaseTruthEval.html#a3806c816f6d1a3cf14a69834e60e3b64" title="which primary shower contains this truth hit?" alt="" coords="267,5,416,49"/>
-<area shape="rect" id="node3" href="$dc/d23/classBaseTruthEval.html#a8b3bfeea64a5eee4a3bb2c3fcc380b7e" title="is this truth hit inside this shower?" alt="" coords="251,73,431,117"/>
-<area shape="rect" id="node4" href="$d1/df8/classRawTowerBuilderByHitIndex.html#aa8ce40e0a1ba5c7a2326a1a720fe3f8d" title="RawTowerBuilderByHitIndex\l::process_event" alt="" coords="236,141,447,185"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="BEmcRec::TwoGamma" name="BEmcRec::TwoGamma">
-<area shape="rect" id="node2" href="$df/d23/classBEmcRec.html#a211ecc4ccdd705f09fe0e60eb1e640d2" title="BEmcRec::Gamma" alt="" coords="224,57,369,85"/>
-<area shape="rect" id="node3" href="$db/deb/classEmcPeakarea.html#afb0b1364d6dcaf46701dc1cd9a2a863e" title="Returns peakarea&#39;s 1st momentum (COG) after Shower Shape fit." alt="" coords="417,5,608,33"/>
-<area shape="rect" id="node4" href="$db/deb/classEmcPeakarea.html#a7667b69d5df543200537b7efbdeb9a42" title="Substitutes a number of functions above (to save CPU time)" alt="" coords="424,57,601,85"/>
-<area shape="rect" id="node5" href="$db/deb/classEmcPeakarea.html#aca8c7bfda4aa27b64cfe04fe753aa809" title="Returns Chi2." alt="" coords="425,109,600,137"/>
-</map>

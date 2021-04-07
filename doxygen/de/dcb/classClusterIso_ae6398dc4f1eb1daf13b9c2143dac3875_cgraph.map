@@ -1,6 +1,0 @@
-<map id="ClusterIso::getTowerEta" name="ClusterIso::getTowerEta">
-<area shape="rect" id="node2" href="$d8/dc4/classRawTowerGeom.html#a6ecdff55675d6cbfe0787f15e290cc1d" title="RawTowerGeom::get_center_x" alt="" coords="233,5,459,33"/>
-<area shape="rect" id="node3" href="$d8/dc4/classRawTowerGeom.html#a0cf5fed63e6644024bd5693cbe54b8ec" title="RawTowerGeom::get_center_y" alt="" coords="233,57,459,85"/>
-<area shape="rect" id="node4" href="$d8/dc4/classRawTowerGeom.html#a6549e53914d85376526aaba30c04fb1d" title="RawTowerGeom::get_center_z" alt="" coords="234,109,458,137"/>
-<area shape="rect" id="node5" href="$d8/dc4/classRawTowerGeom.html#aed31c4e7b05d1f434c0cdc26fe438d46" title="RawTowerGeom::get_eta" alt="" coords="252,161,440,189"/>
-</map>

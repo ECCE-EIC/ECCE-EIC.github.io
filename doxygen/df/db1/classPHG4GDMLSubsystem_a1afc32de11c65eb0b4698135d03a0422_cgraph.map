@@ -1,6 +1,0 @@
-<map id="PHG4GDMLSubsystem::InitRunSubsystem" name="PHG4GDMLSubsystem::InitRunSubsystem">
-<area shape="rect" id="node2" href="$d5/d29/classPHG4DetectorSubsystem.html#a3a654db38f49eafe08c5fb725f63c959" title="PHG4DetectorSubsystem\l::CheckOverlap" alt="" coords="249,5,441,49"/>
-<area shape="rect" id="node3" href="$d5/d29/classPHG4DetectorSubsystem.html#a6ce8e425ac50e6f13d44075bd6843dcf" title="PHG4DetectorSubsystem\l::GetParams" alt="" coords="249,73,441,117"/>
-<area shape="rect" id="node4" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="269,141,422,169"/>
-<area shape="rect" id="node5" href="$d3/de7/classPHG4Detector.html#a1a914e84447dd5ab89745cb9fcd1942e" title="PHG4Detector::OverlapCheck" alt="" coords="235,193,456,221"/>
-</map>

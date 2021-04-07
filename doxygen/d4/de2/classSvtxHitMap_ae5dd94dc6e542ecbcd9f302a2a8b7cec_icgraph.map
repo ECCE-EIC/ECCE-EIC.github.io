@@ -1,8 +1,0 @@
-<map id="SvtxHitMap::get" name="SvtxHitMap::get">
-<area shape="rect" id="node2" href="$dc/d41/classConversion.html#a438a988f6eeb2324d8766969cd0265b3" title="Conversion::firstLayer" alt="" coords="193,16,363,44"/>
-<area shape="rect" id="node6" href="$dc/d41/classConversion.html#ac879507daf832084d41a27bedd126c20" title="Conversion::trackDLayer" alt="" coords="184,68,372,96"/>
-<area shape="rect" id="node3" href="$d9/d3a/classTruthConversionEval.html#a30309a3143d74dac7ff1f62cf275a5ac" title="TruthConversionEval\l::recordConversion" alt="" coords="420,8,581,52"/>
-<area shape="rect" id="node4" href="$d9/d3a/classTruthConversionEval.html#a802d15f00a153397546daabb7dbabbd2" title="TruthConversionEval\l::numUnique" alt="" coords="647,5,809,49"/>
-<area shape="rect" id="node5" href="$d9/d3a/classTruthConversionEval.html#a9a67c8171296f35dd157daf89108d3fd" title="TruthConversionEval\l::process_event" alt="" coords="875,40,1036,84"/>
-<area shape="rect" id="node7" href="$d9/d3a/classTruthConversionEval.html#a67e322163113e6ef65c9661d0fc80487" title="fills the member fields for all the background trees" alt="" coords="629,73,827,117"/>
-</map>

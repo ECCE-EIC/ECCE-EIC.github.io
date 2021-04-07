@@ -1,6 +1,0 @@
-<map id="minBiasRecoAna" name="minBiasRecoAna">
-<area shape="rect" id="node2" href="$dd/d1c/minBiasRecoAna_8C.html#a498408e123db02acc03d639a5e4cc7e0" title="analyzeSignal" alt="" coords="187,5,301,33"/>
-<area shape="rect" id="node3" href="$d1/dcd/conversionRate_8C.html#ad72f19e694d0159361ea26b6ea6a324d" title="handleFile" alt="" coords="199,57,289,85"/>
-<area shape="rect" id="node4" href="$dd/d1c/minBiasRecoAna_8C.html#a5531aab9902c98c8ae5111432445211b" title="reportCuts" alt="" coords="198,109,290,137"/>
-<area shape="rect" id="node5" href="$d9/d9e/evDisplay_8C.html#a4e8c1369ad3f4b66e1057a8bf987b94b" title="signal" alt="" coords="349,109,411,137"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4BlockGeom.h" name="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4BlockGeom.h">
-<area shape="rect" id="node2" href="$d4/dac/DumpPHG4BlockGeomContainer_8cc.html" title="coresoftware/blob/master\l/offline/packages/NodeDump\l/DumpPHG4BlockGeomContainer.cc" alt="" coords="5,113,271,173"/>
-<area shape="rect" id="node3" href="$dc/d32/PHG4BlockCellReco_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BlockCellReco.cc" alt="" coords="295,113,557,173"/>
-<area shape="rect" id="node4" href="$d6/d40/PHG4BlockGeom_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BlockGeom.cc" alt="" coords="582,113,827,173"/>
-<area shape="rect" id="node5" href="$d7/d28/PHG4BlockGeomContainer_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BlockGeomContainer.cc" alt="" coords="852,113,1163,173"/>
-<area shape="rect" id="node6" href="$dd/d72/PHG4BlockGeomv1_8h.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BlockGeomv1.h" alt="" coords="1187,113,1443,173"/>
-<area shape="rect" id="node7" href="$d8/d60/PHG4BlockGeomv1_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BlockGeomv1.cc" alt="" coords="1036,221,1299,281"/>
-<area shape="rect" id="node8" href="$d6/dfe/PHG4BlockSubsystem_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4BlockSubsystem.cc" alt="" coords="1323,221,1603,281"/>
-</map>

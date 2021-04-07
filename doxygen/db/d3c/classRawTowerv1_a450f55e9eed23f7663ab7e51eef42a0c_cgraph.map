@@ -1,9 +1,0 @@
-<map id="RawTowerv1::RawTowerv1" name="RawTowerv1::RawTowerv1">
-<area shape="rect" id="node2" href="$db/d3c/classRawTowerv1.html#a9eb32d0f29ef63eae4f57ee6490471e3" title="RawTowerv1::add_ecell" alt="" coords="264,5,441,33"/>
-<area shape="rect" id="node3" href="$db/d3c/classRawTowerv1.html#a84ca86dae25b3d42ac92859b9e8d324c" title="RawTowerv1::add_eshower" alt="" coords="251,57,455,85"/>
-<area shape="rect" id="node4" href="$d9/dd8/classRawTower.html#ab23195d58fefabd9162115afa96707cc" title="energy assigned to the tower. Depending on stage of process and DST node name, it could be energy dep..." alt="" coords="266,109,439,137"/>
-<area shape="rect" id="node5" href="$d9/dd8/classRawTower.html#a6a76627f3c8245291e1733356373ce81" title="RawTower::get_g4cells" alt="" coords="266,161,439,189"/>
-<area shape="rect" id="node6" href="$d9/dd8/classRawTower.html#a3d7d0da776368ede00a0a12b38402134" title="RawTower::get_g4showers" alt="" coords="253,213,452,241"/>
-<area shape="rect" id="node7" href="$d9/dd8/classRawTower.html#acb57721d39800bb8a23ffc10ae66d198" title="RawTower::get_id" alt="" coords="283,265,422,293"/>
-<area shape="rect" id="node8" href="$d9/dd8/classRawTower.html#a3481d83f6e1192145399e3d11c0c011c" title="Time stamp assigned to the tower. Depending on the tower maker, it could be rise time or peak time..." alt="" coords="275,317,431,345"/>
-</map>

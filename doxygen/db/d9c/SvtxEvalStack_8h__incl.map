@@ -1,9 +1,0 @@
-<map id="coresoftware/blob/master/simulation/g4simulation/g4eval/SvtxEvalStack.h" name="coresoftware/blob/master/simulation/g4simulation/g4eval/SvtxEvalStack.h">
-<area shape="rect" id="node2" href="$d5/d9c/SvtxVertexEval_8h.html" title="SvtxVertexEval.h" alt="" coords="39,113,175,141"/>
-<area shape="rect" id="node3" href="$df/d8a/SvtxTrackEval_8h.html" title="SvtxTrackEval.h" alt="" coords="168,189,296,217"/>
-<area shape="rect" id="node4" href="$d7/dcd/SvtxClusterEval_8h.html" title="SvtxClusterEval.h" alt="" coords="238,265,378,293"/>
-<area shape="rect" id="node10" href="$d8/d00/TrkrDefs_8h.html" title="Namespace with Trkr key types and utility functions." alt="" coords="483,417,643,445"/>
-<area shape="rect" id="node5" href="$d7/d98/SvtxHitEval_8h.html" title="SvtxHitEval.h" alt="" coords="296,341,408,369"/>
-<area shape="rect" id="node6" href="$d7/d20/SvtxTruthEval_8h.html" title="SvtxTruthEval.h" alt="" coords="281,417,407,445"/>
-<area shape="rect" id="node7" href="$d8/d89/BaseTruthEval_8h.html" title="BaseTruthEval.h" alt="" coords="223,493,353,521"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="DumpRunHeader::process_Node" name="DumpRunHeader::process_Node">
-<area shape="rect" id="node2" href="$df/d35/classRunHeader.html#a73da574a4faeef5c0797024e8a7a534f" title="get Run Number" alt="" coords="293,5,508,33"/>
-<area shape="rect" id="node3" href="$df/d35/classRunHeader.html#aa65917c02ebaff5c5ed03c971465bd96" title="get Start Time of run (in unix ticks, use ctime to convert to date string)" alt="" coords="300,57,501,85"/>
-<area shape="rect" id="node4" href="$df/d35/classRunHeader.html#a777be24f0ead22b933503b1d900caa37" title="get Time of End Run (in unix ticks)" alt="" coords="301,109,500,137"/>
-<area shape="rect" id="node5" href="$d1/d3e/classPHDataNode.html#a1f3b856fd3ce165047be8aa97f4ab9f3" title="PHDataNode::getData" alt="" coords="316,161,485,189"/>
-<area shape="rect" id="node6" href="$df/d35/classRunHeader.html#a1e9da37c12213327a72f458a5955414a" title="isValid returns non zero if object contains valid data" alt="" coords="327,213,475,241"/>
-</map>

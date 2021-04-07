@@ -1,6 +1,0 @@
-<map id="jpsi_invariant_mass_plot_exclusiveReco" name="jpsi_invariant_mass_plot_exclusiveReco">
-<area shape="rect" id="node2" href="$d3/d09/jpsi__invariant__mass__plot__exclusiveReco_8C.html#a537b4492eab4c5c36221be8b797f39d9" title="fillHist" alt="" coords="254,5,319,33"/>
-<area shape="rect" id="node3" href="$d3/d09/jpsi__invariant__mass__plot__exclusiveReco_8C.html#a781a421f95448ab0cb1d0e2ed784e2e3" title="hist_to_png_special" alt="" coords="211,57,363,85"/>
-<area shape="rect" id="node4" href="$d1/d95/sPhenixStyle_8C.html#a40c9ca7bea26e6a08182ceb8298869e7" title="sPHENIX Style, based on a style file from ATLAS by Peter Steinberg" alt="" coords="222,109,351,137"/>
-<area shape="rect" id="node5" href="$d1/d95/sPhenixStyle_8C.html#a2b14fe9277832cb4dbdc473f44df99b4" title="sPhenixStyle" alt="" coords="411,109,519,137"/>
-</map>

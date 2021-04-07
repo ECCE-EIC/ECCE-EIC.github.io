@@ -1,9 +1,0 @@
-<map id="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4HcalDefs.h" name="coresoftware/blob/master/simulation/g4simulation/g4detectors/PHG4HcalDefs.h">
-<area shape="rect" id="node2" href="$d8/d63/HcalRawTowerBuilder_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4calo/HcalRawTowerBuilder.cc" alt="" coords="5,121,244,181"/>
-<area shape="rect" id="node3" href="$d4/dda/PHG4InnerHcalDetector_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4InnerHcalDetector.cc" alt="" coords="269,121,559,181"/>
-<area shape="rect" id="node4" href="$d0/df9/PHG4InnerHcalSubsystem_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4InnerHcalSubsystem.cc" alt="" coords="584,121,892,181"/>
-<area shape="rect" id="node5" href="$d0/dc3/PHG4OuterHcalDetector_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4OuterHcalDetector.cc" alt="" coords="917,121,1210,181"/>
-<area shape="rect" id="node6" href="$d0/d32/PHG4OuterHcalSteppingAction_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4OuterHcalStepping\lAction.cc" alt="" coords="1234,113,1511,189"/>
-<area shape="rect" id="node7" href="$d8/d21/PHG4OuterHcalSubsystem_8cc.html" title="coresoftware/blob/master\l/simulation/g4simulation\l/g4detectors/PHG4OuterHcalSubsystem.cc" alt="" coords="1536,121,1847,181"/>
-<area shape="rect" id="node8" href="$d3/df4/HCalib_8C.html" title="analysis/blob/master\l/HCalib/HCalib.C" alt="" coords="1871,129,2034,173"/>
-</map>

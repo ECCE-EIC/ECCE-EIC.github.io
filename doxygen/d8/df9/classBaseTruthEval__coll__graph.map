@@ -1,7 +1,0 @@
-<map id="BaseTruthEval" name="BaseTruthEval">
-<area shape="rect" id="node2" href="$da/d6c/classPHG4TruthInfoContainer.html" title="PHG4TruthInfoContainer" alt="" coords="929,95,1115,123"/>
-<area shape="rect" id="node3" href="$d9/d24/classPHObject.html" title="PHObject" alt="" coords="131,67,215,95"/>
-<area shape="rect" id="node6" href="$de/dc9/classPHG4Particle.html" title="PHG4Particle" alt="" coords="268,44,376,72"/>
-<area shape="rect" id="node9" href="$db/d88/classPHG4Shower.html" title="PHG4Shower" alt="" coords="267,96,377,124"/>
-<area shape="rect" id="node11" href="$d6/d81/classPHG4VtxPoint.html" title="PHG4VtxPoint" alt="" coords="264,148,380,176"/>
-</map>

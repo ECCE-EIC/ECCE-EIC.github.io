@@ -1,8 +1,0 @@
-<map id="prdfBuffer::prdfBuffer" name="prdfBuffer::prdfBuffer">
-<area shape="rect" id="node2" href="$d8/de5/classprdfBuffer.html#a9ffb8d1f73b3ec6850c203130cbe789c" title="prdfBuffer::buffer_swap" alt="" coords="221,31,403,59"/>
-<area shape="rect" id="node7" href="$da/d40/classbuffer.html#a64cad9a58ad2640b9dc371ff4e181c78" title="buffer::u4swap" alt="" coords="251,83,373,111"/>
-<area shape="rect" id="node3" href="$da/d40/classbuffer.html#a849bbe592eb218e755e0d28cfefcec96" title="buffer::i4swap" alt="" coords="679,5,797,33"/>
-<area shape="rect" id="node4" href="$d8/de5/classprdfBuffer.html#ab4faa01d5b1c36e1643dff765e507fec" title="prdfBuffer::frame_swap" alt="" coords="451,31,631,59"/>
-<area shape="rect" id="node5" href="$dd/d35/Cframe_8h.html#a33030fea4beb4b49416b60d68f9d32db" title="getFrameLength" alt="" coords="475,83,606,111"/>
-<area shape="rect" id="node6" href="$d0/db6/formatError_8C.html#a5e3e311e06d8c0240b4e42af658900fb" title="setFrameError" alt="" coords="679,83,797,111"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="BEmcRec::GetTowerGeometry" name="BEmcRec::GetTowerGeometry">
-<area shape="rect" id="node2" href="$d5/d08/classBEmcRecEEMC.html#aa14c11897efc5cf2b5aad5e9436472d3" title="BEmcRecEEMC::Tower2Global" alt="" coords="277,5,499,33"/>
-<area shape="rect" id="node4" href="$d1/d5c/classBEmcRecFEMC.html#a5c27df8706978abfd67f6b52d83684fc" title="BEmcRecFEMC::Tower2Global" alt="" coords="277,57,499,85"/>
-<area shape="rect" id="node3" href="$d5/d08/classBEmcRecEEMC.html#a8d90a28084db43c7f92cf182ab588434" title="BEmcRecEEMC::CorrectPosition" alt="" coords="547,5,779,33"/>
-<area shape="rect" id="node5" href="$d1/d5c/classBEmcRecFEMC.html#a9ec88966c9b539de1d73570731f66d0a" title="BEmcRecFEMC::CorrectECore" alt="" coords="553,57,772,85"/>
-<area shape="rect" id="node6" href="$d1/d5c/classBEmcRecFEMC.html#afc995d913edf1d8b6b749fb1fc7a7189" title="BEmcRecFEMC::CorrectPosition" alt="" coords="547,109,778,137"/>
-</map>

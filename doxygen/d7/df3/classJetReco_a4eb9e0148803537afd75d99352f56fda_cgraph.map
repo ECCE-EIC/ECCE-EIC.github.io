@@ -1,8 +1,0 @@
-<map id="JetReco::FillJetNode" name="JetReco::FillJetNode">
-<area shape="rect" id="node2" href="$df/d76/classPHTypedNodeIterator.html#a140d25e5823f18605f0fcf7a21807780" title="PHTypedNodeIterator\l::find" alt="" coords="207,5,373,49"/>
-<area shape="rect" id="node3" href="$d1/d3e/classPHDataNode.html#a1f3b856fd3ce165047be8aa97f4ab9f3" title="PHDataNode::getData" alt="" coords="205,73,375,101"/>
-<area shape="rect" id="node4" href="$d7/d97/classJetMap.html#a1a78bad5a08ba33c9059c07633c35d25" title="JetMap::insert" alt="" coords="232,125,348,153"/>
-<area shape="rect" id="node5" href="$d7/d97/classJetMap.html#a7b37993834ecc7402c52b9f28bfc0914" title="JetMap::insert_src" alt="" coords="219,177,361,205"/>
-<area shape="rect" id="node6" href="$d7/d97/classJetMap.html#a45cbcee8280fd20d3212078e8da6f434" title="JetMap::set_algo" alt="" coords="223,229,357,257"/>
-<area shape="rect" id="node7" href="$d7/d97/classJetMap.html#ab23276d9f6c294bcc1595bf60e1a7b20" title="JetMap::set_par" alt="" coords="226,281,354,309"/>
-</map>

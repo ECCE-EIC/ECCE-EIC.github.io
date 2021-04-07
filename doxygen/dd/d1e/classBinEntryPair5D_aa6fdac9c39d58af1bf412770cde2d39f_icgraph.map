@@ -1,7 +1,0 @@
-<map id="BinEntryPair5D::bin5D" name="BinEntryPair5D::bin5D">
-<area shape="rect" id="node2" href="$d7/db3/HelixHough__findPairs_8cpp.html#abaa382f2e388784e0f47e792a5fc71de" title="setRange" alt="" coords="269,57,353,85"/>
-<area shape="rect" id="node6" href="$da/d17/classHelixHough.html#aa765019438d60dce41404c8ca636cbfc" title="HelixHough::setRange" alt="" coords="225,109,397,137"/>
-<area shape="rect" id="node3" href="$da/d17/classHelixHough.html#a8df9352e6da9177d874ca7a18ffa5c21" title="HelixHough::findHelices" alt="" coords="471,5,655,33"/>
-<area shape="rect" id="node4" href="$da/d17/classHelixHough.html#a78e0418f68159b484a8f43b043457970" title="HelixHough::findSeededHelices" alt="" coords="445,57,680,85"/>
-<area shape="rect" id="node5" href="$da/d17/classHelixHough.html#ac405269b587e74a098f464a8da7d75cb" title="HelixHough::splitIntoBins" alt="" coords="467,109,659,137"/>
-</map>

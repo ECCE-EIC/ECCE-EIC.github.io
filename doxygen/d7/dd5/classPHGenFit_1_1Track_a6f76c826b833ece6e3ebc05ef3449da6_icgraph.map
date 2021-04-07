@@ -1,7 +1,0 @@
-<map id="PHGenFit::Track::extrapolateToLine" name="PHGenFit::Track::extrapolateToLine">
-<area shape="rect" id="node2" href="$d7/dd5/classPHGenFit_1_1Track.html#a1b817856f4060fee01f9f2757bb6d153" title="PHGenFit::Track::extrapolate\lToLine" alt="" coords="271,5,484,49"/>
-<area shape="rect" id="node3" href="$d1/da5/testPHGenFit_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="350,73,405,101"/>
-<area shape="rect" id="node4" href="$d6/d17/classSVReco.html#a0b5b196a0467d07833fcbb0fa1e47a77" title="Uses the vertex to remake the track." alt="" coords="286,125,469,153"/>
-<area shape="rect" id="node5" href="$d9/d91/classPHG4TrackFastSim.html#ab1ae4586bc276e05c9cbbfc88d7a4aff" title="PHG4TrackFastSim::MakeSvtx\lTrack" alt="" coords="267,177,488,221"/>
-<area shape="rect" id="node6" href="$d9/d91/classPHG4TrackFastSim.html#a8bb22ab279c5f433069774bd2ab0a7ae" title="Process Event, called for each event." alt="" coords="536,177,744,221"/>
-</map>

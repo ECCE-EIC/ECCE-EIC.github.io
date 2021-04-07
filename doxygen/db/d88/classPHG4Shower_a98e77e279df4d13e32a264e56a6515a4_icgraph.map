@@ -1,4 +1,0 @@
-<map id="PHG4Shower::find_g4hit_id" name="PHG4Shower::find_g4hit_id">
-<area shape="rect" id="node2" href="$d7/d3c/classCaloTruthEval.html#ade7d2475910f8ffa3af476accc4c0643" title="what truth hits are contained within this shower entry in this calo volume?" alt="" coords="257,5,396,49"/>
-<area shape="rect" id="node3" href="$d7/d3c/classCaloTruthEval.html#a8260fa304986f488654c5a3f58bbb9be" title="what truth hits are the result of this primary particle and its shower" alt="" coords="444,5,651,49"/>
-</map>

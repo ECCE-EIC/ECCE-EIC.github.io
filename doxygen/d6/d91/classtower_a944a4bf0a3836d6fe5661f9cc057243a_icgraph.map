@@ -1,6 +1,0 @@
-<map id="tower::update" name="tower::update">
-<area shape="rect" id="node2" href="$d1/dc2/classstack.html#adbe84ff633337f60f2024f7221779e0c" title="stack::update" alt="" coords="169,5,283,33"/>
-<area shape="rect" id="node3" href="$d3/d17/classhcal.html#ac65e51f3ed0860bb3fe4e83d19fee419" title="hcal::update" alt="" coords="331,5,437,33"/>
-<area shape="rect" id="node4" href="$d8/db9/classhcalHelper.html#a9e4dafe94df89a2a04a2982b13dee116" title="hcalHelper::evLoop" alt="" coords="485,5,637,33"/>
-<area shape="rect" id="node5" href="$d9/dfc/runHelper_8C.html#a19c3855ad40a8efdbbecea95011fe1d9" title="runHelper" alt="" coords="685,5,775,33"/>
-</map>

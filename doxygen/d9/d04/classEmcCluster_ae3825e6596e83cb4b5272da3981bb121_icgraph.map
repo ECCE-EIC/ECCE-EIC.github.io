@@ -1,6 +1,0 @@
-<map id="EmcCluster::lowint" name="EmcCluster::lowint">
-<area shape="rect" id="node2" href="$d0/dee/classBEmcRecCEMC.html#a056abc96ac852b4e06e36faa75f44db1" title="BEmcRecCEMC::CorrectPosition" alt="" coords="201,5,435,33"/>
-<area shape="rect" id="node3" href="$d1/d5c/classBEmcRecFEMC.html#afc995d913edf1d8b6b749fb1fc7a7189" title="BEmcRecFEMC::CorrectPosition" alt="" coords="203,57,433,85"/>
-<area shape="rect" id="node4" href="$d5/d08/classBEmcRecEEMC.html#a8d90a28084db43c7f92cf182ab588434" title="BEmcRecEEMC::CorrectPosition" alt="" coords="202,109,434,137"/>
-<area shape="rect" id="node5" href="$d9/d04/classEmcCluster.html#ae53411ba897ecc95197fd7166b3be252" title="Returns the EmcModule corresponding to the reconstructed impact tower." alt="" coords="209,161,427,189"/>
-</map>

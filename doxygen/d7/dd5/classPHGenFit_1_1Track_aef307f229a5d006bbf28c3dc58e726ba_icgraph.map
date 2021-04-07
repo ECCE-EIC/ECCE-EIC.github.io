@@ -1,7 +1,0 @@
-<map id="PHGenFit::Track::extrapolateToPoint" name="PHGenFit::Track::extrapolateToPoint">
-<area shape="rect" id="node2" href="$d7/dd5/classPHGenFit_1_1Track.html#a3f8a407e79c43f5fffdc511ad1bf1bd6" title="PHGenFit::Track::extrapolate\lToPoint" alt="" coords="267,5,480,49"/>
-<area shape="rect" id="node3" href="$d1/d04/classBDiJetModule.html#aa2f3d100a0f4b8a1b5836d9436e071e8" title="Initialize the TTree." alt="" coords="273,73,473,117"/>
-<area shape="rect" id="node5" href="$d6/d17/classSVReco.html#a0b5b196a0467d07833fcbb0fa1e47a77" title="Uses the vertex to remake the track." alt="" coords="282,141,465,169"/>
-<area shape="rect" id="node6" href="$d6/d17/classSVReco.html#a13c0e003dbeb9e694865600723c02d07" title="SVReco::printGenFitTrack\lKinematics" alt="" coords="277,193,469,237"/>
-<area shape="rect" id="node4" href="$d1/d04/classBDiJetModule.html#a8f01ada101f7e91cf05e12bbf420d192" title="BDiJetModule::process\l_event" alt="" coords="528,73,700,117"/>
-</map>

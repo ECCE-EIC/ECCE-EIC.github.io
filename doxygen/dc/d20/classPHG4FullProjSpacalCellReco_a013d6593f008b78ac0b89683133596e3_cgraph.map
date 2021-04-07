@@ -1,7 +1,0 @@
-<map id="PHG4FullProjSpacalCellReco::PHG4FullProjSpacalCellReco" name="PHG4FullProjSpacalCellReco::PHG4FullProjSpacalCellReco">
-<area shape="rect" id="node2" href="$d4/d31/classPHParameterInterface.html#a2d4069d697a7bc6700ca79e6b42b07fa" title="PHParameterInterface\l::InitializeParameters" alt="" coords="272,108,441,152"/>
-<area shape="rect" id="node3" href="$d4/d31/classPHParameterInterface.html#a221c3ea7cea9da2f1dbf16a7ab2464ee" title="PHParameterInterface\l::SetDefaultParameters" alt="" coords="499,5,678,49"/>
-<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#a75005aa44390e1eb574603b0b230152b" title="PHParameters::set_double\l_param" alt="" coords="489,73,688,117"/>
-<area shape="rect" id="node5" href="$dd/dae/classPHParameters.html#a62881b44dd0564425633070316af66ec" title="PHParameters::set_int\l_param" alt="" coords="503,141,674,185"/>
-<area shape="rect" id="node6" href="$dd/dae/classPHParameters.html#a2ebd6e499647b20dd41ca164e71ca061" title="PHParameters::set_string\l_param" alt="" coords="493,209,684,253"/>
-</map>

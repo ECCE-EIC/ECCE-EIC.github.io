@@ -1,5 +1,0 @@
-<map id="PHG4ForwardEcalDetector::PlaceTower" name="PHG4ForwardEcalDetector::PlaceTower">
-<area shape="rect" id="node2" href="$d9/d25/classPHG4GDMLConfig.html#a4993e27fa068c073e2d8d9a17a25143f" title="PHG4GDMLConfig::exclude\l_physical_vol" alt="" coords="263,5,465,49"/>
-<area shape="rect" id="node3" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="253,73,475,101"/>
-<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="269,125,459,153"/>
-</map>

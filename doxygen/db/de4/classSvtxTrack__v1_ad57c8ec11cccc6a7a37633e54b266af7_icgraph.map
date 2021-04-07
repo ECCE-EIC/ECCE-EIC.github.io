@@ -1,7 +1,0 @@
-<map id="SvtxTrack_v1::get_dca2d" name="SvtxTrack_v1::get_dca2d">
-<area shape="rect" id="node2" href="$d0/d71/classPHG4TrackFastSimEval.html#a52a746bdc6e84dc7886b5bae0b608e68" title="PHG4TrackFastSimEval\l::fill_track_tree" alt="" coords="250,9,425,53"/>
-<area shape="rect" id="node4" href="$d6/dab/classFastTrackingEval.html#ad48789b2016d4db8b323a1f4767553d7" title="FastTrackingEval::fill_tree" alt="" coords="241,79,433,107"/>
-<area shape="rect" id="node6" href="$db/de4/classSvtxTrack__v1.html#adf646da41b9bae3f630d616f7ede88f0" title="SvtxTrack_v1::operator=" alt="" coords="244,131,431,159"/>
-<area shape="rect" id="node3" href="$d0/d71/classPHG4TrackFastSimEval.html#ab0136bd1d81150679effd3e148c3cfc4" title="PHG4TrackFastSimEval\l::process_event" alt="" coords="491,5,666,49"/>
-<area shape="rect" id="node5" href="$d6/dab/classFastTrackingEval.html#abd960faa580a65cecfe212d902cde7c1" title="FastTrackingEval::process\l_event" alt="" coords="481,73,676,117"/>
-</map>

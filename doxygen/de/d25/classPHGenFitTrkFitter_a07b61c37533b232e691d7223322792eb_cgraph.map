@@ -1,9 +1,0 @@
-<map id="PHGenFitTrkFitter::fill_eval_tree" name="PHGenFitTrkFitter::fill_eval_tree">
-<area shape="rect" id="node2" href="$d7/d8b/classSvtxTrackMap.html#a8c16bb47fdace6d5516d1803ffe54706" title="SvtxTrackMap::begin" alt="" coords="217,5,379,33"/>
-<area shape="rect" id="node3" href="$db/dd7/classSvtxVertexMap.html#a65e7d8369010442e979db996dab6d3f7" title="SvtxVertexMap::begin" alt="" coords="213,57,383,85"/>
-<area shape="rect" id="node4" href="$d7/d8b/classSvtxTrackMap.html#a1c7ae993700819b7d0a8e3f3d74fa99c" title="SvtxTrackMap::end" alt="" coords="223,109,373,137"/>
-<area shape="rect" id="node5" href="$db/dd7/classSvtxVertexMap.html#adfc0da95a91d44a58eb1d48fd10841a6" title="SvtxVertexMap::end" alt="" coords="219,161,377,189"/>
-<area shape="rect" id="node6" href="$da/d6c/classPHG4TruthInfoContainer.html#a2817b4438bb80cacb28f457975342cf2" title="PHG4TruthInfoContainer\l::GetPrimaryParticleRange" alt="" coords="199,213,397,257"/>
-<area shape="rect" id="node7" href="$da/d6c/classPHG4TruthInfoContainer.html#a53587ae22361008bcee4c51cc1d8d242" title="PHG4TruthInfoContainer\l::GetPrimaryVtxRange" alt="" coords="205,281,391,325"/>
-<area shape="rect" id="node8" href="$de/d25/classPHGenFitTrkFitter.html#a74357ff161e5e24fc4f1beca5e785586" title="PHGenFitTrkFitter::\lreset_eval_variables" alt="" coords="219,349,377,393"/>
-</map>

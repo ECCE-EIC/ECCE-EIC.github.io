@@ -1,5 +1,0 @@
-<map id="PHPatternReco::find_track_candidates_z_init" name="PHPatternReco::find_track_candidates_z_init">
-<area shape="rect" id="node2" href="$d3/d0a/classHelixHoughSpace.html#a3df7b58b924a578806f905e4c82576cb" title="HelixHoughSpace::get_bin" alt="" coords="240,5,440,33"/>
-<area shape="rect" id="node3" href="$d3/d0a/classHelixHoughSpace.html#a23043bffadab63037d568c7dde828f23" title="HelixHoughSpace::get\l_n_dzdl_bins" alt="" coords="253,57,427,101"/>
-<area shape="rect" id="node4" href="$d3/d0a/classHelixHoughSpace.html#a165f877513788cf7f2346f2d4459bdff" title="HelixHoughSpace::get\l_n_z0_bins" alt="" coords="253,125,427,169"/>
-</map>

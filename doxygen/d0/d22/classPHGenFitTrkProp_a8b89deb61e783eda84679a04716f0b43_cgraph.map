@@ -1,8 +1,0 @@
-<map id="PHGenFitTrkProp::check_track_exists" name="PHGenFitTrkProp::check_track_exists">
-<area shape="rect" id="node2" href="$d0/d2c/classTrkrClusterContainer.html#a2b2eea90672ac17f6439c932d2a144ad" title="TrkrClusterContainer\l::findCluster" alt="" coords="243,5,405,49"/>
-<area shape="rect" id="node3" href="$d6/d3f/namespaceTrkrDefs.html#ad4a7fd368bbf1d5d97ff4fd3e81a6100" title="Get the layer number from either key type." alt="" coords="250,73,398,101"/>
-<area shape="rect" id="node4" href="$d2/db7/classAssocInfoContainer.html#ae38c726864e2f49a416a226c629e29d2" title="AssocInfoContainer\l::GetTracksFromCluster" alt="" coords="235,125,413,169"/>
-<area shape="rect" id="node5" href="$d6/dfa/classTrkrCluster.html#a7be7cdba7b854678e0519288b8021b2a" title="TrkrCluster::getX" alt="" coords="256,193,392,221"/>
-<area shape="rect" id="node6" href="$d6/dfa/classTrkrCluster.html#a526ac89c45b903df8890bd8b4d476e5c" title="TrkrCluster::getY" alt="" coords="257,245,391,273"/>
-<area shape="rect" id="node7" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="236,297,412,325"/>
-</map>

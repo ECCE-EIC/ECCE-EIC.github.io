@@ -1,7 +1,0 @@
-<map id="PHG4DetectorGroupSubsystem::UpdateParametersWithMacro" name="PHG4DetectorGroupSubsystem::UpdateParametersWithMacro">
-<area shape="rect" id="node2" href="$d7/d6b/classPHParametersContainer.html#aba1667ddd2cd8f22d694fd530650407e" title="PHParametersContainer\l::GetParametersToModify" alt="" coords="308,5,499,49"/>
-<area shape="rect" id="node3" href="$d7/d7f/classPHG4DetectorGroupSubsystem.html#a33ab01b8ee11ec1550290c18085c9ff2" title="PHG4DetectorGroupSubsystem\l::GetParamsContainer" alt="" coords="287,73,520,117"/>
-<area shape="rect" id="node4" href="$dd/dae/classPHParameters.html#a75005aa44390e1eb574603b0b230152b" title="PHParameters::set_double\l_param" alt="" coords="304,141,503,185"/>
-<area shape="rect" id="node5" href="$dd/dae/classPHParameters.html#a62881b44dd0564425633070316af66ec" title="PHParameters::set_int\l_param" alt="" coords="318,209,489,253"/>
-<area shape="rect" id="node6" href="$dd/dae/classPHParameters.html#a2ebd6e499647b20dd41ca164e71ca061" title="PHParameters::set_string\l_param" alt="" coords="308,277,499,321"/>
-</map>

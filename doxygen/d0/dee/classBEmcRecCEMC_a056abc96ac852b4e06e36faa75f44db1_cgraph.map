@@ -1,8 +1,0 @@
-<map id="BEmcRecCEMC::CorrectPosition" name="BEmcRecCEMC::CorrectPosition">
-<area shape="rect" id="node2" href="$d9/d04/classEmcCluster.html#aa7a15cfe3a8d3216d001e205e1001151" title="EmcCluster::ABS" alt="" coords="337,5,471,33"/>
-<area shape="rect" id="node3" href="$df/d23/classBEmcRec.html#ae0e3e044dd143723d150b6622dfa534f" title="BEmcRec::GetModSizex" alt="" coords="313,57,495,85"/>
-<area shape="rect" id="node4" href="$d9/d04/classEmcCluster.html#ae3825e6596e83cb4b5272da3981bb121" title="EmcCluster::lowint" alt="" coords="330,109,478,137"/>
-<area shape="rect" id="node5" href="$da/d23/msg__buffer_8cc.html#a98631211a4a8aee62f572375d5b637be" title="printf" alt="" coords="375,161,433,189"/>
-<area shape="rect" id="node6" href="$df/d23/classBEmcRec.html#a2de16928c06b4597e7b4762be7d99f20" title="BEmcRec::SetProfileParameters" alt="" coords="287,213,521,241"/>
-<area shape="rect" id="node7" href="$da/d0a/CylinderKalman_8cpp.html#ab74daa0c9784c63e060bfb98cc06fbf5" title="sign" alt="" coords="569,213,619,241"/>
-</map>

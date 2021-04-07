@@ -1,5 +1,0 @@
-<map id="DumpPHG4InEvent::process_Node" name="DumpPHG4InEvent::process_Node">
-<area shape="rect" id="node2" href="$d1/d3e/classPHDataNode.html#a1f3b856fd3ce165047be8aa97f4ab9f3" title="PHDataNode::getData" alt="" coords="322,5,491,33"/>
-<area shape="rect" id="node3" href="$db/d62/classPHG4InEvent.html#a64ce473f416b917858b446396f7522af" title="PHG4InEvent::GetParticles" alt="" coords="307,57,507,85"/>
-<area shape="rect" id="node4" href="$db/d62/classPHG4InEvent.html#a459357d91b697f1a08abee3fc0b0dcce" title="PHG4InEvent::GetVertices" alt="" coords="308,109,505,137"/>
-</map>

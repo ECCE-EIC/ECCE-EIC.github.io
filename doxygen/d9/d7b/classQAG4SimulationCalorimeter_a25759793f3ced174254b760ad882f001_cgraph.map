@@ -1,7 +1,0 @@
-<map id="QAG4SimulationCalorimeter::InitRun" name="QAG4SimulationCalorimeter::InitRun">
-<area shape="rect" id="node2" href="$d5/d07/classPHNodeIterator.html#aea98bf8619af59b1212a94fb32106baa" title="PHNodeIterator::findFirst" alt="" coords="277,31,465,59"/>
-<area shape="rect" id="node5" href="$d9/d7b/classQAG4SimulationCalorimeter.html#ae333b348f50b459862e9d8a7f2d8741c" title="QAG4SimulationCalorimeter\l::flag" alt="" coords="265,83,477,127"/>
-<area shape="rect" id="node6" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="283,151,459,179"/>
-<area shape="rect" id="node3" href="$dc/d82/classPHNode.html#aca3576f926a4401eddc3d88bf0ce0de3" title="PHNode::getName" alt="" coords="525,5,671,33"/>
-<area shape="rect" id="node4" href="$dc/d82/classPHNode.html#a4ab1f90aed955a652813bfe377087bda" title="PHNode::getType" alt="" coords="529,57,667,85"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="PHG4GDMLDetector::ConstructMe" name="PHG4GDMLDetector::ConstructMe">
-<area shape="rect" id="node2" href="$d3/de7/classPHG4Detector.html#a5f7650922e846c686ed03252a4735653" title="PHG4Detector::GetMySubsystem" alt="" coords="304,5,548,33"/>
-<area shape="rect" id="node3" href="$d3/de7/classPHG4Detector.html#a2d071f49fa045db5ade51bb99f88218f" title="PHG4Detector::GetName" alt="" coords="596,109,785,137"/>
-<area shape="rect" id="node4" href="$d3/de7/classPHG4Detector.html#a0be0f337e0bb4ef7d0754552ee7ba251" title="PHG4Detector::OverlapCheck" alt="" coords="315,109,537,137"/>
-<area shape="rect" id="node5" href="$df/d0d/classPHG4GDMLDetector.html#a4478cf49b6e8e93a27cdad7873add356" title="PHG4GDMLDetector::Print" alt="" coords="327,161,525,189"/>
-<area shape="rect" id="node6" href="$df/d0d/classPHG4GDMLDetector.html#ad05f8adeb5a5d7ef3a503e4fba54b0b2" title="PHG4GDMLDetector::SetDisplay\lProperty" alt="" coords="307,213,545,257"/>
-<area shape="rect" id="node7" href="$db/df7/classPHG4Subsystem.html#a9fe882e6e1b1adb71ea3eff5e5eab5fe" title="PHG4Subsystem::SetLogical\lVolume" alt="" coords="321,281,531,325"/>
-<area shape="rect" id="node8" href="$d3/de7/classPHG4Detector.html#af5eefc46de6e61b788946ca0d0a7427c" title="PHG4Detector::Verbosity" alt="" coords="331,349,521,377"/>
-</map>

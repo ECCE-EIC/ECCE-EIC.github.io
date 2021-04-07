@@ -1,9 +1,0 @@
-<map id="PHObject::identify" name="PHObject::identify">
-<area shape="rect" id="node2" href="$dd/dd1/classPHGenIntegralv1.html#a1da3fb07a02dcb85903687df8a879efd" title="PHGenIntegralv1::CopyFrom" alt="" coords="199,5,411,33"/>
-<area shape="rect" id="node3" href="$d9/d3a/classPHPythia8.html#ac4318ac935ae3bb3fdbbafadaaeadab6" title="PHPythia8::create_node_tree" alt="" coords="197,57,413,85"/>
-<area shape="rect" id="node5" href="$d9/d3a/classPHPythia8.html#a644fd629b9e90bdfd82622a2047a88d0" title="Called at the end of all processing." alt="" coords="243,109,367,137"/>
-<area shape="rect" id="node6" href="$d0/d55/classHFFastSim.html#a848419ef0d901fa418931d1cb0970977" title="Called at the end of all processing." alt="" coords="242,161,369,189"/>
-<area shape="rect" id="node7" href="$dd/dd1/classPHGenIntegralv1.html#a01c26ea7a843403554dcbe6471df49d9" title="For integral objects, e.g. integrated luminosity counter, integrate with another object from another ..." alt="" coords="202,213,409,241"/>
-<area shape="rect" id="node8" href="$da/d29/classFun4AllServer.html#a9f3d1244af909e1f05789a68fc0d4704" title="Fun4AllServer::NodeIdentify" alt="" coords="200,265,411,293"/>
-<area shape="rect" id="node4" href="$d9/d3a/classPHPythia8.html#af381f96f7115a7f8011d31572c46fcfc" title="PHPythia8::Init" alt="" coords="461,57,583,85"/>
-</map>

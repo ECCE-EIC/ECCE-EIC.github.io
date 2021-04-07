@@ -1,8 +1,0 @@
-<map id="PHG4Reco::process_event" name="PHG4Reco::process_event">
-<area shape="rect" id="node2" href="$db/d62/classPHG4InEvent.html#a47af3dda48d75749874e989dbd730b28" title="PHG4InEvent::identify" alt="" coords="277,5,448,33"/>
-<area shape="rect" id="node3" href="$d5/dec/classFun4AllBase.html#a41f9ac377743d046f590617fd6f4f0ed" title="Returns the name of this module." alt="" coords="286,57,439,85"/>
-<area shape="rect" id="node4" href="$db/df7/classPHG4Subsystem.html#acacce8f5681a3874dbb4a7c2a475d8ed" title="event processing" alt="" coords="265,109,460,153"/>
-<area shape="rect" id="node5" href="$d0/d32/classSubsysReco.html#a0fa6eedc5f703be3bb0535851363b9f2" title="SubsysReco::process\l_event" alt="" coords="281,177,444,221"/>
-<area shape="rect" id="node6" href="$d7/d54/classPHG4PrimaryGeneratorAction.html#a2a492cf7d02ced4d1bde829efc4bd668" title="set top node (from where particle list is retrieved for passing to geant" alt="" coords="252,245,473,289"/>
-<area shape="rect" id="node7" href="$d5/dec/classFun4AllBase.html#a8a5c77a92bdac6bc043476e132379a40" title="Gets the verbosity of this module." alt="" coords="275,313,451,341"/>
-</map>
