@@ -13,8 +13,9 @@ Welcome to [ECCE](https://www.ecce-eic.org/)! Here is a check list to get you st
 
 ## Sign up
 
-* Software help and discussion chat via BNL MatterMost
-  - https://chat.sdcc.bnl.gov/eic/channels/fun4all-ecce 
+* Software help and discussion chat via BNL [MatterMost](https://mattermost.com/download/) chat
+  - The mattermost Fun4All-ECCE channel: [https://chat.sdcc.bnl.gov/eic/channels/fun4all-ecce](https://chat.sdcc.bnl.gov/eic/channels/fun4all-ecce)
+  - There are many other Fun4All topical channels under the EIC team too. 
   - If you do not have BNL account, please email Jin Huang <jhuang@bnl.gov> to get a direct inviation
 
 * [ECCE email lists](https://www.ecce-eic.org/contact), for example
