@@ -1,28 +1,26 @@
 ---
-title: "Welcome to Fun4All-EIC Software Documentation"
+title: "Welcome to ECCE@EIC Software Documentation"
 keywords: homepage
 tags: [getting_started, home]
 permalink: index.html
-summary: Landing page for Fun4All-EIC software documentation
+summary: Landing page for ECCE@EIC software documentation
 ---
 
 
 # Welcome
 
-This is the software documentation for `Fun4All-EIC` simulation and reconstruction software framework. 
+This is the software documentation for [EIC Comprehensive Chromodynamics Experiment (ECCE)](https://www.ecce-eic.org/) [simulation and reconstruction software framework](https://github.com/ECCE-EIC). 
 
 [![Build Status](https://web.racf.bnl.gov/jenkins-sphenix/buildStatus/icon?job=sPHENIX/sPHENIX_CoreSoftware_MasterBranch)](https://web.racf.bnl.gov/jenkins-sphenix/job/sPHENIX/job/sPHENIX_CoreSoftware_MasterBranch/)
-[![Doxygen](https://img.shields.io/badge/code%20reference-Doxygen-green.svg)](https://www.phenix.bnl.gov/WWW/sPHENIX/doxygen/html/)
+[![Doxygen](https://img.shields.io/badge/code%20reference-Doxygen-green.svg)](https://ecce-eic.github.io/doxygen)
 
-[![Open Issues](https://img.shields.io/github/issues/sPHENIX-Collaboration/coresoftware.svg)](https://github.com/sPHENIX-Collaboration/coresoftware/issues)
-[![Open Pull Request](https://img.shields.io/github/issues-pr/sPHENIX-Collaboration/coresoftware.svg)](https://github.com/sPHENIX-Collaboration/coresoftware/pulls)
-[![Monthly Commits](https://img.shields.io/github/commit-activity/m/sPHENIX-Collaboration/coresoftware.svg)](https://github.com/sPHENIX-Collaboration/coresoftware/commits/master)
-[![Last Commit](https://img.shields.io/github/last-commit/sPHENIX-Collaboration/coresoftware.svg)](https://github.com/sPHENIX-Collaboration/coresoftware/commits/master)
-[![Download size](https://img.shields.io/github/languages/code-size/sPHENIX-Collaboration/coresoftware.svg)](https://github.com/sPHENIX-Collaboration/coresoftware/archive/master.zip)
+This software runs on all types of accounts for [BNL SDCC/RCAF comtputing center](https://www.racf.bnl.gov/). 
+For off-BNL scientific computing and mobile users, [a container are prepared](https://github.com/ECCE-EIC/Singularity) to ensure binary consistent result. 
+With distribution over the OpenScienceGrid CVMFS, this containerized software is supported to run in major scientific computing centers such as CERN, [JLab iFarm clusters (see example)](/tutorials_example2_JLab.html), and OpenScienceGrid clusters. 
 
 # Get started
 
-This software runs on all types of accounts for [BNL SDCC/RCAF comtputing center](https://www.racf.bnl.gov/). For offsite and mobile computing, [a container and CVMFS release are prepared](https://github.com/EIC-Detector/Singularity) to ensure binary consistent result. An example use is at [JLab iFarm clusters](/tutorials_example2_JLab.html).
+Please checkout [the day-1 checklist](/tutorials_day1.html).
 
 # [Tutorial](/tutorials_landing_page.html)
 
