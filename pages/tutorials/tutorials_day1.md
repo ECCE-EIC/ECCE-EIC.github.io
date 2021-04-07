@@ -16,7 +16,7 @@ Welcome to [ECCE](https://www.ecce-eic.org/)! Here is a check list to get you st
 * Software help and discussion chat via BNL [MatterMost](https://mattermost.com/download/) chat
   - The mattermost Fun4All-ECCE channel: [https://chat.sdcc.bnl.gov/eic/channels/fun4all-ecce](https://chat.sdcc.bnl.gov/eic/channels/fun4all-ecce)
   - There are many other Fun4All topical channels under the EIC team too. 
-  - If you do not have BNL account, please email Jin Huang <jhuang@bnl.gov> to get a direct inviation
+  - If you do not have a BNL account, please email Jin Huang jhuang@bnl.gov to get a direct invitation
 
 * [ECCE email lists](https://www.ecce-eic.org/contact), for example
   - [ECCE public email list](https://lists.bnl.gov/mailman/listinfo/ecce-eic-public-l)
@@ -25,7 +25,7 @@ Welcome to [ECCE](https://www.ecce-eic.org/)! Here is a check list to get you st
 
 ## Using ECCE software builds
 
-ECCE software are build daily and distributed over OpenScienceGrid via [ECCE container](https://github.com/ECCE-EIC/Singularity). Using the containerized software builds ensure reprodcucibility and a binary consistency for studies. 
+ECCE software are build daily and distributed over OpenScienceGrid via [ECCE container](https://github.com/ECCE-EIC/Singularity). Using the containerized software builds ensure reproducibility and a binary consistency for studies. 
 
 ### Load software container
 
@@ -49,7 +49,7 @@ There are also weekly archival build of the ECCE software, which are for reprodu
 source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_setup.sh -n ana.2  # setup environment of ana.2 build on Apr 4 2021
 ```
 
-## Get started wtih ECCE software
+## Get started with ECCE software
 
 Follow a recent tutorial on simulation.
 * 10-min tutorials for [the default macro](https://github.com/ECCE-EIC/macros) 
