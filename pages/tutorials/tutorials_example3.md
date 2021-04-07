@@ -13,9 +13,9 @@ Go to your tutorial root directory
 ## shell commands
 
 ```
-source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/fun4all/core/bin/eic_setup.sh -n
-source /cvmfs/eic.opensciencegrid.org/x8664_sl7/opt/fun4all/core/bin/setup_local.sh $HOME/myinstall
-git clone https://github.com/eic/fun4all_macros
+source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_setup.sh -n
+source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/setup_local.sh $HOME/myinstall
+git clone https://github.com/ECCE-EIC/macros
 cd macros/detectors/EICDetector
 root.exe
 ```
