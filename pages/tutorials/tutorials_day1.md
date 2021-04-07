@@ -22,24 +22,31 @@ Welcome to [ECCE](https://www.ecce-eic.org/)! Here is a check list to get you st
   - [Detector Team discussions and announcements](https://lists.bnl.gov/mailman/listinfo/ecce-eic-det-l)
   - [Physics Benchmark Team discussions and announcements](https://lists.bnl.gov/mailman/listinfo/ecce-eic-phys-l)
 
-# Using software builds
+# Using ECCE software builds
 
 ECCE software are build daily and distributed over OpenScienceGrid via [ECCE container](https://github.com/ECCE-EIC/Singularity). Using the containerized software builds ensure reprodcucibility and a binary consistency for studies. 
 
-## Load the container
+## Load software container
 
 Get started wtih using the software builds. That includes three options: 
- - If you have a BNL SDCC account (for any experiment), you can directly use the ECCE software
+ - If you use BNL RCF (for any experiment account), please jump this step as you can directly use the ECCE software
  - If you have access to a scientific computing center that supports OpenScienceGrid CVMFS, such as at Jlab or CERN, please directly load the ECCE container distributed over  OpenScienceGrid CVMFS: example at [JLab](/tutorials_example2_JLab.html) 
  - If you plan to use on local computers, please check out options of [using ECCE container](https://github.com/ECCE-EIC/Singularity). For linux computers, we suggest [Optiopn-1](https://github.com/ECCE-EIC/Singularity#option-1-mount-eic-cvmfs); and for MAC or PC we suggest using [a linux VM](https://github.com/ECCE-EIC/Singularity/blob/master/VirtualBox.md).
  
 ## Source the environment
 
+This source command setup the environmental variables that enable the use of the lastest build of the ECCE software
+```
+source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_setup.sh -n   # setup environment of newest build
+```
+*Note, for csh users, please use `/cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_setup.csh` instead*
 
+The ECCE software are pulled from GitHub daily, built and distributed over CVMFS. They are located at `$OFFLINE_MAIN`, which becomes available after the above source. 
 
-## Git setup
-
-
+There are also weekly archival build of the ECCE software, which are for reproducing past studies, e.g. ana.<number> . To use them we can source with 
+```
+source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_setup.sh -n ana.2  # setup environment of ana.2 build on Apr 4 2021
+```
 
 # Get started wtih ECCE software
 
@@ -51,9 +58,7 @@ Follow a recent tutorial on simulation.
 
 # I still have questions, what shall I do?
 
-You are all set to start using ECCE software! 
-
-If you have question, please feel free to send your question or suggestions here:
+You are all set to start using ECCE software! If you have question, please feel free to send your question or suggestions here:
 * Search for any software pieces on ECCE software via the [doxygen reference site](https://ecce-eic.github.io/doxygen/)
 * Ask question on [ECCE software MatterMost chat](https://chat.sdcc.bnl.gov/eic/channels/fun4all-eccep)
 * Directly emailing the simulation ([Jin Huang](mailto:jhuang@bnl.gov) and [Cameron Dean](mailto:jhuang@bnl.gov)) and [computing](https://www.ecce-eic.org/members) teams
