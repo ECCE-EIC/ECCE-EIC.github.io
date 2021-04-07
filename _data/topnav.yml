@@ -3,8 +3,10 @@
 topnav:
 - title: Topnav
   items:
+    - title: ECCE
+      external_url: https://www.ecce-eic.org/
     - title: GitHub
-      external_url: https://github.com/EIC-Detector/
+      external_url: https://github.com/ECCE-EIC/
     - title: Tutorials
       url: /tutorials_landing_page.html
 
@@ -17,6 +19,6 @@ topnav_dropdowns:
         - title: Doxygen code reference
           url: /doxygen
         - title: Containers
-          external_url: https://github.com/EIC-Detector/Singularity
+          external_url: https://github.com/ECCE-EIC/Singularity
         - title: Tutorials
           url: /tutorials_landing_page.html

@@ -14,6 +14,10 @@ entries:
     - title: Landing Page
       url: /tutorials_landing_page.html
       output: web, pdf
+    
+    - title: Day-1 Checklist
+      url: /tutorials_day1.html
+      output: web, pdf
       
     - title: Tutorial Pages
       url: /tag_tutorial.html
@@ -70,7 +74,7 @@ entries:
     folderitems:
     
     - title: Container
-      external_url: https://github.com/EIC-Detector/Singularity
+      external_url: https://github.com/ECCE-EIC/Singularity
       output: web
       type: frontmatter
       
