@@ -17,16 +17,21 @@ source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_set
 source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/setup_local.sh $HOME/myinstall
 git clone https://github.com/ECCE-EIC/macros
 cd macros/detectors/EICDetector
-root.exe
 ```
+
+## Enable event display
+
+Please edit Fun4All_G4_EICDetector.C to change flag [Enable::DISPLAY = true](https://github.com/ECCE-EIC/macros/blob/bbc89b3341a0de57ca48a80666b39ec1cd65c12f/detectors/EICDetector/Fun4All_G4_EICDetector.C#L234)
+
 
 ## `root` commands to start the Display
 
 ```cpp
-.x Fun4All_G4_EICDetector.C(-1)
-.L DisplayOn.C
-PHG4Reco *g4 = DisplayOn();
-g4->ApplyCommand("/vis/viewer/panTo 0 100 cm")
+root
+.x Fun4All_G4_EICDetector.C()
+se->run(1)
+g4->ApplyCommand("/vis/viewer/refresh");
+displaycmd() # this one show more Geant4 command we can run from the ROOT prompt
 ```
 
 {% include links.html %}
