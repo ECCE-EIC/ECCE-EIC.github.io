@@ -32,7 +32,10 @@ ECCE software are build daily and distributed over OpenScienceGrid via [ECCE con
 Get started wtih using the software builds. That includes three options: 
  - If you use BNL RCF (for any experiment account), please jump this step as you can directly use the ECCE software
  - If you have access to a scientific computing center that supports OpenScienceGrid CVMFS, such as at Jlab or CERN, please directly load the ECCE container distributed over  OpenScienceGrid CVMFS: example at [JLab](/tutorials_example2_JLab.html) 
- - If you plan to use on local computers, please check out options of [using ECCE container](https://github.com/ECCE-EIC/Singularity). For linux computers, we suggest [Optiopn-1](https://github.com/ECCE-EIC/Singularity#option-1-mount-eic-cvmfs); and for MAC or PC we suggest using [a linux VM](https://github.com/ECCE-EIC/Singularity/blob/master/VirtualBox.md).
+ - If you plan to use on local computers, please check out options of [using ECCE container](https://github.com/ECCE-EIC/Singularity). 
+   - For linux workstations and clusters, we suggest [Optiopn-1](https://github.com/ECCE-EIC/Singularity#option-1-mount-eic-cvmfs)
+   - For MAC or PC, we suggest using [a linux VM](https://github.com/ECCE-EIC/Singularity/blob/master/VirtualBox.md)
+   - For mobile device that may experience internet interuptions, we suggest [Option-2](https://github.com/ECCE-EIC/Singularity#option-2-download-the-eic-fun4all-build-via-https-archive)
  
 ### Source the environment
 
