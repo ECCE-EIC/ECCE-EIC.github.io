@@ -52,6 +52,14 @@ There are also weekly archival build of the ECCE software, which are for reprodu
 source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_setup.sh -n ana.2  # setup environment of ana.2 build on Apr 4 2021
 ```
 
+You may also take advantage of the local setup script that sets up your environment with an install directory, if you will be developing analysis packages locally. To do this, create an install directory and source the `setup_local` script with it:
+```
+cd $HOME
+mkdir ecceInstall
+export MYINSTALL=$HOME/ecceInstall
+source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/setup_local.sh $MYINSTALL
+```
+
 ## Get started with ECCE software
 
 Follow a recent tutorial on simulation.
