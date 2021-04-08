@@ -1,8 +1,8 @@
 ---
-title: Example 3
+title: Example Full Detector
 keywords: [tutorial, example]
 tags: [tutorial]
-summary: "Adding Detectors to Existing Setups"
+summary: "Running a example full detector simulation macro"
 sidebar: tutorial_sidebar
 permalink: tutorials_example3.html
 folder: tutorials
