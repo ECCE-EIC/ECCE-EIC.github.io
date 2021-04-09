@@ -20,7 +20,7 @@ With distribution over the OpenScienceGrid CVMFS, this containerized software is
 
 # Get started
 
-Please checkout [the day-1 checklist](/tutorials_day1.html).
+Please checkout [the day-1 checklist](/tutorials_day1.html) and our [Mar-2021 simulation workshop](https://indico.bnl.gov/event/11112/)
 
 # [Tutorial](/tutorials_landing_page.html)
 
