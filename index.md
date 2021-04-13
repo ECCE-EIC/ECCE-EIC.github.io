@@ -20,7 +20,7 @@ With distribution over the OpenScienceGrid CVMFS, this containerized software is
 
 # Get started
 
-Please checkout [the day-1 checklist](/tutorials_day1.html) and our [Mar-2021 simulation workshop](https://indico.bnl.gov/event/11112/)
+Please checkout [the day-1 checklist](/tutorials_day1.html) and our [Mar-2021 simulation workshop](https://indico.bnl.gov/event/11112/). We also have slides with some information on office hours, setting up environments and different ways to interface with the ECCE builds such as from RCF or using virtual machines [located here](https://indico.bnl.gov/event/11268/attachments/33707/54249/ECCE_simulations_quick_guide.pdf).
 
 # [Tutorial](/tutorials_landing_page.html)
 
