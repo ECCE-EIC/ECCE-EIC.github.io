@@ -1,0 +1,44 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: ECCE @ EIC Software Documentation
+  version: 1.0
+  folders:
+  - title: Tutorials
+    output: web
+    type: frontmatter
+    folderitems:
+    
+    - title: Landing page
+      url: /tutorials_landing_page.html
+      output: web
+      type: frontmatter
+
+    - title: Day-1 Checklist
+      url: /tutorials_day1.html
+      output: web
+      type: frontmatter
+
+  - title: Resources
+    output: web
+    type: frontmatter
+    folderitems:
+    
+    - title: Container
+      external_url: https://github.com/ECCE-EIC/Singularity
+      output: web
+      type: frontmatter
+      
+    - title: Doxygen software reference
+      url: /doxygen
+      output: web
+      type: frontmatter
+
+  - title: Tag archives
+    output: web
+    folderitems:
+    
+    - title: Tutorials
+      url: /tag_tutorial.html
+      output: web
