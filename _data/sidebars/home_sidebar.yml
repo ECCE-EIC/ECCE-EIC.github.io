@@ -29,6 +29,11 @@ entries:
       external_url: https://github.com/ECCE-EIC/Singularity
       output: web
       type: frontmatter
+    
+    - title: Default macros
+      external_url:https://github.com/ECCE-EIC/macros
+      output: web
+      type: frontmatter
       
     - title: Doxygen software reference
       url: /doxygen
