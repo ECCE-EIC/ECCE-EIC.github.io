@@ -31,7 +31,7 @@ entries:
       type: frontmatter
     
     - title: Default macros
-      external_url:https://github.com/ECCE-EIC/macros
+      external_url: https://github.com/ECCE-EIC/macros
       output: web
       type: frontmatter
       
