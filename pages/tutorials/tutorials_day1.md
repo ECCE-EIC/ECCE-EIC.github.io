@@ -55,7 +55,7 @@ source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_set
 ## Get started with ECCE software
 
 Follow a recent tutorial on simulation.
-* 10-min tutorials for [the default macro](https://github.com/ECCE-EIC/macros) 
+* 10-min tutorials for [![Default macros](https://img.shields.io/badge/reference-macros-green.svg)](https://github.com/ECCE-EIC/macros) 
 * Check out the [tutorials](/tutorials_landing_page.html).
 * [Mar-2021 ECCE software workshop](https://indico.bnl.gov/event/11112/) - the most recent software workshop with video recording.
 
