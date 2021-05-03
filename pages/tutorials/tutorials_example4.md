@@ -27,7 +27,7 @@ make install
 ```
 cd ../../macro
 root.exe
-.x Fun4All_AnaTutorial_Jets.C\(3\)
+.x Fun4All_AnaTutorial_Jets.C(3)
 ```
 
 The pythia event is a p+p event and is just meant as an example. Take a look at the AnaTutorial source code to learn more about different accessible physics objects.
