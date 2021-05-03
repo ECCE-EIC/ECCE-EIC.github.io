@@ -15,7 +15,7 @@ folder: tutorials
 source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_setup.sh -n
 source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/setup_local.sh $HOME/myinstall
 git clone git@github.com:ECCE-EIC/tutorials
-cd AnaTutorial/src
+cd tutorials/AnaTutorial/src
 mkdir build 
 cd build
 ../autogen.sh --prefix=$HOME/myinstall
@@ -27,10 +27,10 @@ make install
 ```
 cd ../../macro
 root.exe
-.x Fun4All_AnaTutorial_Jets.C(3)
+.x Fun4All_G4_EICDetector_AnaTutorial.C(3)
 ```
 
-The pythia event is a p+p event and is just meant as an example. Take a look at the AnaTutorial source code to learn more about different accessible physics objects.
+The event run is a dummy 5 pion event and is simply intended as an example. Take a look at the AnaTutorial source code to learn more about different accessible physics objects.
 
 
 {% include links.html %}
