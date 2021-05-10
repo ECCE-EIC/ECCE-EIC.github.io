@@ -22,6 +22,10 @@ source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/setup_lo
 cd ../../macros
 root.exe
 ```
+Note: you can use HTTPS to get the example if you don't have an ssh key set up for github but this method will soon be deprecated.
+```
+git clone https://github.com/eic/fun4all_g4exampledetector.git
+```
 
 ## root commands to start the `Geant4 QT` Gui
 
