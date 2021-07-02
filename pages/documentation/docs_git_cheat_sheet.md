@@ -8,6 +8,9 @@ permalink: docs_git_cheat_sheet.html
 folder: tutorials
 ---
 
+## Not sure what to do?
+
+If you're unsure of what to do or unsure of the state of your repository, run `git status`. The first few lines will almost always tell you what you need to do to incorporate some upstream updates, continuing rebasing, etc.
 
 ## Work flow for new code:
 
