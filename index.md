@@ -31,9 +31,10 @@ For tutorials, please start with [the tutorial landing page](/tutorials_landing_
 
 # Documentation
 
-For code reference, please visit [the source code reference via Doxygen](/doxygen/). 
+* For code reference, please visit [the source code reference via Doxygen](/doxygen/). 
+* [Cheatsheet of using `git`](/docs_git_cheat_sheet.html)
 
-Further documentation is under construction. 
+*Further documentation is under construction.*
 
 
 {% include links.html %}
