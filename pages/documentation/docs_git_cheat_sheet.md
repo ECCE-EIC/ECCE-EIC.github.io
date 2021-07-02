@@ -1,6 +1,6 @@
 ---
 title: Repository organization
-keywords: [documentation, example, git, cheatsheet]
+keywords: [documentation,getting_started,git,cheatsheet]
 tags: [documentation]
 summary: "Cheatsheet for git usage"
 sidebar: documentation_sidebar
