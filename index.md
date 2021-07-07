@@ -31,8 +31,12 @@ For tutorials, please start with [the tutorial landing page](/tutorials_landing_
 
 # Documentation
 
-* For code reference, please visit [the source code reference via Doxygen](/doxygen/). 
-* [Cheatsheet of using `git`](/docs_git_cheat_sheet.html)
+* Using ECCE software
+  - [Default simulation and reconstruction macros](https://github.com/ECCE-EIC/macros) 
+  - [Tutorial for building user analysis for analysis module](https://github.com/ECCE-EIC/tutorials/tree/master/AnaTutorialECCE)
+  - For code reference, please visit [the source code reference via Doxygen](/doxygen/). 
+* Useful tricks
+  - [Cheatsheet of using `git`](/docs_git_cheat_sheet.html)
 
 *Further documentation is under construction.*
 
