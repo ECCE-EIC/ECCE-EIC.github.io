@@ -2,7 +2,7 @@
 title: Getting set up
 keywords: [tutorial, example]
 tags: [tutorial]
-summary: "A simple Detector with Hardcoded Geometry"
+summary: "Getting the environment and data"
 sidebar: tutorial_sidebar
 permalink: tutorials_setup.html
 folder: tutorials
