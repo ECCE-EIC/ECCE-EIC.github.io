@@ -44,7 +44,7 @@ You can download VirtualBox from [their website](https://www.virtualbox.org/). I
 1. Navigate to where the Ubuntu image downloaded to or you moved it to (do not worry about space in this folder, you will only be loading the image here, not writing to the virtual hard disk) 
    {% include image.html file="example_setup_import_path.png" %}
 1. Click next and check the settings such as RAM and Base Folder. The image defaults to 8GB of RAM, please ensure this is not 100% of our real RAM, reduce this to 4096MB if needed. 
-   {% include image.html file="example_setup_vb.png" %}
+   {% include image.html file="example_setup_vb_config.png" %}
 1. Click `Import`. The file will begin to port over the image, no OS installation is needed.
 1. When you return to the main VirtualBox screen, click the new image, `Fun4AllSingularityDistribution` by default, then click `Start`
    {% include image.html file="example_setup_start.png" %}
