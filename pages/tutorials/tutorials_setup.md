@@ -39,11 +39,15 @@ There are three methods to getting our environement running; the first uses Virt
 You can download VirtualBox from [their website](https://www.virtualbox.org/). It runs well on Windows, Mac and Linux operating systems. With VirtualBox installed, download our ECCE image from [this link](https://www.phenix.bnl.gov/WWW/publish/phnxbld/ECCE/Singularity/Fun4AllSingularityDistribution.ova). The MD5SUM is `f6dc1258689504d6c928efc3b77a66c2`. The following steps will setup the image on your machine:
 
 1. Start VirtualBox
-1. Clock on `Tools` then `Import`
-1. Navigate to where the Ubuntu image downloaded to or you moved it to (do not worry about space in this folder, you will only be loading the image here, not writing to the virtual hard disk)
+1. Clock on `Tools` then `Import` 
+   {% include image.html file="example_setup_import.png"%}
+1. Navigate to where the Ubuntu image downloaded to or you moved it to (do not worry about space in this folder, you will only be loading the image here, not writing to the virtual hard disk) 
+   {% include image.html file="example_setup_import_path.png"%}
 1. Click next and check the settings such as RAM and Base Folder. The image defaults to 8GB of RAM, please ensure this is not 100% of our real RAM, reduce this to 4096MB if needed. 
+   {% include image.html file="example_setup_vb.png"%}
 1. Click `Import`. The file will begin to port over the image, no OS installation is needed.
 1. When you return to the main VirtualBox screen, click the new image, `Fun4AllSingularityDistribution` by default, then click `Start`
+   {% include image.html file="example_setup_start.png"%}
 
 ## Starting the environment
 
@@ -101,15 +105,15 @@ You now have a file containing information on 5000 ep collisions. Load this file
 root DST_SIDIS_pythia6_ep-10x100_000_0000000_05000_g4event_eval.root
 ```
 list the branches available with
-```
+```cpp
 event_tree->Print()
 ```
 or see what is in the first event with
-```
-event_tree->Show()
+```cpp
+event_tree->Show(0)
 ```
 or visualise the particles in the simualtion with 
-```
+```cpp
 event_tree->Draw("mcpart_PDG")
 ```
 
