@@ -70,7 +70,7 @@ There are many commands available but some, such as creating buckets (folders), 
 
 We typically distribute two types of data:
 1. DSTs which contain the raw information such as hit, clusters, jets and tracks. Custom-built analysis software typically runs on these files.
-2. User-friendly ROOT nTuples. These are the faster data sets to work with, they tend to have branches with truth information, momentum, calorimeter deposits and more.
+1. User-friendly ROOT nTuples. These are the faster data sets to work with, they tend to have branches with truth information, momentum, calorimeter deposits and more.
 
 Files from the June 2021 concept campaign have been place on S3 under `eicS3/eictest/ECCE/MC/prop.2/c131177/`
 
