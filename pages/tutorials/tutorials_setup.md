@@ -106,7 +106,7 @@ event_tree->Print()
 ```
 or see what is in the first event with
 ```
-event_tree->Show()
+event_tree->Show(0)
 ```
 or visualise the particles in the simualtion with 
 ```
