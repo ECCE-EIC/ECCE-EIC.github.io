@@ -32,7 +32,7 @@ Please note that the macros repository is already setup to run our default simul
 git clone https://github.com/ECCE-EIC/macros.git
 export ROOT_INCLUDE_PATH=/path/to/macros/common:$ROOT_INCLUDE_PATH
 ```
-As well as a daily build of the software stack, there are also weekly archived build called ```ana.x``` where ```x``` is updated every week and proposal builds called ```prop.x``` where ```x`` is updated before any new simulation campaign.
+As well as a daily build of the software stack, there are also weekly archived build called `ana.x` where `x` is updated every week and proposal builds called `prop.x` where `x` is updated before any new simulation campaign.
 
 There are three methods to getting our environement running; the first uses VirtualBox to run our pre-build Ubuntu machine and is the recommended method to get started quickly while the latter two involve locally downloading /cvmfs and are detailed [here](https://github.com/ECCE-EIC/Singularity).
 
