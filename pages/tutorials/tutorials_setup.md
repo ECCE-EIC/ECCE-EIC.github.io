@@ -64,7 +64,11 @@ This will start the latest ECCE software stack on `/cvmfs` with associated read-
 
 ## Finding our data
 
-We store our data on S3 at BNL and xRootD at JLab. The read-access key for S3 is created the first time you source the ECCE environment. We also distribute [minIO](https://min.io/) to quickly access and copy this data. This client is aliased to ```mcs3``` and all our data is stored under `eicS3/eictest/ECCE`.
+We store our data on S3 at BNL and xRootD at JLab. Both have global read-only access capability so can be accessed without an account at either BNL or JLab. They both also offer options to copy entire files locally or to open them directly with root from your home computer.
+
+### S3 at BNL
+
+The read-access key for S3 is created the first time you source the ECCE environment. We also distribute [minIO](https://min.io/) to quickly access and copy this data. This client is aliased to ```mcs3``` and all our data is stored under `eicS3/eictest/ECCE`.
 
 Check what features minIO has with
 ```
@@ -99,6 +103,35 @@ We can copy an Event Evaluator file from this production, it is located in eval_
 mcs3 cp eicS3/eictest/ECCE/MC/prop.2/c131177/SIDIS/pythia6/ep-10x100/eval_00001/DST_SIDIS_pythia6_ep-10x100_000_0000000_05000_g4event_eval.root .
 ```
 The syntax will be very familiar to anyone who has used bash where the first argument after `cp` is the file (or folder) to copy and the second is the location to copy to. An entire folder can be copied by setting the intial path directory and using the option `--recursive`. Run `mcs3 cp --help` to see all options.
+
+Most root versions also have the ability to read root files from S3 storage directly. This is done via the `TS3WebFile` class. To use this you need to make sure the read-only access key and secret key are set in your environment. Here is how you can use this to open a file directly from root without downloading it to your local disk:
+
+```
+setenv S3_ACCESS_KEY eicS3read
+setenv S3_SECRET_KEY eicS3read
+root -l
+root[0] auto f = new TS3WebFile("s3://dtn01.sdcc.bnl.gov:9000/eictest/ECCE/MC/prop.2/c131177/SIDIS/pythia6/ep-10x100/eval_00001/DST_SIDIS_pythia6_ep-10x100_000_0000000_05000_g4event_eval.root");
+```
+
+### xrootd at JLab
+
+The xrootd library allows you to access an xrootd server from any program. This is done on Linux systems by setting the LD_PRELOAD environment variable to point to the library:
+```
+export LD_PRELOAD=/usr/lib64/libXrdPosixPreload.so
+ls root://sci-xrootd.jlab.org//osgpool/eic/ECCE/MC/prop.2/c131177/Electroweak/Djangoh/ep-10x100nc-q2-10
+```
+Or, if you don't have xrootd installed at the system level, you can try using the one that may be installed with your root:
+```
+export LD_PRELOAD=$ROOTSYS/lib/libXrdPosixPreload.so
+ls root://sci-xrootd.jlab.org//osgpool/eic/ECCE/MC/prop.2/c131177/Electroweak/Djangoh/ep-10x100nc-q2-10
+```
+This allows you to use that standard commands like 'ls' and 'cp' to browse directories and copy files to your local directory. You may also open a file directly from root without downloading it using something like this:
+```
+root -l root://sci-xrootd.jlab.org//osgpool/eic/ECCE/MC/prop.2/c131177/Electroweak/Djangoh/ep-10x100nc-q2-10/eval_00000/DST_Electroweak_Djangoh_ep-10x100nc-q2-10_000_0663000_01000_g4fhcal_eval.root
+```
+
+
+### root file structure
 
 You now have a file containing information on 5000 ep collisions. Load this file into root with
 ```
