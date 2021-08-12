@@ -8,14 +8,13 @@ permalink: tutorials_EventEvaluatorAfterburner.html
 folder: tutorials
 ---
 
+## Write your tutorial 
 
-## Write your tutorial in markdown
+Use markdown
 
 ```
 cd someDirectory
 ```
-
-#### Run the event evaluator afterburner
 
 
 
