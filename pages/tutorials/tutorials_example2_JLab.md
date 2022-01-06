@@ -23,8 +23,8 @@ ssh login.jlab.org
 ssh ifarm1802
 
 # ifarm1802.jlab.org> 
-module load /apps/modulefiles/singularity/3.4.0
-singularity shell -B /cvmfs:/cvmfs /cvmfs/eic.opensciencegrid.org/singularity/rhic_sl7_ext
+module load /apps/modulefiles/singularity/3.9.2
+singularity shell -B /cvmfs:/cvmfs --no-home /cvmfs/eic.opensciencegrid.org/singularity/rhic_sl7_ext
 export LANG=C
 source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_setup.sh -n
 ```
