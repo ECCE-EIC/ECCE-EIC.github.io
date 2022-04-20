@@ -35,6 +35,7 @@ For tutorials, please start with [the tutorial landing page](/tutorials_landing_
   - [Default simulation and reconstruction macros](https://github.com/ECCE-EIC/macros) 
   - [Tutorial for building user analysis for analysis module](https://github.com/ECCE-EIC/tutorials/tree/master/AnaTutorialECCE)
   - For code reference, please visit [the source code reference via Doxygen](/doxygen/). 
+* ECCE plotting style with example in [ROOT c++ macro](https://nbviewer.org/github/ECCE-EIC/tutorials/blob/be78665/ECCEStyle/ECCEStyle.ipynb) and [Python `numpy` array](https://nbviewer.org/github/ECCE-EIC/tutorials/blob/be78665/ECCEStyle/ECCEStyle-Python.ipynb)
 * Useful tricks
   - [Cheatsheet of using `git`](/docs_git_cheat_sheet.html)
 
