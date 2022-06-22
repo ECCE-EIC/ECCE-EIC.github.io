@@ -26,6 +26,7 @@ ssh ifarm1802
 module load /apps/modulefiles/singularity/3.9.2
 singularity shell -B /cvmfs:/cvmfs --no-home /cvmfs/eic.opensciencegrid.org/singularity/rhic_sl7_ext
 export LANG=C
+export HOME=/home/home/<your_user_name_at_ifarm>
 source /cvmfs/eic.opensciencegrid.org/ecce/gcc-8.3/opt/fun4all/core/bin/ecce_setup.sh -n
 ```
 
